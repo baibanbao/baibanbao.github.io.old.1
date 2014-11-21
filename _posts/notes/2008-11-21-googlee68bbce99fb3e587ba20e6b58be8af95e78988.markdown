@@ -1,0 +1,26 @@
+---
+author: admin
+comments: true
+date: 2008-11-21 18:44:20+00:00
+layout: note
+slug: google%e6%8b%bc%e9%9f%b3%e5%87%ba20%e6%b5%8b%e8%af%95%e7%89%88
+title: GOOGLE拼音出2.0测试版
+wordpress_id: 1774
+categories:
+- 学点技术
+tags:
+- GOOGLE，谷歌，拼音，输入法，电脑
+---
+
+晚上干了一件很愚蠢的事，试图在DELL台式机上装上MAC OS系统，使之变成山寨版的苹果机。结果是不但苹果没成功，连XP也死翘翘了。最终只能重装。  
+  
+重装完系统，安装谷歌拼音发现，它已经推出了2.0测试版。里面有很多新功能。我一向认为，对于电脑来说最重要的就是输入法。自从在我的EEE PC上装了UBUNTU和SCIM智能拼音，我出门再也不带别的电脑。  
+  
+谷歌拼音2.0版一个最突出的功能就是支持整句输入，同时，据说它会分析用户的遣词造句习惯，自动从网络上下载相应的语言模板。我试用的感觉是速度超快，几乎能跟上思维的速度。  
+  
+今天GOOGLE还改进了GMAIL的界面，提供了好多主题可以变换。GOOGLE真是一家神奇的公司，我要把所有的赞美都送给它。  
+  
+让百度破产吧，[下载Google谷歌拼音输入法（测试版）](http://www.google.com/ime/pinyin/beta/index.html)  
+
+
+<blockquote></blockquote>

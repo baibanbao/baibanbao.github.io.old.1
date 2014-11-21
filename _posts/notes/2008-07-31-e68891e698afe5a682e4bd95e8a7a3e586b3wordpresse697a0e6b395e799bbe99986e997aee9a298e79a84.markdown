@@ -1,0 +1,144 @@
+---
+author: admin
+comments: true
+date: 2008-07-31 16:26:11+00:00
+layout: note
+slug: '%e6%88%91%e6%98%af%e5%a6%82%e4%bd%95%e8%a7%a3%e5%86%b3wordpress%e6%97%a0%e6%b3%95%e7%99%bb%e9%99%86%e9%97%ae%e9%a2%98%e7%9a%84'
+title: 我是如何解决Wordpress无法登陆问题的
+wordpress_id: 1655
+categories:
+- 不好归类
+tags:
+- warning
+- wordpress
+- 不好归类
+- 升级
+- 无法登陆
+---
+
+前后花费了三个晚上，我终于解决了Wordpress升级后，用户名、密码都正确，却无法登陆的问题。为了让后来者不吃二遍苦，不受二茬罪，我把解决的详细过程与思路，记录如下。
+
+**一、问题描述**
+
+这一问题，有几种描述方式，为了让搜索引擎能够找到这篇文章，我把各种常用的叫法汇集如下：
+
+1、有以症状命名的，例如：wordpress无法登陆，密码正确、登录不了，锁到wordpress之外，可以访问、无法登录；
+
+2、有以成因命名的，例如：wordpress升级出错，wordpress2.6升级无法登陆……
+
+3、有以出错语句命名的，这种方式最多：
+
+1) Warning: Invalid argument supplied for foreach() ……
+2）capabilities.php on line 31
+3）Warning: Cannot modify header information - headers already sent by (output started at……
+
+4、一篇法国人写的著名的解决方案，是这样命名的：[Invalid argument supplied for foreach() in wp-capabilities.php: Case Cracked!](http://climbtothestars.org/archives/2007/01/29/invalid-argument-supplied-for-foreach-in-wp-capabilitiesphp-case-cracked/)
+（需要指出的是，这篇文章虽然被搜索得很多，但极具有误导性，害了不少人，我认为完全在胡说八道！下文会谈及）
+
+5、有以痛苦感受命名的：天哪，我登陆不上博客了，救命啊，雪地翻跟头跪求……
+用这种命名方式搜索，田螺姑娘都没办法帮你。
+
+**二、出错语句**
+
+出错信息除了上面描述的语句之外，还有其他形式，试搜集如下：
+
+1、我的出错信息：
+
+
+
+
+
+<blockquote>Warning: Invalid argument supplied for foreach() in /homepages/23/d208744272/htdocs/wp-includes/capabilities.php on line 31
+
+Warning: Cannot modify header information - headers already sent by (output started at /homepages/23/d208744272/htdocs/wp-includes/capabilities.php:31) in /homepages/23/d208744272/htdocs/wp-includes/pluggable.php on line 552
+
+Warning: Cannot modify header information - headers already sent by (output started at /homepages/23/d208744272/htdocs/wp-includes/capabilities.php:31) in /homepages/23/d208744272/htdocs/wp-includes/pluggable.php on line 689</blockquote>
+
+
+
+
+
+2、以下大同小异，但肯定有这一句：
+
+
+
+
+
+<blockquote>Warning: Invalid argument supplied for foreach() in /home/user/wp/wp-includes/capabilities.php on line 31</blockquote>
+
+
+
+**三、出错诱因**
+
+目前来看，这个问题大部分情况是发生在为wordpress升级时，不但从2.5升到wordpress2.6，也看到过从2.2或者更低版本升级，遇到这一情况的。
+
+也有案例显示，安装时就出现这一错误。这个非常罕见。
+
+**四、出错原因**
+
+我不懂技术，网上有各种说法，有说是uft-8编码转换出了问题，有人说陷入死循环。
+
+这些都不重要，重要的是解决办法，难道不是吗？
+
+**五、修改字符编码法，或set names utf8法**
+
+这种办法，网上最多。它提供的解决办法是：
+
+第一步：用phpMyadmin后台，把字符编码修改为utf-8。这里要注意，如果你用的是mySql4.0话，当你把字符修改成utf-8后，它下次还会显示gb2312，甭理它，其实已经改好了，我的经验是这样。
+
+还有人说，还应该设置数据库的”collation”为”utf8_general_ci”：因为在新的服务器中建立数据库时，没有指定其为utf-8，更没设定collation，所以需要先设定数据库的字符集。
+
+执行命令：
+alter database myblog
+character set utf8;
+
+然后再在”操作”或者数据库PhpMyAdmin的登陆页面中设定collation为”utf8_general_ci”。
+
+第二步：修改/wp-includes/wp-db.php这个文件。
+
+这一学派认为，毛病出在wp-db.php中，没有设定好utf-8为字符集，从而造成了一系列悲剧。因此，必须修改这个文件。这一学派又有下属三个分支流派：
+
+[流派一](http://wordpress.org.cn/viewthread.php?tid=2032&extra=page%253D1)：在$this->dbh = @mysql_connect($dbhost, $dbuser, $dbpassword);后面加上$this->query("set names 'utf8'");    注意英文标点。
+
+该学派认为，出错原因是wp-includes/capabilities.php里面$this->roles这个数组取到的是乱码。
+
+流派二：就是害人的法国人的那个方案，他认为应该在上述同意位置，加上这一语句：mysql_query("SET NAMES 'utf8'");，其实这是错误的！！
+
+流派三：还有人主张$this->query("set names 'utf8'");这个语句应该加到wp-db.php的另外一个位置；另外还要增加另外一处代码。我之所以，没有详细列出来，是因为这种办法根本无效。
+
+我试过以上三种办法，最后保留了流派一的办法。
+
+但我强烈怀疑，这种办法的有效性！！
+**
+六、胡说八道法，又名检查wp_options表法，又又名wp_user_roles法**
+
+这个办法是法国人发明的，[他说](http://climbtothestars.org/archives/2007/01/29/invalid-argument-supplied-for-foreach-in-wp-capabilitiesphp-case-cracked/)，在phpMyadmin里，打开wp_options表，找到wp_user_roles一项，从中发现一个法语怪字符，AbonnÃ©，他认为正是这顶小帽子害得程序成为死循环，于是把它改成英文字符，于是立即神奇般地好了。
+
+这个法国人还说了一句阿基米德的名言：Eurêka! ，希腊语，我找到了！真是糟蹋先贤。
+
+实际上这个办法是最害人的。我照着把长达3公里的代码仔细检查，把所有中文都换成英文，结果依然故我。[像这样被误导而浪费时间的不止我一个](http://wordpress.org/support/topic/148093?replies=7#post-672532)。
+
+**七、个别成功法，又名清除cookies法**
+
+有人骄傲地宣布，解决了wordpress2.6升级后无法登陆的问题，就是清除cookies。我试了，发现这个办法是无效的。
+
+但这启发了我，有时候你意想不到的办法，反而就是正解。
+
+**八、有效办法，又名土耳其补丁法**
+
+我在彻底绝望的时候，做了几件事：把wordpress2.6删除，换回了wp2.5。
+
+第二尝试数据库倒裤无果之后，我抱着试试看的办法，找到了[这个帖子](http://wordpress.org/support/topic/122367#post-666726)。
+
+这是土耳其人写的一个小补丁，他说只对2.3.X版本有效。但根据我的经验，后续版本应该也可以兼容。
+
+于是我下载了这个插件，h[ttp://file.dmry.net/blog/01/wp_user_roles_yama.zip ](http://file.dmry.net/blog/01/wp_user_roles_yama.zip )
+
+解压后，将它放到wordpress安装根目录下。就是这副样子：(http://your_blog_url../wp_user_roles.php)
+
+然后敲入上述网址：http://your_blog_url../wp_user_roles.php
+
+满屏都是字符串。
+
+等尘埃落定，我不敢相信，我真的做到了，我又可以自由登陆我心爱的WORDPRESS了。
+

@@ -1,0 +1,17 @@
+---
+author: admin
+comments: true
+date: 2007-09-12 06:11:56+00:00
+layout: note
+slug: '%e5%a4%a7%e8%b7%83%e9%80%80'
+title: 大跃退
+wordpress_id: 1202
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+[和菜头]最爱的美国《外交》杂志，07年9/10月号上登了一篇分析中国环境问题的文章：[《大跃退？》（The Great Leap Backwards？）](http://www.foreignaffairs.org/20070901faessay86503-p0/elizabeth-c-economy/the-great-leap-backward.html)。
+
+文中认为尽管中国制定了雄心勃勃的环保目标，但是地方政府却通常不理财这些，而是以经济增长为首要目标。要解决中国面临的环境挑战，要靠自下而上的政经改革。

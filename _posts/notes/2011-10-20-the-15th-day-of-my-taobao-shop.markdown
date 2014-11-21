@@ -1,0 +1,29 @@
+---
+author: admin
+comments: true
+date: 2011-10-20 09:56:44+00:00
+layout: note
+slug: the-15th-day-of-my-taobao-shop
+title: 开店第15天
+wordpress_id: 4873
+categories:
+- 生活不是条件反射
+tags:
+- 冬枣
+- 淘宝
+- 网店
+---
+
+[![The 15th Day of My Taobao Shop](http://farm7.static.flickr.com/6175/6262027043_2a6318e4a1.jpg)](http://www.flickr.com/photos/42121485@N00/6262027043)
+
+谢天谢地谢推友，谢谢常来看白板报的朋友们！
+
+在半个月时间里，[白板报网店](http://whiteboard.taobao.com)从无到有，从一心到两钻，有苦有乐，有咸有甜。
+
+感谢所有的人，感谢你们的支持、理解和宽容，农民做电子商务要克服重重困难，物流，经验，人才，观念……我们做得不够好，因为心离你们还不够近。
+
+今后，我们只会做得更好，不会做得更差。
+
+欢迎你来 [白板报网店](http://whiteboard.taobao.com) 
+
+[whiteboard.taobao.com](http://whiteboard.taobao.com)

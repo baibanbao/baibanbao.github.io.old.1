@@ -1,0 +1,19 @@
+---
+author: admin
+comments: true
+date: 2007-04-17 18:54:37+00:00
+layout: note
+slug: '%e5%86%8d%e7%ad%94horizon%e7%bd%91%e5%8f%8b'
+title: 再答horizon网友
+wordpress_id: 887
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+两个月以前，我主动请缨帮你借两本国内见不到的专业书。由于我的懈怠和懒惰，加上学校图书馆某个环节的问题，只借到了预想中的一本：The Canal Age。
+
+今天拍好打包之后，已经FTP上传到了一个地方，你可以点击[这里的链接下载](http://www.wangpei.net/file/book4u.rar)，文件大小53M，不算大。希望对你有点用。
+
+对于因我办事不靠谱给你造成的不便以及对互联网的些许失望，我再次表示严重抱歉。

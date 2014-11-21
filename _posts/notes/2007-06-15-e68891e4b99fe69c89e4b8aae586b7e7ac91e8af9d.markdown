@@ -1,0 +1,25 @@
+---
+author: admin
+comments: true
+date: 2007-06-15 03:02:03+00:00
+layout: note
+slug: '%e6%88%91%e4%b9%9f%e6%9c%89%e4%b8%aa%e5%86%b7%e7%ac%91%e8%af%9d'
+title: 我也有个冷笑话
+wordpress_id: 1056
+categories:
+- 学点技术
+---
+
+
+
+
+奶猪发了[一则冷笑话](http://www.bullog.cn/blogs/milkpig/archives/71097.aspx)。类似冷笑话我也有一个：
+
+
+
+
+MSN上问某记者：知道GFW吗？  
+某记者：没听说，这是什么牌子？
+
+
+

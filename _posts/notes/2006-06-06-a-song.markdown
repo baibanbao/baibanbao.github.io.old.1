@@ -1,0 +1,15 @@
+---
+author: admin
+comments: true
+date: 2006-06-06 12:35:23+00:00
+layout: note
+slug: a-song
+title: 一首歌
+wordpress_id: 429
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+[一首歌](http://www.toodou.com/player/player.swf?iid=30781)

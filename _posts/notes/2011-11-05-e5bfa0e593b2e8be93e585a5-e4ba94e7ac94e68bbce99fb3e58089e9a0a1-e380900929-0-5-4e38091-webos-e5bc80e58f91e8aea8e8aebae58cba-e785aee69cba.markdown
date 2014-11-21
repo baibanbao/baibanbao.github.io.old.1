@@ -1,0 +1,23 @@
+---
+author: No Content Found
+comments: true
+date: 2011-11-05 00:19:59+00:00
+layout: note
+slug: '%e5%bf%a0%e5%93%b2%e8%be%93%e5%85%a5-%e4%ba%94%e7%ac%94%e6%8b%bc%e9%9f%b3%e5%80%89%e9%a0%a1-%e3%80%900929-0-5-4%e3%80%91-webos-%e5%bc%80%e5%8f%91%e8%ae%a8%e8%ae%ba%e5%8c%ba-%e7%85%ae%e6%9c%ba'
+title: 忠哲输入-五笔拼音倉頡-【0929-0.5.4】 - webOS 开发讨论区 - 煮机网
+wordpress_id: 6448
+categories:
+- 不好归类
+post_format:
+- Link
+---
+
+[忠哲输入-五笔拼音倉頡-【0929-0.5.4】 - webOS 开发讨论区 - 煮机网](http://bbs.zoopda.com/thread-76496-1-1.html)
+
+最终搞定了忠哲输入法。
+
+
+
+
+
+装B必有代价，从淘宝老马手机那里买了个Veer，特意给掌柜的留言，要求不要装乱七八糟中文的东西，卖家贴心贴肝，完全照办。结果我从昨晚到现在，还在折腾中文输入法。

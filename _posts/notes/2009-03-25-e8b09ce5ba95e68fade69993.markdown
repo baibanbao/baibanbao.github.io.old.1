@@ -1,0 +1,19 @@
+---
+author: admin
+comments: true
+date: 2009-03-25 02:08:54+00:00
+layout: note
+slug: '%e8%b0%9c%e5%ba%95%e6%8f%ad%e6%99%93'
+title: 谜底揭晓
+wordpress_id: 1987
+categories:
+- 不好归类
+tags:
+- Add new tag
+- 不好归类
+- 摄影
+---
+
+[看这里](http://hzdaily.hangzhou.com.cn/hzrb/html/2009-03/25/content_635746.htm)
+
+或者[看这里（PDF版）](http://hzdaily.hangzhou.com.cn/hzrb/page/1/2009-03/25/C05/20090325C05_pdf.pdf)

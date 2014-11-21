@@ -1,0 +1,29 @@
+---
+author: admin
+comments: true
+date: 2008-09-29 20:17:57+00:00
+layout: note
+slug: '%e5%81%87%e6%9c%9f%e7%ac%ac%e4%b8%80%e5%a4%a9%ef%bc%9adrupal%e4%b8%8a%e6%89%8b'
+title: 假期第一天：Drupal上手
+wordpress_id: 1712
+categories:
+- 学点技术
+---
+
+由于工作需要，最近频繁接触CMS，有商业化的，也有免费的。在众多开源免费的CMS中，Drupal有越来越流行的趋势。不但[纽约观察家报](http://www.observer.com/)、[哈佛大学](http://harvardscience.harvard.edu/)用它来搭建，而且很多社区也离不开Drupal。像这个[Motherclick](http://www.mothersclick.com/)社区，据说还卖了不少的价钱的。
+
+为了快速体验Drupal的魅力，我在本地电脑上搭建一个apache环境，进行试验。
+
+非常感谢达人写的一套[Drupal安装指南](http://drupalchina.org/node/5170)，照着操作，一路顺利就安装好了。
+
+需要注意的几点是：
+
+一、在WINDOWS单机上搭建Apache+PHP+MySQL环境，强烈推荐安装[Wamp](http://www.wampserver.com/en/download)。尽管国内曾有达人开发过一个类似的kiss0.2，但因为疏于更新加上有BUG，无法跟Wamp相提并论。
+
+二、安装好Drupal之后，界面是英文的，要导入中文文件，请参考：[如何使用中文汉化包？](http://drupalchina.org/node/4212)
+
+Drupal超强的扩展性，允许大家做进一步的开发，如果对它的应用感兴趣，可以多去[DrupalChin](http://drupalchina.org/)a, [DrupalTaiwan等站点上看看](http://drupaltaiwan.org/)。用好DRUPAL也许能够为你剩下上万元的开发费，并且你不会为“站内投票”这类的功能另外付给软件供应商一笔钱。
+
+不想当冤大头，那么用DRUPAL吧。
+
+这里有个很好的DRUPAL教学网站[http://zhupou.cn/](http://zhupou.cn/)

@@ -1,0 +1,61 @@
+---
+author: admin
+comments: true
+date: 2006-08-24 10:09:26+00:00
+layout: note
+slug: '%e7%89%9b%e5%8d%9a%e5%bd%92%e6%9d%a5'
+title: 牛博归来
+wordpress_id: 570
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+Update：因为牛博使用.cn域名，解析时间比较慢，预计还要等待2-12个小时。不过，和菜头介绍了一个办法。
+
+
+
+
+
+<blockquote>请XP系统和Firefox浏览器的朋友尝试如下方法：
+
+进入目录：
+
+C:\WINDOWS\system32\drivers\etc
+
+找到一个叫Hosts的文件，注意，它没有后缀，光一个hosts，用写字版打开。
+
+在127.0.0.1 localhost下面加一行东西，加好以后应该是这个样子的：
+
+127.0.0.1 localhost
+211.100.61.166 www.bullog.cn
+
+在前面的IP和后面的网址之间，要有个空格。
+
+然后存盘。
+浏览器关掉后重启。
+
+注：本办法对于在单位使用局域网的用户无效。</blockquote>
+
+
+
+
+
+
+
+	
+  * 风平浪静，牛博马上回来。
+
+	
+  * 域名已经开始解析，大约<del>2-3个</del>小时以后，就可以访问了。
+
+	
+  * 请大家不要在牛博上讨论断网这件事。
+
+
+
+
+牛博网跟牛博村可以结个对子。贴一张[牛博村小学](http://www.2800.zju.edu.cn/zjt7/front/article.php?id=63)的自制篮球架。
+
+![牛博村小学](http://www.2800.zju.edu.cn/zjt7/upload/Image/month4/lanqiujia.jpg)

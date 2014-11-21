@@ -1,0 +1,29 @@
+---
+author: No Content Found
+comments: true
+date: 2011-09-07 18:47:00+00:00
+layout: note
+slug: markdown%e7%9f%a5%e8%af%86%e5%88%9d%e6%ad%a5
+title: Markdown知识初步
+wordpress_id: 6605
+categories:
+- 不好归类
+post_format:
+- Link
+---
+
+[Markdown知识初步](http://michelf.com/projects/php-markdown/concepts/)
+
+Markdown实在太简单了，不值一学。
+
+
+
+
+
+为了更好的掌握它，我买了**byword**，到现在还不知道怎么用呢。
+
+
+
+
+
+不过窍门应该不难掌握。

@@ -1,0 +1,15 @@
+---
+author: admin
+comments: true
+date: 2007-07-31 04:21:50+00:00
+layout: note
+slug: '%e4%b8%89%e5%88%86%e9%92%9f%e4%b8%ad%e5%9b%bd%e5%8e%86%e5%8f%b2'
+title: 三分钟中国历史
+wordpress_id: 1114
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+能不能编一个短片，用三分钟大致讲清楚中国号称5000年的历史？

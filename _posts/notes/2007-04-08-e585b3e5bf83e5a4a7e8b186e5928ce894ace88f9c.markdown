@@ -1,0 +1,19 @@
+---
+author: admin
+comments: true
+date: 2007-04-08 12:44:21+00:00
+layout: note
+slug: '%e5%85%b3%e5%bf%83%e5%a4%a7%e8%b1%86%e5%92%8c%e8%94%ac%e8%8f%9c'
+title: 关心大豆和蔬菜
+wordpress_id: 870
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+《纽约时报》载：[中国已成为世界上第一大豆进口国](http://www.nytimes.com/2007/04/06/business/worldbusiness/06soy.html?ex=1333512000&en=408efd84c96e9302&ei=5088&partner=rssnyt&emc=rss)，巴西成为中国最大的供应商。中国进口这么多大豆干吗？总不是都用来磨豆腐吧？不是，有大部分是用来做饲料的（其实做饲料的应该是榨油剩下的豆饼吧），以便向富起来的中国人提供肉食。以下是世界大豆贸易的变化图（地图标注有误，媒体转载须知）。
+
+![SOYBEAN TRADE](http://farm1.static.flickr.com/209/450590523_743297201a.jpg?v=0)
+
+不过美国也不用做悲天悯人状，关爱起巴西的豆农来。有一个不容忽略的问题，[中国的榨油企业已经被外资垄断了](http://money.business.sohu.com/20060801/n244554159.shtml)，种植大豆的东北农民亏损严重，因为竞争不过进口大豆。巴西人汗滴禾下土，中国货柜滚滚来，忙来忙去，还不知道最终便宜了谁呢？

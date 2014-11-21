@@ -1,0 +1,16 @@
+---
+author: admin
+comments: true
+date: 2009-03-11 19:35:09+00:00
+layout: note
+slug: '%e6%9d%91%e4%b8%8a%e6%98%a5%e6%a0%91%e7%9a%84%e4%b9%a6%e5%90%8d%e5%b9%b6%e9%9d%9e%e5%8e%9f%e5%88%9b'
+title: 村上春树的书名并非原创
+wordpress_id: 1968
+tags:
+- 写不如转
+- 日本
+---
+
+网友slowwalker递送了一篇文章《[旅日学者李长声谈村上作品的中文翻译](http://www.xshdai.com/wenxue/20090217/16208-1.html)》，里面提到村上春树的新书《当我谈跑步时我谈些什么》的书名并非他所独创。
+
+这个句式是美国小说家雷蒙德·卡佛（[Raymond Carver](http://en.wikipedia.org/wiki/Raymond_Carver)）的书名：What We Talk About When We Talk About Love，他的日译本就是村上翻译的。

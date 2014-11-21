@@ -1,0 +1,17 @@
+---
+author: admin
+comments: true
+date: 2008-07-04 14:34:17+00:00
+layout: note
+slug: '%e6%98%8e%e5%a4%a9%e4%b8%80%e7%82%b9%e5%b0%b1%e7%9d%80'
+title: 明天一点就着
+wordpress_id: 1625
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+Firefox上天气预报插件如是说：
+
+[![match-day](http://pic.yupoo.com/ctb.my/279195d1aa76/medium.jpg)](http://www.yupoo.com/photos/view?id=ff8080811aedacae011aee7ced5a1321)

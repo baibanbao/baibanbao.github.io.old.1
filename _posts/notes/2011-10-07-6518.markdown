@@ -1,0 +1,29 @@
+---
+author: No Content Found
+comments: true
+date: 2011-10-07 13:29:10+00:00
+layout: note
+slug: '6518'
+title: No Content Found
+wordpress_id: 6518
+categories:
+- 不好归类
+post_format:
+- Image
+---
+
+![](http://www.baibanbao.net/wp-content/uploads/2011/10/tumblr_lsp6smscoa1qz6vj8o1_250.png)
+
+求助：
+
+
+
+
+
+Lion系统，使用excel 2011，汉字都变成了一个个方框，里面有一个“字”，过一会又莫名其妙地好了。
+
+
+
+
+
+请问这是什么原因，该如何解决？

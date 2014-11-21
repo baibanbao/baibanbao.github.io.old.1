@@ -1,0 +1,18 @@
+---
+author: admin
+comments: true
+date: 2007-03-29 01:31:40+00:00
+layout: note
+slug: '%e5%90%8e%e7%8e%b0%e4%bb%a3'
+title: 后现代
+wordpress_id: 848
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+在搜狐看到一个博客[坚守者](http://jinghu011.blog.sohu.com)，博客的主人在做一桩注定不可能成功的生意，推销他在囹圄中发明的一套汉字密码。
+
+在这种营销的背后，是一个人顽强地交流的渴望。好似博尔赫斯的小说
+

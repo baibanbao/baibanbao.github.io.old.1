@@ -1,0 +1,15 @@
+---
+author: No Content Found
+comments: true
+date: 2011-11-12 20:13:15+00:00
+layout: note
+slug: '6461'
+title: No Content Found
+wordpress_id: 6461
+categories:
+- 不好归类
+post_format:
+- Video
+---
+
+郎咸平沈阳演讲 (by [linwen778](http://www.youtube.com/watch?v=comHcv7qSBg&feature=related))

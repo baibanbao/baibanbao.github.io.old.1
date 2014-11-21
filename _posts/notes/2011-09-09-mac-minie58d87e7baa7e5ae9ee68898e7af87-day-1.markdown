@@ -1,0 +1,41 @@
+---
+author: No Content Found
+comments: true
+date: 2011-09-09 12:38:56+00:00
+layout: note
+slug: mac-mini%e5%8d%87%e7%ba%a7%e5%ae%9e%e6%88%98%e7%af%87-day-1
+title: mac mini升级实战篇 day 1
+wordpress_id: 6623
+categories:
+- 不好归类
+tags:
+- Mac mini
+- upgrade
+- 技术
+---
+
+为了升级mini，我提前从京东购买了一个三堡工具套装，花费200多元，就在我准备大干一场的时候，我悲剧地发现，工具箱里，缺少我要的两种螺丝刀。
+
+
+
+
+
+T6和T8，六角螺丝刀（又称梅花螺丝刀），辛辛苦苦准备了一晚上，彻底歇菜。没办法，只好去淘宝订购了一套小工具。
+
+
+
+
+
+可以选择[7元的这一套](http://trade.taobao.com/trade/detail/tradeSnap.htm?tradeID=92938824800485)，或者[15元的这一套](http://trade.taobao.com/trade/detail/tradeSnap.htm?tradeID=92939554340485)。
+
+
+
+
+
+没办法，只有等了。我甚至动了不升级ssd 256g的念头。 500g的hdd对我来说也足够用了。
+
+
+
+
+
+但是作为一个来自不折腾会死星的人，我恐怕过两天又要改主意了。

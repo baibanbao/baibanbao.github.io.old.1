@@ -1,0 +1,30 @@
+---
+author: admin
+comments: true
+date: 2008-11-08 10:43:57+00:00
+layout: note
+slug: '%e6%b3%95%e5%9b%bd%e5%a5%b3%e5%a3%b0'
+title: Edith Piaf
+wordpress_id: 1738
+categories:
+- 不好归类
+tags:
+- 不好归类
+- 歌
+- 音乐
+---
+
+重看了《拯救大兵瑞恩》，加深了对斯庇尔伯格的理解。他是一个真正把大雅与大俗融合在一起的导演。看他的电影，任何观众的期待都不会落空，无论他们带着多少文化坐在银幕前。片子最后，决战之前，在黄昏美好的光线里，广播里响起一首歌，所有的人都驻足倾听。
+
+这首歌是法国女歌手Edith Piaf的Tu es partout。和菜头推荐我一款Wordpress插件Audio Player，可以播MP3。下面请大家收听：
+
+[audio:http://gundong.hangzhou.com.cn/upvideo/hzrb/tu.mp3]
+
+Edith Piaf奶奶还有一首代表作，玫瑰人生，在Youtube上找到了一段电影片段，供怀旧人士欣赏。
+
+
+
+除了玫瑰人生之外，她还有一首脍炙人口的歌，Non Je Ne Regrette Rien（不，毫不后悔）。
+
+[去Youtube去欣赏这首歌。](http://www.youtube.com/watch?v=kFRuLFR91e4)
+

@@ -1,0 +1,43 @@
+---
+author: admin
+comments: true
+date: 2010-12-31 00:52:47+00:00
+layout: note
+slug: amazon-kindle%e5%85%81%e8%ae%b8%e5%80%9f%e4%b9%a6%e4%ba%86
+title: Amazon Kindle允许借书了
+wordpress_id: 3809
+categories:
+- 不好归类
+tags:
+- amazon
+- kindle
+- 电子书
+---
+
+在新年来临之前，Amazon Kindle图书外借功能（Loan the Book）悄然上线。亚马逊无法不低调，不但因为这项功能早就该有，B&N;的Nook电子书一开始就这么做了，还因为Kindle的借书功能还很不完善。
+
+首先，Kindle借书功能，并不是从亚马逊借，那样的话，亚马逊就不是全球最大的书店，而改图书馆了。Kindle借书，指的是电子版图书购买者之间互借图书，准确地说，是支持私人藏书免费交流。
+
+其次，并不是所有的书都支持外借，一本书让不让借，由出版商说了算。大部分畅销书肯定借不了，出版社可不是傻子，反倒是非热门书可以借来借去。
+
+再再次，Kindle图书的借期只有14天，并且不允许展期。图书外借期间，原主人无法同时阅读它。这跟借出纸质书是一样的，虽然我觉得并无必要。图书到期之后，会物“归”原主。
+
+再再再次，怎么知道一本书可不可以外借呢？请进入你的Kindle帐号，顺着Your Account，进入 Manage Your Kindle，每本已购的电子书前面都有一个+号，点开它，当看到有Loan the Book按钮的时候，恭喜你，这本书可以外借了。
+
+[![Screen shot 2010-12-31 at 上午08.48.09](http://farm6.static.flickr.com/5087/5307685057_afaf2333e3.jpg)](http://www.flickr.com/photos/42121485@N00/5307685057)
+
+再再再再次，怎么借书呢？当你知道你朋友有一本可以外借的书，你把你Amazon账号所关联的邮箱给他，然后他点了Loan the book按钮之后，把你的这个邮箱填入，这样你就会收到一封信，按照操作即可。
+
+[![Screen shot 2010-12-31 at 上午08.49.27](http://farm6.static.flickr.com/5162/5307685063_9c90597fef.jpg)](http://www.flickr.com/photos/42121485@N00/5307685063)
+
+再再再再再次，有人问“我没有Kindle阅读器，可以借Kindle书看吗？”当然啦！你不需要非得买个Kindle设备，只要有电脑或者iPad/iPhone，就可以下载相应的Kindle软件，也可以借书看。
+
+再再再再再再次，Kindle的借书功能，目前只对美国地址的注册帐号开放，我相信，大部分人应该注册的就是米国地址吧。
+
+再再再再再再再次，最重要的一条，根据亚马逊的霸王条款，**一本书一辈子只准借一次！**这一下子让我的心拔凉了起来。
+
+最后，如果你还有什么疑问，请看[Amazon Kindle图书借阅详细指南](http://www.amazon.com/gp/help/customer/display.html/ref=hp_rel_topic?ie=UTF8&nodeId=200549320&tag=533633855-20)。
+
+一年半以来，我已经买了10多本Kindle收费图书，其中绝大部分是无法外借的，只有一本Emily Dickinson's Poems和花$18.12烧包买的英若成自传英文版Voices Carry（中文名《水流云在》），支持外借功能，我准备借给有需要的书友。
+
+书非借不能读也，我相信随着Kindle借阅功能的开通，一定能逼迫我们多读不少好书。

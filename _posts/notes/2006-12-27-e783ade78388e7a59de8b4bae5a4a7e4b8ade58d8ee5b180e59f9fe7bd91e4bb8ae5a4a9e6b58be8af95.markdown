@@ -1,0 +1,25 @@
+---
+author: admin
+comments: true
+date: 2006-12-27 03:49:06+00:00
+layout: note
+slug: '%e7%83%ad%e7%83%88%e7%a5%9d%e8%b4%ba%e5%a4%a7%e4%b8%ad%e5%8d%8e%e5%b1%80%e5%9f%9f%e7%bd%91%e4%bb%8a%e5%a4%a9%e6%b5%8b%e8%af%95'
+title: 热烈祝贺大中华局域网今天测试
+wordpress_id: 748
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+今天英国、日本网友无法连通国内网站，新浪、网易统统上不去。MSN上也见不到几个人。不知道其他国家网友能否访问。
+
+一个可能的解释，大中华局域网正在测试。中国正在变成一个大网吧。
+
+[什么是大中华局域网？](http://www.caobian.info/?p=1558)
+
+Update:遇到一样情况的网友同样来自：美国，新西兰。
+
+UPDATE：我拥有300多联系人的MSN上，现在上线的只有5个人，而平常至少是这个数字的10倍。
+
+update：另外一个可能的解释，[台湾地震引起断网](http://www.channelnewsasia.com/stories/afp_asiapacific/view/249339/1/.html)。

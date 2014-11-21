@@ -1,0 +1,57 @@
+---
+author: No Content Found
+comments: true
+date: 2011-11-02 19:19:00+00:00
+layout: note
+slug: office-for-mac%e6%b1%89%e5%ad%97%e5%ad%97%e4%bd%93%e6%98%be%e7%a4%ba%e9%97%ae%e9%a2%98%e7%9a%84%e8%a7%a3%e5%86%b3
+title: Office for Mac汉字字体显示问题的解决
+wordpress_id: 6443
+categories:
+- 不好归类
+tags:
+- mac
+---
+
+不管你承认与否，只要你还跟外界世界发生联系，Office依然是Mac平台上最常用的软件。Office for Mac有个恼人已久的问题，就是打开汉字文档，经常会不显示字体。字体要么变成方块，要么变成一个方块里面有个「字」，[如图所示](http://wangpei.info/post/11139237408/lion-excel)。
+
+
+
+
+
+解决这个问题，其实很简单。
+
+
+
+
+
+1、找到一台有windows操作系统的电脑，找到c:windowsfonts ，把里面所有的字体都copy出来。
+
+
+
+
+
+2、打开你的Mac，在finder里找到，硬盘>Library>fonts
+
+
+
+
+
+在里面建一个目录，比如叫 office.
+
+
+
+
+
+把刚才windows下面的字体，统统粘贴进这个目录。
+
+
+
+
+
+重启电脑。
+
+
+
+
+
+世界澄明一片，所有问题都解决了。

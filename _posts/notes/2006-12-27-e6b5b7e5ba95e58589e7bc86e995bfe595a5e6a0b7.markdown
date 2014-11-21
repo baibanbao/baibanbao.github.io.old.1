@@ -1,0 +1,29 @@
+---
+author: admin
+comments: true
+date: 2006-12-27 14:54:16+00:00
+layout: note
+slug: '%e6%b5%b7%e5%ba%95%e5%85%89%e7%bc%86%e9%95%bf%e5%95%a5%e6%a0%b7'
+title: 海底光缆长啥样
+wordpress_id: 751
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+一场事故，激起了我的好奇心，来一起满足一下。
+
+传说中的海底光缆
+
+![SEACABLE](http://farm1.static.flickr.com/140/335125477_f913c059b1_m.jpg)
+
+海底光缆系统示意图
+
+![SYSTEM](http://farm1.static.flickr.com/141/335125478_6f9ec735fe.jpg?v=0)
+
+布设海底光缆
+
+![SEACABLE](http://farm1.static.flickr.com/157/335125475_2a5a01c8df.jpg?v=0)
+
+求知欲更强的同学请看：[《跨洋海底光缆技术及其发展》](http://33tt.com/article/2004-10/349.htm)

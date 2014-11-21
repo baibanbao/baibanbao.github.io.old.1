@@ -1,0 +1,91 @@
+---
+author: No Content Found
+comments: true
+date: 2011-09-05 15:50:00+00:00
+layout: note
+slug: '%e4%b8%ba%e4%bb%80%e4%b9%88%e6%90%9c%e7%b4%a2%e5%ba%94%e5%bd%93%e7%94%a8%e8%8b%b1%e6%96%87%e4%b8%80%e4%be%8b'
+title: 为什么搜索应当用英文一例
+wordpress_id: 6598
+categories:
+- 不好归类
+---
+
+
+
+
+我现在搜索关于mac的技术问题，一律用英文google，原因是：
+
+
+
+
+1、google最懂英文，用英文可以直接像对人类说话那样问google，比如我的这个问题就是：
+
+
+
+
+mac mini 2009 mic can not record，结果就搜到了这个链接。
+
+
+
+
+[http://forums.macrumors.com/archive/index.php/t-187096.html](http://forums.macrumors.com/archive/index.php/t-187096.html)
+
+
+
+
+并且得到了答案，原来是mini的mic孔，不带电流，无源麦克风无法输入信号。应该换成usb的麦克。
+
+
+
+
+同样的，我还有好多问题，都可以用how to, why这样的句子，直接质问google
+
+
+
+
+用中文也可以问问题，但是指向的答案都是百度知道。
+
+
+
+
+2、答案精确。比如标题问的这个问题，老外告诉我， mic孔不供电，所以无电源的麦克风是不能直接输入声音的。
+
+
+
+
+同样的问题，百度知道是怎么回答的：
+
+
+
+
+[http://zhidao.baidu.com/question/238039352.html](http://zhidao.baidu.com/question/238039352.html)
+
+
+
+
+ 
+
+
+
+    
+    答案：声卡驱动装好了吗
+
+
+
+    
+    <br></br>
+
+
+
+
+3、英文论坛技术高人很多，富有实证精神，多数问题都可以找到答案。并且国外论坛的网友都很有礼貌和奉献精神，这在国内论坛也有，但是不多见。
+
+
+
+
+4、google的英文没被seo和营销团队污染，结果还很可信。
+
+
+
+
+5、more……

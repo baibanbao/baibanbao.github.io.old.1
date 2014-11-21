@@ -1,0 +1,26 @@
+---
+author: admin
+comments: true
+date: 2007-03-23 16:00:51+00:00
+layout: note
+slug: '%e9%bb%91%e6%9d%bf%e6%8a%a5%e6%81%a2%e5%a4%8d%e4%b8%ad'
+title: 黑板报论坛恢复了
+wordpress_id: 834
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+黑板报网站正在恢复，进度如下：
+
+[黑板报论坛](http://www.heibanbao.net/cgi-bin/ubb/Ultimate.cgi)
+
+[黑板报一周年纪念页面](http://www.heibanbao.net/one/)：
+http://www.heibanbao.net/one/
+[
+
+[《切·格瓦拉》专题](http://www.heibanbao.net/che/)：
+http://www.heibanbao.net/che/
+
+如果你曾是黑板报的网友，有意见、想法、提示请反馈。

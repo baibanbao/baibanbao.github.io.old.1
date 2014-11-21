@@ -1,0 +1,17 @@
+---
+author: admin
+comments: true
+date: 2009-02-22 11:11:59+00:00
+layout: note
+slug: '%e4%bd%a0%e6%9c%89%e8%bf%b7%e5%a2%99%ef%bc%8c%e5%92%b1%e6%9c%89%e5%b4%82%e5%b1%b1%e9%81%93%e5%a3%ab'
+title: 崂山道士 vs 墙
+wordpress_id: 1930
+categories:
+- 学点技术
+tags:
+- GFW
+---
+
+崂山道士牛博分舵 [https://www.newscn.org:8010/](https://www.newscn.org:8010/)
+
+崂山道士总舵：[https://www.newscn.org/](https://www.newscn.org/)

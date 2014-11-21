@@ -1,0 +1,17 @@
+---
+author: No Content Found
+comments: true
+date: 2011-09-23 06:01:48+00:00
+layout: note
+slug: bbc%e4%b8%ad%e6%96%87%e7%bd%91-%e7%ae%80%e8%a6%81%e6%96%b0%e9%97%bb-%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%8f%91%e7%8e%b0%e5%8f%8d%e7%88%b1%e5%9b%a0%e6%96%af%e5%9d%a6%e7%9b%b8%e5%af%b9%e8%ae%ba%e7%8e%b0
+title: BBC中文网 - 简要新闻 - 科学家发现反爱因斯坦相对论现象
+wordpress_id: 6588
+categories:
+- 不好归类
+post_format:
+- Link
+---
+
+[BBC中文网 - 简要新闻 - 科学家发现反爱因斯坦相对论现象](http://www.bbc.co.uk/zhongwen/simp/rolling_news/2011/09/110922_rolling_lightspeed_r.shtml)
+
+太激动人心了！

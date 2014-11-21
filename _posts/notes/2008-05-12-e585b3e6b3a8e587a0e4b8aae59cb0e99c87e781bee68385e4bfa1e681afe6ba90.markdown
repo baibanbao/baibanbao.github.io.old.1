@@ -1,0 +1,23 @@
+---
+author: admin
+comments: true
+date: 2008-05-12 19:48:05+00:00
+layout: note
+slug: '%e5%85%b3%e6%b3%a8%e5%87%a0%e4%b8%aa%e5%9c%b0%e9%9c%87%e7%81%be%e6%83%85%e4%bf%a1%e6%81%af%e6%ba%90'
+title: 关注几个地震灾情信息源
+wordpress_id: 1531
+categories:
+- 学点技术
+tags:
+- 地震
+---
+
+1、[美国国家地震局5级以上震情实时报告](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/quakes_big.php)
+
+2、[新浪滚动](http://news.sina.com.cn/pc/2008-05-12/86/156/index.shtml)
+
+3、[成都全搜索论坛--四川地震专题](http://bbs.cdqss.com/forumdisplay_2.php?fid=2890&page=1)
+
+其中这个帖子《[我刚从都江堰回来，马上放上照片](http://bbs.cdqss.com/viewthread.php?tid=344374&extra=&page=1)》，有图惨烈，慎入。
+
+4、[阿坝自治州政府首页，关注汶川最新消息](http://www.abazhou.gov.cn/)。

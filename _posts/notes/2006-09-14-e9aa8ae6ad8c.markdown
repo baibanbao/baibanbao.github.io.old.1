@@ -1,0 +1,17 @@
+---
+author: admin
+comments: true
+date: 2006-09-14 22:09:57+00:00
+layout: note
+slug: '%e9%aa%8a%e6%ad%8c'
+title: 骊歌
+wordpress_id: 618
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+
+
+[或者点击下载](http://www.wangpei.net/blog/wp-content/uploads/2006/09/215006.mp3)

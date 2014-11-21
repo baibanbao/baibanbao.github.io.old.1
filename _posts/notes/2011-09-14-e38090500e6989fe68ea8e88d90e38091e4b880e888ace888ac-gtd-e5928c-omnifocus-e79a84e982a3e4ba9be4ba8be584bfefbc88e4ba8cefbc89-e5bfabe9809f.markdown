@@ -1,0 +1,26 @@
+---
+author: No Content Found
+comments: true
+date: 2011-09-14 02:58:49+00:00
+layout: note
+slug: '%e3%80%90500%e6%98%9f%e6%8e%a8%e8%8d%90%e3%80%91%e4%b8%80%e8%88%ac%e8%88%ac-gtd-%e5%92%8c-omnifocus-%e7%9a%84%e9%82%a3%e4%ba%9b%e4%ba%8b%e5%84%bf%ef%bc%88%e4%ba%8c%ef%bc%89-%e5%bf%ab%e9%80%9f'
+title: '【500星推荐】一般般: GTD 和 Omnifocus 的那些事儿（二）---快速上手'
+wordpress_id: 6552
+categories:
+- 不好归类
+post_format:
+- Link
+tags:
+- gtd
+- omnifocus
+---
+
+[【500星推荐】一般般: GTD 和 Omnifocus 的那些事儿（二）---快速上手](http://www.1banban.com/post/10164944860)
+
+这是OmniFocus最棒的入门文章。虽然我已经用OmniFocus一年有余，但读完这篇教程，我把自己的数据库全部清空，重新建立了project和context结构。原来，这一年多我都在糟蹋这个利器，原来这一年多都是蹉跎岁月。
+
+
+
+
+
+感谢小欠，让我重新燃起对OmniFocus的热情，期待续篇。

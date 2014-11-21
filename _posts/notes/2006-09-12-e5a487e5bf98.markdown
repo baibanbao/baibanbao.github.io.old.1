@@ -1,0 +1,21 @@
+---
+author: admin
+comments: true
+date: 2006-09-12 11:56:56+00:00
+layout: note
+slug: '%e5%a4%87%e5%bf%98'
+title: 备忘
+wordpress_id: 608
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+需采购公共物品
+
+1	炒  锅	1只
+2	菜  刀	2把
+3	多用厨房剪刀	1把
+
+靠，带这些东西上飞机会不会把我当成恐怖分子？

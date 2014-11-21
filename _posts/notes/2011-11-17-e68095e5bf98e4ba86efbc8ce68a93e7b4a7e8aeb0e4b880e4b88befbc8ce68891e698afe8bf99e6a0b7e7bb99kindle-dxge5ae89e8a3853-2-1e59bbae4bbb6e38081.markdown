@@ -1,0 +1,51 @@
+---
+author: No Content Found
+comments: true
+date: 2011-11-17 09:00:00+00:00
+layout: note
+slug: '%e6%80%95%e5%bf%98%e4%ba%86%ef%bc%8c%e6%8a%93%e7%b4%a7%e8%ae%b0%e4%b8%80%e4%b8%8b%ef%bc%8c%e6%88%91%e6%98%af%e8%bf%99%e6%a0%b7%e7%bb%99kindle-dxg%e5%ae%89%e8%a3%853-2-1%e5%9b%ba%e4%bb%b6%e3%80%81'
+title: 怕忘了，抓紧记一下，我是这样给Kindle dxg安装3.2.1固件、越狱和安装拼音输入法的
+wordpress_id: 6475
+categories:
+- 不好归类
+---
+
+UPDATE:经过24小时的越狱之后，发现电量消耗惊人，一夜竟然把电量全部耗光，而之前电量可以坚持14天。果断降级，恢复固件到2.5.8.
+
+
+
+
+
+1、升级固件
+
+
+
+
+
+[[技巧教程] Kindle DXG 2.5.8 升级 3.2.1的简明教程 (08.25更新2.5.8恢复包～升级包换网盘完毕！)](http://bbs.mydoo.cn/thread-32419-1-2.html)
+
+
+
+
+
+2、[越狱，安装字体](http://www.mobileread.com/forums/showthread.php?t=88004)
+
+
+
+
+
+3、[安装拼音输入法](http://www.hi-pda.com/forum/viewthread.php?tid=865481&highlight=dxg)
+
+
+
+
+
+* * *
+
+如果是K3，无论是WIFI还是3G，1，2步都一样，第3步不同
+
+
+
+
+
+[3-2、安装K3所需要的拼音输入法](http://hi.baidu.com/canbefound/blog/item/447a390a817497d93bc763c3.html)

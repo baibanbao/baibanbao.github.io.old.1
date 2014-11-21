@@ -1,0 +1,60 @@
+---
+author: admin
+comments: true
+date: 2008-04-04 12:55:30+00:00
+layout: note
+slug: 2008%e5%b9%b4%e5%ba%a6%e8%8b%b1%e5%9b%bd%e5%a4%a7%e5%ad%a6%e6%8e%92%e8%a1%8c%e6%a6%9c
+title: 2008年度英国大学排行榜
+wordpress_id: 1441
+tags:
+- 写不如转
+- 大学
+- 英国
+---
+
+英国的《泰晤士报》连续15年，每年都推出一个英国大学排行榜。在[2008年的榜单](http://extras.timesonline.co.uk/gug/gooduniversityguide.php)，从学生满意度、研究质量、学生/教职工比例、服务与设施投入、入学标准、毕业率、声望、毕业生就业预期8个方面，计算出综合成绩。排名前30位的大学是：
+
+1．牛津大学（University of Oxford） 总分1000
+2．剑桥大学（University of Cambridge） 总分995
+3．伦敦大学帝国学院（Imperial College London）
+4．伦敦政治经济学院 （London School of Economics and Political Science）总分915
+5．圣安德鲁斯大学 （University of St Andrews）
+6．伦敦大学学院 （University College London）
+7．华威大学（University of Warwick）
+8．布里斯托大学（University of Bristol）
+9．达勒姆大学（University of Durham）
+10．伦敦大学国王学院 （King's College London）
+11．巴斯大学（University of Bath）
+12．罗浮堡大学（Loughborough University）
+13．爱丁堡大学（University of Edinburgh）
+14．南安普顿大学（University of Southampton）
+15．阿斯顿大学（Aston University）
+16．约克大学（University of York）
+17．艾克塞特大学（University of Exeter）
+18．伦敦大学亚非学院（School of Oriental and African Studies）
+19．诺丁汉大学（University of Nottingham）
+20．东安格利亚大学（University of East Anglia）
+21．莱斯特大学（University of Leicester）
+22．设菲尔德大学（University of Sheffield）
+23．纽卡斯尔大学（University of Newcastle upon Tyne）
+24．伦敦大学皇家哈洛威学院（Royal Holloway, London）
+25. 雷丁大学（University of Reading）
+26. 伯明翰大学（University of Birmingham）
+27．兰卡斯特大学（Lancaster University）
+28．卡的夫大学（Cardiff University）
+29．曼彻斯特大学（University of Manchester）
+30. 利兹大学（University of Leeds）
+
+当然，还有秋水同学关心的大学：
+
+34. 利物浦大学（University of Liverpool）总分625
+
+**56. 诺丁汉特伦特大学（Nottingham Trent University）总分456**
+
+100. 切斯特大学（Chester）
+109. 林肯大学(Lincoln)
+109.格林威治大学（Greenwich）
+
+名副其实的最后一位是：
+
+113.利物浦希望大学（Liverpool Hope University）总分191

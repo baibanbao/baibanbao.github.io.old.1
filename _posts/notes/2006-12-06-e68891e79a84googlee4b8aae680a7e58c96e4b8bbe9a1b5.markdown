@@ -1,0 +1,19 @@
+---
+author: admin
+comments: true
+date: 2006-12-06 02:57:21+00:00
+layout: note
+slug: '%e6%88%91%e7%9a%84google%e4%b8%aa%e6%80%a7%e5%8c%96%e4%b8%bb%e9%a1%b5'
+title: 我的Google个性化主页
+wordpress_id: 719
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+我有不会管理时间的坏毛病，虽然不能一下改掉，但至少我可以监督它。今天按照[月光博客上的教导](http://www.williamlong.info/archives/661.html)，做了一个个性Google主页，把日历、待办事项（分轻重缓急）和一个计时器放到了个性主页最醒目的地方。下面订阅了一大堆新闻，并设成自己的浏览器首页。
+
+小图如下，想看大图就点一下吧。
+
+[![DESKTOP](http://static.flickr.com/106/315350757_c93185b162_m.jpg)](http://www.flickr.com/photo_zoom.gne?id=315350757&size=o)

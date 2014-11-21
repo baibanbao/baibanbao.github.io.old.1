@@ -1,0 +1,18 @@
+---
+author: admin
+comments: true
+date: 2007-05-12 14:54:41+00:00
+layout: note
+slug: '%e9%bb%91%e6%9d%bf%e6%8a%a5%e5%85%a8%e9%9d%a2%e6%81%a2%e5%a4%8d'
+title: 黑板报全面恢复
+wordpress_id: 959
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+经过[zhanglu]一个月的努力，采用全新V2ex技术的[黑板报论坛(www.heibanbao.net)](http://www.heibanbao.net/)已经全面恢复了。
+
+现在一切都是新的，欢迎大家前往注册，随便聊点什么吧。
+

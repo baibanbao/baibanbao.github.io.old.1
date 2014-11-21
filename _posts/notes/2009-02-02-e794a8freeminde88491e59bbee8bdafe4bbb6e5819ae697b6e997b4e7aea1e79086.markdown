@@ -1,0 +1,30 @@
+---
+author: admin
+comments: true
+date: 2009-02-02 07:10:05+00:00
+layout: note
+slug: '%e7%94%a8freemind%e8%84%91%e5%9b%be%e8%bd%af%e4%bb%b6%e5%81%9a%e6%97%b6%e9%97%b4%e7%ae%a1%e7%90%86'
+title: 用Freemind脑图软件做时间管理
+wordpress_id: 1881
+categories:
+- 学点技术
+tags:
+- 时间管理
+- 软件
+---
+
+对于天马行空的人来说，没有比Freemind更合适的软件了。这是一款完全免费的思维导图软件，可以把你的心画出来。（[Freemind介绍及安装详见这里。](http://linux.bloghome.cn/posts/38408.html)）
+
+新年我想折腾点新花样，第一件事就是管理好时间。我用久负盛名的“四象限”法，把每天的事务按轻重缓急分成四类：
+
+重急的先做，重缓的早做，轻急的交给别人做，轻缓的干脆拖一拖。
+
+理论够棒，还欠工具，找了一些TODO LIST之类的软件都不满意，后来我想到了Freemind。用它来建任务导图，岂不正好？一试，果然。
+
+[![思维导图](http://farm4.static.flickr.com/3402/3246126271_caf8fc89d6_m.jpg)](http://www.flickr.com/photos/lookoo/3246126271/sizes/o/)
+
+（[点击可看大图](http://www.flickr.com/photos/lookoo/3246126271/sizes/o/)）
+
+时不我待，生命应该有更好的用途。尽人事，知天命，静享天赐每一天，你不可忘记管理好时间。
+
+

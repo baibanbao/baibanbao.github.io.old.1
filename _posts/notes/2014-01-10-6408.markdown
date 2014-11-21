@@ -1,0 +1,14 @@
+---
+author: admin
+comments: true
+date: 2014-01-10 15:11:09+00:00
+layout: note
+published: false
+slug: '6408'
+title: No Content Found
+wordpress_id: 6408
+categories:
+- 不好归类
+---
+
+少买硬件，多买软件，这才是理想的数字生活。

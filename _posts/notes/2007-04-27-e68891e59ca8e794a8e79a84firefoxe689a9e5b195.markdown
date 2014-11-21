@@ -1,0 +1,75 @@
+---
+author: admin
+comments: true
+date: 2007-04-27 23:45:50+00:00
+layout: note
+slug: '%e6%88%91%e5%9c%a8%e7%94%a8%e7%9a%84firefox%e6%89%a9%e5%b1%95'
+title: 我在用的Firefox扩展
+wordpress_id: 915
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+Firefox是什么就不用说了吧。以下是我经常使用的扩展插件：
+
+
+
+  * [All-in-One Gestures](http://perso.wanadoo.fr/marc.boullet/ext/extensions-en.html) 0.18.0
+鼠标轻松按。比如关闭一个窗口，只需要按住右键画一个L就够了，方便吧？
+
+  * [All-in-One Sidebar](http://firefox.exxile.net/aios/) 0.7.1
+左栏扩展，把FIREFOX的左栏利用起来，懒人的好办法。
+
+  * [del.icio.us](http://del.icio.us/) 1.2
+美味书签插件，有了它，我早已多年不用自带的书签了。
+
+  * [DownThemAll!](http://www.downthemall.net) 0.9.9.7
+一键下载，适合下载海量文件和图片。
+
+  * [Endnote](http://www.kuendig.net) 0.6.1
+文献引用管理软件Endnote的插件，可以把正在浏览的网页加入到Endnote的图书馆，对于写论文需要引用大量网页的学生来说比较有用。
+
+  * [FlashGot](http://flashgot.net) 0.5.98.070328
+下载管理器，跟‘快车’Flashget是同门同宗。
+
+  * [FoxLingo](http://www.concisefreeware.com/foxlingo.php) 2.1.4
+多语言翻译器，有40多种语言的翻译。比如对法国大选很关心，又不懂法语的话，可以使用这个插件。说到法译英，我觉得最好的是Google的翻译器，你可以设定成默认，自动翻译法语网页。
+
+  * [Gmail Notifier](http://www.nexgenmedia.net/extensions/) 0.5.6.5
+凡是用Gmail的都应该用这个插件。来信会自动通知。
+
+  * [Gmail Space](http://www.getgspace.com/) 0.5.6
+把Gmail的邮箱空间变成网络硬盘的插件。
+
+  * [Google Toolbar for Firefox](http://www.google.com/) 2.1.20060807W
+Google工具条，最常用。提醒一下，如果你下载的是中文工具条，一定记得在选项里把默认搜索的网站改成google.com，否则只能搜索google.cn这个垃圾。
+
+  * [IE Tab](http://ietab.mozdev.org/) 1.3.2.20070404
+微软IE再烂也是老大，没办法，有一些网站还是不支持Firefox，利用这个插件就不需要每次打开死慢的IE了。
+
+  * [Image Zoom](http://imagezoom.yellowgorilla.net/) 0.3
+图片放大镜。
+
+  * [Megaupload SX.3.2](http://www.pbreak.rg.com.br/) 3.2
+如果在国外经常下载电影的话，这个专门针对网络硬盘提供商MU的插件很有用。
+
+  * [MR Tech Local Install](http://www.mrtech.com/extensions/local_install/) 5.3.2.3
+管理插件的插件，我这篇文章就是它自动生成的。
+
+  * [Oak Vocabulary](http://gsm.chenzhiyuan.googlepages.com/OakVocabulary.html) 0.6.5
+劝君莫装金山词霸，用这个在线英文辞典吧，只要在不认识的单词上双击鼠标，就会弹出解释。很方便。当然如果你决定好好学习英语，最好是装电子版的Collins辞典。
+
+  * [ReminderFox](http://reminderfox.mozdev.org) 1.3
+一个小巧好用的即时贴，可以提醒你。。。坏了，我炖的牛肉快糊了。
+
+  * [ScribeFire](http://scribefire.com/) 1.4.0.1
+跟Wordpress等博客程序结合使用，写博更方便。不过话说回来，人要是一懒，装个机器人都没用。
+
+  * [Super DragAndGo](http://morphis.eu.org/) 0.2.6.1
+超级拖拽，可以把标签页拖来拖去，也可以把网页上的任何链接拖到一个打开的标签页或者新标签页上。不用老按鼠标右键选在新标签页打开了。
+
+  * [VideoDownloader](http://videodownloader.net/) 1.1.1
+下载视频的工具，我感觉很不好用。
+

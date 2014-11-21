@@ -1,0 +1,122 @@
+---
+author: No Content Found
+comments: true
+date: 2011-09-27 17:20:49+00:00
+layout: note
+slug: '%e4%bb%8e%e6%8e%92%e8%a1%8c%e6%a6%9c%e7%9c%8b%e8%af%ba%e8%b4%9d%e5%b0%94%e6%96%87%e5%ad%a6%e5%a5%96%e7%9a%84%e8%99%9a%e5%a6%84'
+title: 从排行榜看诺贝尔文学奖的虚妄
+wordpress_id: 6494
+categories:
+- 不好归类
+tags:
+- figure
+- literature
+- nobel prize
+---
+
+买了一个The Economist的app: World Figure，得到一些很无聊的数字，比如经济增长率最快的国家（赤道几内亚），农产品出产总量最大、粮食、肉、蔬菜产量最多的国家（盛产瘦肉精和膨大剂的那个国家）。不过也有一些有趣的数字，比如诺奖排行榜。
+
+
+
+<table ><tr >排序
+  国家
+  获文学奖人数
+</tr><tbody ><tr >
+<td align="left" >1
+</td>
+  
+<td align="right" >法国
+</td>
+  
+<td align="center" >15
+</td>
+</tr><tr >
+<td align="left" >2
+</td>
+  
+<td align="right" >美国
+</td>
+  
+<td align="center" >12
+</td>
+</tr><tr >
+<td align="left" >3
+</td>
+  
+<td align="right" >英国
+</td>
+  
+<td align="center" >11
+</td>
+</tr><tr >
+<td align="left" >4
+</td>
+  
+<td align="right" >德国
+</td>
+  
+<td align="center" >8
+</td>
+</tr><tr >
+<td align="left" >5
+</td>
+  
+<td align="right" >瑞典
+</td>
+  
+<td align="center" >6
+</td>
+</tr><tr >
+<td align="left" >6
+</td>
+  
+<td align="right" >意大利
+</td>
+  
+<td align="center" >5
+</td>
+</tr><tr >
+<td align="left" >6
+</td>
+  
+<td align="right" >西班牙
+</td>
+  
+<td align="center" >5
+</td>
+</tr><tr >
+<td align="left" >8
+</td>
+  
+<td align="right" >挪威
+</td>
+  
+<td align="center" >3
+</td>
+</tr><tr >
+<td align="left" >8
+</td>
+  
+<td align="right" >波兰
+</td>
+  
+<td align="center" >3
+</td>
+</tr><tr >
+<td align="left" >8
+</td>
+  
+<td align="right" >苏联/俄罗斯
+</td>
+  
+<td align="center" >3
+</td>
+</tr></tbody></table>
+
+从这个表格可以看出诺贝尔文学奖之荒诞。如果说法语、英语、德语文学在世界上占有重要地位的话，是因为他们文学传统深厚，那么瑞典获6个，挪威获3个，只能用近水楼台先得月来解释了。美国的12个奖也不合理，这么没文化的国家，还一下子出了12个文豪，谁信？
+
+
+
+
+
+所以千万不要把诺贝尔文学奖当回事。它只不过是一次国际化程度更高的茅盾文学奖而已。

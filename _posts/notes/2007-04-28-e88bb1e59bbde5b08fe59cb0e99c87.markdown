@@ -1,0 +1,19 @@
+---
+author: admin
+comments: true
+date: 2007-04-28 14:49:28+00:00
+layout: note
+slug: '%e8%8b%b1%e5%9b%bd%e5%b0%8f%e5%9c%b0%e9%9c%87'
+title: 英国小地震
+wordpress_id: 918
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+![EARTH QUAKE](http://farm1.static.flickr.com/193/475572364_6555b95e76_m.jpg)
+
+今晨8:15分，英国东部肯特郡发生了里氏4.3级的小地震，引起当地居民一阵恐慌。上网一看，只有[卫报的网站上首页有报道](http://observer.guardian.co.uk/uk_news/story/0,,2067792,00.html)，泰晤士报、独立报都没当回事。
+
+这已经是2002年以来英国最大规模的地震了。英国历史上地震很少，最大两次地震发生在1382和1580年的伦敦，6级，只死了两个人。

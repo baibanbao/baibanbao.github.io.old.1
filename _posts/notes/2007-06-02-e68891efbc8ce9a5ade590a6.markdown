@@ -1,0 +1,13 @@
+---
+author: admin
+comments: true
+date: 2007-06-02 22:19:40+00:00
+layout: note
+slug: '%e6%88%91%ef%bc%8c%e9%a5%ad%e5%90%a6'
+title: 我，饭否
+wordpress_id: 1017
+categories:
+- 学点技术
+---
+
+[![饭否](http://badge.fanfou.com/user_timeline/wangpei/single.png)](http://fanfou.com/wangpei)

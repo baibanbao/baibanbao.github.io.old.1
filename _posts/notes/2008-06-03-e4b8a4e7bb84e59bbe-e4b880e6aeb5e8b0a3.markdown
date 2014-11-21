@@ -1,0 +1,18 @@
+---
+author: admin
+comments: true
+date: 2008-06-03 08:42:56+00:00
+layout: note
+slug: '%e4%b8%a4%e7%bb%84%e5%9b%be-%e4%b8%80%e6%ae%b5%e8%b0%a3'
+title: 两组图 一段谣
+wordpress_id: 1583
+tags:
+- 写不如转
+- 地震
+---
+
+1、[中国的大坝能撑住吗？](http://www.time.com/time/photogallery/0,29307,1810268,00.html)
+
+2、[地震中的孩子](http://www.time.com/time/photogallery/0,29307,1809941,00.html)
+
+3、[控制报道](http://www.yuandatou.org/2008/06/xiaoshe-90.html)

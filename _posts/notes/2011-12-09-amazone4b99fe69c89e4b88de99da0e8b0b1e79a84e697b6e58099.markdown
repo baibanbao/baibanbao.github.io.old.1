@@ -1,0 +1,43 @@
+---
+author: No Content Found
+comments: true
+date: 2011-12-09 05:08:30+00:00
+layout: note
+slug: amazon%e4%b9%9f%e6%9c%89%e4%b8%8d%e9%9d%a0%e8%b0%b1%e7%9a%84%e6%97%b6%e5%80%99
+title: Amazon也有不靠谱的时候
+wordpress_id: 6480
+categories:
+- 不好归类
+---
+
+都说Amazon.com的购物体验好，根据我的实际经验，它也有严重不靠谱的地方。
+
+
+
+
+
+1、一个email可以注册多个账号，只要密码不同即可。这点极其混乱，因为你有时候进入了自己的账户，发现Gift Card Balance和购买记录变成了0，原来Amazon用你的邮箱给你心开了一个账号。最白痴的地方在于，你选择忘记密码，Amazon给你发过来的密码重置链接，也只能进入这个新开的账号。最后的办法只能电话AMAZON客服联系口语，才能解决。
+
+
+
+
+
+2、AMAZON的界面做得很好，但是也百密一疏。例如，进入moleskine笔记本的购买页面。
+
+
+
+
+
+![](http://media.tumblr.com/tumblr_lvx7kkBMeE1qz6vj8.png)
+
+
+
+
+
+居然下面是“告诉出版商，我也要Kindle版”，这就是个空白笔记本，Kindle你个头啊。
+
+
+
+
+
+凡事不可美化，亚马逊也不过如此而已。

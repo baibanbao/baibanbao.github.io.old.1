@@ -1,0 +1,14 @@
+---
+author: admin
+comments: true
+date: 2014-01-08 20:57:29+00:00
+layout: note
+published: false
+slug: '%e6%81%a2%e5%a4%8dtumblr'
+title: 恢复TUMBLR
+wordpress_id: 6388
+categories:
+- 不好归类
+---
+
+已经快一年没写tumblr了，现在看来，应当恢复用起来。 这个作为一个随手记的工具，挺好用的。它能够不让大脑停歇。 人是人容易产生惰性的，有了好的工具，会助人勤奋。

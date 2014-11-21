@@ -1,0 +1,14 @@
+---
+author: admin
+comments: true
+date: 2014-01-16 05:48:22+00:00
+layout: note
+published: false
+slug: '%e7%ba%a6%e7%bf%b0%e7%a6%8f%e9%9f%b33%ef%bc%9a16'
+title: 约翰福音3：16
+wordpress_id: 6434
+categories:
+- 不好归类
+---
+
+神爱世人，甚至将他的独生子赐给他们，叫一切信他的，不至灭亡，反得永生。

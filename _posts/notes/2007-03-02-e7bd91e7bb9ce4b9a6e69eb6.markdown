@@ -1,0 +1,20 @@
+---
+author: admin
+comments: true
+date: 2007-03-02 04:18:36+00:00
+layout: note
+slug: '%e7%bd%91%e7%bb%9c%e4%b9%a6%e6%9e%b6'
+title: 网络书架
+wordpress_id: 825
+tags:
+- 读书笔记
+---
+
+[天涯在线书库-->米歇尔·福柯 ](http://www.tianyabook.com/waiguo2005/f/fuke/index.html)
+
+[马克思《1844哲学经济学手稿（英文版初稿）》   ](http://www.eco.utexas.edu/faculty/Cleaver/368marxestrangedtable.pdf)
+
+[Jeff Ascough：国际知名的婚纱摄影](http://www.jeffascough.net/main.html)
+
+[赵月枝大众传播论文（中英文混杂](http://www.sfu.ca/communication/people/faculty/zhao_y.html)）
+ 

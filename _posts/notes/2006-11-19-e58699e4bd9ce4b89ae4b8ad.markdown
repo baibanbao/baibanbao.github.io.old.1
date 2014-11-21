@@ -1,0 +1,17 @@
+---
+author: admin
+comments: true
+date: 2006-11-19 14:11:43+00:00
+layout: note
+slug: '%e5%86%99%e4%bd%9c%e4%b8%9a%e4%b8%ad'
+title: 写作业中
+wordpress_id: 686
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+有事请联系我秘书
+
+![秘书](http://static.flickr.com/110/300883805_7e0a182770_o.gif)

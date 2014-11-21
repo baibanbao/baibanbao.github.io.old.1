@@ -1,0 +1,44 @@
+---
+author: admin
+comments: true
+date: 2007-06-15 02:31:28+00:00
+layout: note
+slug: '%e5%8d%9a%e5%ae%a2%e6%89%b9%e6%b3%a8linebuzz'
+title: 博客批注Linebuzz
+wordpress_id: 1055
+categories:
+- 学点技术
+---
+
+
+
+
+没什么心情写内容，倒是有精神玩技术。从和菜头那里看到[Linebuzz](http://linebuzz.com/)后，就装了一个玩玩。Linebuzz是个博客批注工具，你看到的文字可以加上自己的评论，比起文章後的留言来，更加精确和方便。
+
+
+
+
+大家看到本行文字下面多了一条虚线，鼠标放上去，就会出现一行小英文，再一点，就是评论了。
+
+
+
+
+Linebuzz注定很小众，但很适合客源稀少像我这样的Blogger玩。
+
+
+
+
+同时把这小玩意也推荐给同样小众的[卫生保健观察](http://rthryip.blogspot.com/2007/06/blog-post_8776.html)。
+
+
+
+
+外面在下雨，很深的夜，很大的雨。收拾心情，开始干活。
+
+
+
+
+
+  
+  Technorati : [linebuzz](http://technorati.com/tag/linebuzz) 
+

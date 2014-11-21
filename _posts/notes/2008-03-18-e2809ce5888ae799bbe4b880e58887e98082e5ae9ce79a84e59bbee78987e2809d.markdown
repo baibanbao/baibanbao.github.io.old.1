@@ -1,0 +1,36 @@
+---
+author: admin
+comments: true
+date: 2008-03-18 12:17:31+00:00
+layout: note
+slug: '%e2%80%9c%e5%88%8a%e7%99%bb%e4%b8%80%e5%88%87%e9%80%82%e5%ae%9c%e7%9a%84%e5%9b%be%e7%89%87%e2%80%9d'
+title: “刊登一切适宜的图片”
+wordpress_id: 1407
+categories:
+- 不好归类
+tags:
+- 不好归类
+- 新闻
+- 汉藏语系
+- 纽约时报
+---
+
+《纽约时报》的信条是，“刊登一切适宜的新闻（All the News That’s Fit to Print）”。
+
+3月18日，《纽约时报》网站在[一篇关于拉啊萨的“适宜的新闻”](http://www.nytimes.com/2008/03/18/world/asia/18china.html?r=1&hp&oref=slogin)标题下，配上了一张更事宜的图片。
+
+![尼泊尔图片](http://pic.yupoo.com/ctb.my/5798454324fa/medium.jpg)
+
+一般读者看到这位被拖曳的喇嘛后什么感觉？会觉得北京正在镇压，而且用的是很不和平的手段。
+
+但是细心的读者会发现，照片下面有两行说明文字。
+
+[![在尼泊尔加德满都，一位在联合国门前示威的藏喇嘛正在被拖走](http://pic.yupoo.com/ctb.my/46907543249c/medium.jpg)](http://pic.yupoo.com/ctb.my/46907543249c/c0nrrp6w.jpg)
+
+上面的英文写道“A Tib-etan monk was dragged away by the police in Katmandu, Nepal, on Monday during a rally at United Nations offices”。“在尼泊尔加德满都，一位在联合国门前示威的藏喇嘛正在被拖走”。
+
+这个错误被发现后，纽约时报又换了一张照片。
+
+[事件讨论现场](http://www.newsmth.net/bbstcon.php?board=MilitaryView&gid=429011)。
+
+讽刺的是，当人们（包括本人）斗牛士一样，兴奋地批评西方媒体新闻误导的时候，连那个地名的汉字和英文都不敢直接写，只能写成“西囧藏”。

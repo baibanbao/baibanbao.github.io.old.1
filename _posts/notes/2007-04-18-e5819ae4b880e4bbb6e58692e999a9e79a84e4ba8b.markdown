@@ -1,0 +1,62 @@
+---
+author: admin
+comments: true
+date: 2007-04-18 00:18:33+00:00
+layout: note
+slug: '%e5%81%9a%e4%b8%80%e4%bb%b6%e5%86%92%e9%99%a9%e7%9a%84%e4%ba%8b'
+title: 做一件冒险的事
+wordpress_id: 888
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+这是一个冒险的年代，冒险才能博出位，冒险才能赚眼球，冒险才能得到外交部发言人的关注。在这月飞风高之夜，我准备做一件冒险的事，把本站使用Wordpress升级，从2.0到2.12。
+
+为什么突然想起了升级，因为我的托管商Godaddy sucks（为保护青少年，此句不宜翻译成中文了）。最近，只要我选择发表或者修改文章，就会出现下面的出错信息，现在就演示给大家看--
+
+奇怪，可能是Wordpress看懂了我要写的内容，居然一下子不出错了。
+
+那么我还要不要升级呢？升级还是不升级？这是一个问题。默然忍受数据库暴虐的毒箭，或者挺身反抗Wordpress无涯的痛苦，这两者哪一种更重要呢？
+
+真让人矛盾。
+
+我知道虽然这个问题暂时消失了，但是过几天还会再次出现。简单地说，问题是这样的，出错信息显示：
+
+
+
+
+
+<blockquote>WordPress database error: [Lost connection to MySQL server during query]
+DELETE FROM wp_postmeta WHERE Post_ID = 594 AND meta_key = 'sticky';
+
+WordPress database error: [MySQL server has gone away]
+INSERT INTO wp_postmeta (post_id,meta_key,meta_value) VALUES ('594','_pingme','1')
+
+WordPress database error: [MySQL server has gone away]
+INSERT INTO wp_postmeta (post_id,meta_key,meta_value) VALUES ('594','_encloseme','1')
+
+WordPress database error: [MySQL server has gone away]
+SELECT ID FROM wp_posts WHERE TRIM(to_ping) != '' LIMIT 1
+
+WordPress database error: [MySQL server has gone away]
+SELECT post_id FROM wp_postmeta WHERE meta_key = '_pingme' OR meta_key = '_encloseme' LIMIT 1</blockquote>
+
+
+
+这一问题在[WP论坛上早有高人发现并讨论之](http://wordpress.org/support/topic/110182)，最终发现是Godaddy使用的mysql server出现了问题，有[达人给出解决方案](http://www.openadvent.com/blog/?p=30)，就是修改wp-includes/wp-db.php这个文件。这个好心人还亲自做了一个修改后的文件放到他的博客上，供人下载。
+
+这对我很具诱惑力，因为我实在不愿看到自己网站的程序总是出错，虽然帖子照样能够发表上去，但是带来的感觉跟下雨淋病一样。在技术方面，我是个完美主义者，我不能容忍这样的事情一而再再而三地发生。
+
+所以我决定升级。升到2.12，使用这个修改后的文件。
+
+请教和菜头，他会告诉你，WP的升级谈何容易。所谓经典5步法，就像销毁魔戒的旅程，充满了不可预知的艰险，稍有不慎，前功尽弃不说，而且还要花费更多的时间恢复到原始状态。弄来弄去，可能再弄一个“裸奔资本主义”出来，早知现在何必当初啊。
+
+另外我也实在不知道2.12跟2.0有什么区别，程序这个东西无所谓落后先进，够用就好。
+
+想来想去，我还是没有说服自己升级换代。唉，网络把多少文科生逼成了工程师啊。
+
+就在我犹豫要不要升级的时候，那个可恨的错误又出现了。下定决心，两天内完成博客升级。
+
+

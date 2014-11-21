@@ -1,0 +1,25 @@
+---
+author: admin
+comments: true
+date: 2008-05-06 16:48:15+00:00
+layout: note
+slug: '%e6%91%84%e5%bd%b1%e6%b2%bb%e7%96%97%e8%84%91%e6%ae%8b'
+title: 摄影治疗脑残
+wordpress_id: 1522
+tags:
+- 摄影
+- 走走拍拍
+- 黑白
+---
+
+[![02-canal](http://pic.yupoo.com/ctb.my/55331584007c/medium.jpg)](http://www.yupoo.com/photos/view?id=ff80808119bd6c070119bf1cf4c7395f)
+
+桥下
+
+[![01mirror](http://pic.yupoo.com/ctb.my/28520584007d/medium.jpg)](http://www.yupoo.com/photos/view?id=ff80808119bd6c070119bf1cf3d5395e)
+
+镜中
+
+[![03-waiting](http://pic.yupoo.com/ctb.my/46619584007c/medium.jpg)](http://www.yupoo.com/photos/view?id=ff80808119bd6c070119bf1cf5383960)
+
+痴等

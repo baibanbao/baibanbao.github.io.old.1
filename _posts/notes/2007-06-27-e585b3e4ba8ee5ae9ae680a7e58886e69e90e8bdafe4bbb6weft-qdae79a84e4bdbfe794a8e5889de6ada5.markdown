@@ -1,0 +1,30 @@
+---
+author: admin
+comments: true
+date: 2007-06-27 06:55:56+00:00
+layout: note
+slug: '%e5%85%b3%e4%ba%8e%e5%ae%9a%e6%80%a7%e5%88%86%e6%9e%90%e8%bd%af%e4%bb%b6weft-qda%e7%9a%84%e4%bd%bf%e7%94%a8%e5%88%9d%e6%ad%a5'
+title: 定性分析软件WEFT QDA使用初步
+wordpress_id: 1079
+categories:
+- 学点技术
+---
+
+有网友问起[Weft QDA](http://www.pressure.to/qda/)的使用方法，其实这些方法在[使用文档](http://www.pressure.to/qda/doc/)里都有，如果英文4级左右，花上一个半小时就会完全掌握。下面我简单介绍一下：
+
+[WEFT QDA](http://www.pressure.to/qda/)其实不复杂，你就把它当成一文本处理辅助软件就行了。比如你有20篇采访手稿，可以导入QDA。根据你要研究的主题，设定categories。也就是类别，类别的字数可以长一点也没关系。比如，我就针对采访设了这样的类别：
+
+what kind of opinion can influence the government
+what should internet users do to voice their opinion
+how will the government treats criticism
+
+然后，把导入文本中相关的内容选中，用这样一个类别归类。
+
+大量处理之后，你手里的文本就变得很清晰了。
+
+比如，你选：what kind of opinion can influence the government 看。
+
+里面一下子可以出来20个人的观点，这样便于你归类分析。
+
+当然在QUALITATIVE软件里，QDA不是最好的，甚至说是最简陋的。但它除了免费之外，还有个目前其他软件无法取代的优点，支持中文！而其余的HyperResearch这样售价300多美元的软件的破解版，虽然可以下载到，但是不支持亚洲字符，导入一篇中文文档之后，会90度倾斜，且无法纠正。真会活生生把你给气死。
+

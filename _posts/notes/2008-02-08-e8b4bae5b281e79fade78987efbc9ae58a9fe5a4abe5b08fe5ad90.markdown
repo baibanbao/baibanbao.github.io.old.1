@@ -1,0 +1,21 @@
+---
+author: admin
+comments: true
+date: 2008-02-08 01:42:22+00:00
+layout: note
+slug: '%e8%b4%ba%e5%b2%81%e7%9f%ad%e7%89%87%ef%bc%9a%e5%8a%9f%e5%a4%ab%e5%b0%8f%e5%ad%90'
+title: 贺岁短片：功夫小子
+wordpress_id: 1359
+categories:
+- 学点技术
+tags:
+- 儿童
+- 原创
+- 短片
+- 视频
+---
+
+白板报荣誉出品
+领衔主演：张若萸（导演的小外甥女）
+
+

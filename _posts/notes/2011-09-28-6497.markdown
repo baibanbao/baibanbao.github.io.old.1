@@ -1,0 +1,17 @@
+---
+author: No Content Found
+comments: true
+date: 2011-09-28 17:43:46+00:00
+layout: note
+slug: '6497'
+title: No Content Found
+wordpress_id: 6497
+categories:
+- 不好归类
+post_format:
+- Quote
+---
+
+<blockquote>《美丽公主》这幅画现在的主人是居住在瑞士的加拿大人 彼得 • 希尔威尔曼（Peter Silverman） ，他于1999年在纽约的一个拍卖会上以两万一千美金的价钱到手，这幅画的作者被确认是达芬奇之后，价钱足足涨了五千倍，达到一亿美金。</blockquote>
+
+[达•芬奇的 “漂亮公主” | RFI](http://www.chinese.rfi.fr/node/92588)

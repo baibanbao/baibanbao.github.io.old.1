@@ -1,0 +1,17 @@
+---
+author: admin
+comments: true
+date: 2007-03-14 00:50:23+00:00
+layout: note
+slug: '%e5%ae%bf%e8%88%8d%e6%96%ad%e7%bd%91%e4%b8%80%e5%91%a8%e4%ba%86'
+title: 宿舍断网一周了
+wordpress_id: 840
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+修到现在没有恢复，连写Blog的兴致都没了。
+
+据说未来两天之内修好，到时候再写吧。

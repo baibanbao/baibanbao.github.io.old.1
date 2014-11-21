@@ -1,0 +1,47 @@
+---
+author: admin
+comments: true
+date: 2009-02-24 17:11:57+00:00
+layout: note
+slug: '%e5%86%8d%e8%af%b4%e4%b8%80%e4%b8%8b%e8%8b%b1%e8%af%ad%e8%af%8d%e5%85%b8'
+title: 再说一下英语词典
+wordpress_id: 1936
+tags:
+- 翻译练习
+- 英语
+- 词典
+---
+
+一、孟京辉、两只狗与词典的两大派
+
+这些天恶补了一些词典知识，终于搞懂了什么是规定性（prescriptive）词典，什么是描写性（descriptive）词典。
+
+所谓规定性，就是对语言做出硬性的规定和示范，指出这样说是对的，那样说是错的。对于这套东西，我们毫不陌生，我们从小受过的语言的教育，几乎都属于这种流派。还记得，老师怎样谆谆告诫量词的用法吗？一头牛，一匹马，一口猪，一条狗……为什么不能说一只牛，一只狗呢？老师会告诉你，那样搭配是不对的。你追问为什么不对，老师脸色已经有点难看，但还是强忍着愤怒说，书上说的。你再问：书上说的，一定对吗？估计一个耳光就会劈面而来。
+
+而描写性，认为语言没有对错之分，只有使用频度不同之别。只要这个语言大家都在用，那就应该接受。随着计算机技术的应用，在英文世界里，大量的语料库被建立起来。语言成为可以用计算机精确统计的东西。这下好了，只要某个词频率出现高，那么它就应该出现在词典里，只要某个说法大家都在用，就没有任何权威敢说它不对。与规定性相比，描写性人道了很多。先锋戏剧导演孟京辉排过一个话剧《两只狗的生活意见》，当初我对这个名字很有意见，觉得只有不规范的台湾国语采用“只”做狗的量词。了解了描写派，我释然了，两只狗就两只狗好了。既然社会上没文化的人都这么说，我们又有什么办法呢？
+
+现在的词典世界，是描写性词典的天下。当然规定性词典也没有退出历史舞台。《美国传统词典》（American Heritage Dictionary 4th），就是两者平衡的代表，它破天荒地设立了陪审团制度（panel），对于有争议的用法，就由100人的陪审团投票解决。例如：An't I--这个说法，在词典里也列出，但是同时指出，99个人反对这种用法。
+
+二、简明牛津（COED）是本实用有趣的词典
+
+词典并不是越大越好，牛津英语词典（OED）够大了，但是对于芸芸众生却没有多大用处。因为它是历史性词典，特点追溯词源、侧重词语的变迁、列举英语经典作品里的例句。同理它的二弟，《牛津英语词典简编》（SOED），也属于历史性词典，知识篇幅体量小一些而已。
+
+我们需要什么样的词典，这个因人而异。但是对于大部分人来说，共时性词典，恐怕是必不可少的。何为共时性，就是当代人可以用的，不瞄准历史，指注重现实的。这类词典有时冠以“当代”等名堂，比如：《朗文当代英语词典 5th》（Longman Dictionary of Contemporary English）。当然，很多人认为最好的公时性词典就是牛津家族的四弟《Concise Oxford English Dictionary 11th》（《简明牛津英语词典 第11版》），这本词典2008年已经出到了11版的修订版。简称：COED11
+
+COED好在哪儿？它条目清爽，内容中等，符合当代人的需要之外，依然保留着牛津的风格。例如，解释词的时候，它会追根溯源。虽然篇幅不长，但令人受益很深。
+
+例如：Cloud我们都知道是云，但是它最初的含义是什么呢？COED11孜孜不倦地为我们介绍起来：
+
+WORD HISTORY
+	The earliest use of cloud is recorded in Old English, in the sense 'a mass of rock; a hill'; from this sense arose a number of place names, such as Thorp Cloud, a hill in Derbyshire. Later it was used in the same sense as clod to mean 'a lump of earth or clay'; indeed it is likely that cloud, clod, and clot come ultimately from the same root. The current sense, 'mass of watery vapour', is first recorded in a reference in the medieval work the Cursor Mundi to the sun climbing the clouds.
+
+原来cloud最初的意思hill，是山峦的意思。
+
+再比如：gossip我们知道是“散布流言蜚语”“嚼舌头”“八卦”的意思，可它最初的意思可不是这样。
+
+WORD HISTORY
+	A gossip was originally a rather more serious and worthy person than they are now. In Old English the word was spelled godsibb and meant 'godfather or godmother', literally 'a person related to one in God'; it came from sibb 'a relative', the source of sibling. In medieval times a gossip was 'a close friend, a person with whom one gossips', hence 'a person who gossips', later (early 19th century) 'casual conversation about other people'.
+
+COED11介绍说，原来gossip本义是“教父教母”，在中世纪，演变成“能说私房话的亲近的朋友”，再后来到了19世纪，才变成现在的意思“关于别人的闲聊”
+
+我推荐COED11的原因还有一个重要原因，它有光盘安装版。请看下篇：各类光盘版英语字典试用手记。

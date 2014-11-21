@@ -1,0 +1,18 @@
+---
+author: admin
+comments: true
+date: 2006-09-09 10:14:55+00:00
+layout: note
+slug: '%e5%90%ac%e4%b8%80%e9%a6%96%e6%ad%8c'
+title: 听一首歌
+wordpress_id: 604
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+词曲唱：张广天（点击按钮播放）
+
+[http://www.wangpei.net/blog/wp-content/uploads/2006/09/MZD1.MP3](http://www.wangpei.net/blog/wp-content/uploads/2006/09/MZD1.MP3)
+

@@ -1,0 +1,20 @@
+---
+author: admin
+comments: true
+date: 2006-09-14 06:14:22+00:00
+layout: note
+slug: '%e7%89%9b%e5%8d%9a%e9%80%9a%e5%91%8a'
+title: 转牛博通告
+wordpress_id: 615
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+[老罗搜狐博客上的通告](http://luoyonghao.blog.sohu.com/)：
+
+2006-09-14 | 牛博所在的机房升级硬件设施导致暂时不能访问
+牛博所在的机房升级硬件设施导致暂时不能访问，应该一两个小时之内就好了。
+
+<del>牛博无法登陆，技术性故障，正在排查中。</del>

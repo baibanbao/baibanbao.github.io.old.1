@@ -1,0 +1,20 @@
+---
+author: admin
+comments: true
+date: 2012-11-04 04:54:51+00:00
+layout: note
+slug: what-i-rea
+title: 不读微博读什么
+wordpress_id: 5631
+categories:
+- 非虚构叙事
+tags:
+- 微博
+- 朋友
+- 读书
+- 谈话
+---
+
+不上微博已经24天。是“不上”，而不是“戒”，
+也许，你也可以来尝试一。
+

@@ -1,0 +1,51 @@
+---
+author: admin
+comments: true
+date: 2010-04-23 18:01:54+00:00
+layout: note
+slug: 123a
+title: 123诗社杭州唱读会精编版（上）
+wordpress_id: 3231
+categories:
+- 不好归类
+tags:
+- 123诗社
+---
+
+**【编者按】那些属于诗歌的夜晚已无法重复，面对当晚海量的录音，我们所能做的就是尽量做出一个满意的版本。由于用iPhone录音，每个人距离麦克风的距离都不一样，因此声音很细弱。在后期制作中，我们把声音放大、消噪、缩混，希望能够再现那天晚上的盛况。现在把当晚主要精华录音重新放送，具体就不介绍了。**
+
+1、开场曲：刘桂兰、冯一刀、王佩吉他弹唱《我要飞》（张广天词曲）
+
+[audio:http://p.paowang.net/file/poem/422/422-feng-gao-woyaofei.mp3]
+
+浏览器不支持Flash？[请点这里](http://p.paowang.net/file/poem/422/422-feng-gao-woyaofei.mp3)
+
+2、纳纳、snoopy、冯一刀、吴凡、王佩朗诵《相信未来》（作者食指）
+
+[audio:http://p.paowang.net/file/poem/422/422-all-xiangxinweilai.mp3]
+
+浏览器不支持Flash？[请点这里](http://p.paowang.net/file/poem/422/422-all-xiangxinweilai.mp3)
+
+3、冯一刀朗诵《船票》（作者北岛）
+
+[audio:http://p.paowang.net/file/poem/422/422-feng-chuanpiao.mp3]
+
+浏览器不支持Flash？[请点这里](http://p.paowang.net/file/poem/422/422-feng-chuanpiao.mp3)
+
+4、纳纳朗诵《致橡树》（作者舒婷）
+
+[audio:http://p.paowang.net/file/poem/422/422-nana-woruguoaini.mp3]
+
+浏览器不支持Flash？[请点这里](http://p.paowang.net/file/poem/422/422-nana-woruguoaini.mp3)
+
+5、王佩吉他弹唱《圣人孔子》（张广天词曲）+《诗经-静女》
+
+[audio:http://p.paowang.net/file/poem/422/422-wp-shengrenkongzi.mp3]
+
+浏览器不支持Flash？[请点这里](http://p.paowang.net/file/poem/422/422-wp-shengrenkongzi.mp3)
+
+6、Snoopy朗诵《荒原》片段（作者艾略特）
+
+[audio:http://p.paowang.net/file/poem/422/422-snoopy-huangyuan.mp3]
+
+浏览器不支持Flash？[请点这里](http://p.paowang.net/file/poem/422/422-snoopy-huangyuan.mp3)

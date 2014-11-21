@@ -1,0 +1,30 @@
+---
+author: admin
+comments: true
+date: 2007-06-09 07:16:38+00:00
+layout: note
+slug: '%e5%8f%88%e5%a2%9e%e5%9f%9f%e5%90%8d%e4%b8%80%e6%9e%9a%ef%bc%9abaibaninfo'
+title: 又增域名一枚：baiban.info
+wordpress_id: 1042
+categories:
+- 学点技术
+---
+
+我如果穿上西服打上领结，身上斜挎一个人造革包，肯定很像一个做网站卖域名的。
+
+以前一冲动就喜欢买域名，比如去年世界杯期间，我跟耗子、小李、小陈一起折腾系列短片《我恨世界杯》，我就买下了IHateWorldCup.com。前几天收到注册商的信，说域名到期，续费否？我说我已经改恨亚洲杯了。
+
+不过这不是我最丢人的经历。有一年拿到一笔千八元的稿费，一冲动，注册了9个域名，包括但不限于：chinabizblog.com, chinatopblog.com, chinateablog.com, lenovoblog.com, huaweiblog.com, haierblog.com, wahahablog.com……唉，都是对blog商业前景判断有误造成的。早知道就只注册娃哈哈那个，租借给宗庆后。
+
+后来，我学聪明了，域名捡便宜的买。一度.info域名只卖不到2美元一年，我就注册了一个baiban.info。年初的事了，当初选这个域名是因为跟和菜头的caobian.info很亲近。
+
+前两年曾经大家一度默契都去注册Myname.com的域名，才有了hecaitou.net, wangpei.net, luoyonghao.net。不知道在我跟菜头的带领下，会不会流行注册.info。
+
+现在白板报已经有三个域名了：
+
+baibanbao.net
+baiban.info
+wangpei.net 还在等待托管商答复，是否指过来，下周再定。
+
+有巨大防火墙在，良民也不得不狡兔三窟。
+

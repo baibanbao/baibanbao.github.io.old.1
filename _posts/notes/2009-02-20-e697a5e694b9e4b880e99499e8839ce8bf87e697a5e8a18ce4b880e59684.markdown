@@ -1,0 +1,48 @@
+---
+author: admin
+comments: true
+date: 2009-02-20 19:36:22+00:00
+layout: note
+slug: '%e6%97%a5%e6%94%b9%e4%b8%80%e9%94%99%e8%83%9c%e8%bf%87%e6%97%a5%e8%a1%8c%e4%b8%80%e5%96%84'
+title: 日改一错胜过日行一善
+wordpress_id: 1925
+tags:
+- 学习
+- 翻译练习
+- 英语
+- 词典
+---
+
+我那篇关于如果选购英文辞典的博文《[爱上一本好词典](http://www.baibanbao.net/?p=1916)》发出后，很多朋友来函来电，指正其中的疏漏之处。
+
+某个默默引导我的同学提醒道，我这篇文章最大的问题在于，只知道推荐Descriptive（解释性）的辞典，而不知道推荐Prescriptive（规定性）的辞典。而这两者恰恰是辞典编辑中，两大流派。我哪里知道这些流派，我看到邻居二大爷抡起铁锨追他儿，还以为这就是武功的最高境界呢。
+
+Mason同学则向我推荐了一个更牛的台湾学者，陈乔治老师。陈老师一生似乎只干一件事，不断地买新辞典并且向人们公布自己的测评。看了他老《[辞典选用的基本观念](http://georgechen.idv.tw/wordpress/?p=90)》，我才恍悟：却原来是，寐寐我思之，哥哥你错了。
+
+由于陈乔治先生喜欢用字典缩写，我查了半天才明白他的意思。他认为，对于初学查字典的人，应该选择下面五本。
+
+1. LDOCE4v2 （Longman Dictionary of Comtemporary English 4.2 《朗文英语当代大词典》）
+
+2. MED2 （McMillan English Dictionary 2 《麦克米兰英语词典》）
+
+3. Collins Cobuild 5 （Collins Cobuild Advanced Learner‘s English Dictionary 《柯林斯高级英语学习词典》5）
+
+4. CALD2 （Cambridge Advanced Learner Dictionary 2 《剑桥高阶学习字典》）
+
+5. OALD7 （Oxford Advanced Learner Dictionary 7 《牛津高阶英语词典》）
+
+对于已经得其门而入的人来说，可以选择下面五本。
+
+1. MW11 （M-W 11th Collegiate 《韦氏学院字典》 [去卓越买](http://www.amazon.cn/detail/product.asp?uid=168-9608664-9584208&prodid=enbk609896&ref=SC_SL)）
+
+2. CED （Collins English Dictionary 《柯林斯英语辞典》）
+
+3. AHCD4 （American Heritage College Dictionary, Fourth Edition 美国传统大学词典 4）
+
+4. WNWCD4 （Webster's New World College Dictionary, Fourth Edition (Book with CD-ROM) 韦氏新世界大学辞典）
+
+5. RHCD （Random House Webster’s College Dictionary 蓝登书屋韦氏大学词典）
+
+这些词典有个共同的特点，都有光盘版，也就是说都可以下载，安装到电脑上。在一口气试用了几本词典之后，我要给《朗文英语当代大词典》的光盘版打接近满分。（注意，不是我上一帖推荐的那个《朗文当代英语大辞典》，那一本的原名是：朗文英语语言与文化辞典。）无论是界面，还是发音，这个辞典都堪称完美。
+
+字典的作用是为了叫人认字，多使用多阅读才是王道，在此对我前一篇文章纠错，希望大家尽情享受电子字典带来的方便和实惠，不过允许我冰冷提示，凡事都有度，千万不要变成“字典控”，

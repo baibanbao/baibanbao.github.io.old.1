@@ -1,0 +1,18 @@
+---
+author: admin
+comments: true
+date: 2008-11-23 17:08:19+00:00
+layout: note
+slug: '%e8%af%b7%e5%a4%a7%e5%ae%b6%e5%8d%8f%e5%8a%a9%e6%9d%a5%e5%81%9a%e4%b8%80%e4%b8%aa%e5%9c%a8%e7%ba%bf%e8%b0%83%e6%9f%a5'
+title: 请大家协助来做一个在线调查
+wordpress_id: 1779
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+[](http://www.diaochaquan.cn/08/backend/sv/MySurveyPageEditor.jsp?hl=zh-CN&intSG_ID=D463C75C82493740)[关于杭州地铁的传播学调查](http://www.diaochaquan.cn/08/front/showSv.jsp?SVC=E4408666E421E4DA)  
+
+
+<blockquote></blockquote>

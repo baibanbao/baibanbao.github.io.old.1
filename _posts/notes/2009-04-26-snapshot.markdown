@@ -1,0 +1,18 @@
+---
+author: admin
+comments: true
+date: 2009-04-26 04:07:08+00:00
+layout: note
+slug: snapshot
+title: 随手拍的
+wordpress_id: 2044
+categories:
+- 爱看电影
+tags:
+- 摄影
+- 走走拍拍
+---
+
+![大桥下面](http://farm4.static.flickr.com/3653/3475401356_cd236267e5.jpg?v=0)
+
+正午阳光直射，平常上班路上的大桥把天地分成了黑白二界。来不及构图，生怕光影霎时就不见了。

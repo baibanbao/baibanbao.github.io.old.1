@@ -1,0 +1,20 @@
+---
+author: admin
+comments: true
+date: 2007-10-26 18:18:03+00:00
+layout: note
+slug: '%e4%b8%ba%e4%bb%80%e4%b9%88%e5%8f%abchange'
+title: 为什么叫chang'e
+wordpress_id: 1229
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+老师：同学们，chang'e上天，你们高兴吗？
+
+学生：高兴。可是老师，为什么叫chang'e？要知道她奔月之后，就再也不回来了。
+
+老师：对呀，下次载人的时候，应该改个名字。
+

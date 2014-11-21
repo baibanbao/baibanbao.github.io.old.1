@@ -1,0 +1,31 @@
+---
+author: admin
+comments: true
+date: 2008-07-18 01:18:57+00:00
+layout: note
+slug: '%e2%80%9c%e6%96%b0%e6%96%b0%e9%97%bb%e2%80%9d%e7%9a%84%e5%9b%9b%e5%a4%a7%e7%89%b9%e5%be%81'
+title: “新新闻”的四大特征
+wordpress_id: 1645
+tags:
+- 新闻
+- 白板报报道
+- 读书笔记
+---
+
+汤姆-沃尔夫（Tom Wolfe ）是“新新闻运动”的创始人。所谓新新闻运动，是世界山河一片红的六十年代兴起的一种把文学手法引入新闻写作的运动，代表人物除了老沃，还有Truman Capote, Hunter S. Thompson, Norman Mailer, Joan Didion, Robert Christgau等人。
+
+新新闻不是小说，因为它遵循非虚构写作的基本特征。按照老沃的说法，新新闻写作有四大特征：
+
+1、只要有可能，就是用场景来讲故事，而不是用传统的历史叙述的方式。
+
+2、完整的对话（记录对话和演说，而不是频繁引用和转述。）
+
+3、第三人视角（每个场景都通过特定人物的眼睛来呈现。）
+
+4、记录日常生活的细节，比如：行为、财产、亲友（这揭示了人物的生活状态。）
+
+延伸阅读：[老沃的访谈](http://findarticles.com/p/articles/mi_m1282/is_n24_v39/ai_6199633)
+
+新新闻的代表作之一：[Grooving in Chi ](http://www.pbs.org/newshour/convention96/retro/southern.html)
+
+[维基百科中关于老沃的词条](http://en.wikipedia.org/wiki/Tom_Wolfe)

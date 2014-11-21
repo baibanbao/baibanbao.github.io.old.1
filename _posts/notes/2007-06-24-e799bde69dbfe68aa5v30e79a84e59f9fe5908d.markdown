@@ -1,0 +1,46 @@
+---
+author: admin
+comments: true
+date: 2007-06-24 05:37:36+00:00
+layout: note
+slug: '%e7%99%bd%e6%9d%bf%e6%8a%a5v30%e7%9a%84%e5%9f%9f%e5%90%8d'
+title: 白板报v3.0的域名
+wordpress_id: 1067
+categories:
+- 学点技术
+---
+
+一早醒来，看到这么多留言。心中大喜。今后，你可以键入以下域名访问白板报v3.0：
+
+
+
+
+[www.babybao.net](http://www.babybao.net)
+
+
+
+
+[www.baibanbao.net](http://www.baibanbao.net)
+
+
+
+
+[www.baibanbao.com](http://www.baibanbao.com) （感谢网友"500年前"友情相赠。）
+
+
+
+
+（后两者DNS正在设置中，大约24小时后可以访问。）
+
+
+
+
+如果你采用RSS订阅，请确认你订阅了这一个动态更新、永不消逝的种子：
+
+
+
+
+[http://feeds.feedburner.com/wangpei](http://feeds.feedburner.com/wangpei)
+
+
+

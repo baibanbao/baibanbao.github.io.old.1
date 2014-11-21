@@ -1,0 +1,22 @@
+---
+author: admin
+comments: true
+date: 2006-10-31 22:04:24+00:00
+layout: note
+slug: hecaitounet%e5%a4%84%e4%ba%8e%e5%bc%82%e5%b8%b8%e7%8a%b6%e6%80%81%e4%b8%ad-at-%e3%80%8a%e6%a7%bd%e8%be%b9%e5%be%80%e4%ba%8b%e3%80%8b%e2%80%94%e6%af%94%e7%89%b9%e6%b5%b7%e6%97%a5%e5%bf%97
+title: hecaitou.net处于异常状态中 at 《槽边往事》—比特海日志
+wordpress_id: 651
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+**Update：hecaitou.net异常原因现已查明，原来果然是[人品问题](http://www.caobian.info/?p=1230)！**
+
+稳定之前，请访问：[www.caobian.info](http://www.caobian.info)
+
+详情请参见和菜头公告：
+
+[hecaitou.net处于异常状态中 at 《槽边往事》—比特海日志](http://www.caobian.info/?p=1224)
+

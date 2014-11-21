@@ -1,0 +1,72 @@
+---
+author: No Content Found
+comments: true
+date: 2011-09-25 20:28:00+00:00
+layout: note
+slug: '%e5%9c%a8mac%e4%b8%8b%e5%a6%82%e4%bd%95%e4%ba%8b%e5%8d%8a%e5%8a%9f%e5%80%8d%e5%9c%b0%e5%ad%a6%e8%8b%b1%e8%af%ad'
+title: 在Mac下如何事半功倍地学英语
+wordpress_id: 6492
+categories:
+- 不好归类
+---
+
+工欲善其事，必先利其器。
+
+
+
+
+
+如果用mac学英语会事半功倍，我现在的学习方法是：
+
+
+
+
+
+  1. 安装《牛津英语辞典》OED，这是所有英语辞典之王，纸质版有20多卷，电子版有一张光盘，幸运的是借助bt，我们可以下载到。
+
+
+
+  2. 安装一个碎片信息整理软件，[yojimbo](http://www.barebones.com/products/yojimbo/)是一个选择，当然未必是最好的选择。不过用起来十分爽利。
+
+
+
+  3. Let's go.
+
+
+
+
+我的方法是：
+
+
+
+
+
+  * 首先为yojimbo设定一个快捷键。我设定的是：⌥⌘z（无它，三个键挨着很方便）
+
+
+
+具体设置方法如下：进入preference-keyboard.
+
+
+
+
+
+![](http://media.tumblr.com/tumblr_ls3hwgZB7N1qz6vj8.png)
+
+
+
+
+
+  * 进入英语媒体网站（我个人比较喜欢的是The Economist和New York Times）
+
+
+
+选你不认识的单词，或者喜欢句子。输入⌥⌘z，然后这个单词就记录在Yojimbo里了。
+
+
+
+
+
+  * 日积月累，你的英文词汇量、优秀句子量就积少成多了。
+
+

@@ -1,0 +1,21 @@
+---
+author: admin
+comments: true
+date: 2008-05-01 06:25:47+00:00
+layout: note
+slug: 500%e9%94%99%e8%af%af%e8%a7%a3%e5%86%b3%e4%ba%86
+title: 500错误解决了
+wordpress_id: 1512
+categories:
+- 学点技术
+tags:
+- 技术
+---
+
+一周以前，我发现Wordpress2.5文章发布出现[灵异现象](http://www.baibanbao.net/?p=1488)，文章活生生在，但就是无法显示。和菜头说他也遇到过这个问题，今天从[他的博上看到](http://www.hecaitou.com/blogs/hecaitou/archives/121576.aspx)，已经有程序员出面[解决了这个死循环难题](http://www.nimab.org/2008/05/01/39.html)。
+
+在这个世界上一个写字的人能做什么呢？手不能提，肩不能扛，握不住AK47，开不了SU27，写不出一行代码，种不出一粒粮食。在这个节日，向比特海里勤奋的劳动者、e时代电脑跟前的新矿工们，致以巴顿式的敬礼！
+
+update: 按照[Wordpress 2.5 500 错误解决方法](http://www.nimab.org/2008/05/01/39.html)，把db.php上传到wp-content目录，试用了一下，先保存，后发布，没有出现500错误。
+
+但是，这篇文章的评论却自动给关掉了，需要手动勾掉允许评论，允许ping.不知道这是不是一个小BUG。

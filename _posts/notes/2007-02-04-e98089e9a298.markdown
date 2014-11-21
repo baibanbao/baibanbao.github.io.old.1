@@ -1,0 +1,41 @@
+---
+author: admin
+comments: true
+date: 2007-02-04 21:53:08+00:00
+layout: note
+slug: '%e9%80%89%e9%a2%98'
+title: 选题
+wordpress_id: 796
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+距毕业还有5个月，明天就要交毕业论文，嗯，让我先喝口茶，的大致选题了。
+
+论文怎么写？这是一个问题。我非菜头，从没写过万言帖，更何况1万5的论文了。急忙饿补，借来一本论文秘诀，看了一半，原来是教怎么写博士论文的。不过也没关系，硕士博士，在论文面前都是烈士。结合秘笈，终于明白了该怎么选题。
+
+一、选题要能激发起持久的热情，要像杨振宁遇到翁帆，不能像李政道遇到翁虹。
+
+二、选题要有大量的文献参考，要像社保基金那么多，不能像扶贫基金那么少。
+
+三、选题要与文科生擅长的方法相一致，要像人民日报反低俗一样定性分析，不能像广电总局审电影一样定量分析（规定正面裸露不得超过乳房）。
+
+四、选题要很前沿，结论要有悬念。要像黑客帝国，不能像十面埋伏。
+
+事先拟了几个选题，直奔图书馆。每一种选题，都在书架前浏览了一遍，终于像皇帝选妃一样，找到了最适合我的一个：虚拟社会，借来参考书一堆。
+
+Deciphering cyberspace : 	2003 	
+The Medium is the massage : 	2001 	
+Cyberpower : 	1999 	
+Cybering democracy : 	2002 	
+Social theory and philosophy for information systems / 	2004 	
+The virtual self : 	2004 	
+An inconvenient truth : 	2006 	
+The virtual community : 	2000 	
+The psychology of the Internet 
+Crime online / 	2007 	
+
+伟哉，吾题已成！接下来的时间，就一头扎进书里去了。
+

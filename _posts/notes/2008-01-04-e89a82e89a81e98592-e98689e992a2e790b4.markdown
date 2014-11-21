@@ -1,0 +1,51 @@
+---
+author: admin
+comments: true
+date: 2008-01-04 10:06:04+00:00
+layout: note
+slug: '%e8%9a%82%e8%9a%81%e9%85%92-%e9%86%89%e9%92%a2%e7%90%b4'
+title: 蚂蚁酒 醉钢琴
+wordpress_id: 1288
+categories:
+- 不好归类
+tags:
+- 不好归类
+- 写不如转
+- 新闻
+- 纽约时报
+- 读书笔记
+- 音乐
+---
+
+《纽约时报》网站上评出了“[2007年引人注目的Op-Eds文章](http://www.nytimes.com/indexes/2007/12/26/opinion/opinionspecial/index.html)”。这里需要稍微解释一下Op-Eds是Opposite Editorial的简称，意思就是“与社论版相对的哪一个版”。这一版主要刊登观点类文章，与社论不同的是，它只代表作者的观点，不代表报社立场。类似国内报刊的专栏版。
+
+在《纽约时报》推荐的去年Op-Eds，有一篇DENIS DUTTON写的乐评把我乐坏了，这篇文章叫做《[Shoot the Piano Player](http://www.nytimes.com/2007/02/26/opinion/26dutton.html?pagewanted=1)》（毙掉弹钢琴的），评述了英国钢琴师（乔伊斯-哈图）Joyce Hatto的传奇经历。我按图索骥，在网上搜索了一些Joyce的资料，把这个故事跟大家共享。
+
+![Joyce Hatto](http://photo14.yupoo.com/20080104/175606_996095614_m.jpg)
+
+Joyce Hatto出生于1928年，是一个钢琴家和教师，前半生才华平平，几乎没有大唱片公司出版她的作品。直到1976年，她因为诊断出癌症而停止了公共演出，跟她的丈夫--一位录音师，一起移居到剑桥附近的一个小镇。谁也想不到，从此以后，她在艺术上开始总爆发。
+
+她的丈夫成立了一家小唱片公司William Barrington-Coupe，随后推出了她灌制的唱片。从1989年开始，她一发不可收，弹奏了几乎所有大师的作品，包括拉赫玛尼诺夫等人写的高难变态曲子。在她出版的120多张CD中，她弹奏的速度惊人，每个音符都准确无误。更令人惊叹的是，她演奏风格变化多端，不同的作曲家在她的手下，能够表现出完全不同的风格。阅评人们惊呆了，称她为“大器晚成的罕见天才”、“还能喘气的最伟大的钢琴师”。
+
+2006年，当癌症即将夺去她的生命，她坐在轮椅上演奏了贝多芬的第26号奏鸣曲。随后，她带着巨大的声誉离开了人士，人们缅怀她的天才、她的经历和她的个性。死者死矣，余音袅袅，音容宛在。
+
+2007年2月份，一个名叫Brian Ventura的伦敦金融分析师，买了一张Joyce Hatto演奏的李斯特的唱片。当他把CD放进电脑，苹果的iTunes软件立即识别出，这首曲子的演奏者不是Joyce本人，而是一位叫László Simon的匈牙利演奏家。iTunes使用了一家叫Gracenote公司开发的音乐数据库，可以识别CD的音轨特征。在对照了Simon的CD之后，金融分析师把这个重大发现告诉了《今日经典》杂志的乐评人Jed Distler，此君曾经多次在杂志上盛赞Joyce的演奏。
+
+黑幕一角从此揭开。经过许多乐评人和乐迷的共同挖掘，一个音乐史上最大的丑闻暴露在阳光之下。
+
+原来，Joyce Hatto的大多数曲目录音都是剽窃的别人，这些被扒窃的对象中，除个别大师，更多的是那些刚刚崭露头角的钢琴师，其中包括台湾的陈必先（Pi-Hsien Chen）。人们进而发现，Joyce Hatto声称的为她唱片伴奏的是国家爱乐交响乐团，指挥家是一位叫René Köhler的波兰移民。而人们从CD中辩认出那其实是维也纳爱乐乐团、英国皇家爱乐乐团的作品，René Köhler更是一个子虚乌有的人物。
+
+在专门揭发Joyce Hatto唱片丑闻的网站上，列出了经过辩认的剽窃唱片，[这是一份触目惊心的长长的清单](http://www.farhanmalik.com/hatto/cdlist.html)。
+
+Joyce Hatto的丑闻说明，黑蚂蚁不仅仅中国有，外国也有，不仅仅在保健界有，在清高的古典音乐界也有。一个老太太为什么能忽悠全世界的乐迷，乐评人们难辞其咎。Joyce Hatto剽窃的那些人，有很多都是年轻的音乐新秀，但是他们得不到乐评人的重视，这些人更乐意把赞美送给一个名人。
+
+技术是个双刃剑，一方面成就了骗子，一方面也揭露了骗子。Joyce Hatto的很多唱片，都是利用录音技术，对原作进行重新缩混和技术处理，欺骗性很强。但是，百密一疏，没想到也是Gracenote的音乐数据库让她原形毕露。
+
+这同时还说明，苹果奉行的“拿来主义”为这个破公司带来多少名不符实的声誉啊。现在很多人都知道是iTunes揭发了钢琴巨骗，却不知道苹果使用的是Gracenote公司提供的技术。
+
+【综述要列出参考文献，做人不能太方舟子】
+
+纽约时报：[专栏文章](http://www.nytimes.com/2007/02/26/opinion/26dutton.html?pagewanted=1)
+维基百科：[关于Op-Eds](http://en.wikipedia.org/wiki/Op-ed)，[关于Gracenote](http://en.wikipedia.org/wiki/Gracenote)，[关于Joyce Hatto](http://en.wikipedia.org/wiki/Joyce_Hatto)
+[Joyce Hatto剽窃识别网站](http://www.farhanmalik.com/hatto/cdlist.html)
+

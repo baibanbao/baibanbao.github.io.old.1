@@ -1,0 +1,38 @@
+---
+author: admin
+comments: true
+date: 2008-02-08 17:48:13+00:00
+layout: note
+slug: '%e6%98%a5%e6%99%9a%e7%9b%b4%e6%92%ad%e5%b0%8f%e4%ba%8b%e6%95%85'
+title: 春晚直播小事故
+wordpress_id: 1360
+categories:
+- 学点技术
+tags:
+- 事故
+- 央视
+- 视频
+---
+
+蔡明、郭达、王平表演的《梦幻家园》在我看来，是今年春晚唯一可看的小品。这个小品很委婉地批评了楼盘销售中常用的欺骗手法，同时不忘嘲讽“您的产权只有70年”，可以说是本届春晚中极少直面现实的作品。
+
+但在央视转播中，出现了一个小失误。在我观看直播的时候，我就觉得不对劲，眼前黑影一闪。后来从Youku下载了视频研究，发现了问题所在。[请看视频](http://player.youku.com/player.php/sid/XMTgwMDg5Njg=/v.swf)。
+
+1、当小品进行到6:30秒左右的时候，王平对郭达说：“您是我爸爸！”，这时直播画面是一个中景。
+
+
+[![春晚直播事故截图](http://pic.yupoo.com/ctb.my/917525100859/small.jpg)](http://www.yupoo.com/photos/view?id=ff80808117e3fa900117fa1ba94f08c3)
+
+2、接着画面播出一个全景，蔡明在鞠躬。
+
+[![春晚直播事故截图](http://pic.yupoo.com/ctb.my/787695100858/small.jpg)](http://www.yupoo.com/photos/view?id=ff80808117e3fa900117fa1ba99d08c5)
+
+3、此时，画面上迅速闪过一道黑影，时间很快，我把视频导入VEGAS后，发现只有2帧，也就是说视频闪烁的时间只有2/25也就是0.08秒。
+
+[![春晚直播事故截图](http://pic.yupoo.com/ctb.my/107975100858/small.jpg)](http://www.yupoo.com/photos/view?id=ff80808117e3fa900117fa1ba8ab08c1)
+
+4、第二帧黑影。
+
+[![春晚直播事故截图](http://pic.yupoo.com/ctb.my/981065100858/small.jpg)](http://www.yupoo.com/photos/view?id=ff80808117e3fa900117fa1ba9e208c7)
+
+这个黑影有可能是一个在镜头前迅速走过的人，我做过直播节目的切换导演，知道当两个镜头切换的时候，其实你不知道下一个镜头会发生什么。所以，做视频的直播的时候，多个几位与切换台之间都有通话系统。切换导演说，我要一个什么景别的镜头，相关摄像就做好准备，然后镜头切过去。而央视的这个小事故，显然是现场出现了摄像无法控制的意外，一个人匆匆在镜头前掠过，造成了一次小穿帮。

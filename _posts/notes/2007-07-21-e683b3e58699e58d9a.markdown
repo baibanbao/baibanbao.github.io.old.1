@@ -1,0 +1,18 @@
+---
+author: admin
+comments: true
+date: 2007-07-21 09:11:51+00:00
+layout: note
+slug: '%e6%83%b3%e5%86%99%e5%8d%9a'
+title: 想写博
+wordpress_id: 1107
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+看看网上一篇乱象，
+想想也没什么好写的，
+还是饭局要紧，
+就这样吧。

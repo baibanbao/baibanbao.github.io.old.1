@@ -1,0 +1,94 @@
+---
+author: No Content Found
+comments: true
+date: 2011-09-07 18:43:06+00:00
+layout: note
+slug: '%e5%ad%a6%e4%b9%a0%e4%b8%80%e7%82%b9markdown'
+title: 学习一点Markdown
+wordpress_id: 6604
+categories:
+- 不好归类
+---
+
+在我学习Mac的道路上，有一个年轻人对我影响很大，他就是[小欠](http://www.1banban.com)同学。
+
+
+
+
+
+在他的感召下，我写下了人生第一段源代码：
+
+
+
+
+    
+    <code>Hello world.
+    </code>
+
+
+
+
+
+如果说列出从小到大对我影响最大的四个非家庭成员，那么就是：
+
+
+
+<table ><tr >青少年时期
+  现在
+</tr><tbody ><tr >
+<td >苍井空
+</td>
+  
+<td >小欠
+</td>
+</tr><tr >
+<td >雷锋
+</td>
+  
+<td >流川枫
+</td>
+</tr></tbody></table>
+
+我不是在胡说八道，你知道我在学习Markdown，一种很有意思的标记语言。
+
+
+
+
+
+我职业生涯的第一次飞跃就是从学习HTML开始的，当时我从一个小地方的小公司，来到北京，找到第一份工作：网页设计，靠的就是我对html的熟练掌握，当时我可以不借助任何所见即所得的编辑工具，编写出一个复杂的表格。
+
+
+
+
+
+今天是一个值得高兴的日子，因为我的心灵之光，我的欲念之火，让我魂牵梦绕的mac mini 816已经交到了我最信任的顺丰速递手里。如下图所示：
+
+
+
+
+
+![](http://media.tumblr.com/tumblr_lr613jk5l91qz6vj8.png)
+
+
+
+
+
+我准备把它打造成第一快的电脑，如同下图所定制的配置一样。
+
+
+
+
+
+![](http://media.tumblr.com/tumblr_lr615uitZv1qz6vj8.png)
+
+
+
+
+
+只不过我的费用比它节约了很多。
+
+
+
+
+
+为了更好地压榨电脑的新功能，我决定好好学习markdown，好好写tumblr，就像[小欠](http://www.1banban.com)那样。

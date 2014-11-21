@@ -1,0 +1,23 @@
+---
+author: admin
+comments: true
+date: 2009-02-23 02:50:11+00:00
+layout: note
+slug: '%e6%96%87%e6%80%80%e6%b2%99%e4%b9%9f%e6%98%af%e6%88%91%e7%9a%84%e6%9c%8b%e5%8f%8b'
+title: 文怀沙也是我的朋友
+wordpress_id: 1932
+tags:
+- 写不如转
+- 媒体
+---
+
+有一个dashi叫文怀沙，他最近很受关注。有一家报纸叫《深圳商报》，做了一篇文怀沙的报道：《是历史真相，还是“狗放屁”》。于是一个离奇的时空倒错的事件发生了，《深圳商报》刊登了“文怀沙”年轻时的照片，这张照片把[和菜头笑得肚子痉挛](http://www.hecaitou.net/?p=4737)。
+
+![年轻时的文怀沙](http://farm4.static.flickr.com/3343/3302564102_85d55e74a6.jpg?v=0)
+
+倒底为什么？我的朋友一位文化编辑[含泪感谢深圳商报八辈祖宗（别点了，已自删）](http://blog.sina.com.cn/s/blog_4866a4340100d8n3.html)。
+
+究其原因，很可能是编辑在网上用图片搜索找文怀沙的照片，而我那位朋友不小心恰好写了一篇关于文怀沙的评论，于是，悲剧就这么发生了……（[证据看这里](http://images.google.cn/imgres?imgurl=http://images.china.cn/attachement/jpg/site1000/20090219/00080287d0980b073d0822.jpg&imgrefurl=http://www.china.com.cn/culture/txt/2009-02/19/content_17303241.htm&usg=__awxvs255RlkKLkE5u-XybSPt00U=&h=441&w=300&sz=30&hl=zh-CN&start=3&um=1&tbnid=uvjzSB05jabYPM:&tbnh=127&tbnw=86&prev=/images%3Fq%3D%25E6%2596%2587%25E6%2580%2580%25E6%25B2%2599%26um%3D1%26hl%3Dzh-CN%26lr%3D%26newwindow%3D1%26client%3Dfirefox-a%26channel%3Ds%26rls%3Dorg.mozilla:zh-CN:official%26sa%3DN)）
+
+恩，明天找他去买两斤春药备用。
+

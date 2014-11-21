@@ -1,0 +1,16 @@
+---
+author: admin
+comments: true
+date: 2014-01-08 20:54:04+00:00
+layout: note
+published: false
+slug: '%e6%97%a0%e4%ba%ba%e4%bc%9a-%e7%99%bb%e4%b8%b4%e6%84%8f'
+title: 无人会 登临意
+wordpress_id: 6387
+categories:
+- 不好归类
+---
+
+今天，在新浪微博看到简叔兴高采烈地宣布找到了一个Tumblr的Mac版客户端Tumblme，我回了一句辛弃疾的词：“无人会，登临意。”
+
+这种找到新工具的快乐是很多人无法体会的。有了好的工具，

@@ -1,0 +1,15 @@
+---
+author: admin
+comments: true
+date: 2006-09-07 04:33:54+00:00
+layout: note
+slug: '%e6%88%91%e5%9b%9e%e5%88%b0%e7%94%b5%e8%84%91%e5%89%8d'
+title: 我回到电脑前
+wordpress_id: 598
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+稍后写博客

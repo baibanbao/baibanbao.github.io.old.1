@@ -1,0 +1,13 @@
+---
+author: admin
+comments: true
+date: 2007-11-14 07:16:24+00:00
+layout: note
+slug: '%e6%9c%8b%e5%8f%8b%e7%9a%84%e4%b8%80%e9%a6%96%e8%af%97'
+title: 朋友的一首诗
+wordpress_id: 1241
+categories:
+- 写作练习
+---
+
+[![slaves](http://www.baibanbao.net/wp-content/uploads/2007/11/slave.gif)](http://www.baibanbao.net/wp-content/uploads/2007/11/slave.gif)

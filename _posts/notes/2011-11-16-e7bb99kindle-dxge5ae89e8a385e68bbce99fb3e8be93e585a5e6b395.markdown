@@ -1,0 +1,39 @@
+---
+author: No Content Found
+comments: true
+date: 2011-11-16 13:43:40+00:00
+layout: note
+slug: '%e7%bb%99kindle-dxg%e5%ae%89%e8%a3%85%e6%8b%bc%e9%9f%b3%e8%be%93%e5%85%a5%e6%b3%95'
+title: 给Kindle DxG安装拼音输入法
+wordpress_id: 6470
+categories:
+- 不好归类
+tags:
+- kindle
+---
+
+闲着也是闲着，折腾总要折腾。
+
+
+
+
+
+首先：[[技巧教程] Kindle DXG 2.5.8 升级 3.2.1的简明教程 (08.25更新2.5.8恢复包～升级包换网盘完毕！)](http://bbs.mydoo.cn/thread-32419-1-2.html)
+
+
+
+
+
+其次，[Kindle 3 原生系统拼音输入法安装包及使用说明[最新版本0.3]](http://hi.baidu.com/canbefound/blog/item/447a390a817497d93bc763c3.html)
+
+
+
+
+
+还有一个备用的链接。
+
+
+
+
+
+[Kindle 3.1 software for Kindle 2, 2i, & DX (under construction)](http://www.mobileread.com/forums/showthread.php?t=127969)

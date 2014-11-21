@@ -1,0 +1,16 @@
+---
+author: admin
+comments: true
+date: 2007-08-06 06:52:48+00:00
+layout: note
+slug: '%e6%b2%a1%e6%9c%89%e4%ba%ba%e4%b8%8d%e4%b8%ba%e6%88%bf%e5%ad%90%e5%8f%91%e6%84%81'
+title: 没有人不为房子发愁
+wordpress_id: 1121
+tags:
+- 生活不是条件反射
+---
+
+英国的房价也在涨，过去的五年上涨了40%。应该是比较理性的涨幅，不过英国人民已经开始受不了啦。英国还有社会性房屋（social house），相当于我们的经济适用房吧。现在英国人民寄希望于布朗能多开发一些社会房屋，让低收入者住上体面的房子。再看看国内，只能说一句MD。
+
+[Average English house price will top £300,000 in five years, says study | News_ | Guardian Unlimited Money](http://money.guardian.co.uk/news_/story/0,,2142387,00.html)
+

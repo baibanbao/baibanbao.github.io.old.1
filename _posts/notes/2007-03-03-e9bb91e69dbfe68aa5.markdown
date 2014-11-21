@@ -1,0 +1,37 @@
+---
+author: admin
+comments: true
+date: 2007-03-03 21:58:40+00:00
+layout: note
+slug: '%e9%bb%91%e6%9d%bf%e6%8a%a5'
+title: 黑板报
+wordpress_id: 831
+categories:
+- 不好归类
+tags:
+- 不好归类
+---
+
+黑板报创办于1999年11月，被关闭于2001年7－8月间。
+
+黑板报通过网易平台每周推出《黑板报文艺周刊》电子杂志，发送到订户邮箱。被关闭之前，订户数是125584人。
+
+最早报道黑板报的记者是《杭州日报》的背后一枪。
+
+黑板报被关闭后，主域名heibanbao.com被人抢注，heibanbao.net还在我们手中。
+
+以下是黑板报部分内容存档。
+
+[黑板报每日更新首页](http://www.wangpei.net/heibanbao/today/)：滚下一屏，在右下方是《黑板报文艺周刊》全部75期，可打开。[周刊第一期](http://www.wangpei.net/heibanbao/today/weekly/991112.htm)，[周刊最后一期](http://www.wangpei.net/heibanbao/today/weekly/20010825.htm)。
+
+[黑板报格瓦拉专题](http://www.wangpei.net/heibanbao/today/)：2000年为配合《切－格瓦拉》一剧上演，由我们所设计并制作的网站。里面有[格瓦拉剧照](http://www.wangpei.net/heibanbao/che/info/58night1.htm)，还有[格瓦拉影集](http://www.wangpei.net/heibanbao/che/gallery/index.htm)（从一本画册一张一张扫描成电子版的。）
+
+[黑板报的旧影](http://heibanbao.net/)：web.archive.org的自动存档，从2000年到2001年都是当年的黑板报，02年之后的存档是抢注域名的人的网站。
+
+zhanglu：[忆起黑板报](http://www.zhanglu.net/2007/03/04/12/)
+
+张角：[回到那奇妙的黑板报时代](http://blog.sina.com.cn/u/3c69465d010007cm)
+
+张广天：[《我的无产阶级生活》关于黑板报的片段](http://ent.sina.com.cn/h/2003-07-24/1815176042.html)
+
+王小山：[别了，黑板报](http://www.anlis.net/cgi-bin/lb5000/topic-6-55-0-450-.htm)

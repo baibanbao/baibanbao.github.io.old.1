@@ -1,0 +1,310 @@
+---
+author: No Content Found
+comments: true
+date: 2011-09-28 17:30:00+00:00
+layout: note
+slug: '%e5%b1%b1%e4%b8%9c%e6%b2%be%e5%8c%96%e5%8e%bf%e6%a3%89%e8%8a%b1%e7%a7%8d%e6%a4%8d%e6%83%85%e5%86%b5'
+title: 山东沾化县棉花种植情况
+wordpress_id: 6496
+categories:
+- 不好归类
+tags:
+- 农业
+- 故乡
+- 棉花
+- 统计
+---
+
+山东省沾化县棉花种植面积与产量（1949－2011）
+
+
+
+<table ><tr >年份
+  种植面积（万亩）
+  皮棉单产（公斤）
+</tr><tbody ><tr >
+<td align="left" >1949
+</td>
+  
+<td align="right" >8.08
+</td>
+  
+<td align="center" >12
+</td>
+</tr><tr >
+<td align="left" >1950
+</td>
+  
+<td align="right" >10.67
+</td>
+  
+<td align="center" >8
+</td>
+</tr><tr >
+<td align="left" >…
+</td>
+  
+<td align="right" >…
+</td>
+  
+<td align="center" >…
+</td>
+</tr><tr >
+<td align="left" >1954
+</td>
+  
+<td align="right" >18.50
+</td>
+  
+<td align="center" >15
+</td>
+</tr><tr >
+<td align="left" >1955
+</td>
+  
+<td align="right" >21.30
+</td>
+  
+<td align="center" >18
+</td>
+</tr><tr >
+<td align="left" >…
+</td>
+  
+<td align="right" >…
+</td>
+  
+<td align="center" >…
+</td>
+</tr><tr >
+<td align="left" >1959
+</td>
+  
+<td align="right" >16.75
+</td>
+  
+<td align="center" >11
+</td>
+</tr><tr >
+<td align="left" >1960
+</td>
+  
+<td align="right" >8.40
+</td>
+  
+<td align="center" >9
+</td>
+</tr><tr >
+<td align="left" >1961
+</td>
+  
+<td align="right" >6.54
+</td>
+  
+<td align="center" >2
+</td>
+</tr><tr >
+<td align="left" >1962
+</td>
+  
+<td align="right" >7.16
+</td>
+  
+<td align="center" >3
+</td>
+</tr><tr >
+<td align="left" >…
+</td>
+  
+<td align="right" >…
+</td>
+  
+<td align="center" >…
+</td>
+</tr><tr >
+<td align="left" >1965
+</td>
+  
+<td align="right" >13.50
+</td>
+  
+<td align="center" >12
+</td>
+</tr><tr >
+<td align="left" >1966
+</td>
+  
+<td align="right" >8.90
+</td>
+  
+<td align="center" >6
+</td>
+</tr><tr >
+<td align="left" >…
+</td>
+  
+<td align="right" >…
+</td>
+  
+<td align="center" >…
+</td>
+</tr><tr >
+<td align="left" >1970
+</td>
+  
+<td align="right" >9.47
+</td>
+  
+<td align="center" >23
+</td>
+</tr><tr >
+<td align="left" >…
+</td>
+  
+<td align="right" >…
+</td>
+  
+<td align="center" >…
+</td>
+</tr><tr >
+<td align="left" >1976
+</td>
+  
+<td align="right" >7.95
+</td>
+  
+<td align="center" >8
+</td>
+</tr><tr >
+<td align="left" >1977
+</td>
+  
+<td align="right" >7.27
+</td>
+  
+<td align="center" >9
+</td>
+</tr><tr >
+<td align="left" >1978
+</td>
+  
+<td align="right" >7.24
+</td>
+  
+<td align="center" >6
+</td>
+</tr><tr >
+<td align="left" >1979
+</td>
+  
+<td align="right" >4.95
+</td>
+  
+<td align="center" >9
+</td>
+</tr><tr >
+<td align="left" >1980
+</td>
+  
+<td align="right" >7.04
+</td>
+  
+<td align="center" >14
+</td>
+</tr><tr >
+<td align="left" >1981
+</td>
+  
+<td align="right" >8.43
+</td>
+  
+<td align="center" >28
+</td>
+</tr><tr >
+<td align="left" >1982
+</td>
+  
+<td align="right" >17.37
+</td>
+  
+<td align="center" >32
+</td>
+</tr><tr >
+<td align="left" >1983
+</td>
+  
+<td align="right" >25.42
+</td>
+  
+<td align="center" >47
+</td>
+</tr><tr >
+<td align="left" >1984
+</td>
+  
+<td align="right" >32.25
+</td>
+  
+<td align="center" >62
+</td>
+</tr><tr >
+<td align="left" >1985
+</td>
+  
+<td align="right" >26.79
+</td>
+  
+<td align="center" >59
+</td>
+</tr><tr >
+<td align="left" >1986
+</td>
+  
+<td align="right" >21.14
+</td>
+  
+<td align="center" >42
+</td>
+</tr><tr >
+<td align="left" >1987
+</td>
+  
+<td align="right" >32.04
+</td>
+  
+<td align="center" >57
+</td>
+</tr><tr >
+<td align="left" >…
+</td>
+  
+<td align="right" >…
+</td>
+  
+<td align="center" >…
+</td>
+</tr><tr >
+<td align="left" >2011  *
+</td>
+  
+<td align="right" >67.78
+</td>
+  
+<td align="center" >无数据
+</td>
+</tr></tbody></table>
+
+资料来源：
+
+
+
+
+
+  1. 除*之外的数据来自《沾化县志》（齐鲁书社，1995年第1版第239页）
+
+
+
+  2. ＊数据来自：黄三角经济网（[http://news.hsjnews.com/xsrd/2011/0920/59036.html](http://news.hsjnews.com/xsrd/2011/0920/59036.html)）
+
+
+

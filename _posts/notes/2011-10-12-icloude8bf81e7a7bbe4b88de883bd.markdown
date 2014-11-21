@@ -1,0 +1,13 @@
+---
+author: No Content Found
+comments: true
+date: 2011-10-12 16:38:00+00:00
+layout: note
+slug: icloud%e8%bf%81%e7%a7%bb%e4%b8%8d%e8%83%bd
+title: iCloud迁移不能
+wordpress_id: 6533
+categories:
+- 不好归类
+---
+
+![](http://media.tumblr.com/tumblr_lsyowzzRle1qz6vj8.png)本想把MobileMe迁移到iCloud，但是提示说我不是developer，所以不能。
