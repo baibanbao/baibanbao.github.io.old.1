@@ -7,10 +7,10 @@ paginate: 5
 safe: false
 
 #站点基础配置
-title: 苏民
-subTitle: 不会画画的PM不是好作家
-description: 不会画画的PM不是好作家
-url: http://sumin.org
+title: 白板报
+subTitle: The White Board
+description: 作家，编剧，代表作《正版语文》、《疯狂短信》
+url: http://baibanbao.github.io
 feed: /atom.xml
 
 #菜单配置
@@ -44,4 +44,4 @@ page:
     last: false
 
 author:
-  name: 苏民
+  name: 王佩
