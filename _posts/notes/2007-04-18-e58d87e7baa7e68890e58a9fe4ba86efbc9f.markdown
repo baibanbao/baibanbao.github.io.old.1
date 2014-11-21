@@ -7,6 +7,7 @@ slug: '%e5%8d%87%e7%ba%a7%e6%88%90%e5%8a%9f%e4%ba%86%ef%bc%9f'
 title: 升级成功了？
 wordpress_id: 890
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

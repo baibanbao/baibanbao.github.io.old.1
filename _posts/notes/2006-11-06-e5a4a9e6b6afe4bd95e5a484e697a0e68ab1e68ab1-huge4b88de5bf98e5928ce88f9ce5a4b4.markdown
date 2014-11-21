@@ -7,6 +7,7 @@ slug: '%e5%a4%a9%e6%b6%af%e4%bd%95%e5%a4%84%e6%97%a0%e6%8a%b1%e6%8a%b1-hug%e4%b8
 title: 天涯何处无抱抱 HUG不忘和菜头
 wordpress_id: 662
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

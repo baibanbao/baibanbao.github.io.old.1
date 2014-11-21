@@ -7,6 +7,7 @@ slug: '%e6%bf%80%e5%8a%a8%e5%be%97%e8%af%b4%e4%b8%8d%e5%87%ba%e8%af%9d'
 title: 激动得说不出话
 wordpress_id: 663
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

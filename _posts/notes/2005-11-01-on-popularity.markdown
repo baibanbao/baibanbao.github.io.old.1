@@ -7,6 +7,7 @@ slug: on-popularity
 title: 人多势不众，虚火不是火
 wordpress_id: 943
 categories:
+- notes
 - 文艺批评
 tags:
 - 评论

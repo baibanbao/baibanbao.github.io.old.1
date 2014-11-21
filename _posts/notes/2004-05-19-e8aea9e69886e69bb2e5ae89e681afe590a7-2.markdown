@@ -7,6 +7,7 @@ slug: '%e8%ae%a9%e6%98%86%e6%9b%b2%e5%ae%89%e6%81%af%e5%90%a7-2'
 title: 让昆曲安息吧
 wordpress_id: 1148
 categories:
+- notes
 - 文艺批评
 tags:
 - 语文不动

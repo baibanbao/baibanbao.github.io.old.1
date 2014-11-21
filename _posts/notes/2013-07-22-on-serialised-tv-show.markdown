@@ -7,6 +7,7 @@ slug: on-serialised-tv-show
 title: 电视剧这行当
 wordpress_id: 6116
 categories:
+- notes
 - 爱看电影
 ---
 

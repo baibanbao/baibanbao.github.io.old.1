@@ -7,6 +7,7 @@ slug: '%e6%a6%b4%e8%8e%b2%e5%91%a8%e5%88%8a%ef%bc%88durian-media%ef%bc%89%e7%ac%
 title: 榴莲周刊（Durian Media）第2期B卷：寻找失踪小女孩；布莱尔辞职；北爱和平新曙光
 wordpress_id: 960
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

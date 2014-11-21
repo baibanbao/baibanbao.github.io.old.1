@@ -7,6 +7,7 @@ slug: september
 title: 九月来临
 wordpress_id: 6691
 categories:
+- notes
 - 不好归类
 ---
 

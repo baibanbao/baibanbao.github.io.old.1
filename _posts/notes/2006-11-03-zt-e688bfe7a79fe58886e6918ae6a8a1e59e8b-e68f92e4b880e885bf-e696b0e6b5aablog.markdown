@@ -7,6 +7,7 @@ slug: zt-%e6%88%bf%e7%a7%9f%e5%88%86%e6%91%8a%e6%a8%a1%e5%9e%8b-%e6%8f%92%e4%b8%
 title: ZT 房租分摊模型- 插一腿 - 新浪BLOG
 wordpress_id: 656
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

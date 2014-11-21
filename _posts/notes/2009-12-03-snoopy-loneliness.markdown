@@ -7,6 +7,7 @@ slug: snoopy-loneliness
 title: 123诗社snoopy朗诵里尔克《寂寞》
 wordpress_id: 2820
 categories:
+- notes
 - 不好归类
 ---
 

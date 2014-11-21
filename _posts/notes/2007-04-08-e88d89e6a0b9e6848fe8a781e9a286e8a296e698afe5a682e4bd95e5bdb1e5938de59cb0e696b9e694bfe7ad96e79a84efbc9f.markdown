@@ -7,6 +7,7 @@ slug: '%e8%8d%89%e6%a0%b9%e6%84%8f%e8%a7%81%e9%a2%86%e8%a2%96%e6%98%af%e5%a6%82%
 title: 意见领袖是如何影响地方政策的？
 wordpress_id: 869
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

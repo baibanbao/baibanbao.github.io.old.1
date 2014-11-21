@@ -8,6 +8,7 @@ slug: '%e9%bb%91%e5%a4%9c%e9%87%8c%e6%ad%8c%e5%94%b1'
 title: 黑夜里歌唱
 wordpress_id: 6585
 categories:
+- notes
 - 不好归类
 ---
 

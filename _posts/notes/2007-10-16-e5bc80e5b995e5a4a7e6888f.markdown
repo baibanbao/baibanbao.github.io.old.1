@@ -7,6 +7,7 @@ slug: '%e5%bc%80%e5%b9%95%e5%a4%a7%e6%88%8f'
 title: 开幕大戏
 wordpress_id: 1221
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: my-ordanary-uncle
 title: 伟大的舅舅
 wordpress_id: 403
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 非虚构

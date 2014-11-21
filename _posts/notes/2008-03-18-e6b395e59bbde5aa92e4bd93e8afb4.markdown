@@ -7,6 +7,7 @@ slug: '%e6%b3%95%e5%9b%bd%e5%aa%92%e4%bd%93%e8%af%b4'
 title: 转述朋友转述法媒的话
 wordpress_id: 1409
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

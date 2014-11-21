@@ -7,6 +7,7 @@ slug: american-spirit
 title: 我理解的美国精神
 wordpress_id: 3323
 categories:
+- notes
 - 写作练习
 ---
 

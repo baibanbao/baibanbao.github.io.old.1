@@ -7,6 +7,7 @@ slug: '%e6%88%91%e4%bb%ac%e7%9a%84%e8%af%ad%e8%a8%80%e5%b0%b1%e6%98%af%e6%88%91%
 title: 我们的语言就是我们的武器
 wordpress_id: 6463
 categories:
+- notes
 - 不好归类
 ---
 

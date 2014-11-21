@@ -7,6 +7,7 @@ slug: reading-muxin-on-new-year-eve
 title: 跨年读木心
 wordpress_id: 5850
 categories:
+- notes
 - 读书笔记
 tags:
 - 启示

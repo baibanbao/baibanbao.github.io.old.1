@@ -7,6 +7,7 @@ slug: guoyanru-nanzhao-lake
 title: 转郭艳茹《南赵湖，一滴风干的眼泪》
 wordpress_id: 2006
 categories:
+- notes
 - 读书笔记
 tags:
 - 口述历史

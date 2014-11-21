@@ -7,6 +7,7 @@ slug: watching-worldcup
 title: 白板报图集：看世界杯的人们
 wordpress_id: 3337
 categories:
+- notes
 - 不好归类
 ---
 

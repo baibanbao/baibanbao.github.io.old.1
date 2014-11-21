@@ -7,6 +7,7 @@ slug: micro-history-the-work-the-scene-and-the-people
 title: 一周微史记（2011-6-14）那起早贪黑的事儿和东跑西颠的人儿
 wordpress_id: 4337
 categories:
+- notes
 - 非虚构叙事
 ---
 

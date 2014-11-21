@@ -7,6 +7,7 @@ slug: '%e5%9b%9e%e5%ae%b6%e7%9a%84%e6%84%9f%e8%a7%89%e7%9c%9f%e5%a5%bd'
 title: 回家的感觉真好
 wordpress_id: 6356
 categories:
+- notes
 - 不好归类
 ---
 

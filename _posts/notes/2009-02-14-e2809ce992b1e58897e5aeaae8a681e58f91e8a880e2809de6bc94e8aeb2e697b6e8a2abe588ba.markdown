@@ -7,6 +7,7 @@ slug: '%e2%80%9c%e9%92%b1%e5%88%97%e5%ae%aa%e8%a6%81%e5%8f%91%e8%a8%80%e2%80%9d%
 title: “钱烈宪要发言”被刺
 wordpress_id: 1903
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

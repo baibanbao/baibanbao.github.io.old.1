@@ -7,6 +7,7 @@ slug: induction-cooking-radiation-hazards
 title: 'Induction Cooking: Radiation Hazards?'
 wordpress_id: 6503
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

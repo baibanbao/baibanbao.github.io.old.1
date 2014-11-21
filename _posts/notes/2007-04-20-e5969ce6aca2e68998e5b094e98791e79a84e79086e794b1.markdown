@@ -7,6 +7,7 @@ slug: '%e5%96%9c%e6%ac%a2%e6%89%98%e5%b0%94%e9%87%91%e7%9a%84%e7%90%86%e7%94%b1'
 title: 喜欢托尔金的理由
 wordpress_id: 902
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

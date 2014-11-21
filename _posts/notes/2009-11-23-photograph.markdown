@@ -7,6 +7,7 @@ slug: photograph
 title: 重拾照相
 wordpress_id: 2765
 categories:
+- notes
 - 不好归类
 tags:
 - 摄影

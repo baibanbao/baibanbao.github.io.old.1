@@ -7,6 +7,7 @@ slug: '%e8%a6%81%e6%84%9f%e8%b0%a2%e7%9a%84%e4%ba%ba%e5%a4%aa%e5%a4%9a%ef%bc%8c%
 title: 要感谢的人太多，即将辉耀落幕！
 wordpress_id: 6442
 categories:
+- notes
 - 不好归类
 ---
 

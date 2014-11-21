@@ -7,6 +7,7 @@ slug: milestone-excercise-in-10-minutes
 title: 十分钟里程碑测试
 wordpress_id: 5720
 categories:
+- notes
 - 生活不是条件反射
 - 读书笔记
 tags:

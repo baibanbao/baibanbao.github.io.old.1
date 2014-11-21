@@ -7,6 +7,7 @@ slug: the-usual-suspects
 title: 嫌疑
 wordpress_id: 2097
 categories:
+- notes
 - 爱看电影
 tags:
 - 杭州

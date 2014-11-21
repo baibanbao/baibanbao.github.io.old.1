@@ -7,6 +7,7 @@ slug: the-marriage-of-tuya
 title: 在文明的进程中，我们丢弃了什么--看《图雅的婚事》之后的杂想
 wordpress_id: 2014
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

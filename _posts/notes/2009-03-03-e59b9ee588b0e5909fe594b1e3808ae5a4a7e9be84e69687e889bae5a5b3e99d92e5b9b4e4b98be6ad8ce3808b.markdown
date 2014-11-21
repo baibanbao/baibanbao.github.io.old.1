@@ -7,6 +7,7 @@ slug: '%e5%9b%9e%e5%88%b0%e5%90%9f%e5%94%b1%e3%80%8a%e5%a4%a7%e9%be%84%e6%96%87%
 title: 回到吟唱《大龄文艺女青年之歌》
 wordpress_id: 1953
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

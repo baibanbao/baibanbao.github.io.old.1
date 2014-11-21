@@ -7,6 +7,7 @@ slug: interviewing-ms-maria-ozawa
 title: 她只是一个演员
 wordpress_id: 4490
 categories:
+- notes
 - 非虚构叙事
 ---
 

@@ -7,6 +7,7 @@ slug: '%e8%af%8d%e4%b8%8e%e7%89%a9%ef%bc%9a2009%e7%ac%ac5%e5%8f%b7'
 title: 词与物：2009第5号
 wordpress_id: 1979
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: your-name-is-jean-valjean
 title: 你叫冉阿让
 wordpress_id: 543
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

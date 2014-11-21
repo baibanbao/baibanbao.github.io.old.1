@@ -7,6 +7,7 @@ slug: time-for-confession
 title: 倾诉时刻
 wordpress_id: 418
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 呸英语教程

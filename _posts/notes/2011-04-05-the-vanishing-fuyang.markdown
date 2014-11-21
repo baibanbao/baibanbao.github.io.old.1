@@ -7,6 +7,7 @@ slug: the-vanishing-fuyang
 title: 消逝的富阳
 wordpress_id: 4176
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 富阳

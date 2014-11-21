@@ -7,6 +7,7 @@ slug: book-store-bigger-than-amazon
 title: 比亚马逊更大的书店
 wordpress_id: 2159
 categories:
+- notes
 - 读书笔记
 tags:
 - 买书

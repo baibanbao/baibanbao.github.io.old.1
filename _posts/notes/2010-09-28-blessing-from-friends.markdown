@@ -7,6 +7,7 @@ slug: blessing-from-friends
 title: 感谢你们目光如烛火
 wordpress_id: 3498
 categories:
+- notes
 - 生活不是条件反射
 ---
 

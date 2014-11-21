@@ -7,6 +7,7 @@ slug: a-poem-for-me-by-fenghua
 title: 邵风华：时近端午寄王佩
 wordpress_id: 6318
 categories:
+- notes
 - 不好归类
 ---
 

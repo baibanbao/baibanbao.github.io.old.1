@@ -7,6 +7,7 @@ slug: blog-in-rainy-days
 title: 下雨天适合干什么？
 wordpress_id: 567
 categories:
+- notes
 - 学点技术
 tags:
 - 不好归类

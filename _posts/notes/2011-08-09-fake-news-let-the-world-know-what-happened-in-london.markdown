@@ -7,6 +7,7 @@ slug: fake-news-let-the-world-know-what-happened-in-london
 title: 伦敦连线：让全世界都知道这里发生了什么
 wordpress_id: 4440
 categories:
+- notes
 - 写作练习
 tags:
 - 黑通社

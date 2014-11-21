@@ -7,6 +7,7 @@ slug: my-tweets-episode-06
 title: '俱草草09第6辑 '
 wordpress_id: 2546
 categories:
+- notes
 - 鱼眼碎片
 tags:
 - 俱草草

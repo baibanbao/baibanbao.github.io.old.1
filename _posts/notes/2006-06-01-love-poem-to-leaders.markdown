@@ -7,6 +7,7 @@ slug: love-poem-to-leaders
 title: 献给领袖的情诗
 wordpress_id: 411
 categories:
+- notes
 - 写作练习
 tags:
 - 不好归类

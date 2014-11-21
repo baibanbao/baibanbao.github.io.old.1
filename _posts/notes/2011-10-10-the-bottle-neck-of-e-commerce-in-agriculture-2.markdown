@@ -7,6 +7,7 @@ slug: the-bottle-neck-of-e-commerce-in-agriculture-2
 title: 农业电子商务的最大瓶颈
 wordpress_id: 4855
 categories:
+- notes
 - 非虚构叙事
 ---
 

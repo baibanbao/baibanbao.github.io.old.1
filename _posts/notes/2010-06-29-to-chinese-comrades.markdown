@@ -7,6 +7,7 @@ slug: to-chinese-comrades
 title: 译诗一首：致中国同志们
 wordpress_id: 3321
 categories:
+- notes
 - 写作练习
 ---
 

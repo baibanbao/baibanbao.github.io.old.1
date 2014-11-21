@@ -7,6 +7,7 @@ slug: blog-pals
 title: 博吧，朋友们！
 wordpress_id: 467
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

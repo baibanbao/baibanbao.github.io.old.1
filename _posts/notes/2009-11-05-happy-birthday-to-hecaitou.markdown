@@ -7,6 +7,7 @@ slug: happy-birthday-to-hecaitou
 title: 老伙计，生日快乐！
 wordpress_id: 2729
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 和菜头

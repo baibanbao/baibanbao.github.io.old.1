@@ -7,6 +7,7 @@ slug: '%e7%ad%89%e5%be%85%e5%92%8c%e8%8f%9c%e5%a4%b4'
 title: 等待和菜头
 wordpress_id: 801
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

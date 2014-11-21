@@ -7,6 +7,7 @@ slug: about-kindle
 title: 与kindle有关
 wordpress_id: 2204
 categories:
+- notes
 - 学点技术
 tags:
 - kindle

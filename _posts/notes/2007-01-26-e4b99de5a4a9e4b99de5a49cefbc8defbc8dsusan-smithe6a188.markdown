@@ -7,6 +7,7 @@ slug: '%e4%b9%9d%e5%a4%a9%e4%b9%9d%e5%a4%9c%ef%bc%8d%ef%bc%8dsusan-smith%e6%a1%8
 title: 九天九夜－－Susan Smith案
 wordpress_id: 782
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

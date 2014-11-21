@@ -7,6 +7,7 @@ slug: a-confession-on-blogging
 title: 关于博客的悔忏
 wordpress_id: 5478
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 博客

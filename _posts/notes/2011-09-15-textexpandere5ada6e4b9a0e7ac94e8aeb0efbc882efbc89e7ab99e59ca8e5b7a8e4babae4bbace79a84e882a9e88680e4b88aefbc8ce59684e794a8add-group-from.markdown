@@ -7,6 +7,7 @@ slug: textexpander%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0%ef%bc%882%ef%bc%89%e7%ab%
 title: TextExpander学习笔记（2）站在巨人们的肩膀上，善用Add Group from
 wordpress_id: 6560
 categories:
+- notes
 - 不好归类
 ---
 

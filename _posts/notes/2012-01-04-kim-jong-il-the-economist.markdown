@@ -7,6 +7,7 @@ slug: kim-jong-il-the-economist
 title: Kim Jong Il | The Economist
 wordpress_id: 6483
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

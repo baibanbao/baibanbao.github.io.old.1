@@ -7,6 +7,7 @@ slug: '%e8%89%b0%e9%9a%be%e5%a4%a7%e9%81%93%e7%9a%84%e4%ba%91'
 title: 艰难大道的云
 wordpress_id: 1601
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

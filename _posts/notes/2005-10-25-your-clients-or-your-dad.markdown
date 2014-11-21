@@ -7,6 +7,7 @@ slug: your-clients-or-your-dad
 title: 不得不佩服把客户当爹的人
 wordpress_id: 565
 categories:
+- notes
 - 文艺批评
 tags:
 - 生活

@@ -7,6 +7,7 @@ slug: the-unofficial-tour-guide-of-hangzhou-v1
 title: 杭州旅游非官方手册V1.01
 wordpress_id: 2220
 categories:
+- notes
 - 非虚构叙事
 - 鱼眼碎片
 tags:

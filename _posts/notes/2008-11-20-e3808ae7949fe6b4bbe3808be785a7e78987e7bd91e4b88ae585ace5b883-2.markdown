@@ -7,6 +7,7 @@ slug: '%e3%80%8a%e7%94%9f%e6%b4%bb%e3%80%8b%e7%85%a7%e7%89%87%e7%bd%91%e4%b8%8a%
 title: 《生活》照片网上公布
 wordpress_id: 1772
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

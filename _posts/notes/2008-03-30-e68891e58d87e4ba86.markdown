@@ -7,6 +7,7 @@ slug: '%e6%88%91%e5%8d%87%e4%ba%86'
 title: 我升了
 wordpress_id: 1424
 categories:
+- notes
 - 学点技术
 tags:
 - wordpress

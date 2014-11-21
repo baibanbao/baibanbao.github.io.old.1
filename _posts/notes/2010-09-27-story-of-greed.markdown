@@ -7,6 +7,7 @@ slug: story-of-greed
 title: 贪的故事
 wordpress_id: 3479
 categories:
+- notes
 - 非虚构叙事
 ---
 

@@ -7,6 +7,7 @@ slug: reporting-vietnam-project
 title: 《报道越南》研究翻译计划
 wordpress_id: 2574
 categories:
+- notes
 - 不好归类
 tags:
 - 报道越南

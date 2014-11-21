@@ -7,6 +7,7 @@ slug: '%e4%b8%8d%e4%ba%a6%e5%bf%ab%e5%93%89'
 title: 不亦快哉
 wordpress_id: 1034
 categories:
+- notes
 - 学点技术
 ---
 

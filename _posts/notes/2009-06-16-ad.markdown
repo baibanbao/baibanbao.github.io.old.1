@@ -7,6 +7,7 @@ slug: ad
 title: 眼前一辣
 wordpress_id: 2146
 categories:
+- notes
 - 爱看电影
 tags:
 - 创意

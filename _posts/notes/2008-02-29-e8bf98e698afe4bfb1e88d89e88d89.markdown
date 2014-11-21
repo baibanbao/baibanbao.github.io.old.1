@@ -7,6 +7,7 @@ slug: '%e8%bf%98%e6%98%af%e4%bf%b1%e8%8d%89%e8%8d%89'
 title: 还是俱草草
 wordpress_id: 1379
 categories:
+- notes
 - 写作练习
 tags:
 - 杂感

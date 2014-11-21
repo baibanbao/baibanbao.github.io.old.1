@@ -7,6 +7,7 @@ slug: song-beautiful-soul
 title: 西湖海盗电台《留在时间岸上的歌1：美丽的心灵》
 wordpress_id: 2801
 categories:
+- notes
 - 海盗电台
 tags:
 - 海盗电台

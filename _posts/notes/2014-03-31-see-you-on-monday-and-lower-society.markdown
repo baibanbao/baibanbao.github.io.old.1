@@ -7,6 +7,7 @@ slug: see-you-on-monday-and-lower-society
 title: “下流社会”周一见
 wordpress_id: 6299
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 下流社会

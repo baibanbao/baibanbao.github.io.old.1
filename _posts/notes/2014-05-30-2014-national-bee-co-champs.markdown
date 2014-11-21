@@ -7,6 +7,7 @@ slug: 2014-national-bee-co-champs
 title: 2014 National Bee co-champs
 wordpress_id: 6378
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

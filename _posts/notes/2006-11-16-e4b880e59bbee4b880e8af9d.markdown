@@ -7,6 +7,7 @@ slug: '%e4%b8%80%e5%9b%be%e4%b8%80%e8%af%9d'
 title: 一图一话
 wordpress_id: 678
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

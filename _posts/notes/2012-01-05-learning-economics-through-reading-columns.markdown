@@ -7,6 +7,7 @@ slug: learning-economics-through-reading-columns
 title: Learning Economics through Reading Columns
 wordpress_id: 6484
 categories:
+- notes
 - 不好归类
 tags:
 - column

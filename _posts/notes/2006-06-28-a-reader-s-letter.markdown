@@ -7,6 +7,7 @@ slug: a-reader-s-letter
 title: 转贴一封读者写给报社的信
 wordpress_id: 445
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

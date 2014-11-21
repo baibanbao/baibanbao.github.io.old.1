@@ -7,6 +7,7 @@ slug: we-have-to-borrow-another-800-years
 title: 向苍天再借800年
 wordpress_id: 2236
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 杭州房价

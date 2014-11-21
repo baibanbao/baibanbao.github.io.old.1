@@ -7,6 +7,7 @@ slug: dance-with-cherry-keyboard
 title: 机械键盘之舞
 wordpress_id: 4844
 categories:
+- notes
 - 各种工具
 tags:
 - keyboard

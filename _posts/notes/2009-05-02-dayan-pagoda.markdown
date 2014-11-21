@@ -7,6 +7,7 @@ slug: dayan-pagoda
 title: 超广角下的大雁塔
 wordpress_id: 2072
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

@@ -7,6 +7,7 @@ slug: about-jade
 title: 玉有三忌四畏一戒
 wordpress_id: 1147
 categories:
+- notes
 - 读书笔记
 ---
 

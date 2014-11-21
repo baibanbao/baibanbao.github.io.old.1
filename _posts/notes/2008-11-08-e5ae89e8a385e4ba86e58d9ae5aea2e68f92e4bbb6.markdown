@@ -7,6 +7,7 @@ slug: '%e5%ae%89%e8%a3%85%e4%ba%86%e5%8d%9a%e5%ae%a2%e6%8f%92%e4%bb%b6'
 title: 安装了博客插件
 wordpress_id: 1744
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

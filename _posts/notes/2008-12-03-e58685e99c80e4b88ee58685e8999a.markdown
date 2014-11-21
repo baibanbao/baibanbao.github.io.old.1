@@ -7,6 +7,7 @@ slug: '%e5%86%85%e9%9c%80%e4%b8%8e%e5%86%85%e8%99%9a'
 title: 内需与内虚
 wordpress_id: 1800
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

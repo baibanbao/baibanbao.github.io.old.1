@@ -7,6 +7,7 @@ slug: '%e5%a6%82%e4%bd%95%e5%9c%a8mac%e7%b3%bb%e7%bb%9f%e9%87%8c%e8%ae%be%e7%bd%
 title: 如何在Mac系统里设置一款非Mac机械键盘
 wordpress_id: 6528
 categories:
+- notes
 - 不好归类
 ---
 

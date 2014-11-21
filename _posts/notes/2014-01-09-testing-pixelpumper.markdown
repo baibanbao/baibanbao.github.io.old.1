@@ -8,6 +8,7 @@ slug: testing-pixelpumper
 title: 测试PixelPumper
 wordpress_id: 6249
 categories:
+- notes
 - 各种工具
 - 学点技术
 ---

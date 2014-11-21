@@ -7,6 +7,7 @@ slug: to-123-poetry-societ
 title: 123诗社成立2周年寄语
 wordpress_id: 5029
 categories:
+- notes
 - 海盗电台
 ---
 

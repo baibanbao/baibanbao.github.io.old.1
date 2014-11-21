@@ -7,6 +7,7 @@ slug: close-the-door
 title: 闭关
 wordpress_id: 5585
 categories:
+- notes
 - 生活不是条件反射
 ---
 

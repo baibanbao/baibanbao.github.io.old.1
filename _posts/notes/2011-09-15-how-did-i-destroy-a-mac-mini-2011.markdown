@@ -7,6 +7,7 @@ slug: how-did-i-destroy-a-mac-mini-2011
 title: 悲剧的诞生：我是怎样毁掉一台2011新款Mac Mini的
 wordpress_id: 4768
 categories:
+- notes
 - 生活不是条件反射
 ---
 

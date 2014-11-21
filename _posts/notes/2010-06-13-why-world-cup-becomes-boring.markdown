@@ -7,6 +7,7 @@ slug: why-world-cup-becomes-boring
 title: 世界杯为什么不好看了
 wordpress_id: 3299
 categories:
+- notes
 - 不好归类
 ---
 

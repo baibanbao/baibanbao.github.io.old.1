@@ -7,6 +7,7 @@ slug: '%e9%9a%be%e5%bf%98%e7%9a%84%e5%9c%a3%e7%93%a6%e4%bc%a6%e4%b8%81%e8%8a%82'
 title: 难忘的圣瓦伦丁节
 wordpress_id: 1904
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

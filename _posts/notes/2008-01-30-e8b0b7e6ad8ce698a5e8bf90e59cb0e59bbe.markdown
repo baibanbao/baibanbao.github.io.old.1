@@ -7,6 +7,7 @@ slug: '%e8%b0%b7%e6%ad%8c%e6%98%a5%e8%bf%90%e5%9c%b0%e5%9b%be'
 title: 谷歌春运地图
 wordpress_id: 1349
 categories:
+- notes
 - 学点技术
 tags:
 - google

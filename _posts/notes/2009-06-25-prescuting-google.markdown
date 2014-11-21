@@ -7,6 +7,7 @@ slug: prescuting-google
 title: Google，你住的那儿下雪了吗？
 wordpress_id: 2166
 categories:
+- notes
 - 不好归类
 tags:
 - google

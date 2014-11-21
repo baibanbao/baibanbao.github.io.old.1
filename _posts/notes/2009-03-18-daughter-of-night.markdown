@@ -7,6 +7,7 @@ slug: daughter-of-night
 title: 黑夜的献诗
 wordpress_id: 1983
 categories:
+- notes
 - 不好归类
 tags:
 - 歌

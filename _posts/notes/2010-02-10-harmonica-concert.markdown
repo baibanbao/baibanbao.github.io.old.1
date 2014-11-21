@@ -7,6 +7,7 @@ slug: harmonica-concert
 title: 海盗电台深夜即兴口琴独奏音乐会
 wordpress_id: 3157
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: 621%e9%9a%8f%e8%ae%b0
 title: 621随记
 wordpress_id: 1602
 categories:
+- notes
 - 写作练习
 ---
 

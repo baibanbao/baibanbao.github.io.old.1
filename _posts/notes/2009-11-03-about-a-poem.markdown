@@ -7,6 +7,7 @@ slug: about-a-poem
 title: 关于《新民歌：车震四韵》一诗的声明
 wordpress_id: 2715
 categories:
+- notes
 - 不好归类
 tags:
 - 声明

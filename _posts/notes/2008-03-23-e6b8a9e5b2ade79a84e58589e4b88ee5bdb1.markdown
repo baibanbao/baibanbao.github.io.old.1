@@ -7,6 +7,7 @@ slug: '%e6%b8%a9%e5%b2%ad%e7%9a%84%e5%85%89%e4%b8%8e%e5%bd%b1'
 title: 温岭的光与影
 wordpress_id: 1419
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

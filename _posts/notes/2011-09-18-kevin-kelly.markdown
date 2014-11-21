@@ -7,6 +7,7 @@ slug: kevin-kelly
 title: Kevin Kelly
 wordpress_id: 6568
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

@@ -7,6 +7,7 @@ slug: '%e7%ba%aa%e5%bf%b5%e6%af%9b%e6%b3%bd%e4%b8%9c%e7%9a%84n%e7%a7%8d%e6%96%b9
 title: 纪念毛泽东的N种方式
 wordpress_id: 602
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

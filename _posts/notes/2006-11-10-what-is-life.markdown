@@ -7,6 +7,7 @@ slug: what-is-life
 title: What is life?
 wordpress_id: 666
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

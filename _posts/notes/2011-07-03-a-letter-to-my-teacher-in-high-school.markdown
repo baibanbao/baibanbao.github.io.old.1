@@ -7,6 +7,7 @@ slug: a-letter-to-my-teacher-in-high-school
 title: 给中学语文老师的一封信
 wordpress_id: 4384
 categories:
+- notes
 - 生活不是条件反射
 ---
 

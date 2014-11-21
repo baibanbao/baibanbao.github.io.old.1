@@ -7,6 +7,7 @@ slug: '%e8%8b%b1%e5%9b%bd%e4%ba%ba%e4%b8%8d%e8%af%86%e6%95%b0'
 title: 英国人不识数
 wordpress_id: 754
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

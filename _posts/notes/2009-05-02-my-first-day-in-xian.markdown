@@ -7,6 +7,7 @@ slug: my-first-day-in-xian
 title: 西安第一天视觉日志
 wordpress_id: 2073
 categories:
+- notes
 - 爱看电影
 tags:
 - 摄影

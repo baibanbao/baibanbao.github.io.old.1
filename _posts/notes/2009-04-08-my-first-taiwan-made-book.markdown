@@ -7,6 +7,7 @@ slug: my-first-taiwan-made-book
 title: 我的第一套台版书
 wordpress_id: 2020
 categories:
+- notes
 - 不好归类
 - 读书笔记
 tags:

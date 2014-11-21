@@ -7,6 +7,7 @@ slug: textexpander%e4%bd%bf%e7%94%a8%e6%8a%80%e5%b7%a7
 title: Textexpander使用技巧
 wordpress_id: 6544
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

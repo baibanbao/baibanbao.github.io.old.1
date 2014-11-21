@@ -7,6 +7,7 @@ slug: on-tv-author
 title: 我所知道的电视剧编剧
 wordpress_id: 6114
 categories:
+- notes
 - 爱看电影
 ---
 

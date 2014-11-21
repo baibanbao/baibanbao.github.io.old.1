@@ -7,6 +7,7 @@ slug: in-the-eyes-of-friends
 title: 活着并且能看到别人这样写他的人，有福了！
 wordpress_id: 2176
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 朋友

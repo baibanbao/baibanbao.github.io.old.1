@@ -7,6 +7,7 @@ slug: let-the-kun-drama-die-at-peace
 title: 让昆曲安息吧
 wordpress_id: 531
 categories:
+- notes
 - 文艺批评
 tags:
 - 不好归类

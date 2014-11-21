@@ -7,6 +7,7 @@ slug: four-seasons-in-japan
 title: 好书不需要推荐--日本四季
 wordpress_id: 1928
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 书

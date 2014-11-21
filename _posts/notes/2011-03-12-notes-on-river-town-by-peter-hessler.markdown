@@ -7,6 +7,7 @@ slug: notes-on-river-town-by-peter-hessler
 title: 何伟“中国三部曲”读书笔记之一：雾锁江城
 wordpress_id: 4120
 categories:
+- notes
 - 非虚构叙事
 ---
 

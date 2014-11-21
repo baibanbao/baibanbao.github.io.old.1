@@ -7,6 +7,7 @@ slug: flight-guide-in-summer
 title: 夏季乘机指南
 wordpress_id: 3402
 categories:
+- notes
 - 非虚构叙事
 ---
 

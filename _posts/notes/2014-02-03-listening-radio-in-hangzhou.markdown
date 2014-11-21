@@ -7,6 +7,7 @@ slug: listening-radio-in-hangzhou
 title: 在杭州听广播
 wordpress_id: 6259
 categories:
+- notes
 - 写作练习
 - 每日千字文
 tags:

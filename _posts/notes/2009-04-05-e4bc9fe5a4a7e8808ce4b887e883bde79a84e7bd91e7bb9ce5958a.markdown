@@ -7,6 +7,7 @@ slug: '%e4%bc%9f%e5%a4%a7%e8%80%8c%e4%b8%87%e8%83%bd%e7%9a%84%e7%bd%91%e7%bb%9c%
 title: 伟大而万能的网络啊
 wordpress_id: 2011
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

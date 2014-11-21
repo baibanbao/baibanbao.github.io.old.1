@@ -7,6 +7,7 @@ slug: le-charme-discret-de-la-bourgeoisie
 title: 看片《资产阶级审慎的魅力》
 wordpress_id: 6012
 categories:
+- notes
 - 爱看电影
 - 编剧学习
 tags:

@@ -7,6 +7,7 @@ slug: '%e5%90%ac%e4%b8%80%e9%a6%96%e6%ad%8c'
 title: 听一首歌
 wordpress_id: 604
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

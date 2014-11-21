@@ -7,6 +7,7 @@ slug: '%e9%9d%9e%e5%ae%98%e6%96%b9%e8%a7%92%e5%ba%a6%e6%8b%8d%e6%91%84%e7%9a%84%
 title: 非官方角度拍摄的大火
 wordpress_id: 1896
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

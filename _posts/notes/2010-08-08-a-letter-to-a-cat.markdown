@@ -7,6 +7,7 @@ slug: a-letter-to-a-cat
 title: 亲爱的白菜头
 wordpress_id: 3413
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 猫

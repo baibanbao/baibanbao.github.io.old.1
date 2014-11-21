@@ -7,6 +7,7 @@ slug: office-for-mac%e6%b1%89%e5%ad%97%e5%ad%97%e4%bd%93%e6%98%be%e7%a4%ba%e9%97
 title: Office for Mac汉字字体显示问题的解决
 wordpress_id: 6443
 categories:
+- notes
 - 不好归类
 tags:
 - mac

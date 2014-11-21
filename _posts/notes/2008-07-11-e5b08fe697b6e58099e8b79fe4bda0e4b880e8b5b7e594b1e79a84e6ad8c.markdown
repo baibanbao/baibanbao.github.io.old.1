@@ -7,6 +7,7 @@ slug: '%e5%b0%8f%e6%97%b6%e5%80%99%e8%b7%9f%e4%bd%a0%e4%b8%80%e8%b5%b7%e5%94%b1%
 title: 小时候跟你一起唱的歌
 wordpress_id: 1637
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

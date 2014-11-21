@@ -7,6 +7,7 @@ slug: i-want-to-fly
 title: 海盗电台深夜扰民特别节目：吉他弹唱《我要飞》
 wordpress_id: 2844
 categories:
+- notes
 - 海盗电台
 tags:
 - 唱

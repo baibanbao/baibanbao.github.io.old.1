@@ -7,6 +7,7 @@ slug: '%e6%b8%a9%e6%9a%96%e6%9c%89%e8%b6%a3%e7%9a%84%e2%80%9c%e8%af%b43%ef%bc%9a
 title: 有趣的“说3”
 wordpress_id: 910
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

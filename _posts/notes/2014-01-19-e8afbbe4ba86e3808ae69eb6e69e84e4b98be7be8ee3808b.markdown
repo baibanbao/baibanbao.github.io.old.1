@@ -7,6 +7,7 @@ slug: '%e8%af%bb%e4%ba%86%e3%80%8a%e6%9e%b6%e6%9e%84%e4%b9%8b%e7%be%8e%e3%80%8b'
 title: 读了《架构之美》
 wordpress_id: 6335
 categories:
+- notes
 - 不好归类
 tags:
 - 学习

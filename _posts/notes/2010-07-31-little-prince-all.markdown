@@ -7,6 +7,7 @@ slug: little-prince-all
 title: 欣燃播讲全本《小王子》
 wordpress_id: 3396
 categories:
+- notes
 - 不好归类
 tags:
 - 小王子

@@ -7,6 +7,7 @@ slug: rules-of-dinner-table
 title: 饭桌政治
 wordpress_id: 5270
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 习俗

@@ -7,6 +7,7 @@ slug: ano-they-dont-care
 title: 海盗电台：阿の为海地而创作的《They Don't Care (About the Dying People)》
 wordpress_id: 3126
 categories:
+- notes
 - 不好归类
 tags:
 - 原创

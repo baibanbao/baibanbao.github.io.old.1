@@ -7,6 +7,7 @@ slug: a-reading-list-for-future-journalists
 title: 《哥伦比亚新闻评论》评选出的「未来记者阅读书目」
 wordpress_id: 4984
 categories:
+- notes
 - 读书笔记
 - 非虚构叙事
 ---

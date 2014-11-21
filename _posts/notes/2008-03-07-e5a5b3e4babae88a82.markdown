@@ -7,6 +7,7 @@ slug: '%e5%a5%b3%e4%ba%ba%e8%8a%82'
 title: 女人节
 wordpress_id: 1389
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

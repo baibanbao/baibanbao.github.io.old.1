@@ -7,6 +7,7 @@ slug: demovirushuo-think-different-be-yourself-%e7%bc%85%e6%80%80%e4%b9%94%e5%b8
 title: 'demo@virushuo: Think different & be yourself 缅怀乔布斯'
 wordpress_id: 6517
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

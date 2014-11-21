@@ -7,6 +7,7 @@ slug: tumblr%e7%9c%9f%e5%a5%bd%e7%8e%a9%ef%bc%8c%e5%86%99%e8%b5%b7%e6%9d%a5%e6%9
 title: Tumblr真好玩，写起来无压力
 wordpress_id: 6597
 categories:
+- notes
 - 不好归类
 tags:
 - tumblr

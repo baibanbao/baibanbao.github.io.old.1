@@ -7,6 +7,7 @@ slug: '%e5%83%8f%e5%86%af%e4%b8%80%e5%88%80%e9%82%a3%e6%a0%b7%e5%8e%bb%e5%86%99%
 title: 像冯一刀那样去写字
 wordpress_id: 720
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

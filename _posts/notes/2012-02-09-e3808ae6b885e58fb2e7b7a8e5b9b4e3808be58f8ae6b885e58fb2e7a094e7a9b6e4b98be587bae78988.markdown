@@ -7,6 +7,7 @@ slug: '%e3%80%8a%e6%b8%85%e5%8f%b2%e7%b7%a8%e5%b9%b4%e3%80%8b%e5%8f%8a%e6%b8%85%
 title: 《清史編年》及清史研究之出版
 wordpress_id: 6380
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

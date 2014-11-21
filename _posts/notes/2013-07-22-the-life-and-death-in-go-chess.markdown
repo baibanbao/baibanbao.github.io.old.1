@@ -7,6 +7,7 @@ slug: the-life-and-death-in-go-chess
 title: 生死围棋
 wordpress_id: 6112
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 回忆

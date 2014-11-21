@@ -7,6 +7,7 @@ slug: nanjing-memory
 title: 南京记忆碎片
 wordpress_id: 2664
 categories:
+- notes
 - 不好归类
 tags:
 - 无意义

@@ -7,6 +7,7 @@ slug: little-prince-3-4
 title: 海盗电台：欣燃播讲《小王子》1-4集联播
 wordpress_id: 3091
 categories:
+- notes
 - 海盗电台
 tags:
 - 小王子

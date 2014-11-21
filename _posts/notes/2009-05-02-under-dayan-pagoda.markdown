@@ -7,6 +7,7 @@ slug: under-dayan-pagoda
 title: 大雁塔下
 wordpress_id: 2071
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

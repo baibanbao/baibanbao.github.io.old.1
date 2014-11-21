@@ -7,6 +7,7 @@ slug: the-truth-about-jealousy
 title: 事实上，并不存在嫉贤妒能
 wordpress_id: 393
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

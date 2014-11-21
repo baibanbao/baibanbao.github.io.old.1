@@ -7,6 +7,7 @@ slug: elians-fate
 title: 埃连的命运
 wordpress_id: 3348
 categories:
+- notes
 - 读书笔记
 tags:
 - 新闻

@@ -7,6 +7,7 @@ slug: 16-favorite-iphone3gs-apps
 title: 私最爱的16个iPhone小软件
 wordpress_id: 2325
 categories:
+- notes
 - 不好归类
 tags:
 - app

@@ -7,6 +7,7 @@ slug: chinese-opera-foreign-story
 title: 中国曲唱外国戏
 wordpress_id: 5375
 categories:
+- notes
 - 写作练习
 tags:
 - 创作

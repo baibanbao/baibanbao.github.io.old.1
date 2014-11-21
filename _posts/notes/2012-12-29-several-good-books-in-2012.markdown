@@ -7,6 +7,7 @@ slug: several-good-books-in-2012
 title: 2012所遇好书：《蒙古高原行纪》
 wordpress_id: 5810
 categories:
+- notes
 - 文艺批评
 - 读书笔记
 tags:

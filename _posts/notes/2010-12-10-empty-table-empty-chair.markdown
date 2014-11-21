@@ -7,6 +7,7 @@ slug: empty-table-empty-chair
 title: 空空的桌子空空的椅
 wordpress_id: 3734
 categories:
+- notes
 - 爱看电影
 tags:
 - 纪念

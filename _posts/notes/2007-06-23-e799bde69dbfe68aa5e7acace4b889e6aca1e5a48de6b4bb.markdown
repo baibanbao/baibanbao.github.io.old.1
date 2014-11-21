@@ -7,6 +7,7 @@ slug: '%e7%99%bd%e6%9d%bf%e6%8a%a5%e7%ac%ac%e4%b8%89%e6%ac%a1%e5%a4%8d%e6%b4%bb'
 title: 白板报第三次复活
 wordpress_id: 1065
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

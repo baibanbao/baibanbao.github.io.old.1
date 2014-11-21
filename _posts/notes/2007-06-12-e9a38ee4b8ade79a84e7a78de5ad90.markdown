@@ -7,6 +7,7 @@ slug: '%e9%a3%8e%e4%b8%ad%e7%9a%84%e7%a7%8d%e5%ad%90'
 title: 风中的种子
 wordpress_id: 1052
 categories:
+- notes
 - 学点技术
 tags:
 - 生活不是条件反射

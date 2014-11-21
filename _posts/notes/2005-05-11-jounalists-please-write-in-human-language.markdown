@@ -7,6 +7,7 @@ slug: jounalists-please-write-in-human-language
 title: 记者说人话001
 wordpress_id: 1143
 categories:
+- notes
 - 语文运动
 tags:
 - 不好归类

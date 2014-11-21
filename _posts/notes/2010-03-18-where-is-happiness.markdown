@@ -7,6 +7,7 @@ slug: where-is-happiness
 title: 幸福在哪里？
 wordpress_id: 3189
 categories:
+- notes
 - 不好归类
 tags:
 - 散文

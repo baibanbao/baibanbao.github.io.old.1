@@ -7,6 +7,7 @@ slug: 1928%e5%b9%b4%e4%bb%a5%e6%9d%a5%e5%a5%a5%e6%96%af%e5%8d%a1%e6%9c%80%e4%bd%
 title: 1928年以来奥斯卡最佳影片对应译名
 wordpress_id: 1806
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

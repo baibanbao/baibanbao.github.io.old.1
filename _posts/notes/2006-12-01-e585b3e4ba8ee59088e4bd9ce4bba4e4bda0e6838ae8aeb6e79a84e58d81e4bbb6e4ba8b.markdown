@@ -7,6 +7,7 @@ slug: '%e5%85%b3%e4%ba%8e%e5%90%88%e4%bd%9c%e4%bb%a4%e4%bd%a0%e6%83%8a%e8%ae%b6%
 title: 关于合作令你惊讶的十件事
 wordpress_id: 701
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

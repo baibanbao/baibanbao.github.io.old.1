@@ -7,6 +7,7 @@ slug: in-driving-school
 title: 学车记
 wordpress_id: 5538
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 学车

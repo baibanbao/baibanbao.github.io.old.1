@@ -7,6 +7,7 @@ slug: '%e5%9c%b0%e5%9b%be%e4%b8%8e%e5%8a%a8%e6%bc%ab'
 title: 地图与动漫
 wordpress_id: 6584
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

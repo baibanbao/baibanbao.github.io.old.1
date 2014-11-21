@@ -7,6 +7,7 @@ slug: '%e5%8d%8f%e8%ae%ae%e6%8e%a7%e5%88%b6%e6%98%af%e4%bb%80%e4%b9%88%ef%bc%9f-
 title: 协议控制是什么？ VIE是什么？_资料存档_百度空间
 wordpress_id: 6513
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

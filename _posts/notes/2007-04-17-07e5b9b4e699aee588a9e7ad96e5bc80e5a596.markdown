@@ -7,6 +7,7 @@ slug: 07%e5%b9%b4%e6%99%ae%e5%88%a9%e7%ad%96%e5%bc%80%e5%a5%96
 title: 07年普利策开奖
 wordpress_id: 886
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

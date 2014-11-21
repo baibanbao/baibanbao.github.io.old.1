@@ -8,6 +8,7 @@ slug: before-dying
 title: 人之将死
 wordpress_id: 6241
 categories:
+- notes
 - 不好归类
 ---
 

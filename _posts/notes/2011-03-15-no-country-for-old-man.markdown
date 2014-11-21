@@ -7,6 +7,7 @@ slug: no-country-for-old-man
 title: 老无所依
 wordpress_id: 4133
 categories:
+- notes
 - 非虚构叙事
 ---
 

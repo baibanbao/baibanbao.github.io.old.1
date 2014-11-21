@@ -8,6 +8,7 @@ title: 'Amazon.com: Parallel Stories: A Novel eBook: Péter Nádas, Imre Goldste
   Kindle Store'
 wordpress_id: 6554
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

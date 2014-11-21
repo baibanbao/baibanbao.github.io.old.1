@@ -7,6 +7,7 @@ slug: looking-down-from-yuhuang-mountain
 title: 从玉皇山上望下去
 wordpress_id: 2129
 categories:
+- notes
 - 爱看电影
 tags:
 - 摄影

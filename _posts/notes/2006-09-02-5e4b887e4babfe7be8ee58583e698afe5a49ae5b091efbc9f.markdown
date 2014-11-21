@@ -7,6 +7,7 @@ slug: 5%e4%b8%87%e4%ba%bf%e7%be%8e%e5%85%83%e6%98%af%e5%a4%9a%e5%b0%91%ef%bc%9f
 title: 5万亿美元是多少？
 wordpress_id: 596
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

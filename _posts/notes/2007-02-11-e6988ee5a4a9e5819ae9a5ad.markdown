@@ -7,6 +7,7 @@ slug: '%e6%98%8e%e5%a4%a9%e5%81%9a%e9%a5%ad'
 title: 明天做饭
 wordpress_id: 805
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

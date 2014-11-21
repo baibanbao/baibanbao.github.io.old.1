@@ -7,6 +7,7 @@ slug: '%e7%ac%ac%e4%ba%8c%e4%b8%aayoutube%e4%bd%9c%e5%93%81%ef%bc%9a%e6%89%ac%e5
 title: 第二个YouTube作品：扬子江故事
 wordpress_id: 781
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

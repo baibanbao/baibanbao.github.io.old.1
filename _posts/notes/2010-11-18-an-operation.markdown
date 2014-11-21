@@ -7,6 +7,7 @@ slug: an-operation
 title: 绝育
 wordpress_id: 3563
 categories:
+- notes
 - 不好归类
 ---
 

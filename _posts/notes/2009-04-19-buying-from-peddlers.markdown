@@ -7,6 +7,7 @@ slug: buying-from-peddlers
 title: 响应宁檬倡议：到小摊上买东西
 wordpress_id: 2034
 categories:
+- notes
 - 不好归类
 - 生活不是条件反射
 tags:

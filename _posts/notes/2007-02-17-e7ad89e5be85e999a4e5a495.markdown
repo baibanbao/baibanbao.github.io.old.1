@@ -7,6 +7,7 @@ slug: '%e7%ad%89%e5%be%85%e9%99%a4%e5%a4%95'
 title: 等待除夕
 wordpress_id: 813
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

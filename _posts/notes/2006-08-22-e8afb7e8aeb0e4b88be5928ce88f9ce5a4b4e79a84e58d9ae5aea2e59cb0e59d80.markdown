@@ -7,6 +7,7 @@ slug: '%e8%af%b7%e8%ae%b0%e4%b8%8b%e5%92%8c%e8%8f%9c%e5%a4%b4%e7%9a%84%e5%8d%9a%
 title: 请记下和菜头的博客地址
 wordpress_id: 503
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

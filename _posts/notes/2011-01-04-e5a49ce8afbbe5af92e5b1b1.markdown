@@ -7,6 +7,7 @@ slug: '%e5%a4%9c%e8%af%bb%e5%af%92%e5%b1%b1'
 title: 夜读寒山
 wordpress_id: 3832
 categories:
+- notes
 - 读书笔记
 tags:
 - 寒山

@@ -7,6 +7,7 @@ slug: '%e8%a5%bf%e8%a1%8c%e6%bc%ab%e8%ae%b0-1'
 title: 西行漫记-1
 wordpress_id: 1399
 categories:
+- notes
 - 写作练习
 tags:
 - 游记

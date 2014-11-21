@@ -7,6 +7,7 @@ slug: train-to-lahsa
 title: 火车向着拉萨跑
 wordpress_id: 448
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

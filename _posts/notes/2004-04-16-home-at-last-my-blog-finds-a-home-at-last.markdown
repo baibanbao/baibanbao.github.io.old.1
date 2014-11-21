@@ -7,6 +7,7 @@ slug: home-at-last-my-blog-finds-a-home-at-last
 title: 我的BLOG终于有了真正的家！
 wordpress_id: 522
 categories:
+- notes
 - 学点技术
 tags:
 - 不好归类

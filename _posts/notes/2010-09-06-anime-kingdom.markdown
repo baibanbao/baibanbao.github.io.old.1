@@ -7,6 +7,7 @@ slug: anime-kingdom
 title: 动画片长国
 wordpress_id: 3461
 categories:
+- notes
 - 爱看电影
 ---
 

@@ -7,6 +7,7 @@ slug: '%e8%bd%a6%e6%b0%b4%e9%a9%ac%e9%be%99%e6%8a%b5%e8%be%be%e5%88%a9%e7%89%a9%
 title: 车水马龙抵达利物浦开始对英国进行正式友好访问
 wordpress_id: 856
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

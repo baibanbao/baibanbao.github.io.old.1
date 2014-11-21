@@ -7,6 +7,7 @@ slug: do-not-discourage-an-idealist
 title: 不要劝阻一个理想主义者
 wordpress_id: 5675
 categories:
+- notes
 - 文艺批评
 - 生活不是条件反射
 tags:

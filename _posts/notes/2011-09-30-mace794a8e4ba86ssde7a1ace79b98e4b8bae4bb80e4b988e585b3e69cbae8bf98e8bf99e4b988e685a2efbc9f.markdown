@@ -7,6 +7,7 @@ slug: mac%e7%94%a8%e4%ba%86ssd%e7%a1%ac%e7%9b%98%e4%b8%ba%e4%bb%80%e4%b9%88%e5%8
 title: Mac用了SSD硬盘为什么关机还这么慢？
 wordpress_id: 6502
 categories:
+- notes
 - 不好归类
 tags:
 - mac

@@ -7,6 +7,7 @@ slug: '%e6%83%b3%e8%b1%a1%e6%8a%a5'
 title: 想象报
 wordpress_id: 1369
 categories:
+- notes
 - 写作练习
 tags:
 - 媒体

@@ -7,6 +7,7 @@ slug: zhouyunpeng
 title: 下周来看周云蓬
 wordpress_id: 3565
 categories:
+- notes
 - 语文运动
 tags:
 - 周云蓬

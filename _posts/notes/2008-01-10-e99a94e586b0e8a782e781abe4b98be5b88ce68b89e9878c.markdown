@@ -7,6 +7,7 @@ slug: '%e9%9a%94%e5%86%b0%e8%a7%82%e7%81%ab%e4%b9%8b%e5%b8%8c%e6%8b%89%e9%87%8c'
 title: 隔冰观火之希拉里
 wordpress_id: 1307
 categories:
+- notes
 - 写作练习
 tags:
 - 大选

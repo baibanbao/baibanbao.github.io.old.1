@@ -7,6 +7,7 @@ slug: medium-photo
 title: 中画幅之梦
 wordpress_id: 2781
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 摄影

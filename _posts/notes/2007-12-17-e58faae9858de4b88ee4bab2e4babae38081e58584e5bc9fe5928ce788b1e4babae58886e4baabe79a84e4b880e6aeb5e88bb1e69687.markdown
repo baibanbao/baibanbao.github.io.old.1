@@ -7,6 +7,7 @@ slug: '%e5%8f%aa%e9%85%8d%e4%b8%8e%e4%ba%b2%e4%ba%ba%e3%80%81%e5%85%84%e5%bc%9f%
 title: 只配与亲人、兄弟和爱人分享的一段英文
 wordpress_id: 1272
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

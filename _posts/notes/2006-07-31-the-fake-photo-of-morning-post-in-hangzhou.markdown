@@ -7,6 +7,7 @@ slug: the-fake-photo-of-morning-post-in-hangzhou
 title: 《今日早报》照片造假事件
 wordpress_id: 475
 categories:
+- notes
 - 爱看电影
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: auld-lang-syne
 title: Auld Lang Syne
 wordpress_id: 2021
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

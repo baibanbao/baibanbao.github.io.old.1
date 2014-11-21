@@ -7,6 +7,7 @@ slug: red-alert-for-google
 title: Google红色警报
 wordpress_id: 2163
 categories:
+- notes
 - 不好归类
 tags:
 - google

@@ -7,6 +7,7 @@ slug: how-to-recover-from-procrastination-without-curing
 title: 如何让拖延症不治自愈
 wordpress_id: 6178
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 拖延症

@@ -7,6 +7,7 @@ slug: leaning-from-the-past
 title: 2007-2008：经验和教训
 wordpress_id: 1281
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 生活不是条件反射

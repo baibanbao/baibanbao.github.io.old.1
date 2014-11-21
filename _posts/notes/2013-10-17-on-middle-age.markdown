@@ -7,6 +7,7 @@ slug: on-middle-age
 title: 中年的十条感悟
 wordpress_id: 6156
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 一本正经地瞎掰

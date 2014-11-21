@@ -7,6 +7,7 @@ slug: '%e5%8d%96%e6%9e%a3%e8%80%85%e8%a8%80%ef%bc%9a%e6%88%91%e7%9a%84%e6%b7%98%
 title: 卖枣者言：我的淘宝经验V0.1
 wordpress_id: 6445
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: the-salt-turblance
 title: 理性的国民不应加入“盐骚动”
 wordpress_id: 4138
 categories:
+- notes
 - 非虚构叙事
 ---
 

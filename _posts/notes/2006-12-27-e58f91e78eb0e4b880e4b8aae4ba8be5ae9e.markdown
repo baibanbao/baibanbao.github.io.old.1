@@ -7,6 +7,7 @@ slug: '%e5%8f%91%e7%8e%b0%e4%b8%80%e4%b8%aa%e4%ba%8b%e5%ae%9e'
 title: 发现一个事实
 wordpress_id: 752
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -8,6 +8,7 @@ slug: '%e5%9b%9e%e4%b9%a1%e7%ac%ac%e4%b8%89%e5%a4%a9'
 title: 回乡第三天
 wordpress_id: 6429
 categories:
+- notes
 - 不好归类
 ---
 

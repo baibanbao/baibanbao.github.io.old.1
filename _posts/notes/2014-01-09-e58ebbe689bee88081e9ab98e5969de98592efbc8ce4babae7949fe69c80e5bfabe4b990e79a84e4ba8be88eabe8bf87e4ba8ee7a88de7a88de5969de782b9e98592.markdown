@@ -8,6 +8,7 @@ slug: '%e5%8e%bb%e6%89%be%e8%80%81%e9%ab%98%e5%96%9d%e9%85%92%ef%bc%8c%e4%ba%ba%
 title: 去找老高喝酒，人生最快乐的事莫过于稍稍喝点酒。
 wordpress_id: 6400
 categories:
+- notes
 - 不好归类
 ---
 

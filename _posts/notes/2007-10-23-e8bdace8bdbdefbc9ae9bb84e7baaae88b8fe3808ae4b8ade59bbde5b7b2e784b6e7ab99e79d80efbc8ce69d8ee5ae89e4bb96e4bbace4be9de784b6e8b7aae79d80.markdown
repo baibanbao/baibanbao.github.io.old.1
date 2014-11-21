@@ -7,6 +7,7 @@ slug: '%e8%bd%ac%e8%bd%bd%ef%bc%9a%e9%bb%84%e7%ba%aa%e8%8b%8f%e3%80%8a%e4%b8%ad%
 title: 转载：黄纪苏《中国已然站着，李安他们依然跪着》
 wordpress_id: 1226
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

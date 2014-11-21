@@ -7,6 +7,7 @@ slug: windows-metro-style-apps-developer-downloads
 title: Windows Metro Style Apps Developer Downloads
 wordpress_id: 6587
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

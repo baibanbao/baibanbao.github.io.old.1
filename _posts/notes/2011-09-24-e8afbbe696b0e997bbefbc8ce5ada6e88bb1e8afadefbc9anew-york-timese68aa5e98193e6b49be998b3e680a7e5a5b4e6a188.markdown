@@ -7,6 +7,7 @@ slug: '%e8%af%bb%e6%96%b0%e9%97%bb%ef%bc%8c%e5%ad%a6%e8%8b%b1%e8%af%ad%ef%bc%9an
 title: 读新闻，学英语：New York Times报道洛阳性奴案
 wordpress_id: 6594
 categories:
+- notes
 - 不好归类
 ---
 

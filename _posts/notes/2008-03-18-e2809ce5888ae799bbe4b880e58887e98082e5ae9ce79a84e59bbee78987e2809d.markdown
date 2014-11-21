@@ -7,6 +7,7 @@ slug: '%e2%80%9c%e5%88%8a%e7%99%bb%e4%b8%80%e5%88%87%e9%80%82%e5%ae%9c%e7%9a%84%
 title: “刊登一切适宜的图片”
 wordpress_id: 1407
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

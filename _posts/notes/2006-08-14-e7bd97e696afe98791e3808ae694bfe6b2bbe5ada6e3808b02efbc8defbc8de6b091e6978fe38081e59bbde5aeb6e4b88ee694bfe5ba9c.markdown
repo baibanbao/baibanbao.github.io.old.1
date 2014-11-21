@@ -7,6 +7,7 @@ slug: '%e7%bd%97%e6%96%af%e9%87%91%e3%80%8a%e6%94%bf%e6%b2%bb%e5%ad%a6%e3%80%8b0
 title: 罗斯金《政治学》02－－民族、国家与政府
 wordpress_id: 488
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: '%e8%b7%9f%e5%af%bc%e5%b8%88%e8%b0%88%e8%ae%ba%e6%96%87'
 title: 跟导师谈论文
 wordpress_id: 926
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

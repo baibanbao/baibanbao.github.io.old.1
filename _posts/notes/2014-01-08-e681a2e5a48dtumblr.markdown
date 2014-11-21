@@ -8,6 +8,7 @@ slug: '%e6%81%a2%e5%a4%8dtumblr'
 title: 恢复TUMBLR
 wordpress_id: 6388
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: he-has-two-wives
 title: 两个老婆
 wordpress_id: 525
 categories:
+- notes
 - 爱看电影
 tags:
 - 不好归类

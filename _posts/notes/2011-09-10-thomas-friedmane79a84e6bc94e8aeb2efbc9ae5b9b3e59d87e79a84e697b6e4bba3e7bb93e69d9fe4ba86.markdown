@@ -7,6 +7,7 @@ slug: thomas-friedman%e7%9a%84%e6%bc%94%e8%ae%b2%ef%bc%9a%e5%b9%b3%e5%9d%87%e7%9
 title: Thomas Friedman的演讲：平均的时代结束了
 wordpress_id: 6631
 categories:
+- notes
 - 不好归类
 tags:
 - idea

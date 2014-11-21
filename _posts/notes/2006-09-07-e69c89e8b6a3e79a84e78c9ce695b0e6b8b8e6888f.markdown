@@ -7,6 +7,7 @@ slug: '%e6%9c%89%e8%b6%a3%e7%9a%84%e7%8c%9c%e6%95%b0%e6%b8%b8%e6%88%8f'
 title: 有趣的猜数游戏
 wordpress_id: 599
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

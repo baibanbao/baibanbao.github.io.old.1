@@ -7,6 +7,7 @@ slug: one-day-in-beijing
 title: 北京一日
 wordpress_id: 2101
 categories:
+- notes
 - 不好归类
 - 生活不是条件反射
 tags:

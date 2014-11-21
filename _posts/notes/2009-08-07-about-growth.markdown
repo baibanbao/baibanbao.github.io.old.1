@@ -7,6 +7,7 @@ slug: about-growth
 title: 万物自己生长
 wordpress_id: 2229
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 孩子

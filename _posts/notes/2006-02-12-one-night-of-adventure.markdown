@@ -7,6 +7,7 @@ slug: one-night-of-adventure
 title: 一夜前卫
 wordpress_id: 512
 categories:
+- notes
 - 写作练习
 tags:
 - 小说

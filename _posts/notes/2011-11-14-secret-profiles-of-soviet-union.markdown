@@ -7,6 +7,7 @@ slug: secret-profiles-of-soviet-union
 title: 苏联解密档案显示帕斯捷尔纳克因获诺奖而受到审讯
 wordpress_id: 4943
 categories:
+- notes
 - 读书笔记
 tags:
 - 作家

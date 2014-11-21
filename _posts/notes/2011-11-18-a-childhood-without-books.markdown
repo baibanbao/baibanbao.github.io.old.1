@@ -7,6 +7,7 @@ slug: a-childhood-without-books
 title: 童年，我要读书
 wordpress_id: 4967
 categories:
+- notes
 - 生活不是条件反射
 - 非虚构叙事
 tags:

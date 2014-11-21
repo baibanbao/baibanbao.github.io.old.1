@@ -7,6 +7,7 @@ slug: a-cup-of-christmas-tea
 title: 译诗：一杯圣诞茶
 wordpress_id: 6211
 categories:
+- notes
 - 写作练习
 tags:
 - 翻译

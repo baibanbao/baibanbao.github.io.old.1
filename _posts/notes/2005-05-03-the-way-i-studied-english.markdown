@@ -7,6 +7,7 @@ slug: the-way-i-studied-english
 title: 我的英语生涯
 wordpress_id: 541
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: no-one-knows-the-meaning-of-blogging
 title: 无人会 登临意
 wordpress_id: 6242
 categories:
+- notes
 - 写作练习
 - 学点技术
 tags:

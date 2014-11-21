@@ -7,6 +7,7 @@ slug: the-digital-dead-sea-scrolls-project
 title: 《死海古卷》借助互联网重见天日
 wordpress_id: 4815
 categories:
+- notes
 - 读书笔记
 ---
 

@@ -7,6 +7,7 @@ slug: everything-need-to-be-done-by-yourself
 title: 全自助时代
 wordpress_id: 4442
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 南方都市报

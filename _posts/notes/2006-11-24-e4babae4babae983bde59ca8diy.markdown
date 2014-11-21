@@ -7,6 +7,7 @@ slug: '%e4%ba%ba%e4%ba%ba%e9%83%bd%e5%9c%a8diy'
 title: 人人都在DIY
 wordpress_id: 696
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

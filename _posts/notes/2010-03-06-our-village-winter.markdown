@@ -7,6 +7,7 @@ slug: our-village-winter
 title: 《我们的村庄》冬
 wordpress_id: 3180
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 丁家村

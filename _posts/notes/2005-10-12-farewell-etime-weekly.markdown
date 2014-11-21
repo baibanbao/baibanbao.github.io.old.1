@@ -7,6 +7,7 @@ slug: farewell-etime-weekly
 title: 为3岁的她送行
 wordpress_id: 562
 categories:
+- notes
 - 文艺批评
 tags:
 - 不好归类

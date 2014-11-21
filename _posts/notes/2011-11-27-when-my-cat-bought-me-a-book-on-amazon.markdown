@@ -7,6 +7,7 @@ slug: when-my-cat-bought-me-a-book-on-amazon
 title: When my cat bought me a book on Amazon
 wordpress_id: 5006
 categories:
+- notes
 - 生活不是条件反射
 ---
 

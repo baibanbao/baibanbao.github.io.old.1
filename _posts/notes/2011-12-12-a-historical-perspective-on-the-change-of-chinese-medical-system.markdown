@@ -7,6 +7,7 @@ slug: a-historical-perspective-on-the-change-of-chinese-medical-system
 title: 从《毛主席和中央首长对卫生工作的指示》看中国医疗
 wordpress_id: 5063
 categories:
+- notes
 - 读书笔记
 tags:
 - 医疗

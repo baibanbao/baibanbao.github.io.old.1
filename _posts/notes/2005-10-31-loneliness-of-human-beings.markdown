@@ -7,6 +7,7 @@ slug: loneliness-of-human-beings
 title: 沉淀着人类永恒的孤独感
 wordpress_id: 942
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

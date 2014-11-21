@@ -7,6 +7,7 @@ slug: today-liberty-plaza-had-a-visit-from-slavoj-zizek-occupywallst-org
 title: Today Liberty Plaza had a visit from Slavoj Zizek | OccupyWallSt.org
 wordpress_id: 6532
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

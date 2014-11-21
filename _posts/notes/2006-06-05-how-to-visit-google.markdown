@@ -7,6 +7,7 @@ slug: how-to-visit-google
 title: GOOGLE访问终极秘技
 wordpress_id: 425
 categories:
+- notes
 - 学点技术
 tags:
 - 不好归类

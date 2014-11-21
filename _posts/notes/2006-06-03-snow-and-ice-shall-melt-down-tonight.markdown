@@ -7,6 +7,7 @@ slug: snow-and-ice-shall-melt-down-tonight
 title: 千年的冰雪今夜要融化
 wordpress_id: 423
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

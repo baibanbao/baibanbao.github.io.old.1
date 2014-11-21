@@ -7,6 +7,7 @@ slug: liangwendao-is-coming-to-the-town
 title: 道场
 wordpress_id: 2161
 categories:
+- notes
 - 爱看电影
 tags:
 - 名人

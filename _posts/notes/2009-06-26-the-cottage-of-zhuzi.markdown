@@ -7,6 +7,7 @@ slug: the-cottage-of-zhuzi
 title: 转：风华《迈克尔-杰克逊与柱子的小屋》
 wordpress_id: 2172
 categories:
+- notes
 - 不好归类
 tags:
 - 朋友

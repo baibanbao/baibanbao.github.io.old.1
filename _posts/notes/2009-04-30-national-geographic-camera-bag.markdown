@@ -7,6 +7,7 @@ slug: national-geographic-camera-bag
 title: 烧包
 wordpress_id: 2058
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

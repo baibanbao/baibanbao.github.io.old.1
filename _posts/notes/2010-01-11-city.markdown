@@ -7,6 +7,7 @@ slug: city
 title: 令人感动得无可如何的一首诗：Snoopy朗诵卡瓦菲斯《城市》
 wordpress_id: 3017
 categories:
+- notes
 - 不好归类
 tags:
 - 朗诵

@@ -7,6 +7,7 @@ slug: my-sister-mot
 title: 父亲的散文《姐姐》完整版
 wordpress_id: 5977
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 善良

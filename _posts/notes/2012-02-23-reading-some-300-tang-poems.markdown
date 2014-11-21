@@ -7,6 +7,7 @@ slug: reading-some-300-tang-poems
 title: 读一点《唐诗三百首》
 wordpress_id: 5309
 categories:
+- notes
 - 读书笔记
 ---
 

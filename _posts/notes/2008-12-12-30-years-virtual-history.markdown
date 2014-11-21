@@ -7,6 +7,7 @@ slug: 30-years-virtual-history
 title: 时光倒进30年
 wordpress_id: 1812
 categories:
+- notes
 - 写作练习
 ---
 

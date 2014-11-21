@@ -7,6 +7,7 @@ slug: dongdongqiang-duanhunqiang
 title: 海盗电台特别放送：东东枪播讲《断魂枪》
 wordpress_id: 3045
 categories:
+- notes
 - 海盗电台
 tags:
 - 东东枪

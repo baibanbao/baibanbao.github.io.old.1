@@ -7,6 +7,7 @@ slug: go-north-east
 title: 在东北
 wordpress_id: 3293
 categories:
+- notes
 - 非虚构叙事
 ---
 

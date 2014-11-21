@@ -8,6 +8,7 @@ slug: '%e5%b0%8f%e5%8e%bf%e5%9f%8e%e7%9a%84%e7%83%a7%e7%83%a4%e5%ba%97'
 title: 小县城的烧烤店
 wordpress_id: 6326
 categories:
+- notes
 - 不好归类
 ---
 

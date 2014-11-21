@@ -7,6 +7,7 @@ slug: playwright-is-pitiful
 title: 编剧不是人干的活 导演绝对是牲口干的活
 wordpress_id: 432
 categories:
+- notes
 - 文艺批评
 tags:
 - 编剧

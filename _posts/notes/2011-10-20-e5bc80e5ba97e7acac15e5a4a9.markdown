@@ -7,6 +7,7 @@ slug: '%e5%bc%80%e5%ba%97%e7%ac%ac15%e5%a4%a9'
 title: 开店第15天
 wordpress_id: 6537
 categories:
+- notes
 - 不好归类
 tags:
 - 冬枣

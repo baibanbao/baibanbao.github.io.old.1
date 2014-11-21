@@ -7,6 +7,7 @@ slug: '%e8%80%81%e8%92%8b%e7%9a%84%e4%b8%89%e7%82%b9%e6%8c%87%e7%a4%ba'
 title: 抓拍宋石男
 wordpress_id: 1408
 categories:
+- notes
 - 学点技术
 tags:
 - 四一

@@ -7,6 +7,7 @@ slug: to-my-sleeping-so
 title: 致熟睡中的儿子
 wordpress_id: 5158
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 王元澄

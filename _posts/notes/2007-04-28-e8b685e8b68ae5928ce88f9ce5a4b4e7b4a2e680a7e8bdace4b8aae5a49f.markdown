@@ -7,6 +7,7 @@ slug: '%e8%b6%85%e8%b6%8a%e5%92%8c%e8%8f%9c%e5%a4%b4%e7%b4%a2%e6%80%a7%e8%bd%ac%
 title: 超越和菜头索性转个够
 wordpress_id: 917
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

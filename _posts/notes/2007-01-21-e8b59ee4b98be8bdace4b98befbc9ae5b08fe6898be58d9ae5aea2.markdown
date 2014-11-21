@@ -7,6 +7,7 @@ slug: '%e8%b5%9e%e4%b9%8b%e8%bd%ac%e4%b9%8b%ef%bc%9a%e5%b0%8f%e6%89%8b%e5%8d%9a%
 title: 赞之转之：小手博客
 wordpress_id: 775
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

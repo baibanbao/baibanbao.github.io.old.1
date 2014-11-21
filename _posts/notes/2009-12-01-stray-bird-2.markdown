@@ -7,6 +7,7 @@ slug: stray-bird-2
 title: 西湖海盗电台深夜扰民之《离群的鸟》
 wordpress_id: 2791
 categories:
+- notes
 - 海盗电台
 tags:
 - 唱歌

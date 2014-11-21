@@ -7,6 +7,7 @@ slug: '%e5%86%b0%e5%b1%b1%e4%b8%8b%e7%9a%84%e6%9d%a5%e4%bf%a1'
 title: 冰山下的来信
 wordpress_id: 1353
 categories:
+- notes
 - 写作练习
 tags:
 - 下雪

@@ -7,6 +7,7 @@ slug: '%e7%99%bd%e6%9d%bf%e6%8a%a5%e6%81%a2%e5%a4%8d%e4%b8%ad'
 title: 白板报恢复中
 wordpress_id: 1036
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

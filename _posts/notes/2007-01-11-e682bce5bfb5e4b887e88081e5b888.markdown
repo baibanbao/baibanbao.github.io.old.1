@@ -7,6 +7,7 @@ slug: '%e6%82%bc%e5%bf%b5%e4%b8%87%e8%80%81%e5%b8%88'
 title: 悼念万老师
 wordpress_id: 763
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

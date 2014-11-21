@@ -7,6 +7,7 @@ slug: '%e8%80%81%e8%92%8b%e8%af%b7%e8%bf%9b'
 title: 老蒋请进
 wordpress_id: 1956
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

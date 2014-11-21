@@ -7,6 +7,7 @@ slug: '%e8%af%95%e7%ad%94%e5%86%af%e4%b8%80%e5%88%80%ef%bc%9a%e4%ba%92%e8%81%94%
 title: 试答冯一刀：互联网公司为什么更讲究等级？
 wordpress_id: 827
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

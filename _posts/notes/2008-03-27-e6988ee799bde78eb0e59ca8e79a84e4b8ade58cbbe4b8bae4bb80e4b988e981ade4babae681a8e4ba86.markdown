@@ -7,6 +7,7 @@ slug: '%e6%98%8e%e7%99%bd%e7%8e%b0%e5%9c%a8%e7%9a%84%e4%b8%ad%e5%8c%bb%e4%b8%ba%
 title: 明白现在的中医为什么遭人恨了
 wordpress_id: 1422
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

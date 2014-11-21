@@ -7,6 +7,7 @@ slug: '%e6%80%9c%e8%b4%ab%e6%b5%8e%e5%9b%b0%e6%98%af%e4%ba%ba%e9%81%93'
 title: 怜贫济困是人道
 wordpress_id: 792
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

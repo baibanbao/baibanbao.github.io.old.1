@@ -7,6 +7,7 @@ slug: our-village-episode-01
 title: 我们的村庄（1-12）
 wordpress_id: 2212
 categories:
+- notes
 - 非虚构叙事
 - 鱼眼碎片
 tags:

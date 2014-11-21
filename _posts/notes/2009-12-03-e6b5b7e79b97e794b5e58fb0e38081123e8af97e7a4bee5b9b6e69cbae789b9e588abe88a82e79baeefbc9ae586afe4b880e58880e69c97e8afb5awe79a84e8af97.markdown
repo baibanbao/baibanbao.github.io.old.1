@@ -7,6 +7,7 @@ slug: '%e6%b5%b7%e7%9b%97%e7%94%b5%e5%8f%b0%e3%80%81123%e8%af%97%e7%a4%be%e5%b9%
 title: 海盗电台、123诗社并机特别节目：冯一刀朗诵AW的诗《稻草人》
 wordpress_id: 2846
 categories:
+- notes
 - 不好归类
 tags:
 - 诗歌

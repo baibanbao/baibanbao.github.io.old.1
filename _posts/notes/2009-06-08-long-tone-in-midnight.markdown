@@ -7,6 +7,7 @@ slug: long-tone-in-midnight
 title: 夜的长调
 wordpress_id: 2136
 categories:
+- notes
 - 爱看电影
 - 生活不是条件反射
 tags:

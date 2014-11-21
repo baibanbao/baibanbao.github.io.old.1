@@ -7,6 +7,7 @@ slug: 2013-an-unsatisfactory-year
 title: 2013，一份不满意的答卷
 wordpress_id: 6193
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 博客

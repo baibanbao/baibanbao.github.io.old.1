@@ -7,6 +7,7 @@ slug: desktop-wallpapers-of-snow-leopard
 title: 周末放送：超有爱的苹果世界名画壁纸
 wordpress_id: 2255
 categories:
+- notes
 - 爱看电影
 tags:
 - 名画

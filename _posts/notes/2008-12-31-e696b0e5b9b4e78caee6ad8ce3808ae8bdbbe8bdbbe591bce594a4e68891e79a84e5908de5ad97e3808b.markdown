@@ -7,6 +7,7 @@ slug: '%e6%96%b0%e5%b9%b4%e7%8c%ae%e6%ad%8c%e3%80%8a%e8%bd%bb%e8%bd%bb%e5%91%bc%
 title: 旧年献歌《Позови меня тихо по имени 》
 wordpress_id: 1831
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

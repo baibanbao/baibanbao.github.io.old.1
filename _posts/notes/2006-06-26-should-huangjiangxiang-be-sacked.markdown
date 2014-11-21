@@ -7,6 +7,7 @@ slug: should-huangjiangxiang-be-sacked
 title: 黄健翔该不该下课
 wordpress_id: 442
 categories:
+- notes
 - 文艺批评
 tags:
 - 足球

@@ -7,6 +7,7 @@ slug: '%e6%8a%98%e8%85%bemac-mini%e7%ba%aa%e5%ae%9e'
 title: 折腾Mac Mini纪实
 wordpress_id: 6633
 categories:
+- notes
 - 不好归类
 tags:
 - Mac mini

@@ -7,6 +7,7 @@ slug: '%e5%a5%bd%e7%bd%91%e7%ab%99%e9%83%bd%e5%93%aa%e9%87%8c%e5%8e%bb%e4%ba%86%
 title: 好网站都哪里去了？
 wordpress_id: 1224
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

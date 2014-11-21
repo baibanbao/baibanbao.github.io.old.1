@@ -7,6 +7,7 @@ slug: answer
 title: 123诗社：纳纳朗诵北岛《回答》
 wordpress_id: 2832
 categories:
+- notes
 - 不好归类
 ---
 

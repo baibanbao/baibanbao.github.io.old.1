@@ -7,6 +7,7 @@ slug: book-wish-lists-survey
 title: 如果白送你一套书，不考虑价钱，但必须读完，你希望是什么？
 wordpress_id: 4781
 categories:
+- notes
 - 读书笔记
 ---
 

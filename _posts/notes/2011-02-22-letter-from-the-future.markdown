@@ -7,6 +7,7 @@ slug: letter-from-the-future
 title: 一封寄自未来的信：写给19岁的风华
 wordpress_id: 3983
 categories:
+- notes
 - 学点技术
 - 生活不是条件反射
 ---

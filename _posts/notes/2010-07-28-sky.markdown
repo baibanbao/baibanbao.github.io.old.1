@@ -7,6 +7,7 @@ slug: sky
 title: 那些天空
 wordpress_id: 3381
 categories:
+- notes
 - 爱看电影
 ---
 

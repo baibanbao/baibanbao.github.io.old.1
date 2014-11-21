@@ -7,6 +7,7 @@ slug: '%e8%af%91%e8%af%97%e4%ba%8c%e9%a6%96%ef%bc%9a%e5%b8%83%e8%8e%b1%e5%b8%8c%
 title: 译诗二首：布莱希特《城市寄居者手册》
 wordpress_id: 632
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

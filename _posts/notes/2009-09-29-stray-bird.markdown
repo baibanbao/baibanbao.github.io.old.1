@@ -7,6 +7,7 @@ slug: stray-bird
 title: 张炎《解连环 孤雁》
 wordpress_id: 2616
 categories:
+- notes
 - 不好归类
 ---
 

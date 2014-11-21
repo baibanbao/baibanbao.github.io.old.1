@@ -7,6 +7,7 @@ slug: '%e9%9b%b7%e5%8a%a8%e7%94%bb'
 title: 雷动画
 wordpress_id: 1958
 categories:
+- notes
 - 学点技术
 tags:
 - 动画

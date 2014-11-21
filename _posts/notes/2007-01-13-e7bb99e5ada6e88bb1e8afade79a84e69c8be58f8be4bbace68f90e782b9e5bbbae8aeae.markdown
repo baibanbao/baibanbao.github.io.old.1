@@ -7,6 +7,7 @@ slug: '%e7%bb%99%e5%ad%a6%e8%8b%b1%e8%af%ad%e7%9a%84%e6%9c%8b%e5%8f%8b%e4%bb%ac%
 title: 给学英语的朋友们提点建议
 wordpress_id: 767
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

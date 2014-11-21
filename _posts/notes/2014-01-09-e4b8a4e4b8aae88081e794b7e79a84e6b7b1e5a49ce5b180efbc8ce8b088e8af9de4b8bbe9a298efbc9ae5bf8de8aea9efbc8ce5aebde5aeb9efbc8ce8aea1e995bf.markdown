@@ -8,6 +8,7 @@ slug: '%e4%b8%a4%e4%b8%aa%e8%80%81%e7%94%b7%e7%9a%84%e6%b7%b1%e5%a4%9c%e5%b1%80%
 title: 两个老男的深夜局，谈话主题：忍让，宽容，计长远。
 wordpress_id: 6402
 categories:
+- notes
 - 不好归类
 ---
 

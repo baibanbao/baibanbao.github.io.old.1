@@ -7,6 +7,7 @@ slug: '%e3%80%8a%e5%91%b8%e8%8b%b1%e8%af%ad%e3%80%8b%e5%ad%a6%e4%b9%a0%e7%8f%ad%
 title: 《呸英语》学习班开张了
 wordpress_id: 1330
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

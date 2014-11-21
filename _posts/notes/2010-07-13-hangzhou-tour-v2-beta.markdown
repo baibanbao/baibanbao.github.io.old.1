@@ -7,6 +7,7 @@ slug: hangzhou-tour-v2-beta
 title: 杭州旅游非官方指南V1.9beta1
 wordpress_id: 3352
 categories:
+- notes
 - 非虚构叙事
 ---
 

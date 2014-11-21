@@ -7,6 +7,7 @@ slug: how-to-sycn-1password-using-dropbox
 title: 1Password如何使用Dropbox同步
 wordpress_id: 3583
 categories:
+- notes
 - 学点技术
 tags:
 - mac

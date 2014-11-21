@@ -7,6 +7,7 @@ slug: guevara
 title: 123诗社：《切-格瓦拉》
 wordpress_id: 2929
 categories:
+- notes
 - 不好归类
 ---
 

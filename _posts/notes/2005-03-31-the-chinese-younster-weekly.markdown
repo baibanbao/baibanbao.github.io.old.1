@@ -7,6 +7,7 @@ slug: the-chinese-younster-weekly
 title: 中国少年报
 wordpress_id: 539
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

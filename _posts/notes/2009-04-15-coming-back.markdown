@@ -7,6 +7,7 @@ slug: coming-back
 title: 震撼回归
 wordpress_id: 2024
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

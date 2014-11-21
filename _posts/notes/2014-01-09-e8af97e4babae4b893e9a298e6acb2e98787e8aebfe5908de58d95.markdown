@@ -8,6 +8,7 @@ slug: '%e8%af%97%e4%ba%ba%e4%b8%93%e9%a2%98%e6%ac%b2%e9%87%87%e8%ae%bf%e5%90%8d%
 title: 诗人专题欲采访名单
 wordpress_id: 6393
 categories:
+- notes
 - 不好归类
 ---
 

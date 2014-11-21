@@ -7,6 +7,7 @@ slug: virtual-letter-how-to-turn-london-to-a-civilized-city
 title: ［黑通社来信］关于伦敦创建文明城市的建议
 wordpress_id: 4778
 categories:
+- notes
 - 写作练习
 ---
 

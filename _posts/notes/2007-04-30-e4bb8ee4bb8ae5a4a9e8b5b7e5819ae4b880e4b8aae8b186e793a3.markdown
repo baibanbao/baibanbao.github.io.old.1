@@ -7,6 +7,7 @@ slug: '%e4%bb%8e%e4%bb%8a%e5%a4%a9%e8%b5%b7%e5%81%9a%e4%b8%80%e4%b8%aa%e8%b1%86%
 title: 从今天起做一个豆瓣
 wordpress_id: 922
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -8,6 +8,7 @@ slug: '%e5%90%84%e4%bd%8d%e3%80%8a%e5%82%b2%e9%aa%a8%e8%b4%a4%e5%a6%bb%e3%80%8b%
 title: 各位《傲骨贤妻》（The Good Wife)的忠实观众们
 wordpress_id: 6363
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

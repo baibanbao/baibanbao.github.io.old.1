@@ -7,6 +7,7 @@ slug: hangzhou-party
 title: 海盗电台123诗社杭州唱读会特辑（1）
 wordpress_id: 3224
 categories:
+- notes
 - 海盗电台
 tags:
 - 海盗电台

@@ -7,6 +7,7 @@ slug: murong-xuecun-chinese-novelist-pushes-censorship-limits-nytimes-com
 title: Murong Xuecun, Chinese Novelist, Pushes Censorship Limits - NYTimes.com
 wordpress_id: 6455
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

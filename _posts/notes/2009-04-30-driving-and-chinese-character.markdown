@@ -7,6 +7,7 @@ slug: driving-and-chinese-character
 title: 开车与中国人的本性
 wordpress_id: 2064
 categories:
+- notes
 - 不好归类
 tags:
 - 中国人

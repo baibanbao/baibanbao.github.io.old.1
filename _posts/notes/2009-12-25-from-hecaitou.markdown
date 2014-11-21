@@ -7,6 +7,7 @@ slug: from-hecaitou
 title: 转：和菜头《圣诞礼物之翻墙过海来看我》
 wordpress_id: 2954
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: our-word-is-our-weapon
 title: 我们的语言就是我们的武器--论为什么应当坚持写博客
 wordpress_id: 4938
 categories:
+- notes
 - 文艺批评
 - 生活不是条件反射
 tags:

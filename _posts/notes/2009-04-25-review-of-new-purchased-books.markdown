@@ -7,6 +7,7 @@ slug: review-of-new-purchased-books
 title: 新书入手录
 wordpress_id: 2043
 categories:
+- notes
 - 读书笔记
 tags:
 - 新书

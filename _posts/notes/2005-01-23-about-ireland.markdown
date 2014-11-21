@@ -7,6 +7,7 @@ slug: about-ireland
 title: 爱尔兰
 wordpress_id: 1145
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: 123-go-go-go
 title: 123，go go go!
 wordpress_id: 2817
 categories:
+- notes
 - 不好归类
 tags:
 - 123诗社

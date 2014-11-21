@@ -7,6 +7,7 @@ slug: neruda-questions-01-30
 title: 123诗社、海盗电台四月巨献：聂鲁达《疑问集》（1-30）
 wordpress_id: 3236
 categories:
+- notes
 - 海盗电台
 tags:
 - 123诗社

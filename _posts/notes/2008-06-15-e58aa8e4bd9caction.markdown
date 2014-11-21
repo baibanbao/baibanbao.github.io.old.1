@@ -7,6 +7,7 @@ slug: '%e5%8a%a8%e4%bd%9caction'
 title: 动作action
 wordpress_id: 1597
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

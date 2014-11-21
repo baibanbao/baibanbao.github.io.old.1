@@ -7,6 +7,7 @@ slug: i-bought-a-genuine-disk
 title: 我惭愧，我买了正版
 wordpress_id: 477
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 读书笔记

@@ -7,6 +7,7 @@ slug: '%e6%98%a5%e6%99%9a%e7%9b%b4%e6%92%ad%e5%b0%8f%e4%ba%8b%e6%95%85'
 title: 春晚直播小事故
 wordpress_id: 1360
 categories:
+- notes
 - 学点技术
 tags:
 - 事故

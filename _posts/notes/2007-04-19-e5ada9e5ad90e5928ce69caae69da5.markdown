@@ -7,6 +7,7 @@ slug: '%e5%ad%a9%e5%ad%90%e5%92%8c%e6%9c%aa%e6%9d%a5'
 title: 孩子和未来
 wordpress_id: 896
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

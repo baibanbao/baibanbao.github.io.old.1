@@ -7,6 +7,7 @@ slug: movie-review-on-eight-and-a-half
 title: 八部半
 wordpress_id: 542
 categories:
+- notes
 - 文艺批评
 tags:
 - 不好归类

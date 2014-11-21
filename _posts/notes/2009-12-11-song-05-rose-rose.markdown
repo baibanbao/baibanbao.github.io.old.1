@@ -7,6 +7,7 @@ slug: song-05-rose-rose
 title: 海盗电台《留在时间岸上的歌5：玫瑰玫瑰我爱你》背景音乐减弱版
 wordpress_id: 2893
 categories:
+- notes
 - 不好归类
 tags:
 - 海盗电台

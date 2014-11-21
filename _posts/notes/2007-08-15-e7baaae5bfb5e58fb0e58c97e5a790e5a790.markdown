@@ -7,6 +7,7 @@ slug: '%e7%ba%aa%e5%bf%b5%e5%8f%b0%e5%8c%97%e5%a7%90%e5%a7%90'
 title: 纪念台北姐姐
 wordpress_id: 1127
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

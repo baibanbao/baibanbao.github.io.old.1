@@ -7,6 +7,7 @@ slug: '%e5%85%ad%e5%a4%a9%e6%b8%b8%e8%ae%b0%ef%bc%9a%e5%af%bb%e6%89%be%e6%9f%a5%
 title: 六天游记：寻找查令十字街84号
 wordpress_id: 725
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

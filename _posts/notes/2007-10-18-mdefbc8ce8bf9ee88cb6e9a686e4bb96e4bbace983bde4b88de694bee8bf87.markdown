@@ -7,6 +7,7 @@ slug: md%ef%bc%8c%e8%bf%9e%e8%8c%b6%e9%a6%86%e4%bb%96%e4%bb%ac%e9%83%bd%e4%b8%8d
 title: MD，连茶馆他们都不放过
 wordpress_id: 1223
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

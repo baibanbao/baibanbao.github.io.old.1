@@ -7,6 +7,7 @@ slug: '%e7%a4%be%e4%bc%9a%e5%8c%96%e5%aa%92%e4%bd%93%ef%bc%9a%e5%8d%81%e5%b9%b4%
 title: 社会化媒体：十年，又十年
 wordpress_id: 3805
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 南方周末

@@ -7,6 +7,7 @@ slug: the-wisdom-of-taxi-drivers
 title: 出租司机就是NB
 wordpress_id: 532
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: '%e9%99%a4%e5%a4%95%e4%b9%b0%e8%8f%9c%e5%bd%92%e6%9d%a5'
 title: 除夕买菜归来
 wordpress_id: 814
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

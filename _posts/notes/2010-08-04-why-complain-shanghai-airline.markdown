@@ -7,6 +7,7 @@ slug: why-complain-shanghai-airline
 title: 解释一下，我为什么要找上航维权
 wordpress_id: 3410
 categories:
+- notes
 - 非虚构叙事
 ---
 

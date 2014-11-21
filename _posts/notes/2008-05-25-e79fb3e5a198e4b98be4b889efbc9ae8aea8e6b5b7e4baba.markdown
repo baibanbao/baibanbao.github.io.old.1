@@ -7,6 +7,7 @@ slug: '%e7%9f%b3%e5%a1%98%e4%b9%8b%e4%b8%89%ef%bc%9a%e8%ae%a8%e6%b5%b7%e4%ba%ba'
 title: 石塘之三：讨海人
 wordpress_id: 1568
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

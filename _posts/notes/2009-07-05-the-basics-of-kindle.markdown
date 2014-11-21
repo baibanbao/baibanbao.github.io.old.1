@@ -7,6 +7,7 @@ slug: the-basics-of-kindle
 title: Kindle问答
 wordpress_id: 2185
 categories:
+- notes
 - 学点技术
 tags:
 - kindle

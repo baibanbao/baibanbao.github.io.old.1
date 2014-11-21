@@ -7,6 +7,7 @@ slug: '%e4%ba%92%e8%81%94%e7%bd%91%e7%9a%84%e4%bb%87%e4%ba%ba%e6%9c%9d%e9%b2%9c'
 title: 互联网的仇人朝鲜
 wordpress_id: 1043
 categories:
+- notes
 - 不好归类
 - 学点技术
 tags:

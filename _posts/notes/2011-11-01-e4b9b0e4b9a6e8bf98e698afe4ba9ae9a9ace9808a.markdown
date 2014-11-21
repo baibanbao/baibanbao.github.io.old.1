@@ -7,6 +7,7 @@ slug: '%e4%b9%b0%e4%b9%a6%e8%bf%98%e6%98%af%e4%ba%9a%e9%a9%ac%e9%80%8a'
 title: 买书还是亚马逊
 wordpress_id: 6439
 categories:
+- notes
 - 不好归类
 tags:
 - book

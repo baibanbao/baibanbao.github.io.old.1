@@ -7,6 +7,7 @@ slug: little-prince-3
 title: 《小王子》归来
 wordpress_id: 3218
 categories:
+- notes
 - 海盗电台
 tags:
 - 小王子

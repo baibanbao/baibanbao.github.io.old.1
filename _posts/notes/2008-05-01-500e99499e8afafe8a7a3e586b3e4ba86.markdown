@@ -7,6 +7,7 @@ slug: 500%e9%94%99%e8%af%af%e8%a7%a3%e5%86%b3%e4%ba%86
 title: 500错误解决了
 wordpress_id: 1512
 categories:
+- notes
 - 学点技术
 tags:
 - 技术

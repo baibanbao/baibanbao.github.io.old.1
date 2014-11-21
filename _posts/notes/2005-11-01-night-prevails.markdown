@@ -7,6 +7,7 @@ slug: night-prevails
 title: 夜未央
 wordpress_id: 941
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

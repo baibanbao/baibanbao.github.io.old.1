@@ -7,6 +7,7 @@ slug: more-than-2000-worldwide-us-collaborators-publicly-exposed-mobilepda
 title: More than 2000 worldwide US-collaborators publicly exposed (mobile/pda)
 wordpress_id: 6632
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

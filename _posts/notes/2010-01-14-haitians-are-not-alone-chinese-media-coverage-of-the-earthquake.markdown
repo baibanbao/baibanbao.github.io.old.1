@@ -7,6 +7,7 @@ slug: haitians-are-not-alone-chinese-media-coverage-of-the-earthquake
 title: Haitians are not alone. Chinese media coverage of the earthquake.
 wordpress_id: 3059
 categories:
+- notes
 - 不好归类
 tags:
 - Haiti

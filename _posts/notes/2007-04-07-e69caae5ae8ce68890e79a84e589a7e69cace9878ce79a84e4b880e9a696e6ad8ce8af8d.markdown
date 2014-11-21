@@ -7,6 +7,7 @@ slug: '%e6%9c%aa%e5%ae%8c%e6%88%90%e7%9a%84%e5%89%a7%e6%9c%ac%e9%87%8c%e7%9a%84%
 title: 未完成的剧本里的一首歌词
 wordpress_id: 864
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

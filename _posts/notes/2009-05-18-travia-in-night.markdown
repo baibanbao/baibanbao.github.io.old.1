@@ -7,6 +7,7 @@ slug: travia-in-night
 title: 夜里发生的事
 wordpress_id: 2098
 categories:
+- notes
 - 爱看电影
 tags:
 - 杭州

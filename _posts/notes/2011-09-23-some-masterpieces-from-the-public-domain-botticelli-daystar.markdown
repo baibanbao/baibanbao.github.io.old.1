@@ -7,6 +7,7 @@ slug: some-masterpieces-from-the-public-domain-botticelli-daystar
 title: 'Some Masterpieces from the Public Domain: Botticelli   Daystar'
 wordpress_id: 6589
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

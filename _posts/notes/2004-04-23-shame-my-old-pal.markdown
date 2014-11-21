@@ -7,6 +7,7 @@ slug: shame-my-old-pal
 title: 老友莎漠
 wordpress_id: 526
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 不好归类

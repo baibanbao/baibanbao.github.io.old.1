@@ -7,6 +7,7 @@ slug: english-referrence-boo
 title: 刚买的英语工具书
 wordpress_id: 4934
 categories:
+- notes
 - 读书笔记
 ---
 

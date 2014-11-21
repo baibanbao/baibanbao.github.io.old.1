@@ -7,6 +7,7 @@ slug: on-piracy
 title: 我看软件盗版与正版问题
 wordpress_id: 3893
 categories:
+- notes
 - 学点技术
 tags:
 - mac

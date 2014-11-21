@@ -7,6 +7,7 @@ slug: endeavor-to-be-a-competent-blogger
 title: 做个好博客
 wordpress_id: 4160
 categories:
+- notes
 - 学点技术
 tags:
 - blog

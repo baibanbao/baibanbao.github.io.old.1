@@ -7,6 +7,7 @@ slug: a-shocking-day
 title: 今天是个震撼世界的日子
 wordpress_id: 3626
 categories:
+- notes
 - 非虚构叙事
 tags:
 - wikileaks

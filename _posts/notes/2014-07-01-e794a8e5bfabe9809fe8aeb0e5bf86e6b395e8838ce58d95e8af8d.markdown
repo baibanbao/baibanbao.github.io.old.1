@@ -7,6 +7,7 @@ slug: '%e7%94%a8%e5%bf%ab%e9%80%9f%e8%ae%b0%e5%bf%86%e6%b3%95%e8%83%8c%e5%8d%95%
 title: 用快速记忆法背单词
 wordpress_id: 6640
 categories:
+- notes
 - 不好归类
 ---
 

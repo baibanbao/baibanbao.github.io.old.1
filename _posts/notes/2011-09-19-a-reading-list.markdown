@@ -7,6 +7,7 @@ slug: a-reading-list
 title: 一份推荐阅读清单
 wordpress_id: 4801
 categories:
+- notes
 - 读书笔记
 ---
 

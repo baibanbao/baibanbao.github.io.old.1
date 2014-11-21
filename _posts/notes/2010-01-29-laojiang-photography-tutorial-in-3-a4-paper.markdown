@@ -7,6 +7,7 @@ slug: laojiang-photography-tutorial-in-3-a4-paper
 title: 老蒋《三页A4纸摄影教程》
 wordpress_id: 3133
 categories:
+- notes
 - 爱看电影
 tags:
 - 摄影

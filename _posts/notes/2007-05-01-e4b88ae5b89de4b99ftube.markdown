@@ -7,6 +7,7 @@ slug: '%e4%b8%8a%e5%b8%9d%e4%b9%9ftube'
 title: 上帝也Tube
 wordpress_id: 923
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

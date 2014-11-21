@@ -7,6 +7,7 @@ slug: '%e5%8d%9a%e8%80%8c%e4%bc%98%e5%88%99%e4%bb%95'
 title: 博而优则仕
 wordpress_id: 1247
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

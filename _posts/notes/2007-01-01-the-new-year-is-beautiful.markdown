@@ -7,6 +7,7 @@ slug: the-new-year-is-beautiful
 title: The new year is beautiful
 wordpress_id: 758
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

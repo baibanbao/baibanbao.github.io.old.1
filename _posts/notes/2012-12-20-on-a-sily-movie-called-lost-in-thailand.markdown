@@ -7,6 +7,7 @@ slug: on-a-sily-movie-called-lost-in-thailand
 title: 一次没乐看《泰囧》
 wordpress_id: 5792
 categories:
+- notes
 - 文艺批评
 tags:
 - 上当

@@ -7,6 +7,7 @@ slug: runner-in-the-dark
 title: 黑暗中的跑者
 wordpress_id: 4317
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 专栏

@@ -7,6 +7,7 @@ slug: '%e6%88%91%e5%9c%a8%e5%b9%b4%e4%bc%9a%e4%bc%9a%e5%9c%ba%e7%ac%ac%e4%b8%80%
 title: 我在年会会场第一次用UBUNTU写BLOG
 wordpress_id: 1763
 categories:
+- notes
 - 学点技术
 ---
 

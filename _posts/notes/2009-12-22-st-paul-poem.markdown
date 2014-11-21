@@ -7,6 +7,7 @@ slug: st-paul-poem
 title: 123诗社：巴尔的摩圣保罗教堂上的诗篇
 wordpress_id: 2942
 categories:
+- notes
 - 不好归类
 tags:
 - 朗诵

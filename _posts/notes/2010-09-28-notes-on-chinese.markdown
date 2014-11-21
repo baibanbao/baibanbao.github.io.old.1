@@ -7,6 +7,7 @@ slug: notes-on-chinese
 title: 语文杂记
 wordpress_id: 3487
 categories:
+- notes
 - 语文运动
 ---
 

@@ -7,6 +7,7 @@ slug: '%e8%bd%ac%e4%b8%80%e4%b8%aa%e8%b6%85%e8%82%89%e9%ba%bb%e7%9a%84%e9%87%87%
 title: 转一个超肉麻的采访
 wordpress_id: 1351
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

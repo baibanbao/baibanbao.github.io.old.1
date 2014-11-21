@@ -7,6 +7,7 @@ slug: lixunhuan-will-be-daddy
 title: 李寻欢要生儿子了
 wordpress_id: 407
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 朋友

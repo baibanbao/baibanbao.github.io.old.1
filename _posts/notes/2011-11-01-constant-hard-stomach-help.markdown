@@ -7,6 +7,7 @@ slug: constant-hard-stomach-help
 title: Constant hard stomach? HELP
 wordpress_id: 6440
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

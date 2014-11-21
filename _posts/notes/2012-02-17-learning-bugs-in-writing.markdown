@@ -7,6 +7,7 @@ slug: learning-bugs-in-writing
 title: Learning BUGS IN WRITING
 wordpress_id: 6383
 categories:
+- notes
 - 不好归类
 ---
 

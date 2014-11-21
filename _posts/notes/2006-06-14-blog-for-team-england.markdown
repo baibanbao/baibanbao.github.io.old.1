@@ -7,6 +7,7 @@ slug: blog-for-team-england
 title: 英格兰队的Blog
 wordpress_id: 433
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

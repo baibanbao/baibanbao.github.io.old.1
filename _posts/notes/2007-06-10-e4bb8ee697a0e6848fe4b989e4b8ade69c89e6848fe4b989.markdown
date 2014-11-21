@@ -7,6 +7,7 @@ slug: '%e4%bb%8e%e6%97%a0%e6%84%8f%e4%b9%89%e4%b8%ad%e6%9c%89%e6%84%8f%e4%b9%89'
 title: 从无意义中有意义
 wordpress_id: 1046
 categories:
+- notes
 - 学点技术
 tags:
 - 生活不是条件反射

@@ -7,6 +7,7 @@ slug: song-to-cloud
 title: 短歌
 wordpress_id: 3107
 categories:
+- notes
 - 不好归类
 tags:
 - 致云端

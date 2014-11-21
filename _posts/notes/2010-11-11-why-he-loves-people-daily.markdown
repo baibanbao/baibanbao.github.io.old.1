@@ -7,6 +7,7 @@ slug: why-he-loves-people-daily
 title: 小公务员为什么爱读《人民日报》
 wordpress_id: 3552
 categories:
+- notes
 - 不好归类
 ---
 

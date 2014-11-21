@@ -7,6 +7,7 @@ slug: '%e6%88%91%e7%8e%b0%e5%9c%a8%e7%9a%84%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f'
 title: 我现在的联系方式
 wordpress_id: 644
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

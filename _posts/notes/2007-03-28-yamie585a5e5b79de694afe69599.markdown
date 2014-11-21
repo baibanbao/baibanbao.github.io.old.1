@@ -7,6 +7,7 @@ slug: yami%e5%85%a5%e5%b7%9d%e6%94%af%e6%95%99
 title: yami入川支教
 wordpress_id: 847
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

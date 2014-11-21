@@ -7,6 +7,7 @@ slug: jailbreak-iphone
 title: iPhone 4最小越狱方案
 wordpress_id: 3545
 categories:
+- notes
 - 学点技术
 ---
 

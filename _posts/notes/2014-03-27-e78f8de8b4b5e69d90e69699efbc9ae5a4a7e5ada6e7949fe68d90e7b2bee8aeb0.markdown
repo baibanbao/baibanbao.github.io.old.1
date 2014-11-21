@@ -8,6 +8,7 @@ slug: '%e7%8f%8d%e8%b4%b5%e6%9d%90%e6%96%99%ef%bc%9a%e5%a4%a7%e5%ad%a6%e7%94%9f%
 title: 珍贵材料：大学生捐精记
 wordpress_id: 6364
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

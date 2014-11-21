@@ -7,6 +7,7 @@ slug: new-port-a-drama
 title: 电影史诗剧《新海港》
 wordpress_id: 523
 categories:
+- notes
 - 写作练习
 tags:
 - 不好归类

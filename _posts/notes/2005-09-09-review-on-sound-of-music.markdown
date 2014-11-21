@@ -7,6 +7,7 @@ slug: review-on-sound-of-music
 title: 原版《音乐之声》
 wordpress_id: 559
 categories:
+- notes
 - 不好归类
 tags:
 - 剧评

@@ -7,6 +7,7 @@ slug: '%e9%83%bd%e5%b8%82%e7%a5%9e%e8%af%9d'
 title: 都市神话
 wordpress_id: 1386
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

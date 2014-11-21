@@ -7,6 +7,7 @@ slug: annoucement
 title: 小声明
 wordpress_id: 2117
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 决心书

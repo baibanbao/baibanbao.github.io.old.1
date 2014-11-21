@@ -7,6 +7,7 @@ slug: '%e4%bf%84%e5%ba%95%e6%b5%a6%e6%96%af%e7%8e%8b'
 title: 俄底浦斯王
 wordpress_id: 745
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

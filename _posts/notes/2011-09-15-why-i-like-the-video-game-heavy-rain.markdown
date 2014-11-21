@@ -7,6 +7,7 @@ slug: why-i-like-the-video-game-heavy-rain
 title: 如是我玩Heavy Rain
 wordpress_id: 4765
 categories:
+- notes
 - 爱看电影
 ---
 

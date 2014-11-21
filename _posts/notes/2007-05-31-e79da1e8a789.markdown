@@ -7,6 +7,7 @@ slug: '%e7%9d%a1%e8%a7%89'
 title: 睡觉
 wordpress_id: 1006
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

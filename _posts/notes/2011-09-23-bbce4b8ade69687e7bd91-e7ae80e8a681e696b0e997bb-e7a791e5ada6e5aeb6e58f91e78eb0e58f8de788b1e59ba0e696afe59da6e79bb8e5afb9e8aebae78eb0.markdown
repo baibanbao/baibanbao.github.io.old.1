@@ -7,6 +7,7 @@ slug: bbc%e4%b8%ad%e6%96%87%e7%bd%91-%e7%ae%80%e8%a6%81%e6%96%b0%e9%97%bb-%e7%a7
 title: BBC中文网 - 简要新闻 - 科学家发现反爱因斯坦相对论现象
 wordpress_id: 6588
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

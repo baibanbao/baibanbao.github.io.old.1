@@ -7,6 +7,7 @@ slug: '%e9%98%bf%e6%a0%b9%e5%bb%b7%ef%bc%8c%e4%b8%8d%e4%b8%ba%e4%bd%a0%e5%93%ad%
 title: 阿根廷，不为你哭泣！
 wordpress_id: 447
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: movie-poster-the-lost-art
 title: 手绘电影海报--失落的艺术
 wordpress_id: 5602
 categories:
+- notes
 - 爱看电影
 - 读书笔记
 tags:

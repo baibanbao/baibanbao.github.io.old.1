@@ -7,6 +7,7 @@ slug: '%e5%8f%91%e5%a4%a7%e8%b4%a2%e4%ba%86%ef%bc%81'
 title: 发大财了！
 wordpress_id: 702
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

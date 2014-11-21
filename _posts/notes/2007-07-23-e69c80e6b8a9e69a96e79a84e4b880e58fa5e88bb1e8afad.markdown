@@ -7,6 +7,7 @@ slug: '%e6%9c%80%e6%b8%a9%e6%9a%96%e7%9a%84%e4%b8%80%e5%8f%a5%e8%8b%b1%e8%af%ad'
 title: 最温暖的一句英语
 wordpress_id: 1112
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

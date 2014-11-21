@@ -7,6 +7,7 @@ slug: crazy-cement-boxes
 title: 疯狂的水泥盒
 wordpress_id: 2198
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 房价

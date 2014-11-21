@@ -7,6 +7,7 @@ slug: '%e4%b8%ad%e5%9b%bd%e7%89%88%e8%b6%8a%e7%8b%b1'
 title: 中国版越狱
 wordpress_id: 2680
 categories:
+- notes
 - 不好归类
 ---
 

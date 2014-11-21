@@ -7,6 +7,7 @@ slug: not-a-problem-with-email
 title: 不仅仅是个邮箱的问题
 wordpress_id: 3184
 categories:
+- notes
 - 学点技术
 tags:
 - 技术文章

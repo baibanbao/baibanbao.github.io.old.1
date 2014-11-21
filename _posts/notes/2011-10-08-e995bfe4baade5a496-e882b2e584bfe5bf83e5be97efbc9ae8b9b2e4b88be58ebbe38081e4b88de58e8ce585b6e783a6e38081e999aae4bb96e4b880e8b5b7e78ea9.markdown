@@ -7,6 +7,7 @@ slug: '%e9%95%bf%e4%ba%ad%e5%a4%96-%e8%82%b2%e5%84%bf%e5%bf%83%e5%be%97%ef%bc%9a
 title: 长亭外-育儿心得：蹲下去、不厌其烦、陪他一起玩
 wordpress_id: 6522
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

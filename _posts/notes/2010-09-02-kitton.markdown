@@ -7,6 +7,7 @@ slug: kitton
 title: 留言：记忆中的小猫
 wordpress_id: 3446
 categories:
+- notes
 - 不好归类
 ---
 

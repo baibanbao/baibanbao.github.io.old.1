@@ -7,6 +7,7 @@ slug: '%e8%af%b7%e5%a4%a7%e5%ae%b6%e5%8d%8f%e5%8a%a9%e6%9d%a5%e5%81%9a%e4%b8%80%
 title: 请大家协助来做一个在线调查
 wordpress_id: 1779
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

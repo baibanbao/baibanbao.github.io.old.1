@@ -7,6 +7,7 @@ slug: '%e8%bd%bb%e8%bd%bb%e6%9d%be%e6%9d%be%e5%ad%a6%e4%bc%a6%e7%90%86%ef%bc%8c%
 title: 轻轻松松学伦理，快快乐乐写作业
 wordpress_id: 773
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

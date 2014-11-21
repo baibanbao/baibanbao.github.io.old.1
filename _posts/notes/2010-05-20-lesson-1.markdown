@@ -7,6 +7,7 @@ slug: lesson-1
 title: 听课笔记（1）凤凰卫视记者谈世博报道
 wordpress_id: 3279
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 媒体

@@ -7,6 +7,7 @@ slug: '%e6%a2%a6%e8%a7%81%e5%8d%9a%e5%ae%a2%e5%ae%b6'
 title: 梦见博客家
 wordpress_id: 1304
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

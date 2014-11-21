@@ -7,6 +7,7 @@ slug: on-living-by-writing
 title: 闻好友风华欲以写作为生
 wordpress_id: 5441
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 作家

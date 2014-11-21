@@ -7,6 +7,7 @@ slug: the-shameful-great-match
 title: 没见过这么不要脸的"伟大的比赛"
 wordpress_id: 440
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

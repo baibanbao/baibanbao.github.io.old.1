@@ -7,6 +7,7 @@ slug: '%e9%bb%91%e6%9d%bf%e6%8a%a5%e5%85%a8%e9%9d%a2%e6%81%a2%e5%a4%8d'
 title: 黑板报全面恢复
 wordpress_id: 959
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

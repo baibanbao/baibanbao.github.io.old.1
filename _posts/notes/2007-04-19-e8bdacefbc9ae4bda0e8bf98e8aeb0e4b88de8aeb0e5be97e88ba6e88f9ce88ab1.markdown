@@ -7,6 +7,7 @@ slug: '%e8%bd%ac%ef%bc%9a%e4%bd%a0%e8%bf%98%e8%ae%b0%e4%b8%8d%e8%ae%b0%e5%be%97%
 title: 转：你还记不记得苦菜花
 wordpress_id: 897
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

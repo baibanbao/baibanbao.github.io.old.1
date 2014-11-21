@@ -7,6 +7,7 @@ slug: first-forc
 title: 第一推动力 No.1
 wordpress_id: 2686
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: '%e5%86%8d%e8%a7%81%e5%80%92%e8%ae%a1%e6%97%b6%ef%bc%88-30%ef%bc%89'
 title: 再见倒计时（-30）
 wordpress_id: 1047
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

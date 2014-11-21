@@ -7,6 +7,7 @@ slug: kaifu-lee-lecture-in-zju
 title: 李开复浙大布道目击记
 wordpress_id: 2649
 categories:
+- notes
 - 鱼眼碎片
 tags:
 - 报道

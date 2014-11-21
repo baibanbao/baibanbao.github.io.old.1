@@ -7,6 +7,7 @@ slug: do-not-ask-me
 title: 别问我现在波兰是什么时间
 wordpress_id: 5401
 categories:
+- notes
 - 读书笔记
 ---
 

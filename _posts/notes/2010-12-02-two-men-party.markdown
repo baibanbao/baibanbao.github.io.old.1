@@ -7,6 +7,7 @@ slug: two-men-party
 title: 两个人的朗诵会
 wordpress_id: 3682
 categories:
+- notes
 - 海盗电台
 tags:
 - 123诗社

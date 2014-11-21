@@ -7,6 +7,7 @@ slug: '%e8%80%81%e5%a9%86%ef%bc%8c%e5%87%ba%e6%9d%a5%e7%9c%8b%e8%80%81%e8%92%8b%
 title: 老婆，出来看老蒋啦！
 wordpress_id: 1287
 categories:
+- notes
 - 不好归类
 tags:
 - FLASH

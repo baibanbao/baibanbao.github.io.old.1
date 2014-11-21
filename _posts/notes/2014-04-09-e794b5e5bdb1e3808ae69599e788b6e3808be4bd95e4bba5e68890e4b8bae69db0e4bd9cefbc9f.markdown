@@ -7,6 +7,7 @@ slug: '%e7%94%b5%e5%bd%b1%e3%80%8a%e6%95%99%e7%88%b6%e3%80%8b%e4%bd%95%e4%bb%a5%
 title: 电影《教父》何以成为杰作？
 wordpress_id: 6310
 categories:
+- notes
 - 不好归类
 ---
 

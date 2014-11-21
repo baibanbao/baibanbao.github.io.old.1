@@ -7,6 +7,7 @@ slug: '%e5%a6%88%e7%9a%84%ef%bc%8c%e5%88%b0%e5%a4%84%e9%83%bd%e6%98%af%e7%bd%97%
 title: 妈的，到处都是罗宾汉
 wordpress_id: 628
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

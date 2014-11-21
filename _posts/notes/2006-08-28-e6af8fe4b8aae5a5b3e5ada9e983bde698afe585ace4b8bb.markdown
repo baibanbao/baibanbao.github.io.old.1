@@ -7,6 +7,7 @@ slug: '%e6%af%8f%e4%b8%aa%e5%a5%b3%e5%ad%a9%e9%83%bd%e6%98%af%e5%85%ac%e4%b8%bb'
 title: 每个女孩都是公主
 wordpress_id: 585
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

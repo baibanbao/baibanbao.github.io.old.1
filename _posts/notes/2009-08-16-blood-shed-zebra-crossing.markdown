@@ -7,6 +7,7 @@ slug: blood-shed-zebra-crossing
 title: 鲜血换来的爱心
 wordpress_id: 2262
 categories:
+- notes
 - 不好归类
 tags:
 - 事故

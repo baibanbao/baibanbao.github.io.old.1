@@ -7,6 +7,7 @@ slug: '%e5%a5%a5%e6%96%af%e5%8d%a11928%ef%bc%9a%e9%93%81%e7%bf%bc%e9%9b%84%e9%a3
 title: 奥斯卡1928：铁翼雄风
 wordpress_id: 1807
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

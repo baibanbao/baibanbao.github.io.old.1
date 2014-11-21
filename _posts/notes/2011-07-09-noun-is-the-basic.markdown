@@ -7,6 +7,7 @@ slug: noun-is-the-basic
 title: 【写作圈】名词是词语之母
 wordpress_id: 4393
 categories:
+- notes
 - 语文运动
 tags:
 - 写作

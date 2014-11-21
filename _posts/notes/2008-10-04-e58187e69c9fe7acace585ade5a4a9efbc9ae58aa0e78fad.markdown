@@ -7,6 +7,7 @@ slug: '%e5%81%87%e6%9c%9f%e7%ac%ac%e5%85%ad%e5%a4%a9%ef%bc%9a%e5%8a%a0%e7%8f%ad'
 title: 假期第六天：加班
 wordpress_id: 1719
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

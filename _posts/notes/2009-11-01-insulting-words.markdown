@@ -7,6 +7,7 @@ slug: insulting-words
 title: 汉语詈词笔记
 wordpress_id: 2703
 categories:
+- notes
 - 不好归类
 tags:
 - 汉语

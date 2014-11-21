@@ -7,6 +7,7 @@ slug: bonjour-%e7%a6%8f%e6%9f%af
 title: Bonjour, 福柯
 wordpress_id: 810
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

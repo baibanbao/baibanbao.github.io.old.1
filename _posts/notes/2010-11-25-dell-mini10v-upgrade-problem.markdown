@@ -7,6 +7,7 @@ slug: dell-mini10v-upgrade-problem
 title: Dell Mini10v 上网本安装黑苹果升级到10.6.5+的问题
 wordpress_id: 3606
 categories:
+- notes
 - 学点技术
 tags:
 - Dell

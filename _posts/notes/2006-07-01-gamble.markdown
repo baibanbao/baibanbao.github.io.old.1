@@ -7,6 +7,7 @@ slug: gamble
 title: 赌博记
 wordpress_id: 449
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: '%e5%85%b3%e4%ba%8e%e6%ac%a1%e8%b4%b7%e5%8d%b1%e6%9c%ba%e7%9a%84%e9%a6%99%
 title: 关于次贷危机的香艳解释
 wordpress_id: 1727
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

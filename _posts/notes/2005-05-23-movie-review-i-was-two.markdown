@@ -7,6 +7,7 @@ slug: movie-review-i-was-two
 title: 我两岁
 wordpress_id: 1142
 categories:
+- notes
 - 文艺批评
 tags:
 - 不好归类

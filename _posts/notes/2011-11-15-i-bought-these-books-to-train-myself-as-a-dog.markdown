@@ -7,6 +7,7 @@ slug: i-bought-these-books-to-train-myself-as-a-dog
 title: 我买这些书是为了把自己当狗一样训练
 wordpress_id: 4949
 categories:
+- notes
 - 读书笔记
 tags:
 - 学习

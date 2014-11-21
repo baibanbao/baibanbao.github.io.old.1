@@ -7,6 +7,7 @@ slug: nytimes-digital-subscription-strategy-will-be-a-failure
 title: 《纽约时报》数字化内容全面收费策略注定要失败
 wordpress_id: 4153
 categories:
+- notes
 - 非虚构叙事
 ---
 

@@ -7,6 +7,7 @@ slug: '%e5%ae%81%e5%95%83%e5%8e%9f%e7%89%88%e4%b9%a6%ef%bc%8c%e4%b8%8d%e8%af%bb%
 title: 宁啃原版书，不读中译本
 wordpress_id: 4457
 categories:
+- notes
 - 写作练习
 ---
 

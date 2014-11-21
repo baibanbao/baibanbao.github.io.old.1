@@ -7,6 +7,7 @@ slug: my-cat
 title: 奥利弗-白菜头
 wordpress_id: 3377
 categories:
+- notes
 - 不好归类
 ---
 

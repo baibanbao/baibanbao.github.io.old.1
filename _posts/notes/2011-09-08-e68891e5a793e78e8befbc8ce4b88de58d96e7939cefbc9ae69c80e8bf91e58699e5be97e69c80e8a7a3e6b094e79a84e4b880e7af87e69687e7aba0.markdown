@@ -7,6 +7,7 @@ slug: '%e6%88%91%e5%a7%93%e7%8e%8b%ef%bc%8c%e4%b8%8d%e5%8d%96%e7%93%9c%ef%bc%9a%
 title: 我姓王，不卖瓜：最近写得最解气的一篇文章
 wordpress_id: 6609
 categories:
+- notes
 - 不好归类
 tags:
 - nnd

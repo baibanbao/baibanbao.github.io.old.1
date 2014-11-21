@@ -7,6 +7,7 @@ slug: '%e6%8b%8d%e9%9b%aa'
 title: 拍雪
 wordpress_id: 1317
 categories:
+- notes
 - 写作练习
 tags:
 - 杭州

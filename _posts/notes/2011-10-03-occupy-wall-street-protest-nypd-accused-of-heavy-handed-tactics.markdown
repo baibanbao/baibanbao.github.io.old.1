@@ -7,6 +7,7 @@ slug: occupy-wall-street-protest-nypd-accused-of-heavy-handed-tactics
 title: 'Occupy Wall Street protest: NYPD accused of heavy-handed tactics'
 wordpress_id: 6509
 categories:
+- notes
 - 不好归类
 tags:
 - guardian

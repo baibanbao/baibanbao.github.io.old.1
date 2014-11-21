@@ -7,6 +7,7 @@ slug: about-blogging
 title: 写博
 wordpress_id: 462
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

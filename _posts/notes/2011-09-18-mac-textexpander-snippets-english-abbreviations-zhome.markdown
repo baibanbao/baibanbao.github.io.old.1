@@ -7,6 +7,7 @@ slug: mac-textexpander-snippets-english-abbreviations-zhome
 title: '[Mac] TextExpander Snippets: English Abbreviations | zHome'
 wordpress_id: 6571
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

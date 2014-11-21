@@ -7,6 +7,7 @@ slug: '%e7%94%9f%e5%ad%90%e5%bd%93%e5%a6%82%e5%ad%99%e4%bb%b2%e8%b0%8b%ef%bc%8c%
 title: 生子当如孙仲谋，办报当如南都报
 wordpress_id: 1734
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

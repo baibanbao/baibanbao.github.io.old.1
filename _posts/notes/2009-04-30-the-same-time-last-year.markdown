@@ -7,6 +7,7 @@ slug: the-same-time-last-year
 title: 去年此时
 wordpress_id: 2066
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

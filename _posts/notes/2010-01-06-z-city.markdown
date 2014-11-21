@@ -7,6 +7,7 @@ slug: z-city
 title: 海盗电台之南京朗诵会专场：张远帆《Z城》
 wordpress_id: 2996
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: day-looks-like-night
 title: 白昼如漆
 wordpress_id: 711
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

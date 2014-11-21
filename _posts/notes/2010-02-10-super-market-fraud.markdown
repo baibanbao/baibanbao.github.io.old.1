@@ -7,6 +7,7 @@ slug: super-market-fraud
 title: 黑心超市 春节骗局
 wordpress_id: 3155
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 愤怒

@@ -7,6 +7,7 @@ slug: the-chinese-race
 title: 中国需要一次人种大改造
 wordpress_id: 2067
 categories:
+- notes
 - 不好归类
 tags:
 - 国民

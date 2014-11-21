@@ -7,6 +7,7 @@ slug: letters-to-jiangqing-by-maozedong
 title: 毛泽东写给江青的两封信
 wordpress_id: 5363
 categories:
+- notes
 - 读书笔记
 ---
 

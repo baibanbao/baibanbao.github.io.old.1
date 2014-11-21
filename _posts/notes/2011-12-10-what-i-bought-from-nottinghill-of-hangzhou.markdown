@@ -7,6 +7,7 @@ slug: what-i-bought-from-nottinghill-of-hangzhou
 title: 假日书市所获
 wordpress_id: 5047
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 买书

@@ -7,6 +7,7 @@ slug: in-the-sunshine-of-leo-tolstoy
 title: 晴川历历汉阳树
 wordpress_id: 5561
 categories:
+- notes
 - 读书笔记
 tags:
 - 回忆

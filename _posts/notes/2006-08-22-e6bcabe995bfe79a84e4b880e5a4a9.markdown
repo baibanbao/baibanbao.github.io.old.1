@@ -7,6 +7,7 @@ slug: '%e6%bc%ab%e9%95%bf%e7%9a%84%e4%b8%80%e5%a4%a9'
 title: 很长的一天
 wordpress_id: 506
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: google%e6%8b%bc%e9%9f%b3%e5%87%ba20%e6%b5%8b%e8%af%95%e7%89%88
 title: GOOGLE拼音出2.0测试版
 wordpress_id: 1774
 categories:
+- notes
 - 学点技术
 tags:
 - GOOGLE，谷歌，拼音，输入法，电脑

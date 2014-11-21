@@ -7,6 +7,7 @@ slug: searching-a-poem-by-neruda
 title: 寻聂鲁达一首诗
 wordpress_id: 2010
 categories:
+- notes
 - 不好归类
 - 读书笔记
 tags:

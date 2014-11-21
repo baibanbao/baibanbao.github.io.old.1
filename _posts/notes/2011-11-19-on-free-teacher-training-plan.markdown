@@ -7,6 +7,7 @@ slug: on-free-teacher-training-plan
 title: 我对免费师范生这种奇怪制度的困惑
 wordpress_id: 4977
 categories:
+- notes
 - 文艺批评
 tags:
 - 教育

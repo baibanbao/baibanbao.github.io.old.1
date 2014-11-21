@@ -7,6 +7,7 @@ slug: the-liuyedao-disputes
 title: 关于柳叶刀事件的来龙去脉
 wordpress_id: 4368
 categories:
+- notes
 - 生活不是条件反射
 ---
 

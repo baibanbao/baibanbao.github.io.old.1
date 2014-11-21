@@ -7,6 +7,7 @@ slug: '%e9%9b%b7%e9%94%8b%e7%b2%be%e7%a5%9e%e4%b8%8e%e7%b2%be%e7%a5%9e%e7%96%be%
 title: 雷锋精神与精神疾病
 wordpress_id: 837
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: about-iodinized-salt
 title: 事关加碘盐
 wordpress_id: 2275
 categories:
+- notes
 - 非虚构叙事
 ---
 

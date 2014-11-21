@@ -7,6 +7,7 @@ slug: alon
 title: 阿龙
 wordpress_id: 2885
 categories:
+- notes
 - 不好归类
 tags:
 - 社会

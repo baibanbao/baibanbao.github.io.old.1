@@ -7,6 +7,7 @@ slug: the-driving-lessons-i-paid
 title: 每条花费了我500元的驾驶教训
 wordpress_id: 5920
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 安全

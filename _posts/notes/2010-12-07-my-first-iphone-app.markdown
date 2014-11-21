@@ -7,6 +7,7 @@ slug: my-first-iphone-app
 title: 我的第一个iPhone App
 wordpress_id: 3712
 categories:
+- notes
 - 学点技术
 tags:
 - app

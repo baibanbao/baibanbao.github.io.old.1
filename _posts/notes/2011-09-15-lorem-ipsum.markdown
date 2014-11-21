@@ -7,6 +7,7 @@ slug: lorem-ipsum
 title: Lorem ipsum
 wordpress_id: 6562
 categories:
+- notes
 - 不好归类
 ---
 

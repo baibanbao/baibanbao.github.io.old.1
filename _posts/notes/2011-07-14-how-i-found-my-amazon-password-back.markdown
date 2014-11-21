@@ -7,6 +7,7 @@ slug: how-i-found-my-amazon-password-back
 title: Amazon密码找回记
 wordpress_id: 4403
 categories:
+- notes
 - 各种工具
 - 学点技术
 tags:

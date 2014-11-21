@@ -7,6 +7,7 @@ slug: six-kinds-of-progress
 title: 《六项精进》是我看得最快的一本书
 wordpress_id: 5894
 categories:
+- notes
 - 读书笔记
 tags:
 - 做人

@@ -7,6 +7,7 @@ slug: '%e8%bd%ac%e8%bd%bd%e5%8f%b0%e9%a3%8e%e4%b8%ad%e9%81%87%e5%88%b0%e7%9a%84%
 title: '[转载]台风中遇到的惠子姑娘'
 wordpress_id: 1212
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

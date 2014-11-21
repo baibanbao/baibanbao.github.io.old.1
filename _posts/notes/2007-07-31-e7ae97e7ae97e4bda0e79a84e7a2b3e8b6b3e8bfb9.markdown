@@ -7,6 +7,7 @@ slug: '%e7%ae%97%e7%ae%97%e4%bd%a0%e7%9a%84%e7%a2%b3%e8%b6%b3%e8%bf%b9'
 title: 算算你的碳足迹
 wordpress_id: 1115
 categories:
+- notes
 - 学点技术
 tags:
 - 呸英语教程

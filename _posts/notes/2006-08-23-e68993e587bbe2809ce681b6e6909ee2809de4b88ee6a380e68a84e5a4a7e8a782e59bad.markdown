@@ -7,6 +7,7 @@ slug: '%e6%89%93%e5%87%bb%e2%80%9c%e6%81%b6%e6%90%9e%e2%80%9d%e4%b8%8e%e6%a3%80%
 title: 打击“恶搞”与检抄大观园
 wordpress_id: 515
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: '%e5%85%b3%e4%ba%8e%e7%95%99%e8%a8%80%e5%ae%a1%e6%a0%b8%e7%9a%84%e5%85%ac%
 title: 关于留言审核的公告
 wordpress_id: 2639
 categories:
+- notes
 - 不好归类
 ---
 

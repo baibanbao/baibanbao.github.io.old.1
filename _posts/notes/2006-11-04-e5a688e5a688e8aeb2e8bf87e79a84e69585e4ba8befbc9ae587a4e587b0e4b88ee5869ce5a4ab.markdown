@@ -7,6 +7,7 @@ slug: '%e5%a6%88%e5%a6%88%e8%ae%b2%e8%bf%87%e7%9a%84%e6%95%85%e4%ba%8b%ef%bc%9a%
 title: 妈妈讲的故事：凤凰与农夫
 wordpress_id: 658
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

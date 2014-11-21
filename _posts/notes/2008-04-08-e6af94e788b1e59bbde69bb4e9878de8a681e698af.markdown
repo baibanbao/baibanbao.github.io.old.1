@@ -7,6 +7,7 @@ slug: '%e6%af%94%e7%88%b1%e5%9b%bd%e6%9b%b4%e9%87%8d%e8%a6%81%e6%98%af'
 title: 比爱国更重要是
 wordpress_id: 1455
 categories:
+- notes
 - 写作练习
 tags:
 - 爱国

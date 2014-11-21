@@ -7,6 +7,7 @@ slug: power-fighting-in-our-village
 title: 乡村宫廷剧
 wordpress_id: 5333
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 乡村

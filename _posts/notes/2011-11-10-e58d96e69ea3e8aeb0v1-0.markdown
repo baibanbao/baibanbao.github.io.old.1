@@ -8,6 +8,7 @@ slug: '%e5%8d%96%e6%9e%a3%e8%ae%b0v1-0'
 title: 卖枣记v1.0
 wordpress_id: 6456
 categories:
+- notes
 - 不好归类
 tags:
 - 农业

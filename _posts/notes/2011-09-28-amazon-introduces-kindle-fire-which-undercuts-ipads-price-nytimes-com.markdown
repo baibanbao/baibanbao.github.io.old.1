@@ -7,6 +7,7 @@ slug: amazon-introduces-kindle-fire-which-undercuts-ipads-price-nytimes-com
 title: Amazon Introduces Kindle Fire, Which Undercuts iPad’s Price - NYTimes.com
 wordpress_id: 6498
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

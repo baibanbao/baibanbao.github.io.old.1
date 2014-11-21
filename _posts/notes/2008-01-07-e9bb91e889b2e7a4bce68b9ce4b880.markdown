@@ -7,6 +7,7 @@ slug: '%e9%bb%91%e8%89%b2%e7%a4%bc%e6%8b%9c%e4%b8%80'
 title: 黑色礼拜一
 wordpress_id: 1296
 categories:
+- notes
 - 写作练习
 tags:
 - 对话

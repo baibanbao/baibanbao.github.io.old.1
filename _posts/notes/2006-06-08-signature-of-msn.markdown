@@ -7,6 +7,7 @@ slug: signature-of-msn
 title: 昨天MSN上的签名
 wordpress_id: 430
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

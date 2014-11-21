@@ -7,6 +7,7 @@ slug: how-to-fix-msn-problem
 title: live messenger 2009 如何只显示联机联系人
 wordpress_id: 2042
 categories:
+- notes
 - 不好归类
 - 学点技术
 tags:

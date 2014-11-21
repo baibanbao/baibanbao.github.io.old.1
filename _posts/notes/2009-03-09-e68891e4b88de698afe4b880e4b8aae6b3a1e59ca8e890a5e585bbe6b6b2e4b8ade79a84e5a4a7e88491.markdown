@@ -7,6 +7,7 @@ slug: '%e6%88%91%e4%b8%8d%e6%98%af%e4%b8%80%e4%b8%aa%e6%b3%a1%e5%9c%a8%e8%90%a5%
 title: 我不做一个泡在营养液中的大脑
 wordpress_id: 1964
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

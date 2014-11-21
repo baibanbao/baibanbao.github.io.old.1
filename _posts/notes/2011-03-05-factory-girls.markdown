@@ -7,6 +7,7 @@ slug: factory-girls
 title: 工厂女孩
 wordpress_id: 4092
 categories:
+- notes
 - 读书笔记
 ---
 

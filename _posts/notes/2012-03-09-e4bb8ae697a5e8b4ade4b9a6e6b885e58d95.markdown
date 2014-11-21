@@ -7,6 +7,7 @@ slug: '%e4%bb%8a%e6%97%a5%e8%b4%ad%e4%b9%a6%e6%b8%85%e5%8d%95'
 title: 今日购书清单
 wordpress_id: 5331
 categories:
+- notes
 - 读书笔记
 tags:
 - 书单

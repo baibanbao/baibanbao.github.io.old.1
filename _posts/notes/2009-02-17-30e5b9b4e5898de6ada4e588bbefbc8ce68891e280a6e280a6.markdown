@@ -7,6 +7,7 @@ slug: 30%e5%b9%b4%e5%89%8d%e6%ad%a4%e5%88%bb%ef%bc%8c%e6%88%91%e2%80%a6%e2%80%a6
 title: 转：30年前此刻，我……
 wordpress_id: 1912
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: ap-stylebook-c-to-f
 title: 《美联社写作风格书》阅读笔记（C-f）
 wordpress_id: 2628
 categories:
+- notes
 - 不好归类
 tags:
 - apstylebook

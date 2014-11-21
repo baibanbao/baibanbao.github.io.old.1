@@ -7,6 +7,7 @@ slug: road-to-ielts-36-years-old
 title: 烤鸭之路－－36
 wordpress_id: 400
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 呸英语教程

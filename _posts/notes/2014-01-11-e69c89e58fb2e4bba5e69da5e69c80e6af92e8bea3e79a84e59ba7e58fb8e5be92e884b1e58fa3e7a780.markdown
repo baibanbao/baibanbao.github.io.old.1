@@ -8,6 +8,7 @@ slug: '%e6%9c%89%e5%8f%b2%e4%bb%a5%e6%9d%a5%e6%9c%80%e6%af%92%e8%be%a3%e7%9a%84%
 title: 有史以来最毒辣的囧司徒脱口秀
 wordpress_id: 6409
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

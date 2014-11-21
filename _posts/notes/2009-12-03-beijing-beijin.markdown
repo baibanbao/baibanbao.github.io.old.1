@@ -7,6 +7,7 @@ slug: beijing-beijin
 title: 123诗社：小夕朗诵《北京北京》
 wordpress_id: 2834
 categories:
+- notes
 - 不好归类
 tags:
 - 123诗社

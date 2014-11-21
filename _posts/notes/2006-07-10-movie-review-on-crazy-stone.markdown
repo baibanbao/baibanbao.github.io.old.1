@@ -7,6 +7,7 @@ slug: movie-review-on-crazy-stone
 title: 《疯狂的石头》影评（未看煽动版）
 wordpress_id: 463
 categories:
+- notes
 - 文艺批评
 tags:
 - 不好归类

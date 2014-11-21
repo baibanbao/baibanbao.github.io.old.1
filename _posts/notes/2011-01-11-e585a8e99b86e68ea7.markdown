@@ -7,6 +7,7 @@ slug: '%e5%85%a8%e9%9b%86%e6%8e%a7'
 title: 全集控
 wordpress_id: 3869
 categories:
+- notes
 - 读书笔记
 tags:
 - 俄罗斯

@@ -7,6 +7,7 @@ slug: on-resteraunt-names
 title: 很高级的餐馆 没文化的名字
 wordpress_id: 476
 categories:
+- notes
 - 语文运动
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: bicycling
 title: 百里走双骑
 wordpress_id: 3514
 categories:
+- notes
 - 生活不是条件反射
 ---
 

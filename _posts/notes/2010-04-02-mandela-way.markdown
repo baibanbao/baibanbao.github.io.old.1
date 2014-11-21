@@ -7,6 +7,7 @@ slug: mandela-way
 title: 曼德拉之路
 wordpress_id: 3211
 categories:
+- notes
 - 读书笔记
 tags:
 - 读书

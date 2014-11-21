@@ -7,6 +7,7 @@ slug: '%e9%9c%b2%e5%ae%bf%e6%93%8d%e5%9c%ba%e4%b8%a2%e4%ba%86%e8%b0%81%e7%9a%84%
 title: 露宿操场丢了谁的人？
 wordpress_id: 495
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

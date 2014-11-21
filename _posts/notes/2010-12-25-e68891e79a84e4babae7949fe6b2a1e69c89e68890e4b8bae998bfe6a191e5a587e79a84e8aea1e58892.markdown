@@ -7,6 +7,7 @@ slug: '%e6%88%91%e7%9a%84%e4%ba%ba%e7%94%9f%e6%b2%a1%e6%9c%89%e6%88%90%e4%b8%ba%
 title: 我的人生没有成为阿桑奇的计划
 wordpress_id: 3789
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 南方都市报

@@ -7,6 +7,7 @@ slug: septembe
 title: 海盗电台战死街头弹唱《九月》
 wordpress_id: 3026
 categories:
+- notes
 - 海盗电台
 tags:
 - 歌曲

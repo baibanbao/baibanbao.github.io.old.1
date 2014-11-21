@@ -7,6 +7,7 @@ slug: '%e5%94%90%e5%83%a7%e4%bb%96%e7%88%b8%e7%9a%84google%e6%8b%bc%e9%9f%b3%e8%
 title: 唐僧他爸的Google拼音输入法
 wordpress_id: 863
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: building-stories
 title: Building Stories
 wordpress_id: 5774
 categories:
+- notes
 - 文艺批评
 - 读书笔记
 tags:

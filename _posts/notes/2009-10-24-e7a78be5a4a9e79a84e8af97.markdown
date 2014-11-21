@@ -7,6 +7,7 @@ slug: '%e7%a7%8b%e5%a4%a9%e7%9a%84%e8%af%97'
 title: 秋天的诗
 wordpress_id: 2670
 categories:
+- notes
 - 写作练习
 tags:
 - 诗

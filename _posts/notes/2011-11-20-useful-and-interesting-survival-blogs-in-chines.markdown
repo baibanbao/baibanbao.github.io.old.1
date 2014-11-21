@@ -7,6 +7,7 @@ slug: useful-and-interesting-survival-blogs-in-chines
 title: 依然存活并经常更新的有用有趣中文博客名单（不断更新中）
 wordpress_id: 4986
 categories:
+- notes
 - 非虚构叙事
 ---
 

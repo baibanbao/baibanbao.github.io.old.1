@@ -7,6 +7,7 @@ slug: rose-garden
 title: 读萨迪《蔷薇园》
 wordpress_id: 5368
 categories:
+- notes
 - 读书笔记
 tags:
 - 智慧

@@ -7,6 +7,7 @@ slug: webos-quick-install-v4-3-1-precentral-forums
 title: WebOS Quick Install v4.3.1 - PreCentral Forums
 wordpress_id: 6447
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

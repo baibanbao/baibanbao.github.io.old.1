@@ -7,6 +7,7 @@ slug: leica-m6-photos
 title: M6上海
 wordpress_id: 2153
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

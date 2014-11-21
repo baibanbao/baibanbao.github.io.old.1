@@ -7,6 +7,7 @@ slug: how-to-read-shuo-wen-jie-zi
 title: 《说文解字》原来要这样读
 wordpress_id: 4464
 categories:
+- notes
 - 语文运动
 - 读书笔记
 tags:

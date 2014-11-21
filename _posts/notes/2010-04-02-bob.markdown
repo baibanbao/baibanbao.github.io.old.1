@@ -7,6 +7,7 @@ slug: bob
 title: 两件事
 wordpress_id: 3214
 categories:
+- notes
 - 海盗电台
 tags:
 - 投票

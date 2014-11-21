@@ -7,6 +7,7 @@ slug: '%e8%af%97%e7%bb%83%e4%b9%a0%ef%bc%9a%e9%a2%86%e5%af%bc'
 title: 诗练习：领导
 wordpress_id: 1294
 categories:
+- notes
 - 写作练习
 tags:
 - 练习

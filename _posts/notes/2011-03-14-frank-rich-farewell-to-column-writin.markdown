@@ -7,6 +7,7 @@ slug: frank-rich-farewell-to-column-writin
 title: 美国最著名的专栏作家改行了
 wordpress_id: 4126
 categories:
+- notes
 - 读书笔记
 - 非虚构叙事
 ---

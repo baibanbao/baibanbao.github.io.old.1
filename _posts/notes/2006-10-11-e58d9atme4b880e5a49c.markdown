@@ -7,6 +7,7 @@ slug: '%e5%8d%9atm%e4%b8%80%e5%a4%9c'
 title: 博TM一夜
 wordpress_id: 631
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

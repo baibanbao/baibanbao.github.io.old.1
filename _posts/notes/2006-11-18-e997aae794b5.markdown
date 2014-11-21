@@ -7,6 +7,7 @@ slug: '%e9%97%aa%e7%94%b5'
 title: 闪电
 wordpress_id: 684
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: '%e7%8f%8d%e6%83%9c%e5%8d%9a%e5%ae%a2'
 title: 珍惜博客
 wordpress_id: 786
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

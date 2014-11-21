@@ -8,6 +8,7 @@ slug: 30-minutes-later
 title: '30 minutes later '
 wordpress_id: 6436
 categories:
+- notes
 - 不好归类
 ---
 

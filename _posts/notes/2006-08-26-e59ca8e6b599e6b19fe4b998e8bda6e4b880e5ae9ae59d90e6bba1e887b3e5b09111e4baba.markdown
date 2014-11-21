@@ -7,6 +7,7 @@ slug: '%e5%9c%a8%e6%b5%99%e6%b1%9f%e4%b9%98%e8%bd%a6%e4%b8%80%e5%ae%9a%e5%9d%90%
 title: 在浙江乘车一定坐满至少11人
 wordpress_id: 582
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

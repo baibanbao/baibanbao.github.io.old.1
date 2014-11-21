@@ -7,6 +7,7 @@ slug: google-earth%e9%87%8c%e7%9a%84%e7%a5%9e%e8%bf%b9
 title: Google Earth里的神迹
 wordpress_id: 1274
 categories:
+- notes
 - 写作练习
 tags:
 - 旧作

@@ -7,6 +7,7 @@ slug: world-cup-days
 title: 做世界杯的日子
 wordpress_id: 417
 categories:
+- notes
 - 不好归类
 tags:
 - 足球

@@ -7,6 +7,7 @@ slug: books-bought
 title: 买书记
 wordpress_id: 3771
 categories:
+- notes
 - 读书笔记
 tags:
 - 买书

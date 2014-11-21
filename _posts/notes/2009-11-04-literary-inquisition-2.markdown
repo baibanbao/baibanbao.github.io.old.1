@@ -7,6 +7,7 @@ slug: literary-inquisition-2
 title: 《笔祸史谈丛》读书笔记02
 wordpress_id: 2725
 categories:
+- notes
 - 不好归类
 tags:
 - 文字狱

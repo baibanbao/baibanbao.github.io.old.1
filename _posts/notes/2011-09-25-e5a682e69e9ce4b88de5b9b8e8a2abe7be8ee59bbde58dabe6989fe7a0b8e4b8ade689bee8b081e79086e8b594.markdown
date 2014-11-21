@@ -7,6 +7,7 @@ slug: '%e5%a6%82%e6%9e%9c%e4%b8%8d%e5%b9%b8%e8%a2%ab%e7%be%8e%e5%9b%bd%e5%8d%ab%
 title: 如果不幸被美国卫星砸中找谁理赔
 wordpress_id: 6595
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

@@ -7,6 +7,7 @@ slug: on-life-is-beautiful
 title: 真的未必美，美的必然真--《美丽人生》电影剧本学习笔记
 wordpress_id: 6237
 categories:
+- notes
 - 编剧学习
 tags:
 - 喜剧

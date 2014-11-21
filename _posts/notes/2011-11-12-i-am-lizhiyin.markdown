@@ -7,6 +7,7 @@ slug: i-am-lizhiyin
 title: 一本书搞垮一个出版社
 wordpress_id: 4930
 categories:
+- notes
 - 读书笔记
 ---
 

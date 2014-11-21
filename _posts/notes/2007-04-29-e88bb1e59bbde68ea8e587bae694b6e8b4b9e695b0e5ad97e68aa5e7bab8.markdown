@@ -7,6 +7,7 @@ slug: '%e8%8b%b1%e5%9b%bd%e6%8e%a8%e5%87%ba%e6%94%b6%e8%b4%b9%e6%95%b0%e5%ad%97%
 title: 英国推出收费数字报纸
 wordpress_id: 921
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

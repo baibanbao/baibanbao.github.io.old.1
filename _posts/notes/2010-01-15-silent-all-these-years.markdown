@@ -7,6 +7,7 @@ slug: silent-all-these-years
 title: 海盗电台午夜神品：网友阿の投递的弹唱《Silent All These Years》
 wordpress_id: 3084
 categories:
+- notes
 - 不好归类
 tags:
 - 歌唱

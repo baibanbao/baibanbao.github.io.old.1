@@ -7,6 +7,7 @@ slug: civil-war-and-reconstruction-lecture-01
 title: 耶鲁听课笔记《美国内战与战后重建》第1讲
 wordpress_id: 2532
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 公开课

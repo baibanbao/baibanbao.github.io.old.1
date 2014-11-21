@@ -7,6 +7,7 @@ slug: '%e8%bf%98%e6%9c%89%e4%b8%89%e4%b8%aa%e6%9c%88'
 title: 还有三个月
 wordpress_id: 873
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

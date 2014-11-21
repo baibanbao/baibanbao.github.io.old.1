@@ -7,6 +7,7 @@ slug: 2011%e5%b9%b411%e6%9c%88%e7%bc%96%e7%a8%8b%e8%af%ad%e8%a8%80%e6%8e%92%e8%a
 title: 2011年11月编程语言排行榜：Objective-C能成为年度编程语言？_编程语言_酷勤网
 wordpress_id: 6465
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

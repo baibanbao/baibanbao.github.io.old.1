@@ -7,6 +7,7 @@ slug: '%e4%b8%ba%e5%a5%bd%e5%8d%9a%e5%ae%a2%e9%85%8d%e5%9b%be%ef%bc%8d%e6%98%9f'
 title: 为好博客配图－星
 wordpress_id: 705
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

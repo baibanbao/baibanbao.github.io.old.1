@@ -7,6 +7,7 @@ slug: the-next-decade
 title: 世界的下一个十年
 wordpress_id: 3958
 categories:
+- notes
 - 读书笔记
 tags:
 - 读书笔记

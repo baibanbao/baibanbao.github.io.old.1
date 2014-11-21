@@ -7,6 +7,7 @@ slug: new-weapo
 title: 礼物
 wordpress_id: 3492
 categories:
+- notes
 - 不好归类
 - 生活不是条件反射
 ---

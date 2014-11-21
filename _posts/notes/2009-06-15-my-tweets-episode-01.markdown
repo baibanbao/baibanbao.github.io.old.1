@@ -7,6 +7,7 @@ slug: my-tweets-episode-01
 title: 俱草草09第1季
 wordpress_id: 2143
 categories:
+- notes
 - 鱼眼碎片
 tags:
 - twitter

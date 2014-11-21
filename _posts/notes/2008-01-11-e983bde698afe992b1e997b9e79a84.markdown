@@ -7,6 +7,7 @@ slug: '%e9%83%bd%e6%98%af%e9%92%b1%e9%97%b9%e7%9a%84'
 title: 都是钱闹的
 wordpress_id: 1308
 categories:
+- notes
 - 学点技术
 tags:
 - 服务

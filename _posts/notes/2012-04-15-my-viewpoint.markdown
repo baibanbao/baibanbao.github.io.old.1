@@ -7,6 +7,7 @@ slug: my-viewpoint
 title: 我的几点看法
 wordpress_id: 5415
 categories:
+- notes
 - 文艺批评
 ---
 

@@ -7,6 +7,7 @@ slug: the-story-of-pillow
 title: 枕头的故事
 wordpress_id: 548
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

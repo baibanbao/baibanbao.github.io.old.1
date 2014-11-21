@@ -7,6 +7,7 @@ slug: '%e8%af%ba%e4%b8%81%e6%b1%89%e7%9a%84%e5%b9%b8%e7%a6%8f%e7%94%9f%e6%b4%bb'
 title: 诺丁汉的幸福生活
 wordpress_id: 783
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

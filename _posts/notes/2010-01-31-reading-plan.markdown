@@ -7,6 +7,7 @@ slug: reading-plan
 title: 2010年读书计划
 wordpress_id: 3146
 categories:
+- notes
 - 读书笔记
 tags:
 - 计划

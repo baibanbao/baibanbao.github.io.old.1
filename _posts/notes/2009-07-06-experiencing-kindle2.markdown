@@ -7,6 +7,7 @@ slug: experiencing-kindle2
 title: Kindle使用初体验
 wordpress_id: 2187
 categories:
+- notes
 - 学点技术
 tags:
 - kindle

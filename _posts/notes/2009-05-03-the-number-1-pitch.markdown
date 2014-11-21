@@ -7,6 +7,7 @@ slug: the-number-1-pitch
 title: 正在兵马俑一号坑
 wordpress_id: 2074
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

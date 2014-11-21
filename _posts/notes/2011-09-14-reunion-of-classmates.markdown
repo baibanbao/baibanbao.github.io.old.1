@@ -7,6 +7,7 @@ slug: reunion-of-classmates
 title: 同学聚会
 wordpress_id: 4758
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 同学

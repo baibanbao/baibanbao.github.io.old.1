@@ -8,6 +8,7 @@ slug: '%e6%af%8f%e4%b8%aa%e4%ba%ba%e9%83%bd%e9%9c%80%e8%a6%81'
 title: 每个人都需要
 wordpress_id: 6431
 categories:
+- notes
 - 不好归类
 ---
 

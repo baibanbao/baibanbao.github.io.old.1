@@ -7,6 +7,7 @@ slug: go-to-hospital
 title: 瞧病
 wordpress_id: 4880
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 健康

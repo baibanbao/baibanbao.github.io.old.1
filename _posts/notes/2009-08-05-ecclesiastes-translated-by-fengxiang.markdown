@@ -7,6 +7,7 @@ slug: ecclesiastes-translated-by-fengxiang
 title: 读冯象翻译的《传道书》
 wordpress_id: 2227
 categories:
+- notes
 - 语文运动
 - 读书笔记
 tags:

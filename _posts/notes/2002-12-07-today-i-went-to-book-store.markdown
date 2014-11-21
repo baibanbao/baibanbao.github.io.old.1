@@ -7,6 +7,7 @@ slug: today-i-went-to-book-store
 title: 今天逛书店
 wordpress_id: 714
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

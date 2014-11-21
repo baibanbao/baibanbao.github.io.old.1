@@ -7,6 +7,7 @@ slug: why-install-dual-os-on-mini-10v
 title: 为什么要给上网本装苹果雪豹操作系统？
 wordpress_id: 3178
 categories:
+- notes
 - 不好归类
 ---
 

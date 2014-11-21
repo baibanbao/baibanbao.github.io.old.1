@@ -7,6 +7,7 @@ slug: '%e5%b0%8f%e5%ae%a1%e8%ae%a1%e7%9a%84%e6%95%85%e4%ba%8b'
 title: 小审计的故事
 wordpress_id: 611
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

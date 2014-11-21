@@ -7,6 +7,7 @@ slug: unmasked
 title: This is it的上演戳穿了《摘下面具：迈克尔-杰克逊最后的日子》的谎言
 wordpress_id: 2732
 categories:
+- notes
 - 不好归类
 tags:
 - MJ

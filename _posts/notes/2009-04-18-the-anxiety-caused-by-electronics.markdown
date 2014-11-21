@@ -7,6 +7,7 @@ slug: the-anxiety-caused-by-electronics
 title: 电子焦躁症及宿命循环
 wordpress_id: 2030
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 电子

@@ -7,6 +7,7 @@ slug: joe-wang-talk-show
 title: 一段脱口秀 两项基本功
 wordpress_id: 3202
 categories:
+- notes
 - 爱看电影
 tags:
 - 喜剧

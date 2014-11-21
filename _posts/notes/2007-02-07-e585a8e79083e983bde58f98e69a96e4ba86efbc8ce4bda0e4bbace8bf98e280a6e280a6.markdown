@@ -7,6 +7,7 @@ slug: '%e5%85%a8%e7%90%83%e9%83%bd%e5%8f%98%e6%9a%96%e4%ba%86%ef%bc%8c%e4%bd%a0%
 title: 全球都变暖了，你们还……
 wordpress_id: 797
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

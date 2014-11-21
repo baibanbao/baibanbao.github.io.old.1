@@ -7,6 +7,7 @@ slug: cheating-chinese-drug-store
 title: 一包创可贴
 wordpress_id: 4412
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 国民性

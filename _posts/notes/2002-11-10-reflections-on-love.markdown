@@ -7,6 +7,7 @@ slug: reflections-on-love
 title: 断章：爱情
 wordpress_id: 712
 categories:
+- notes
 - 写作练习
 tags:
 - 不好归类

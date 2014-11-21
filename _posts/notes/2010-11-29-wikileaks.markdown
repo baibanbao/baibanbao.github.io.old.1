@@ -7,6 +7,7 @@ slug: wikileaks
 title: 维基解密新进展
 wordpress_id: 3661
 categories:
+- notes
 - 非虚构叙事
 tags:
 - wikileaks

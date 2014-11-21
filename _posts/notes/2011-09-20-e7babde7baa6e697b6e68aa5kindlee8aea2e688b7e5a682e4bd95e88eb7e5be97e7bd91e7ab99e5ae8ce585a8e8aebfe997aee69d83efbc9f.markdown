@@ -7,6 +7,7 @@ slug: '%e7%ba%bd%e7%ba%a6%e6%97%b6%e6%8a%a5kindle%e8%ae%a2%e6%88%b7%e5%a6%82%e4%
 title: 纽约时报Kindle订户如何获得网站完全访问权？
 wordpress_id: 6583
 categories:
+- notes
 - 不好归类
 ---
 

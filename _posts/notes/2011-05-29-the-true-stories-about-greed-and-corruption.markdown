@@ -7,6 +7,7 @@ slug: the-true-stories-about-greed-and-corruption
 title: 贪的故事
 wordpress_id: 4303
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 专栏

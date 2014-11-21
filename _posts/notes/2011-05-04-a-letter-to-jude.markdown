@@ -7,6 +7,7 @@ slug: a-letter-to-jude
 title: Hey, Jude
 wordpress_id: 4244
 categories:
+- notes
 - 一些论文
 ---
 

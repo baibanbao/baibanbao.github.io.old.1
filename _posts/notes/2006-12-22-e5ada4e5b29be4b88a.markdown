@@ -7,6 +7,7 @@ slug: '%e5%ad%a4%e5%b2%9b%e4%b8%8a'
 title: 孤岛上
 wordpress_id: 737
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

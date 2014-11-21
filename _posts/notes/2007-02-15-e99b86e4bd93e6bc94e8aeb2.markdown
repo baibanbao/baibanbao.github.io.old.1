@@ -7,6 +7,7 @@ slug: '%e9%9b%86%e4%bd%93%e6%bc%94%e8%ae%b2'
 title: 集体演讲
 wordpress_id: 811
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

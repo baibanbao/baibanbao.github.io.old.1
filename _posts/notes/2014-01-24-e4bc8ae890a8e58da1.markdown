@@ -7,6 +7,7 @@ slug: '%e4%bc%8a%e8%90%a8%e5%8d%a1'
 title: '伊萨卡  '
 wordpress_id: 6344
 categories:
+- notes
 - 不好归类
 ---
 

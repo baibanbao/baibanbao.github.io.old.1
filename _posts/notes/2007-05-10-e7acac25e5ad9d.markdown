@@ -7,6 +7,7 @@ slug: '%e7%ac%ac25%e5%ad%9d'
 title: 第25孝
 wordpress_id: 953
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

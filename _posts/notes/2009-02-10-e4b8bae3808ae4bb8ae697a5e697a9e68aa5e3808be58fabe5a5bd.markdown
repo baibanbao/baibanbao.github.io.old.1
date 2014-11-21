@@ -7,6 +7,7 @@ slug: '%e4%b8%ba%e3%80%8a%e4%bb%8a%e6%97%a5%e6%97%a9%e6%8a%a5%e3%80%8b%e5%8f%ab%
 title: 为《今日早报》叫好
 wordpress_id: 1892
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

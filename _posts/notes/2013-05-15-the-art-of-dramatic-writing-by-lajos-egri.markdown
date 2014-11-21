@@ -7,6 +7,7 @@ slug: the-art-of-dramatic-writing-by-lajos-egri
 title: 一本革命性的编剧书《编剧的艺术》
 wordpress_id: 6062
 categories:
+- notes
 - 编剧学习
 tags:
 - 戏剧

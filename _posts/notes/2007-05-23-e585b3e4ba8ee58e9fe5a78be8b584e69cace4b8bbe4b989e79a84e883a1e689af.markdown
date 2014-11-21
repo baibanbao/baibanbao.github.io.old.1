@@ -7,6 +7,7 @@ slug: '%e5%85%b3%e4%ba%8e%e5%8e%9f%e5%a7%8b%e8%b5%84%e6%9c%ac%e4%b8%bb%e4%b9%89%
 title: 激流中国：别拿原始资本主义说事
 wordpress_id: 984
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: before-i-depart
 title: 写在出发前
 wordpress_id: 5741
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 写作

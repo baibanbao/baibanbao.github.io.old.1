@@ -7,6 +7,7 @@ slug: k155-bus-kiss-me-good-bye
 title: K155电车：KISS ME, GOOD BYE!
 wordpress_id: 482
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

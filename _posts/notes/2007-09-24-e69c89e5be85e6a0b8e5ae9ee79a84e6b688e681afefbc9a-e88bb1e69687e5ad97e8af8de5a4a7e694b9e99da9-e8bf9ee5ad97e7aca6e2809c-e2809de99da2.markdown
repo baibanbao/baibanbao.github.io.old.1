@@ -7,6 +7,7 @@ slug: '%e6%9c%89%e5%be%85%e6%a0%b8%e5%ae%9e%e7%9a%84%e6%b6%88%e6%81%af%ef%bc%9a-
 title: 有待核实的消息： 英文字词大改革 连字符“-”面临“失业”
 wordpress_id: 1204
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

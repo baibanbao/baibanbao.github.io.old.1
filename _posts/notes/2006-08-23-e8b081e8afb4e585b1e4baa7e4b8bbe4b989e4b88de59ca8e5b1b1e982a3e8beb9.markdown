@@ -7,6 +7,7 @@ slug: '%e8%b0%81%e8%af%b4%e5%85%b1%e4%ba%a7%e4%b8%bb%e4%b9%89%e4%b8%8d%e5%9c%a8%
 title: 谁说共产主义不在山那边
 wordpress_id: 517
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: advice
 title: 告诫
 wordpress_id: 717
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 生活

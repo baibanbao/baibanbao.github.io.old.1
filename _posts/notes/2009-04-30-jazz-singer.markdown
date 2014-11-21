@@ -7,6 +7,7 @@ slug: jazz-singer
 title: 爵士歌手
 wordpress_id: 2063
 categories:
+- notes
 - 不好归类
 tags:
 - 音乐

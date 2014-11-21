@@ -7,6 +7,7 @@ slug: '%e7%bb%99%e5%88%a9%e7%9b%8a%e6%97%a0%e5%85%b3%e8%80%85%e4%bb%ac%e7%9a%84%
 title: 雪山下的第二封信
 wordpress_id: 1354
 categories:
+- notes
 - 写作练习
 tags:
 - 下雪

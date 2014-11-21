@@ -7,6 +7,7 @@ slug: my-tumblr-is-back
 title: My tumblr is back
 wordpress_id: 6481
 categories:
+- notes
 - 不好归类
 tags:
 - complaint

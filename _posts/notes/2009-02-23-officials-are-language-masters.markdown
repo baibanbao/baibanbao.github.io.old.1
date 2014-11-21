@@ -7,6 +7,7 @@ slug: officials-are-language-masters
 title: 官员也是语言大师
 wordpress_id: 1934
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

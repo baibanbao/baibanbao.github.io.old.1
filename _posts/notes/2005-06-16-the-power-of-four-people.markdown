@@ -7,6 +7,7 @@ slug: the-power-of-four-people
 title: 四个人的力量
 wordpress_id: 945
 categories:
+- notes
 - 读书笔记
 tags:
 - 不好归类

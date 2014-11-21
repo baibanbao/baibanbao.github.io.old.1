@@ -8,6 +8,7 @@ slug: '%e5%af%b9%e8%af%9d'
 title: 对话
 wordpress_id: 6405
 categories:
+- notes
 - 不好归类
 ---
 

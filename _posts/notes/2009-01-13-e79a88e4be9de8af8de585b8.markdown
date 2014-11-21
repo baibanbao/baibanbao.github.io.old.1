@@ -7,6 +7,7 @@ slug: '%e7%9a%88%e4%be%9d%e8%af%8d%e5%85%b8'
 title: 皈依词典
 wordpress_id: 1860
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

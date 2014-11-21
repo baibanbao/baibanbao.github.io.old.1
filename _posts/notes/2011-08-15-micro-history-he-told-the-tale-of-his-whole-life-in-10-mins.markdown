@@ -7,6 +7,7 @@ slug: micro-history-he-told-the-tale-of-his-whole-life-in-10-mins
 title: 一周微史记（2011-8-16）这个男人用十分钟讲完了自己的一生
 wordpress_id: 4455
 categories:
+- notes
 - 非虚构叙事
 ---
 

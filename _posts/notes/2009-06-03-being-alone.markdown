@@ -7,6 +7,7 @@ slug: being-alone
 title: 独自一人
 wordpress_id: 2124
 categories:
+- notes
 - 不好归类
 tags:
 - 推荐

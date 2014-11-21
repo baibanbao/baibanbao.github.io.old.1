@@ -7,6 +7,7 @@ slug: '%e8%b0%9c%e5%ba%95%e6%8f%ad%e6%99%93'
 title: 谜底揭晓
 wordpress_id: 1987
 categories:
+- notes
 - 不好归类
 tags:
 - Add new tag

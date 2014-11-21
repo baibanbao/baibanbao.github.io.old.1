@@ -7,6 +7,7 @@ slug: '%e7%bd%91%e5%ba%97%e5%88%9d%e6%ad%a5%e6%95%b0%e6%8d%ae'
 title: 网店初步数据
 wordpress_id: 6454
 categories:
+- notes
 - 不好归类
 tags:
 - 淘宝

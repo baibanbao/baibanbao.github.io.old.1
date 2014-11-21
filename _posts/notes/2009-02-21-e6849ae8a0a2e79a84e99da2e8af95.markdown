@@ -7,6 +7,7 @@ slug: '%e6%84%9a%e8%a0%a2%e7%9a%84%e9%9d%a2%e8%af%95'
 title: 愚蠢的面试
 wordpress_id: 1929
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

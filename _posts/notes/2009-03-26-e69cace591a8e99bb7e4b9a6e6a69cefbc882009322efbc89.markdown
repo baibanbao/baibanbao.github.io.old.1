@@ -7,6 +7,7 @@ slug: '%e6%9c%ac%e5%91%a8%e9%9b%b7%e4%b9%a6%e6%a6%9c%ef%bc%882009322%ef%bc%89'
 title: 本周雷书榜（2009.3.22）
 wordpress_id: 1990
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

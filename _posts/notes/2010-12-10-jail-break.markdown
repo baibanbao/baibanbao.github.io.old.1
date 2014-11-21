@@ -7,6 +7,7 @@ slug: jail-break
 title: 折腾iPhone4, iPad越狱备忘录
 wordpress_id: 3724
 categories:
+- notes
 - 学点技术
 tags:
 - iPad

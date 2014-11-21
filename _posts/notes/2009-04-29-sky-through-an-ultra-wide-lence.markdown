@@ -7,6 +7,7 @@ slug: sky-through-an-ultra-wide-lence
 title: 超广角之夜
 wordpress_id: 2053
 categories:
+- notes
 - 爱看电影
 tags:
 - 15/4.5

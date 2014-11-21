@@ -7,6 +7,7 @@ slug: 18-pieces-of-advices-given-to-his-daughters-by-jim-rogers
 title: 量子基金创始人吉姆·罗杰斯给女儿的18条建议
 wordpress_id: 6284
 categories:
+- notes
 - 读书笔记
 tags:
 - 人生经验

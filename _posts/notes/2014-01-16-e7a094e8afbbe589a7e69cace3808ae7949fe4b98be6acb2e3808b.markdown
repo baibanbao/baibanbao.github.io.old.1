@@ -8,6 +8,7 @@ slug: '%e7%a0%94%e8%af%bb%e5%89%a7%e6%9c%ac%e3%80%8a%e7%94%9f%e4%b9%8b%e6%ac%b2%
 title: 研读剧本《生之欲》
 wordpress_id: 6327
 categories:
+- notes
 - 不好归类
 ---
 

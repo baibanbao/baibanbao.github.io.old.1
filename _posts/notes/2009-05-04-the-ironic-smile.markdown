@@ -7,6 +7,7 @@ slug: the-ironic-smile
 title: 秦俑的嘲讽
 wordpress_id: 2075
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

@@ -7,6 +7,7 @@ slug: how-to-jailbreak-ios-5-1-1
 title: iOS5.1.1如何完美越狱
 wordpress_id: 5542
 categories:
+- notes
 - 学点技术
 tags:
 - iphone

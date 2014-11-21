@@ -7,6 +7,7 @@ slug: '%e9%b2%9c%e8%8a%b1%e5%bc%80%e6%bb%a1%e5%b1%b1'
 title: 鲜花开满山
 wordpress_id: 1605
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

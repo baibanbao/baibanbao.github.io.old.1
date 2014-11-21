@@ -7,6 +7,7 @@ slug: nutshell-and-nightmare
 title: 核桃壳与噩梦
 wordpress_id: 709
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

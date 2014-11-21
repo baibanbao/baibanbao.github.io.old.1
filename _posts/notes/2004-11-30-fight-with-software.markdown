@@ -7,6 +7,7 @@ slug: fight-with-software
 title: 跟软件对命
 wordpress_id: 537
 categories:
+- notes
 - 学点技术
 tags:
 - 不好归类

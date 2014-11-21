@@ -7,6 +7,7 @@ slug: the-power-of-speaking
 title: 倾述的力量
 wordpress_id: 4246
 categories:
+- notes
 - 生活不是条件反射
 ---
 

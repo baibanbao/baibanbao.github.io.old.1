@@ -7,6 +7,7 @@ slug: scenery-description-of-severn-samurai
 title: 《七武士》电影剧本中的景物描写
 wordpress_id: 6252
 categories:
+- notes
 - 编剧学习
 tags:
 - 电影剧本

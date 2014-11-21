@@ -7,6 +7,7 @@ slug: notes-from-exodus-translated-by-fengxiang
 title: 论《出埃及记》冯象译本的语言
 wordpress_id: 4976
 categories:
+- notes
 - 读书笔记
 tags:
 - 冯象

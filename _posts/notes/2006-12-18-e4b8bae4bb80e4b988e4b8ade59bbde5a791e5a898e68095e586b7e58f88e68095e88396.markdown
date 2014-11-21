@@ -7,6 +7,7 @@ slug: '%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%ad%e5%9b%bd%e5%a7%91%e5%a8%98%e6%80%95%
 title: 为什么中国姑娘怕冷又怕胖
 wordpress_id: 729
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

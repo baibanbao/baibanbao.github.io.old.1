@@ -7,6 +7,7 @@ slug: a-poem-by-thomas-elliot-lost-in-translation
 title: 一首英文诗的翻译问题
 wordpress_id: 5801
 categories:
+- notes
 - 文艺批评
 tags:
 - 学习

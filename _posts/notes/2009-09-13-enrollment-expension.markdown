@@ -7,6 +7,7 @@ slug: enrollment-expension
 title: 周末读书之《失落的象牙塔-高校扩招的一个经济学解读》
 wordpress_id: 2564
 categories:
+- notes
 - 读书笔记
 tags:
 - 大学

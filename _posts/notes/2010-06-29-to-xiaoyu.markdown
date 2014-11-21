@@ -7,6 +7,7 @@ slug: to-xiaoyu
 title: 小雨同志
 wordpress_id: 3330
 categories:
+- notes
 - 写作练习
 ---
 

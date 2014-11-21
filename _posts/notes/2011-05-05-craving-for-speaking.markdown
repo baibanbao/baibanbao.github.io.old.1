@@ -7,6 +7,7 @@ slug: craving-for-speaking
 title: 渴望表达
 wordpress_id: 4250
 categories:
+- notes
 - 写作练习
 - 非虚构叙事
 ---

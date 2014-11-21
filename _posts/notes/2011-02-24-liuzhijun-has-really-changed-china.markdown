@@ -7,6 +7,7 @@ slug: liuzhijun-has-really-changed-china
 title: 高铁之父刘志军：他才改变了中国
 wordpress_id: 4045
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 高铁

@@ -7,6 +7,7 @@ slug: adventure-on-shanghai-airline
 title: 乘坐上海航空维权记
 wordpress_id: 3405
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 上海航空

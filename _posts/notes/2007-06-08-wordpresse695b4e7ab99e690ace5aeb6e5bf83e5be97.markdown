@@ -7,6 +7,7 @@ slug: wordpress%e6%95%b4%e7%ab%99%e6%90%ac%e5%ae%b6%e5%bf%83%e5%be%97
 title: Wordpress整站搬家心得
 wordpress_id: 1041
 categories:
+- notes
 - 学点技术
 ---
 

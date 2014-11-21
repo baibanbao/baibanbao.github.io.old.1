@@ -7,6 +7,7 @@ slug: world-cup-blog
 title: 值得一看的世界杯博客
 wordpress_id: 426
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

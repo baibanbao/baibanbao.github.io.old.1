@@ -7,6 +7,7 @@ slug: '%e6%a6%b4%e8%8e%b2%e5%91%a8%e5%88%8a%ef%bc%88durian-media%ef%bc%89%e7%ac%
 title: 榴莲周刊（Durian Media）第1期A卷
 wordpress_id: 935
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

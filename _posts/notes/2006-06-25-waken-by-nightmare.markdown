@@ -7,6 +7,7 @@ slug: waken-by-nightmare
 title: 被噩梦吓醒
 wordpress_id: 438
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: short-song-2
 title: 海盗电台：王佩弹唱《短歌》
 wordpress_id: 3119
 categories:
+- notes
 - 不好归类
 tags:
 - 原创

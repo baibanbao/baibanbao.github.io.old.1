@@ -7,6 +7,7 @@ slug: '%e6%88%91%e7%9a%84%e7%ac%ac%e4%b8%80%e4%b8%aayoutube%e4%bd%9c%e5%93%81'
 title: 我的第一个YouTube作品
 wordpress_id: 733
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

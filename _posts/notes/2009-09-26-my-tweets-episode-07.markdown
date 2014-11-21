@@ -7,6 +7,7 @@ slug: my-tweets-episode-07
 title: 俱草草09第7辑（0194-0225）
 wordpress_id: 2606
 categories:
+- notes
 - 不好归类
 tags:
 - twitter

@@ -8,6 +8,7 @@ slug: '%e8%88%9e%e7%be%8e%e4%b9%9f%e6%98%af%e4%b8%80%e4%b8%aa%e9%ab%98%e5%8d%b1%
 title: 舞美也是一个高危职业
 wordpress_id: 6395
 categories:
+- notes
 - 不好归类
 ---
 

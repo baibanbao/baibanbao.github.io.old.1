@@ -7,6 +7,7 @@ slug: on-chinese-language
 title: 汉语，欲洁何曾洁
 wordpress_id: 3775
 categories:
+- notes
 - 语文运动
 tags:
 - 新闻晨报

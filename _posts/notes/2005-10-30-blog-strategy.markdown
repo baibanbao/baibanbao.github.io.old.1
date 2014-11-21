@@ -7,6 +7,7 @@ slug: blog-strategy
 title: Blog还是需要定位
 wordpress_id: 944
 categories:
+- notes
 - 学点技术
 tags:
 - 不好归类

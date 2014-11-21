@@ -7,6 +7,7 @@ slug: so-called-classmate
 title: 同学高校都很贱
 wordpress_id: 4756
 categories:
+- notes
 - 文艺批评
 tags:
 - piping

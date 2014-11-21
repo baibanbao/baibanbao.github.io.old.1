@@ -7,6 +7,7 @@ slug: '%e7%a7%81%e4%ba%ba%e6%b5%b7%e6%bb%a9'
 title: 私人海滩
 wordpress_id: 868
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

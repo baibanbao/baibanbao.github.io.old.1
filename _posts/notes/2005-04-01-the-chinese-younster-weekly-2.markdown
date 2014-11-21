@@ -7,6 +7,7 @@ slug: the-chinese-younster-weekly-2
 title: 《中国少年报》
 wordpress_id: 1144
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 语文不动

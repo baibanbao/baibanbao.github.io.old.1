@@ -7,6 +7,7 @@ slug: why-we-need-calligraphy-in-digital-era
 title: 数码时代为什么还需要书法？
 wordpress_id: 5321
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 书法

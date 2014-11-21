@@ -7,6 +7,7 @@ slug: '%e6%a2%a6%e4%b8%8e%e5%a7%9a%e6%98%8e%e8%af%95%e6%af%94%e9%ab%98'
 title: 梦见姚明
 wordpress_id: 770
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

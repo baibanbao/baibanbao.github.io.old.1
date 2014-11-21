@@ -7,6 +7,7 @@ slug: the-bridegroom
 title: 新郎来了
 wordpress_id: 2121
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

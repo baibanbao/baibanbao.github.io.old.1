@@ -7,6 +7,7 @@ slug: '%e9%80%89%e6%8b%a9%e7%9a%84%e9%99%b7%e9%98%b1'
 title: 选择的陷阱
 wordpress_id: 649
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

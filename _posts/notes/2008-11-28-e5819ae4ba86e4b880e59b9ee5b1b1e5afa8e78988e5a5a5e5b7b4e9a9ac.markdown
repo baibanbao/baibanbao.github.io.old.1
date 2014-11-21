@@ -7,6 +7,7 @@ slug: '%e5%81%9a%e4%ba%86%e4%b8%80%e5%9b%9e%e5%b1%b1%e5%af%a8%e7%89%88%e5%a5%a5%
 title: 做了一回山寨版奥巴马
 wordpress_id: 1786
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

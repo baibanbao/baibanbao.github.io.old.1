@@ -7,6 +7,7 @@ slug: '%e8%b4%ba%e5%b2%81%e7%9f%ad%e7%89%87%ef%bc%9a%e5%8a%9f%e5%a4%ab%e5%b0%8f%
 title: 贺岁短片：功夫小子
 wordpress_id: 1359
 categories:
+- notes
 - 学点技术
 tags:
 - 儿童

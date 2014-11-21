@@ -7,6 +7,7 @@ slug: poem-reading
 title: 家庭诗歌朗诵会
 wordpress_id: 2775
 categories:
+- notes
 - 海盗电台
 - 生活不是条件反射
 tags:

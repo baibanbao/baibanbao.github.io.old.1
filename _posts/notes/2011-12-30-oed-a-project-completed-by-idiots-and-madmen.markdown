@@ -7,6 +7,7 @@ slug: oed-a-project-completed-by-idiots-and-madmen
 title: 《牛津大词典》OED：傻子和疯子一起完成的奇迹
 wordpress_id: 5149
 categories:
+- notes
 - 读书笔记
 tags:
 - OED

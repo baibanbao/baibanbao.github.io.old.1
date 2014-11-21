@@ -7,6 +7,7 @@ slug: our-village-2
 title: 我们的村庄（综合版）
 wordpress_id: 3621
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 丁家村

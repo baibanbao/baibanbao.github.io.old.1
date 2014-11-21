@@ -7,6 +7,7 @@ slug: '%e6%af%8d%e8%af%ad%e6%9e%af%e7%ab%ad%e7%97%87'
 title: 母语枯竭症
 wordpress_id: 768
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

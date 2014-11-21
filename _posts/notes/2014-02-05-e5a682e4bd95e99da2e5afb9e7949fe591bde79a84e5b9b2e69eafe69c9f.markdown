@@ -7,6 +7,7 @@ slug: '%e5%a6%82%e4%bd%95%e9%9d%a2%e5%af%b9%e7%94%9f%e5%91%bd%e7%9a%84%e5%b9%b2%
 title: 如何面对生命的干枯期
 wordpress_id: 6351
 categories:
+- notes
 - 不好归类
 ---
 

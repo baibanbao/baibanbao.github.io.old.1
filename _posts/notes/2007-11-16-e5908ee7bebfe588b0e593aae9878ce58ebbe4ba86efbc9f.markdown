@@ -7,6 +7,7 @@ slug: '%e5%90%8e%e7%be%bf%e5%88%b0%e5%93%aa%e9%87%8c%e5%8e%bb%e4%ba%86%ef%bc%9f'
 title: 后羿到哪里去了？
 wordpress_id: 1246
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: letter-from-the-younger-brother-of-my-mother
 title: 舅舅来信
 wordpress_id: 4902
 categories:
+- notes
 - 生活不是条件反射
 - 非虚构叙事
 ---

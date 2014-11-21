@@ -7,6 +7,7 @@ slug: waiting-for-noo
 title: 期待NOOK
 wordpress_id: 2739
 categories:
+- notes
 - 不好归类
 tags:
 - kindle

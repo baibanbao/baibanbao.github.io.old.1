@@ -7,6 +7,7 @@ slug: '%e5%8f%91%e7%8e%b0google-video%e5%ae%9d%e8%97%8f%ef%bc%81'
 title: 发现Google Video宝藏！
 wordpress_id: 724
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

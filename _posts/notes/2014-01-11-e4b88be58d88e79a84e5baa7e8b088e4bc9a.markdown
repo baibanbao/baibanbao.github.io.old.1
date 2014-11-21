@@ -8,6 +8,7 @@ slug: '%e4%b8%8b%e5%8d%88%e7%9a%84%e5%ba%a7%e8%b0%88%e4%bc%9a'
 title: 下午的座谈会
 wordpress_id: 6414
 categories:
+- notes
 - 不好归类
 ---
 

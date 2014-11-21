@@ -7,6 +7,7 @@ slug: the-history-of-prc
 title: 国史入手
 wordpress_id: 2012
 categories:
+- notes
 - 不好归类
 - 读书笔记
 tags:

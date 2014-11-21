@@ -7,6 +7,7 @@ slug: real-estate-saves-theatre
 title: 拿什么来拯救话剧？房地产！
 wordpress_id: 4228
 categories:
+- notes
 - 非虚构叙事
 ---
 

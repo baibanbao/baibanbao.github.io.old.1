@@ -8,6 +8,7 @@ title: 'Death of a Newspaper-man: Analysis on The Lan Chengzhang Murder Case and
   Related Ethical Issues of Chinese Journalism'
 wordpress_id: 4233
 categories:
+- notes
 - 一些论文
 ---
 

@@ -7,6 +7,7 @@ slug: what-is-human-being
 title: 人是什么
 wordpress_id: 550
 categories:
+- notes
 - 写作练习
 tags:
 - 不好归类

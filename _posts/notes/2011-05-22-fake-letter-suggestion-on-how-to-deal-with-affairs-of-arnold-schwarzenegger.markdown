@@ -7,6 +7,7 @@ slug: fake-letter-suggestion-on-how-to-deal-with-affairs-of-arnold-schwarzenegge
 title: 一封群众来信：关于施瓦辛格同志生活作风问题的处理建议
 wordpress_id: 4284
 categories:
+- notes
 - 写作练习
 ---
 

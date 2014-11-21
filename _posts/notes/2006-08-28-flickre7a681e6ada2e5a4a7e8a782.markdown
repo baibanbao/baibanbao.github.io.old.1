@@ -7,6 +7,7 @@ slug: flickr%e7%a6%81%e6%ad%a2%e5%a4%a7%e8%a7%82
 title: Flickr禁止大观
 wordpress_id: 586
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

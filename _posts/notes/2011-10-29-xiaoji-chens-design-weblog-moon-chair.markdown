@@ -7,6 +7,7 @@ slug: xiaoji-chens-design-weblog-moon-chair
 title: Xiaoji Chen's Design Weblog » Moon Chair
 wordpress_id: 6539
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

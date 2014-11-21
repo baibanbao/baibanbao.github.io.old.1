@@ -7,6 +7,7 @@ slug: '%e6%b7%98%e5%ae%9d%e5%ba%97%e4%b8%bb%e7%9a%84%e5%b4%a9%e6%ba%83'
 title: 淘宝店主的崩溃
 wordpress_id: 6527
 categories:
+- notes
 - 不好归类
 ---
 

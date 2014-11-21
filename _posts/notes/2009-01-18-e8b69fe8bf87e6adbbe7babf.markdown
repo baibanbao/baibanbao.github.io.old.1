@@ -7,6 +7,7 @@ slug: '%e8%b6%9f%e8%bf%87%e6%ad%bb%e7%ba%bf'
 title: 趟过死线
 wordpress_id: 1864
 categories:
+- notes
 - 写作练习
 tags:
 - 和菜头

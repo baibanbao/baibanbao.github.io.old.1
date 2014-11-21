@@ -7,6 +7,7 @@ slug: '%e9%87%91%e8%89%b2%e8%91%a1%e8%90%84%e7%9a%84%e7%b2%be%e5%8d%8e%e5%8c%ba-
 title: '金色葡萄的精华区: 卖枣记读后'
 wordpress_id: 6469
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

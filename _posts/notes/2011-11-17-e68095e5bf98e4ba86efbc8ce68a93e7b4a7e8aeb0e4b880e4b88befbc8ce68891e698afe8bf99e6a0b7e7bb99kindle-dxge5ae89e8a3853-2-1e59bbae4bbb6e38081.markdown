@@ -7,6 +7,7 @@ slug: '%e6%80%95%e5%bf%98%e4%ba%86%ef%bc%8c%e6%8a%93%e7%b4%a7%e8%ae%b0%e4%b8%80%
 title: 怕忘了，抓紧记一下，我是这样给Kindle dxg安装3.2.1固件、越狱和安装拼音输入法的
 wordpress_id: 6475
 categories:
+- notes
 - 不好归类
 ---
 

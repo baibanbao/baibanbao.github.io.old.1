@@ -7,6 +7,7 @@ slug: '%e5%b8%83%e4%bb%80%e9%81%ad%e9%9e%8b%e5%87%bb%e4%b9%8b%e5%90%8e%e7%9a%84%
 title: 布什遭鞋击之后的君子风度
 wordpress_id: 1818
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

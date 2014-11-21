@@ -7,6 +7,7 @@ slug: do-not-use-much-force
 title: 不要太用力
 wordpress_id: 4754
 categories:
+- notes
 - 生活不是条件反射
 ---
 

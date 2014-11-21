@@ -7,6 +7,7 @@ slug: what-a-waste
 title: 王八做成了泥鳅味
 wordpress_id: 474
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

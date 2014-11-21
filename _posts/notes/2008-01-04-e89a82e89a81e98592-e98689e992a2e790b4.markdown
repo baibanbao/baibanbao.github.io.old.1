@@ -7,6 +7,7 @@ slug: '%e8%9a%82%e8%9a%81%e9%85%92-%e9%86%89%e9%92%a2%e7%90%b4'
 title: 蚂蚁酒 醉钢琴
 wordpress_id: 1288
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

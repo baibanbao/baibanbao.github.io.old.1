@@ -7,6 +7,7 @@ slug: why-watch-concerts-when-we-have-had-mp3-already
 title: 有MP3，有DVD，为什么要去看演唱会？
 wordpress_id: 4197
 categories:
+- notes
 - 非虚构叙事
 ---
 

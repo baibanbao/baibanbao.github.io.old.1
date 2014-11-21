@@ -7,6 +7,7 @@ slug: '%e8%bd%ac%e5%92%8c%e8%8f%9c%e5%a4%b4%e3%80%8a%e7%9c%8b%e8%a7%81%e7%bd%91%
 title: 转和菜头《看见网络非典的亮光》
 wordpress_id: 750
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

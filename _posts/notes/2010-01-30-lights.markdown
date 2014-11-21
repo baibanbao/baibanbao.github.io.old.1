@@ -7,6 +7,7 @@ slug: lights
 title: 装灯
 wordpress_id: 3135
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 生活

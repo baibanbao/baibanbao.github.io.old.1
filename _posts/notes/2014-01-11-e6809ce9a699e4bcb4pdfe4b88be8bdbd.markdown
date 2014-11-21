@@ -8,6 +8,7 @@ slug: '%e6%80%9c%e9%a6%99%e4%bc%b4pdf%e4%b8%8b%e8%bd%bd'
 title: 怜香伴PDF下载
 wordpress_id: 6420
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

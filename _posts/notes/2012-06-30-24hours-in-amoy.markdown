@@ -7,6 +7,7 @@ slug: 24hours-in-amoy
 title: 厦门20小时
 wordpress_id: 5498
 categories:
+- notes
 - 生活不是条件反射
 ---
 

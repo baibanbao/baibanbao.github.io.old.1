@@ -7,6 +7,7 @@ slug: '%e6%83%b3%e8%b5%b7%e6%88%88%e5%a4%9a%e3%80%81%e6%9c%8b%e5%8f%8b%e5%92%8c%
 title: 想起戈多、朋友和戏剧
 wordpress_id: 671
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: tangshan-earthquake
 title: 看过《唐山大地震》
 wordpress_id: 3400
 categories:
+- notes
 - 不好归类
 tags:
 - 电影

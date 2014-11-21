@@ -7,6 +7,7 @@ slug: '%e4%b8%8d%e7%9f%a5%e5%90%8d%e7%9a%84%e6%97%a7%e7%85%a7%e7%89%87'
 title: 无名的志愿军女兵
 wordpress_id: 683
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

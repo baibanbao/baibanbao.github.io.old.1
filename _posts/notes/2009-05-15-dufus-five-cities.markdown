@@ -7,6 +7,7 @@ slug: dufus-five-cities
 title: 山一程，水一程，相伴《杜甫的五城》
 wordpress_id: 2092
 categories:
+- notes
 - 读书笔记
 tags:
 - 卓越当当联盟

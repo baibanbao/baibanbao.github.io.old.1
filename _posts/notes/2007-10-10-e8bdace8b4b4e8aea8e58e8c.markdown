@@ -7,6 +7,7 @@ slug: '%e8%bd%ac%e8%b4%b4%e8%ae%a8%e5%8e%8c'
 title: '[转贴]讨厌'
 wordpress_id: 1211
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

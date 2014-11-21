@@ -7,6 +7,7 @@ slug: shall-we-go-to-bed
 title: 那么，让我们上床吧
 wordpress_id: 713
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

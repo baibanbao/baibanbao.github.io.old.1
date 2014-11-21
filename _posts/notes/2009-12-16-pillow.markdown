@@ -7,6 +7,7 @@ slug: pillow
 title: 海盗电台《留在时间岸上的歌6：枕头的故事》
 wordpress_id: 2920
 categories:
+- notes
 - 海盗电台
 tags:
 - 朗诵

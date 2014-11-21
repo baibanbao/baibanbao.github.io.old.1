@@ -7,6 +7,7 @@ slug: '%e5%90%91%e2%80%9c%e5%88%98%e7%be%9a%e7%be%8a%e2%80%9d%e8%87%b4%e6%95%ac'
 title: 向“刘羚羊”致敬
 wordpress_id: 1370
 categories:
+- notes
 - 写作练习
 tags:
 - 打假

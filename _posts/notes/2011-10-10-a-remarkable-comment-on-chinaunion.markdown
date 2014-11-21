@@ -7,6 +7,7 @@ slug: a-remarkable-comment-on-chinaunion
 title: 一篇特别用心的留言
 wordpress_id: 4848
 categories:
+- notes
 - 非虚构叙事
 ---
 

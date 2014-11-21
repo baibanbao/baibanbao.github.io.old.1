@@ -7,6 +7,7 @@ slug: a-successful-writer
 title: 作家成功的样子
 wordpress_id: 6118
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 作家

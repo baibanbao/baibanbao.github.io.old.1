@@ -8,6 +8,7 @@ slug: '%e6%97%a0%e4%ba%ba%e4%bc%9a-%e7%99%bb%e4%b8%b4%e6%84%8f'
 title: 无人会 登临意
 wordpress_id: 6387
 categories:
+- notes
 - 不好归类
 ---
 

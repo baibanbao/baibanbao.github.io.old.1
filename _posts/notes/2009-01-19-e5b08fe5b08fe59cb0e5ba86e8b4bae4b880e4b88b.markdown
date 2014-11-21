@@ -7,6 +7,7 @@ slug: '%e5%b0%8f%e5%b0%8f%e5%9c%b0%e5%ba%86%e8%b4%ba%e4%b8%80%e4%b8%8b'
 title: 小小地庆贺一下
 wordpress_id: 1865
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: '%e9%b2%9c%e6%b4%bb%e7%9a%84%e8%8b%b1%e8%af%ad'
 title: 鲜活的英语
 wordpress_id: 899
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

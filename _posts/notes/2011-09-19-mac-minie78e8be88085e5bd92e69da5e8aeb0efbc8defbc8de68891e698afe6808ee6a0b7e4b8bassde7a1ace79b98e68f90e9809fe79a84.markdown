@@ -7,6 +7,7 @@ slug: mac-mini%e7%8e%8b%e8%80%85%e5%bd%92%e6%9d%a5%e8%ae%b0%ef%bc%8d%ef%bc%8d%e6
 title: Mac Mini王者归来记－－我是怎样为SSD硬盘提速的
 wordpress_id: 6577
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: wanna-learn-ancient-chinese-character-xiaozhuan
 title: 忽然想学习小篆
 wordpress_id: 538
 categories:
+- notes
 - 语文运动
 tags:
 - 不好归类

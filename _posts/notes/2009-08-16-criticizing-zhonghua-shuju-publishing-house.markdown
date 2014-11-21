@@ -7,6 +7,7 @@ slug: criticizing-zhonghua-shuju-publishing-house
 title: 山寨书局
 wordpress_id: 2270
 categories:
+- notes
 - 读书笔记
 tags:
 - iphone

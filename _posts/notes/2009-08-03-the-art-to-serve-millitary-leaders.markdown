@@ -7,6 +7,7 @@ slug: the-art-to-serve-millitary-leaders
 title: 旷世奇书《参谋助手论--为首长服务的艺术》
 wordpress_id: 2225
 categories:
+- notes
 - 读书笔记
 tags:
 - 军事

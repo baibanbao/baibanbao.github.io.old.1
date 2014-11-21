@@ -7,6 +7,7 @@ slug: shakespeare-in-english
 title: 莎士比亚戏剧英文版
 wordpress_id: 529
 categories:
+- notes
 - 读书笔记
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: '%e4%b8%96%e7%95%8c%e4%b8%8a%e6%9c%89%e4%b8%aa%e5%85%8d%e8%b4%b9%e7%9a%84%
 title: 世界上有个免费的地方叫图书馆
 wordpress_id: 1695
 categories:
+- notes
 - 写作练习
 tags:
 - 读书

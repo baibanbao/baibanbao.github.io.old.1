@@ -7,6 +7,7 @@ slug: do-not-skip-my-class
 title: 我警告过你们不要逃课
 wordpress_id: 2160
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

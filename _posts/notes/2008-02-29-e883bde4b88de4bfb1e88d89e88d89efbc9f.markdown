@@ -7,6 +7,7 @@ slug: '%e8%83%bd%e4%b8%8d%e4%bf%b1%e8%8d%89%e8%8d%89%ef%bc%9f'
 title: 能不俱草草？
 wordpress_id: 1380
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

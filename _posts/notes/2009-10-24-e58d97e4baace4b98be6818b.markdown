@@ -7,6 +7,7 @@ slug: '%e5%8d%97%e4%ba%ac%e4%b9%8b%e6%81%8b'
 title: 南京之恋
 wordpress_id: 2673
 categories:
+- notes
 - 写作练习
 tags:
 - 南京

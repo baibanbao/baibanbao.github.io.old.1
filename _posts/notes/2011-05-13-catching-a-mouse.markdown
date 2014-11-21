@@ -7,6 +7,7 @@ slug: catching-a-mouse
 title: 捕鼠记
 wordpress_id: 4275
 categories:
+- notes
 - 生活不是条件反射
 ---
 

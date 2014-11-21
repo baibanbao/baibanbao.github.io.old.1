@@ -7,6 +7,7 @@ slug: '%e8%83%9c%e5%88%a9%e4%b9%8b%e5%90%8e%e7%9a%84%e5%ad%98%e6%a1%a3%ef%bc%9a%
 title: 胜利之后的存档：惨痛的升级
 wordpress_id: 1654
 categories:
+- notes
 - 学点技术
 ---
 

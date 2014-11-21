@@ -8,6 +8,7 @@ slug: '6406'
 title: No Content Found
 wordpress_id: 6406
 categories:
+- notes
 - 不好归类
 tags:
 - 写作

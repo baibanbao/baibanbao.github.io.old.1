@@ -7,6 +7,7 @@ slug: '%e5%90%8c%e5%ad%a6%e8%a1%8c'
 title: 同学行
 wordpress_id: 1658
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

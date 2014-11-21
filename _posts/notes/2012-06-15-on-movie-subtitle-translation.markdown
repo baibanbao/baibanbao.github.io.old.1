@@ -7,6 +7,7 @@ slug: on-movie-subtitle-translation
 title: 说说字幕翻译
 wordpress_id: 5491
 categories:
+- notes
 - 文艺批评
 ---
 

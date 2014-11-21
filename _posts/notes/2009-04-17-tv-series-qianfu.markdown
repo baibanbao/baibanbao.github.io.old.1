@@ -7,6 +7,7 @@ slug: tv-series-qianfu
 title: 潜伏为什么好看
 wordpress_id: 2028
 categories:
+- notes
 - 爱看电影
 tags:
 - 电视剧

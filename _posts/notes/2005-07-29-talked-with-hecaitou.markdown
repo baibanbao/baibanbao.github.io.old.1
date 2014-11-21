@@ -7,6 +7,7 @@ slug: talked-with-hecaitou
 title: 一茶一座一聊天
 wordpress_id: 554
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

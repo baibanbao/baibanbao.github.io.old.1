@@ -7,6 +7,7 @@ slug: buying-books
 title: 本月读买杂记
 wordpress_id: 3608
 categories:
+- notes
 - 读书笔记
 tags:
 - 书报

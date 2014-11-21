@@ -7,6 +7,7 @@ slug: '%e5%8f%a6%e4%b8%80%e4%b8%aa%e4%b8%96%e7%95%8c%e7%9a%84%e5%85%89'
 title: 另一个世界的光
 wordpress_id: 1489
 categories:
+- notes
 - 写作练习
 tags:
 - 光明

@@ -7,6 +7,7 @@ slug: a-mothers-prayer-for-her-daughter
 title: 一位母亲为女儿所做的祷告
 wordpress_id: 6286
 categories:
+- notes
 - 读书笔记
 tags:
 - 台词

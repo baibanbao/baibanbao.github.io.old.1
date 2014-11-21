@@ -7,6 +7,7 @@ slug: '%e6%96%b0%e6%b5%aa%e9%9d%9e%e7%be%8e%e5%a5%b3%e5%8d%9a%e5%ae%a2%ef%bc%9a%
 title: 新浪非美女博客：拉丽莎
 wordpress_id: 594
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

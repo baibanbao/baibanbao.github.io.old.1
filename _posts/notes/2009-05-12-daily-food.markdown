@@ -7,6 +7,7 @@ slug: daily-food
 title: 每日的饮食
 wordpress_id: 2087
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

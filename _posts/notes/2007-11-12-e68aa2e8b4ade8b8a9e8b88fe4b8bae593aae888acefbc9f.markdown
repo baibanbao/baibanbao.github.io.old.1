@@ -7,6 +7,7 @@ slug: '%e6%8a%a2%e8%b4%ad%e8%b8%a9%e8%b8%8f%e4%b8%ba%e5%93%aa%e8%88%ac%ef%bc%9f'
 title: 抢购踩踏为哪般？
 wordpress_id: 1240
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

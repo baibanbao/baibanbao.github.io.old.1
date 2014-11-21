@@ -7,6 +7,7 @@ slug: my-tweets-episode-04
 title: 俱草草09第4辑
 wordpress_id: 2231
 categories:
+- notes
 - 鱼眼碎片
 tags:
 - twitter

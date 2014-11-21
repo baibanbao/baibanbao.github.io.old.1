@@ -7,6 +7,7 @@ slug: junk-book-list
 title: 近期烂书过眼录
 wordpress_id: 2120
 categories:
+- notes
 - 读书笔记
 tags:
 - 语文不动

@@ -7,6 +7,7 @@ slug: '%e7%ba%af%e5%ae%98%e6%96%b9%e6%b6%88%e6%81%af'
 title: 纯官方消息
 wordpress_id: 985
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

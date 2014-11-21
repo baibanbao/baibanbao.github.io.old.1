@@ -8,6 +8,7 @@ slug: '%e6%80%9c%e9%a6%99%e4%bc%b4%e7%9a%84%e6%a0%a1%e6%b3%a8%e8%af%b4%e6%98%8e'
 title: 怜香伴的校注说明
 wordpress_id: 6419
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

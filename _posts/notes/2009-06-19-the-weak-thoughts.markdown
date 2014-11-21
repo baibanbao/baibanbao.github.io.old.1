@@ -7,6 +7,7 @@ slug: the-weak-thoughts
 title: 微弱的看法
 wordpress_id: 2156
 categories:
+- notes
 - 鱼眼碎片
 tags:
 - 思想者

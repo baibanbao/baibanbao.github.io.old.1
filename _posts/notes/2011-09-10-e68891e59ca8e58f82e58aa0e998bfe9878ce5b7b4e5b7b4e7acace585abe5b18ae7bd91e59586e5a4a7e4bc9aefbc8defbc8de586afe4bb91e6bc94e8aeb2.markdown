@@ -7,6 +7,7 @@ slug: '%e6%88%91%e5%9c%a8%e5%8f%82%e5%8a%a0%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4%
 title: 我在参加阿里巴巴第八届网商大会－－冯仑演讲
 wordpress_id: 6628
 categories:
+- notes
 - 不好归类
 tags:
 - 开会

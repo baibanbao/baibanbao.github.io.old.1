@@ -7,6 +7,7 @@ slug: assange-arrested
 title: 维基解密创办人阿桑奇被捕
 wordpress_id: 3714
 categories:
+- notes
 - 非虚构叙事
 ---
 

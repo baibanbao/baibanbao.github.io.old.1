@@ -7,6 +7,7 @@ slug: '%e7%9f%b3%e5%a4%b4%e5%90%8e%e9%81%97%e7%97%87'
 title: 石头后遗症
 wordpress_id: 573
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

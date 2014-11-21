@@ -7,6 +7,7 @@ slug: review-three-kingdoms
 title: 品三国在月饼界是个创新
 wordpress_id: 485
 categories:
+- notes
 - 文艺批评
 tags:
 - 不好归类

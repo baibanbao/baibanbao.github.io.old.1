@@ -7,6 +7,7 @@ slug: '%e5%81%9a%e4%b8%80%e4%bb%b6%e5%86%92%e9%99%a9%e7%9a%84%e4%ba%8b'
 title: 做一件冒险的事
 wordpress_id: 888
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

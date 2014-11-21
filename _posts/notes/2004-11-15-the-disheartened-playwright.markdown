@@ -7,6 +7,7 @@ slug: the-disheartened-playwright
 title: 最狠的编剧
 wordpress_id: 536
 categories:
+- notes
 - 文艺批评
 tags:
 - 不好归类

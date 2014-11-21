@@ -7,6 +7,7 @@ slug: discussion-on-two-chinese-words
 title: 关于两个字的讨论
 wordpress_id: 5412
 categories:
+- notes
 - 读书笔记
 ---
 

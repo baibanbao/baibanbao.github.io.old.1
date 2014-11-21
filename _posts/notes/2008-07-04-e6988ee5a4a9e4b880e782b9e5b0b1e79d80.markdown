@@ -7,6 +7,7 @@ slug: '%e6%98%8e%e5%a4%a9%e4%b8%80%e7%82%b9%e5%b0%b1%e7%9d%80'
 title: 明天一点就着
 wordpress_id: 1625
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

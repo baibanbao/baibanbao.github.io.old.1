@@ -7,6 +7,7 @@ slug: confession-of-a-taxi-driver
 title: 爱聊天的出租车司机
 wordpress_id: 5508
 categories:
+- notes
 - 生活不是条件反射
 ---
 

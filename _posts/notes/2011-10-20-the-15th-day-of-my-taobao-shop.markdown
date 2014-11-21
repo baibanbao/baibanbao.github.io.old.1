@@ -7,6 +7,7 @@ slug: the-15th-day-of-my-taobao-shop
 title: 开店第15天
 wordpress_id: 4873
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 冬枣

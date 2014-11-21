@@ -7,6 +7,7 @@ slug: my-mother-s-brother-is-a-farmer-poet
 title: 舅舅的冬枣诗
 wordpress_id: 4885
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 冬枣

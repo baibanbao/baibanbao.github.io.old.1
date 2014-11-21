@@ -8,6 +8,7 @@ slug: i-dont-want-to-be-screwed-by-my-past
 title: I don't want to be screwed by my past
 wordpress_id: 6665
 categories:
+- notes
 - 不好归类
 ---
 

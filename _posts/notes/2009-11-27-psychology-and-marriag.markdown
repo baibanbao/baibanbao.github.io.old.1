@@ -7,6 +7,7 @@ slug: psychology-and-marriag
 title: 婚姻咨询与心理治疗
 wordpress_id: 2772
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 婚姻

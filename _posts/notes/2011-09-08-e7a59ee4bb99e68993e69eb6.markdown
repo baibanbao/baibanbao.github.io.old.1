@@ -7,6 +7,7 @@ slug: '%e7%a5%9e%e4%bb%99%e6%89%93%e6%9e%b6'
 title: 神仙打架
 wordpress_id: 6608
 categories:
+- notes
 - 不好归类
 tags:
 - china

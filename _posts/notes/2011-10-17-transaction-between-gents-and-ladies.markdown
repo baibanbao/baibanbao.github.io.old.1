@@ -7,6 +7,7 @@ slug: transaction-between-gents-and-ladies
 title: 君子之交易
 wordpress_id: 4866
 categories:
+- notes
 - 生活不是条件反射
 ---
 

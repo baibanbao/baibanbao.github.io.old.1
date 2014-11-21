@@ -7,6 +7,7 @@ slug: '%e6%88%92%e4%bb%80%e4%b9%88%e4%b9%9f%e5%88%ab%e6%88%92%e5%8d%9a%e5%ae%a2'
 title: 戒什么也别戒博客
 wordpress_id: 674
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

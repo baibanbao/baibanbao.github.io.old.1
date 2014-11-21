@@ -7,6 +7,7 @@ slug: slogan-seen-on-holiday-trip
 title: 国庆漫游期间看到的零星标语
 wordpress_id: 561
 categories:
+- notes
 - 语文运动
 tags:
 - 民间

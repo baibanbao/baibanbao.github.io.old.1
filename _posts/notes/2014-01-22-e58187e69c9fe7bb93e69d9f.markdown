@@ -8,6 +8,7 @@ slug: '%e5%81%87%e6%9c%9f%e7%bb%93%e6%9d%9f'
 title: 假期结束
 wordpress_id: 6340
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: wheat-field
 title: 海盗电台特别推荐欣燃朗诵海子《麦地》
 wordpress_id: 3005
 categories:
+- notes
 - 不好归类
 ---
 

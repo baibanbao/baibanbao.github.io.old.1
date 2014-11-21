@@ -7,6 +7,7 @@ slug: jokes-of-zizek
 title: 听齐泽克讲没品笑话
 wordpress_id: 6316
 categories:
+- notes
 - 读书笔记
 ---
 

@@ -7,6 +7,7 @@ slug: '%e4%b8%80%e4%b8%aa%e6%97%a0%e6%94%bf%e5%ba%9c%e4%b8%bb%e4%b9%89%e8%80%85%
 title: 一个无政府主义者的意外死亡和一个“躲猫猫”者的意中死亡
 wordpress_id: 1945
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

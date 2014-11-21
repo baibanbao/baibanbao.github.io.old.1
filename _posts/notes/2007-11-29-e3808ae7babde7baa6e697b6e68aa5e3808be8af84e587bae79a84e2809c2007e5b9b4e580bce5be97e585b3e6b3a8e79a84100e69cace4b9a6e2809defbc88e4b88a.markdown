@@ -7,6 +7,7 @@ slug: '%e3%80%8a%e7%ba%bd%e7%ba%a6%e6%97%b6%e6%8a%a5%e3%80%8b%e8%af%84%e5%87%ba%
 title: 《纽约时报》评出的“2007年值得关注的100本书”（上）非虚构类
 wordpress_id: 1256
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

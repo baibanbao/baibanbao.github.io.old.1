@@ -7,6 +7,7 @@ slug: markdown%e7%9f%a5%e8%af%86%e5%88%9d%e6%ad%a5
 title: Markdown知识初步
 wordpress_id: 6605
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

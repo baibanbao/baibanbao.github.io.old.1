@@ -7,6 +7,7 @@ slug: my-favourite-mac-apps
 title: 说说我在苹果电脑上安装的软件
 wordpress_id: 3895
 categories:
+- notes
 - 学点技术
 tags:
 - mac

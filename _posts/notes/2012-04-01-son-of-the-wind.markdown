@@ -7,6 +7,7 @@ slug: son-of-the-wind
 title: 风之子
 wordpress_id: 5393
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 儿子

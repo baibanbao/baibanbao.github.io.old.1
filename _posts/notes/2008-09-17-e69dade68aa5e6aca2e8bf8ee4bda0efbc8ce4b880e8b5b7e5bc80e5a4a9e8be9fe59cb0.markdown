@@ -7,6 +7,7 @@ slug: '%e6%9d%ad%e6%8a%a5%e6%ac%a2%e8%bf%8e%e4%bd%a0%ef%bc%8c%e4%b8%80%e8%b5%b7%
 title: 杭报欢迎你，一起开天辟地
 wordpress_id: 1702
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

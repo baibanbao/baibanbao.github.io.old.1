@@ -7,6 +7,7 @@ slug: '%e5%81%87%e6%9c%9f%e7%ac%ac%e4%ba%8c%e5%a4%a9%ef%bc%9a%e4%bd%a0%e8%bf%bd%
 title: 假期第二天：你追模特，我追模块
 wordpress_id: 1714
 categories:
+- notes
 - 学点技术
 tags:
 - Drupal

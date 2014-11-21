@@ -7,6 +7,7 @@ slug: how-to-deal-with-conflict
 title: 邻居乱丢垃圾怎么办？
 wordpress_id: 3432
 categories:
+- notes
 - 生活不是条件反射
 ---
 

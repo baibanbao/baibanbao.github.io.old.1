@@ -7,6 +7,7 @@ slug: on-writers-blocks
 title: 写作软件Writer's Blocks
 wordpress_id: 1518
 categories:
+- notes
 - 学点技术
 tags:
 - 软件

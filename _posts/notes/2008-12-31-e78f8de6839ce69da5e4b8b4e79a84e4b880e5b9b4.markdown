@@ -7,6 +7,7 @@ slug: '%e7%8f%8d%e6%83%9c%e6%9d%a5%e4%b8%b4%e7%9a%84%e4%b8%80%e5%b9%b4'
 title: 珍惜来临的一年
 wordpress_id: 1832
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

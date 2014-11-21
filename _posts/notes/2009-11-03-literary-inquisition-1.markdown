@@ -7,6 +7,7 @@ slug: literary-inquisition-1
 title: 《笔祸史谈丛》读书笔记01
 wordpress_id: 2722
 categories:
+- notes
 - 不好归类
 ---
 

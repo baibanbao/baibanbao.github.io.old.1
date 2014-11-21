@@ -7,6 +7,7 @@ slug: '%e7%bb%99%e4%bd%a0%e7%9a%84%e8%af%97%e7%af%87'
 title: 给你的诗篇
 wordpress_id: 1670
 categories:
+- notes
 - 写作练习
 tags:
 - 诗篇

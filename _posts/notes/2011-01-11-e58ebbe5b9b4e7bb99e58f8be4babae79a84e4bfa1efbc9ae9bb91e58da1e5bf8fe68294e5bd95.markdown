@@ -7,6 +7,7 @@ slug: '%e5%8e%bb%e5%b9%b4%e7%bb%99%e5%8f%8b%e4%ba%ba%e7%9a%84%e4%bf%a1%ef%bc%9a%
 title: 去年给友人的信：黑卡忏悔录
 wordpress_id: 3864
 categories:
+- notes
 - 不好归类
 tags:
 - 忏悔

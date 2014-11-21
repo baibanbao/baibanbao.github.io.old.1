@@ -7,6 +7,7 @@ slug: my-life-as-a-reader
 title: 我的读书生活
 wordpress_id: 4434
 categories:
+- notes
 - 读书笔记
 tags:
 - 读书

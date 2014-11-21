@@ -7,6 +7,7 @@ slug: '%e5%a4%9a%e5%b0%91%e6%ac%a1%e6%89%93%e5%87%bb%e5%8f%af%e4%bb%a5%e8%ae%a9%
 title: 多少次打击可以让青春低头？
 wordpress_id: 612
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

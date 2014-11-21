@@ -7,6 +7,7 @@ slug: '%e5%85%ac%e5%91%8a%ef%bc%9a%e6%85%8e%e5%85%a5'
 title: 公告：慎入
 wordpress_id: 489
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

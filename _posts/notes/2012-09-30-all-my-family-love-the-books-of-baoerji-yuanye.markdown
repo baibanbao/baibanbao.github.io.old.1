@@ -7,6 +7,7 @@ slug: all-my-family-love-the-books-of-baoerji-yuanye
 title: 全家都读鲍尔吉-原野
 wordpress_id: 5578
 categories:
+- notes
 - 读书笔记
 tags:
 - 内蒙古

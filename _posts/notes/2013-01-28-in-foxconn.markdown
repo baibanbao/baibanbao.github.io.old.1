@@ -7,6 +7,7 @@ slug: in-foxconn
 title: 在富士康
 wordpress_id: 5881
 categories:
+- notes
 - 读书笔记
 - 非虚构叙事
 tags:

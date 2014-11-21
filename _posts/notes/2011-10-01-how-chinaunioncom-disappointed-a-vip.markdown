@@ -7,6 +7,7 @@ slug: how-chinaunioncom-disappointed-a-vip
 title: 叫人失望的联通
 wordpress_id: 4831
 categories:
+- notes
 - 生活不是条件反射
 ---
 

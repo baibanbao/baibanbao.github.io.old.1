@@ -7,6 +7,7 @@ slug: reading-time
 title: 读书佳日
 wordpress_id: 2562
 categories:
+- notes
 - 不好归类
 tags:
 - 历史

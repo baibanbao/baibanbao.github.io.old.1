@@ -7,6 +7,7 @@ slug: joke-told-by-a-guide
 title: 听导游讲段子
 wordpress_id: 3543
 categories:
+- notes
 - 非虚构叙事
 ---
 

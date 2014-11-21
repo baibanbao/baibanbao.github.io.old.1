@@ -7,6 +7,7 @@ slug: in-memory-of-haiz
 title: 海盗电台：123诗社纪念海子专场朗诵会
 wordpress_id: 3206
 categories:
+- notes
 - 海盗电台
 tags:
 - 123诗社

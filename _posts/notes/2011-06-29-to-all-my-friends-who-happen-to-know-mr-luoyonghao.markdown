@@ -7,6 +7,7 @@ slug: to-all-my-friends-who-happen-to-know-mr-luoyonghao
 title: 致罗永浩和我共同的朋友们
 wordpress_id: 4370
 categories:
+- notes
 - 生活不是条件反射
 ---
 

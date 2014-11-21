@@ -7,6 +7,7 @@ slug: micro-history-when-shall-we-finish-our-gossip
 title: 一周微史记（2011-6－7）我们这样来来去去地瞎扯可以继续到何时
 wordpress_id: 4323
 categories:
+- notes
 - 不好归类
 tags:
 - 史记

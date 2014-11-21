@@ -7,6 +7,7 @@ slug: i-love-not-so-positivle-books
 title: 我爱毁志书
 wordpress_id: 4378
 categories:
+- notes
 - 读书笔记
 ---
 

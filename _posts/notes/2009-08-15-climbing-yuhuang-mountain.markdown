@@ -7,6 +7,7 @@ slug: climbing-yuhuang-mountain
 title: 游玉皇山
 wordpress_id: 2257
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - iphone

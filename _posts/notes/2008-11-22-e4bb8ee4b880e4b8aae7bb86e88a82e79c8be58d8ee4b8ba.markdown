@@ -7,6 +7,7 @@ slug: '%e4%bb%8e%e4%b8%80%e4%b8%aa%e7%bb%86%e8%8a%82%e7%9c%8b%e5%8d%8e%e4%b8%ba'
 title: 从一个细节看华为
 wordpress_id: 1775
 categories:
+- notes
 - 学点技术
 tags:
 - 华为，产品，数码

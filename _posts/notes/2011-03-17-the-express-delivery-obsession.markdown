@@ -7,6 +7,7 @@ slug: the-express-delivery-obsession
 title: 快递强迫症
 wordpress_id: 4141
 categories:
+- notes
 - 生活不是条件反射
 - 非虚构叙事
 ---

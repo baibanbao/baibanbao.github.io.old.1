@@ -7,6 +7,7 @@ slug: '%e5%85%ad%e5%a4%a9%e4%ba%94%e5%a4%9c%e7%9a%84%e6%97%85%e8%a1%8c%ef%bc%8d1
 title: 六天五夜的旅行－1
 wordpress_id: 726
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

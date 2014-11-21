@@ -7,6 +7,7 @@ slug: god-bless-people-home
 title: 上苍保佑回得了家的人民
 wordpress_id: 3919
 categories:
+- notes
 - 爱看电影
 ---
 

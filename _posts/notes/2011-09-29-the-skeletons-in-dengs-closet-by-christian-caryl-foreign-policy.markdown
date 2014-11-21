@@ -7,6 +7,7 @@ slug: the-skeletons-in-dengs-closet-by-christian-caryl-foreign-policy
 title: The Skeletons in Deng's Closet - By Christian Caryl | Foreign Policy
 wordpress_id: 6500
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

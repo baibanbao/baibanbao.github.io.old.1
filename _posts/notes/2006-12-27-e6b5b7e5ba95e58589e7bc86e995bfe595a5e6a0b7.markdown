@@ -7,6 +7,7 @@ slug: '%e6%b5%b7%e5%ba%95%e5%85%89%e7%bc%86%e9%95%bf%e5%95%a5%e6%a0%b7'
 title: 海底光缆长啥样
 wordpress_id: 751
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

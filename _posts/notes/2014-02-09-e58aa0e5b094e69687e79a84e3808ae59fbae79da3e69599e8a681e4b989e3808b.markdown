@@ -7,6 +7,7 @@ slug: '%e5%8a%a0%e5%b0%94%e6%96%87%e7%9a%84%e3%80%8a%e5%9f%ba%e7%9d%a3%e6%95%99%
 title: 加尔文的《基督教要义》
 wordpress_id: 6355
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: i-will-remember
 title: 我会记得
 wordpress_id: 718
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 生活

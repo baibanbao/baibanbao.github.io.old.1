@@ -7,6 +7,7 @@ slug: saving-fallen-women
 title: '[短篇小说]拯救失足妇女'
 wordpress_id: 4231
 categories:
+- notes
 - 写作练习
 ---
 

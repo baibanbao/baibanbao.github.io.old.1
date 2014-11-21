@@ -7,6 +7,7 @@ slug: time
 title: 海盗电台之南京朗诵会专场：卫西谛《她的日常时间》
 wordpress_id: 2998
 categories:
+- notes
 - 不好归类
 ---
 

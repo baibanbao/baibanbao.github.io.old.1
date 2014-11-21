@@ -7,6 +7,7 @@ slug: '%e6%80%af%e7%94%9f%e7%94%9f%e7%9a%84%e4%b8%80%e5%b0%8f%e6%ad%a5'
 title: 怯生生的一小步
 wordpress_id: 1973
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

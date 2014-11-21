@@ -7,6 +7,7 @@ slug: my-curiosity
 title: 好奇心得到满足后的抒情记叙
 wordpress_id: 395
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 生活

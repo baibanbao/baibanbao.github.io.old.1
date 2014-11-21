@@ -7,6 +7,7 @@ slug: 20%e4%b8%96%e7%ba%aa%e4%bc%9f%e5%a4%a7%e6%bc%94%e8%af%b4
 title: 20世纪伟大演说
 wordpress_id: 930
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

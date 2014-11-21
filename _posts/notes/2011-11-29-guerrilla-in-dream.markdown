@@ -7,6 +7,7 @@ slug: guerrilla-in-dream
 title: 说梦
 wordpress_id: 5012
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 梦

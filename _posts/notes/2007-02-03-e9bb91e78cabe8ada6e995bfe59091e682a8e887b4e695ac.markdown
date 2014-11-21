@@ -7,6 +7,7 @@ slug: '%e9%bb%91%e7%8c%ab%e8%ad%a6%e9%95%bf%e5%90%91%e6%82%a8%e8%87%b4%e6%95%ac'
 title: 黑猫警长向您致敬
 wordpress_id: 794
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: '%e8%bd%ac%e9%bb%84%e7%ba%aa%e8%8b%8f%ef%bc%9a%e7%bb%8f%e6%b5%8e%e5%ad%a6%
 title: 转黄纪苏：经济学家与资本家的性关系
 wordpress_id: 857
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

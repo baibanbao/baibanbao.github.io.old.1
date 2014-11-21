@@ -7,6 +7,7 @@ slug: '%e9%b2%8d%e5%be%b7%e9%87%8c%e4%ba%9a%e7%9a%84%e8%8a%b1%e5%9b%ad'
 title: 鲍德里亚的花园
 wordpress_id: 1343
 categories:
+- notes
 - 不好归类
 tags:
 - Baudrillard

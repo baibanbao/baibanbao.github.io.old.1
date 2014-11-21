@@ -7,6 +7,7 @@ slug: a-word-in-arabian-asabiyyah
 title: 阿拉伯词语：Asabiyyah
 wordpress_id: 4193
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 军事

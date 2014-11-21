@@ -7,6 +7,7 @@ slug: '%e6%9c%b4%e5%ae%9e%e7%9a%84%e6%b2%b3%e5%8d%97%e5%86%9c%e6%b0%91%e5%92%8c%
 title: 朴实的河南农民和中产阶级的FT
 wordpress_id: 806
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

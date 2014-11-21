@@ -8,6 +8,7 @@ slug: '%e8%8b%b9%e6%9e%9c%e9%bb%91%e8%89%b2%e6%98%9f%e6%9c%9f%e4%ba%94%e5%a4%a7%
 title: 苹果黑色星期五大甩卖，买了一根充电线
 wordpress_id: 6403
 categories:
+- notes
 - 不好归类
 ---
 

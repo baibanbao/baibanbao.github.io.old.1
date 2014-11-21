@@ -7,6 +7,7 @@ slug: go-out-to-play-soccer
 title: 踢球去
 wordpress_id: 949
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

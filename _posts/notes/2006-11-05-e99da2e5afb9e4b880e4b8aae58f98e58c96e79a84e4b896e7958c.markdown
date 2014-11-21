@@ -7,6 +7,7 @@ slug: '%e9%9d%a2%e5%af%b9%e4%b8%80%e4%b8%aa%e5%8f%98%e5%8c%96%e7%9a%84%e4%b8%96%
 title: 面对一个变化的世界
 wordpress_id: 659
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

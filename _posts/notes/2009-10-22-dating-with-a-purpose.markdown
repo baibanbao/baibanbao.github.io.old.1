@@ -7,6 +7,7 @@ slug: dating-with-a-purpose
 title: 相亲记
 wordpress_id: 2658
 categories:
+- notes
 - 非虚构叙事
 ---
 

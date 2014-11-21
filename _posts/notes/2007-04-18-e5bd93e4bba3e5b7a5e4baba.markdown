@@ -7,6 +7,7 @@ slug: '%e5%bd%93%e4%bb%a3%e5%b7%a5%e4%ba%ba'
 title: 当代工人
 wordpress_id: 893
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

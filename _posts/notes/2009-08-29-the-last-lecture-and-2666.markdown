@@ -7,6 +7,7 @@ slug: the-last-lecture-and-2666
 title: 第一乐章：最后的励志书和最后的毁志书
 wordpress_id: 2538
 categories:
+- notes
 - 不好归类
 tags:
 - 书评

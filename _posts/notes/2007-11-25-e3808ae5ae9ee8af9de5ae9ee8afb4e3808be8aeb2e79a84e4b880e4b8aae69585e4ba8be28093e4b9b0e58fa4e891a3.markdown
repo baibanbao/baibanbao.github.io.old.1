@@ -7,6 +7,7 @@ slug: '%e3%80%8a%e5%ae%9e%e8%af%9d%e5%ae%9e%e8%af%b4%e3%80%8b%e8%ae%b2%e7%9a%84%
 title: 《实话实说》讲的一个故事–买古董
 wordpress_id: 1250
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

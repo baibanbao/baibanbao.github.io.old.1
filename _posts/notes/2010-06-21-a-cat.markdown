@@ -7,6 +7,7 @@ slug: a-cat
 title: 家有小猫
 wordpress_id: 3310
 categories:
+- notes
 - 生活不是条件反射
 ---
 

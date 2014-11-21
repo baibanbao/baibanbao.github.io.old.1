@@ -7,6 +7,7 @@ slug: test-from-my-iphone
 title: Test from my iPhone
 wordpress_id: 6382
 categories:
+- notes
 - 不好归类
 ---
 

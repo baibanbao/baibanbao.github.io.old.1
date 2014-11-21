@@ -7,6 +7,7 @@ slug: 6-criteria-of-a-big-thing
 title: 商业模式与一件大事
 wordpress_id: 5994
 categories:
+- notes
 - 非虚构叙事
 tags:
 - project

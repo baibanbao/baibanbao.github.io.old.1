@@ -7,6 +7,7 @@ slug: '%e5%b9%bf%e7%94%b5%e6%80%bb%e5%b1%80%e4%bf%a1%e4%ba%a7%e9%83%a8%e7%9a%84%
 title: 广电总局信产部的形象宣传广告
 wordpress_id: 569
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

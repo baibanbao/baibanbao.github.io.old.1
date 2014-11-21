@@ -7,6 +7,7 @@ slug: '%e6%88%91%e6%9c%89%e4%b8%80%e4%b8%aa%e6%95%85%e4%ba%8b'
 title: 我有一个故事
 wordpress_id: 639
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

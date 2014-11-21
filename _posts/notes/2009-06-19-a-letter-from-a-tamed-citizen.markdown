@@ -7,6 +7,7 @@ slug: a-letter-from-a-tamed-citizen
 title: 良民的来信
 wordpress_id: 2155
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 市民

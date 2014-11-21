@@ -7,6 +7,7 @@ slug: you-journalists
 title: 你们记者哟
 wordpress_id: 2059
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 新闻

@@ -8,6 +8,7 @@ slug: '%e3%80%8a%e4%b8%83%e6%ad%a6%e5%a3%ab%e3%80%8b%e4%b8%ad%e7%9a%84%e6%99%af%
 title: 《七武士》中的景物描写
 wordpress_id: 6334
 categories:
+- notes
 - 不好归类
 tags:
 - 七武士

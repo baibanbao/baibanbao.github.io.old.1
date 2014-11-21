@@ -7,6 +7,7 @@ slug: '%e6%88%91%e7%9a%84%e8%b5%84%e6%9c%ac%e4%b8%bb%e4%b9%89%e5%88%9d%e5%a4%9c'
 title: '我的资本主义初夜 '
 wordpress_id: 627
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

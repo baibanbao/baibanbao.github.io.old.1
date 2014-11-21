@@ -7,6 +7,7 @@ slug: '%e5%85%89%e6%a3%8d%e8%8a%82%ef%bc%8c%e5%8f%91%e9%92%b1%e5%95%a6%ef%bc%81'
 title: 光棍节发钱了
 wordpress_id: 667
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

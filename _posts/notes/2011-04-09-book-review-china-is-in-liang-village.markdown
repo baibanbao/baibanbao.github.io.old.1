@@ -7,6 +7,7 @@ slug: book-review-china-is-in-liang-village
 title: 《中国在梁庄》：质胜于文的乡村特写
 wordpress_id: 4207
 categories:
+- notes
 - 读书笔记
 - 非虚构叙事
 ---

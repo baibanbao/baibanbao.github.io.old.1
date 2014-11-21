@@ -7,6 +7,7 @@ slug: '%e8%8a%82%e6%97%a5%e7%9f%ad%e4%bf%a1%e7%83%a6%e4%b8%8d%e7%83%a6'
 title: 节日短信烦不烦
 wordpress_id: 3866
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 短信

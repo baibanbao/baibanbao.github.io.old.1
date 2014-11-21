@@ -8,6 +8,7 @@ slug: '%e8%b7%9f%e5%ba%97%e5%ae%b6%e7%9a%84%e5%af%b9%e8%af%9d'
 title: 跟店家的对话
 wordpress_id: 6606
 categories:
+- notes
 - 不好归类
 post_format:
 - Chat

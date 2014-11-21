@@ -7,6 +7,7 @@ slug: forgive-me-for-my-pride
 title: 原谅我好心当成驴肝肺
 wordpress_id: 2226
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 住房

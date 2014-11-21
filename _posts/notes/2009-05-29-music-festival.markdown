@@ -7,6 +7,7 @@ slug: music-festival
 title: 音乐节
 wordpress_id: 2111
 categories:
+- notes
 - 不好归类
 tags:
 - 音乐

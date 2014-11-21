@@ -7,6 +7,7 @@ slug: '%e7%a5%9d%e6%89%8d%e5%a5%b3%e8%ae%a2%e5%a9%9a'
 title: 祝才女订婚
 wordpress_id: 1392
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

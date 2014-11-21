@@ -7,6 +7,7 @@ slug: i-can-hear-the-mournful-wind-blowing-in-my-hometown
 title: 我听见呜咽的风刮过故乡的房梁
 wordpress_id: 5257
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 悲惨世界

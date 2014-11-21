@@ -7,6 +7,7 @@ slug: '%e6%88%91%e5%9c%a8%e7%94%a8%e7%9a%84firefox%e6%89%a9%e5%b1%95'
 title: 我在用的Firefox扩展
 wordpress_id: 915
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

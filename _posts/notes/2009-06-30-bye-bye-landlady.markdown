@@ -7,6 +7,7 @@ slug: bye-bye-landlady
 title: 再见，女房东
 wordpress_id: 2178
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 杭州房价

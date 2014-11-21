@@ -7,6 +7,7 @@ slug: silent-night
 title: 这里的夜晚静悄悄
 wordpress_id: 2084
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

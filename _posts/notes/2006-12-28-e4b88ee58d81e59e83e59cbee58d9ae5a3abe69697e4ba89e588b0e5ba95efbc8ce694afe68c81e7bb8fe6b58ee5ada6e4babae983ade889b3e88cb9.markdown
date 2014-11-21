@@ -7,6 +7,7 @@ slug: '%e4%b8%8e%e5%8d%81%e5%9e%83%e5%9c%be%e5%8d%9a%e5%a3%ab%e6%96%97%e4%ba%89%
 title: 与十垃圾博士斗争到底，支持经济学人郭艳茹
 wordpress_id: 755
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: reading-and-thinking
 title: 读书与思考
 wordpress_id: 2620
 categories:
+- notes
 - 读书笔记
 - 鱼眼碎片
 tags:

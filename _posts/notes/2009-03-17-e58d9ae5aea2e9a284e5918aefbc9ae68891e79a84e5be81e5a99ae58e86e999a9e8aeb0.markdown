@@ -7,6 +7,7 @@ slug: '%e5%8d%9a%e5%ae%a2%e9%a2%84%e5%91%8a%ef%bc%9a%e6%88%91%e7%9a%84%e5%be%81%
 title: 博客预告：我的征婚历险记
 wordpress_id: 1978
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

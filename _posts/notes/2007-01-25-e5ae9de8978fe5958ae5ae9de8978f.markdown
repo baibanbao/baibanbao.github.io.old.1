@@ -7,6 +7,7 @@ slug: '%e5%ae%9d%e8%97%8f%e5%95%8a%e5%ae%9d%e8%97%8f'
 title: 宝藏啊宝藏
 wordpress_id: 780
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

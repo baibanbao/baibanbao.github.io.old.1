@@ -7,6 +7,7 @@ slug: all-my-movie
 title: 用软件管理你的DVD
 wordpress_id: 2612
 categories:
+- notes
 - 不好归类
 tags:
 - 电影

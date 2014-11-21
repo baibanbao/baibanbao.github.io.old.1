@@ -7,6 +7,7 @@ slug: '%e4%b8%8a%e4%b8%bb%e6%b5%81%e6%9d%82%e5%bf%97%e4%ba%86'
 title: 上主流杂志了
 wordpress_id: 809
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: a-invisible-man-in-cafe
 title: 隐形人在咖啡馆
 wordpress_id: 6219
 categories:
+- notes
 - 写作练习
 - 非虚构叙事
 tags:

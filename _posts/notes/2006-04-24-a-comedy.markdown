@@ -7,6 +7,7 @@ slug: a-comedy
 title: 巴尼奥尔的喜剧《托帕兹》
 wordpress_id: 527
 categories:
+- notes
 - 文艺批评
 tags:
 - 评论

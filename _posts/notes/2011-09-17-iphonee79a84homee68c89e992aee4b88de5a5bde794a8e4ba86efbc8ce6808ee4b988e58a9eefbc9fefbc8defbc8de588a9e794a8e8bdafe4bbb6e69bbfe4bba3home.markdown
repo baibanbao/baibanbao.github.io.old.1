@@ -7,6 +7,7 @@ slug: iphone%e7%9a%84home%e6%8c%89%e9%92%ae%e4%b8%8d%e5%a5%bd%e7%94%a8%e4%ba%86%
 title: iPhone的Home按钮不好用了，怎么办？－－利用软件替代Home键
 wordpress_id: 6567
 categories:
+- notes
 - 不好归类
 tags:
 - iphone

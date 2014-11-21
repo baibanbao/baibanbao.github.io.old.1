@@ -7,6 +7,7 @@ slug: long-days-journey-into-night
 title: 进入黑夜的漫长旅程
 wordpress_id: 2125
 categories:
+- notes
 - 爱看电影
 tags:
 - 走走拍拍

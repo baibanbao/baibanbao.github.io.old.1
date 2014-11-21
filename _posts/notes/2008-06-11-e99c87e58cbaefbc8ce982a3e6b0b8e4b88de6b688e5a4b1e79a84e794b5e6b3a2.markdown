@@ -7,6 +7,7 @@ slug: '%e9%9c%87%e5%8c%ba%ef%bc%8c%e9%82%a3%e6%b0%b8%e4%b8%8d%e6%b6%88%e5%a4%b1%
 title: 震区，那永不消失的电波
 wordpress_id: 1594
 categories:
+- notes
 - 写作练习
 tags:
 - 地震

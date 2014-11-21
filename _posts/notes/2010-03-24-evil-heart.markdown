@@ -7,6 +7,7 @@ slug: evil-heart
 title: 人毒心凶
 wordpress_id: 3195
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 杭州

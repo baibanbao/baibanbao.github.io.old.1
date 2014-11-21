@@ -7,6 +7,7 @@ slug: '%e6%8a%8a%e3%80%8a%e5%87%ba%e5%b8%88%e8%a1%a8%e3%80%8b%e7%bf%bb%e6%88%90%
 title: 把《出师表》翻成日语再翻回来，人类已经不能阻止它卖萌了！ | 我们爱讲冷笑话
 wordpress_id: 6514
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

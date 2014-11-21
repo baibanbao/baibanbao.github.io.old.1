@@ -7,6 +7,7 @@ slug: money-is-not-a-bad-thing
 title: 钱并不是坏东西
 wordpress_id: 6269
 categories:
+- notes
 - 每日千字文
 - 生活不是条件反射
 tags:

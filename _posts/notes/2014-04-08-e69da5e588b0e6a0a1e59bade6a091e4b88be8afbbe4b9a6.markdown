@@ -7,6 +7,7 @@ slug: '%e6%9d%a5%e5%88%b0%e6%a0%a1%e5%9b%ad%e6%a0%91%e4%b8%8b%e8%af%bb%e4%b9%a6'
 title: 来到校园树下读书
 wordpress_id: 6308
 categories:
+- notes
 - 不好归类
 tags:
 - 读书

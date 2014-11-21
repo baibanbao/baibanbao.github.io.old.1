@@ -7,6 +7,7 @@ slug: '%e4%ba%92%e8%81%94%e7%bd%91%e6%af%94%e4%bd%a0%e6%88%91%e6%83%b3%e8%b1%a1%
 title: 互联网比你我想象得更脆弱
 wordpress_id: 749
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

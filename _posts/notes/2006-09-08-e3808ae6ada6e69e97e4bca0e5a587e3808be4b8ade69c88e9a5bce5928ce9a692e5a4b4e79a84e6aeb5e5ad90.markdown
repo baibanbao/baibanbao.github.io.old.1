@@ -7,6 +7,7 @@ slug: '%e3%80%8a%e6%ad%a6%e6%9e%97%e4%bc%a0%e5%a5%87%e3%80%8b%e4%b8%ad%e6%9c%88%
 title: 《武林外传》中月饼和馒头的段子
 wordpress_id: 601
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

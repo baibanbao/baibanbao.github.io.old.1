@@ -7,6 +7,7 @@ slug: '%e8%8b%a5%e4%b8%8d%e6%98%af%e6%b7%b1%e6%9b%b4%e5%8d%8a%e5%a4%9c'
 title: 若不是深更半夜
 wordpress_id: 650
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

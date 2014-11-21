@@ -7,6 +7,7 @@ slug: missing-cucumber
 title: 想念黄瓜
 wordpress_id: 446
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

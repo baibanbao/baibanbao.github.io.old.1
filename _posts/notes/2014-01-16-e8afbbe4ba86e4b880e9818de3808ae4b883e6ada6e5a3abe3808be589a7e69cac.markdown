@@ -8,6 +8,7 @@ slug: '%e8%af%bb%e4%ba%86%e4%b8%80%e9%81%8d%e3%80%8a%e4%b8%83%e6%ad%a6%e5%a3%ab%
 title: 读了一遍《七武士》剧本
 wordpress_id: 6329
 categories:
+- notes
 - 不好归类
 ---
 

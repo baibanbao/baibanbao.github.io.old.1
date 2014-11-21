@@ -7,6 +7,7 @@ slug: ipad-has-not-turned-us-to-idiots-reviewing-the-wasted-land-ipad-version
 title: 电子并没把我们变成白痴--《荒原》就是证明
 wordpress_id: 4344
 categories:
+- notes
 - 学点技术
 - 读书笔记
 ---

@@ -7,6 +7,7 @@ slug: good-landlord
 title: 好房东
 wordpress_id: 3485
 categories:
+- notes
 - 生活不是条件反射
 ---
 

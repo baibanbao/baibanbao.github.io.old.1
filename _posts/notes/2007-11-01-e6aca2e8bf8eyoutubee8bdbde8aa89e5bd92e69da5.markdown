@@ -7,6 +7,7 @@ slug: '%e6%ac%a2%e8%bf%8eyoutube%e8%bd%bd%e8%aa%89%e5%bd%92%e6%9d%a5'
 title: 欢迎YouTube载誉归来
 wordpress_id: 1233
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

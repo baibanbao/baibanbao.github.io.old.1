@@ -7,6 +7,7 @@ slug: micro-history-hunger-in-the-times-of-less-infomation
 title: 一周微史记（2011-9-6）这是信息匮乏时代遗留的“饿”
 wordpress_id: 4746
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 一周微史记

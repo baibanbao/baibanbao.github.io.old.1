@@ -7,6 +7,7 @@ slug: three-cities
 title: 三座城池
 wordpress_id: 2211
 categories:
+- notes
 - 爱看电影
 tags:
 - 摄影

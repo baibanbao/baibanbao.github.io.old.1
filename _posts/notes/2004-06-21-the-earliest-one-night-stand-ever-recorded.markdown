@@ -7,6 +7,7 @@ slug: the-earliest-one-night-stand-ever-recorded
 title: 最早的一夜情
 wordpress_id: 535
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

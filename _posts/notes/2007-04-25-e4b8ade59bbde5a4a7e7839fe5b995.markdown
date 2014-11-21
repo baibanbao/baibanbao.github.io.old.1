@@ -7,6 +7,7 @@ slug: '%e4%b8%ad%e5%9b%bd%e5%a4%a7%e7%83%9f%e5%b9%95'
 title: 誰放的大煙幕？
 wordpress_id: 912
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

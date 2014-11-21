@@ -7,6 +7,7 @@ slug: last-christmas
 title: Last Christmas
 wordpress_id: 1825
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

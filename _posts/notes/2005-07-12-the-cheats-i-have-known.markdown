@@ -7,6 +7,7 @@ slug: the-cheats-i-have-known
 title: 我所知道的骗子
 wordpress_id: 549
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

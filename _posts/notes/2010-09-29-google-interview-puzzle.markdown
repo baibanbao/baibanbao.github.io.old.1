@@ -7,6 +7,7 @@ slug: google-interview-puzzle
 title: 谷歌买房面试题
 wordpress_id: 3503
 categories:
+- notes
 - 学点技术
 ---
 

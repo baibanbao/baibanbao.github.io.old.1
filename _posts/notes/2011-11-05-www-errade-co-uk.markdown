@@ -7,6 +7,7 @@ slug: www-errade-co-uk
 title: Www.errade.co.uk
 wordpress_id: 6450
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

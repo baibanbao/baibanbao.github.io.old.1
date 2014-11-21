@@ -7,6 +7,7 @@ slug: chinas-bullet-trains-trip-on-technology-wsj-com
 title: China's Bullet Trains Trip on Technology - WSJ.com
 wordpress_id: 6510
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

@@ -7,6 +7,7 @@ slug: color-of-night
 title: RD-1的夜色
 wordpress_id: 2050
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

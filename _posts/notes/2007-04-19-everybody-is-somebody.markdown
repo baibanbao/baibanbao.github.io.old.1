@@ -7,6 +7,7 @@ slug: everybody-is-somebody
 title: Everybody is somebody
 wordpress_id: 891
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

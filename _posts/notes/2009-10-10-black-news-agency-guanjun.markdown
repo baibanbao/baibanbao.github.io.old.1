@@ -7,6 +7,7 @@ slug: black-news-agency-guanjun
 title: 西风欲来满眼秋--关军携新作《大脚印》来杭签售侧记
 wordpress_id: 2634
 categories:
+- notes
 - 写作练习
 tags:
 - 黑通社

@@ -7,6 +7,7 @@ slug: '%e9%a3%8e%e5%8d%8e%e5%a6%82%e6%99%a4'
 title: 风华如晤
 wordpress_id: 6501
 categories:
+- notes
 - 不好归类
 tags:
 - friend

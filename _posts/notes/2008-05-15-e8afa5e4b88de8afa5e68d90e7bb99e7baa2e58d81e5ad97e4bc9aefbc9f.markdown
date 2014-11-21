@@ -7,6 +7,7 @@ slug: '%e8%af%a5%e4%b8%8d%e8%af%a5%e6%8d%90%e7%bb%99%e7%ba%a2%e5%8d%81%e5%ad%97%
 title: 该不该捐给红十字会？
 wordpress_id: 1539
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

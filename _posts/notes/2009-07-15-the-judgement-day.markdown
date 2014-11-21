@@ -7,6 +7,7 @@ slug: the-judgement-day
 title: 审判日
 wordpress_id: 2200
 categories:
+- notes
 - 不好归类
 tags:
 - 70码

@@ -7,6 +7,7 @@ slug: survival-driver-s-handbook
 title: 怀斯曼《生存手册之顶级驾驶》读书笔记100条
 wordpress_id: 5556
 categories:
+- notes
 - 读书笔记
 tags:
 - 安全

@@ -7,6 +7,7 @@ slug: '%e5%ae%89%e5%8f%b2%e4%b9%8b%e4%b9%b1%e7%9a%84%e6%a0%b9%e6%9c%ac%e5%8e%9f%
 title: 安史之乱的根本原因是唐玄宗对安禄山不宽容
 wordpress_id: 1406
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

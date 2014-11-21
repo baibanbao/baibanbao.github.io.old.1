@@ -7,6 +7,7 @@ slug: once-upon-in-shijiazhuang
 title: 石家庄往事
 wordpress_id: 2142
 categories:
+- notes
 - 非虚构叙事
 - 鱼眼碎片
 tags:

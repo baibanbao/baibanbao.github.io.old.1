@@ -7,6 +7,7 @@ slug: the-times%e6%98%a8%e6%97%a5%e5%a4%b4%e7%89%88
 title: The Times昨日头版
 wordpress_id: 904
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

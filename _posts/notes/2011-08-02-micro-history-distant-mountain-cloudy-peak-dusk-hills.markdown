@@ -7,6 +7,7 @@ slug: micro-history-distant-mountain-cloudy-peak-dusk-hills
 title: 一周微史记（2011-8-2）：远山长，云山乱，晓山青
 wordpress_id: 4431
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 一周微史记

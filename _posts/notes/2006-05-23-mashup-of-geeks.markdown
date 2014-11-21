@@ -7,6 +7,7 @@ slug: mashup-of-geeks
 title: “西湖浆糊营”的匆忙记叙
 wordpress_id: 394
 categories:
+- notes
 - 学点技术
 tags:
 - 不好归类

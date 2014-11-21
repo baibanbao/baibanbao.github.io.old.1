@@ -7,6 +7,7 @@ slug: '%e7%9f%b3%e5%a1%98%e6%a2%a6%e5%af%bb%e4%b9%8b%e4%b8%80%ef%bc%9a%e5%af%bb%
 title: 石塘之一：寻访石头镇
 wordpress_id: 1566
 categories:
+- notes
 - 写作练习
 tags:
 - 游记

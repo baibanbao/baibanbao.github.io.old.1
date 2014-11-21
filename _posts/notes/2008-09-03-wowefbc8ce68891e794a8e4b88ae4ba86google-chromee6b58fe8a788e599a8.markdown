@@ -7,6 +7,7 @@ slug: wow%ef%bc%8c%e6%88%91%e7%94%a8%e4%b8%8a%e4%ba%86google-chrome%e6%b5%8f%e8%
 title: WOW，我用上了Google Chrome浏览器
 wordpress_id: 1691
 categories:
+- notes
 - 学点技术
 tags:
 - 技术

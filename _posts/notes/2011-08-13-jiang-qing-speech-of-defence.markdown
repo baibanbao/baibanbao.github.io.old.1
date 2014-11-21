@@ -7,6 +7,7 @@ slug: jiang-qing-speech-of-defence
 title: 江青《我的一点看法》
 wordpress_id: 4450
 categories:
+- notes
 - 读书笔记
 tags:
 - 历史

@@ -7,6 +7,7 @@ slug: a-true-joke
 title: 一个真笑话
 wordpress_id: 533
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 不好归类

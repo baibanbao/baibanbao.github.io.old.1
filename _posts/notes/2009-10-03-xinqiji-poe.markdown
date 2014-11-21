@@ -7,6 +7,7 @@ slug: xinqiji-poe
 title: 辛弃疾词一首送给自己
 wordpress_id: 2624
 categories:
+- notes
 - 不好归类
 ---
 

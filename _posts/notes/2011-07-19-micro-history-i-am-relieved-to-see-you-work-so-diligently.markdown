@@ -7,6 +7,7 @@ slug: micro-history-i-am-relieved-to-see-you-work-so-diligently
 title: 一周微史记（2011-7-18）看你那么认真复习，我考试也就放心了
 wordpress_id: 4410
 categories:
+- notes
 - 非虚构叙事
 ---
 

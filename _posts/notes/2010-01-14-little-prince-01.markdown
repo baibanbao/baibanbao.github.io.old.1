@@ -7,6 +7,7 @@ slug: little-prince-01
 title: 海盗电台的又一颗重磅炸弹：欣燃开播全本《小王子》之1-2
 wordpress_id: 3051
 categories:
+- notes
 - 海盗电台
 tags:
 - 小王子

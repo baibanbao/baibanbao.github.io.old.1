@@ -7,6 +7,7 @@ slug: an-damaged-bulb
 title: 一只坏灯泡
 wordpress_id: 2038
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 不好归类

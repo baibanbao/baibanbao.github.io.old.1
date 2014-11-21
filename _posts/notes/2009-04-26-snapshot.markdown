@@ -7,6 +7,7 @@ slug: snapshot
 title: 随手拍的
 wordpress_id: 2044
 categories:
+- notes
 - 爱看电影
 tags:
 - 摄影

@@ -7,6 +7,7 @@ slug: '%e7%bb%99kindle-dxg%e5%ae%89%e8%a3%85%e6%8b%bc%e9%9f%b3%e8%be%93%e5%85%a5
 title: 给Kindle DxG安装拼音输入法
 wordpress_id: 6470
 categories:
+- notes
 - 不好归类
 tags:
 - kindle

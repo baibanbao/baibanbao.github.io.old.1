@@ -7,6 +7,7 @@ slug: about-soccer-comments
 title: 写给懂英文写球评混稿费的人
 wordpress_id: 439
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

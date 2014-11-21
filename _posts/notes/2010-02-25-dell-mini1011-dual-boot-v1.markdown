@@ -7,6 +7,7 @@ slug: dell-mini1011-dual-boot-v1
 title: DELL Mini1011上网本安装Win7和雪豹双系统完全攻略 V1.1
 wordpress_id: 3175
 categories:
+- notes
 - 学点技术
 tags:
 - 折腾

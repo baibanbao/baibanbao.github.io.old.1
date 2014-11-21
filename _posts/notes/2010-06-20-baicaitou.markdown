@@ -7,6 +7,7 @@ slug: baicaitou
 title: 小猫白菜头
 wordpress_id: 3306
 categories:
+- notes
 - 生活不是条件反射
 ---
 

@@ -7,6 +7,7 @@ slug: '%e5%bc%80%e6%98%a5%e7%ac%ac%e4%b8%80%e8%b8%8f'
 title: 开春第一踏
 wordpress_id: 1383
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

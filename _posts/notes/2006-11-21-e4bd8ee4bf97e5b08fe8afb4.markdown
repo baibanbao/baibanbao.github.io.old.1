@@ -7,6 +7,7 @@ slug: '%e4%bd%8e%e4%bf%97%e5%b0%8f%e8%af%b4'
 title: 低俗小说
 wordpress_id: 693
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

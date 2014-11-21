@@ -7,6 +7,7 @@ slug: what-did-the-three-candidates-talk-about-on-the-presidential-election-daba
 title: 一分钟搞清楚台湾总统大选三个候选人在讲什么
 wordpress_id: 5037
 categories:
+- notes
 - 爱看电影
 ---
 

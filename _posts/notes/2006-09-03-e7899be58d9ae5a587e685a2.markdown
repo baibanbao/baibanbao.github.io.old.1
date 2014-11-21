@@ -7,6 +7,7 @@ slug: '%e7%89%9b%e5%8d%9a%e5%a5%87%e6%85%a2'
 title: 牛博网非官方通告
 wordpress_id: 595
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

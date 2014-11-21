@@ -7,6 +7,7 @@ slug: '%e5%86%99%e5%ad%97%e7%bb%83%e4%b9%a0%ef%bc%9a%e5%af%bb%e4%ba%ba%e5%90%af%
 title: 寻人启事
 wordpress_id: 1940
 categories:
+- notes
 - 写作练习
 tags:
 - 写字练习

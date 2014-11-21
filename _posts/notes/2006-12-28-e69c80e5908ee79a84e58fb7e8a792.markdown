@@ -7,6 +7,7 @@ slug: '%e6%9c%80%e5%90%8e%e7%9a%84%e5%8f%b7%e8%a7%92'
 title: 最后的号角
 wordpress_id: 756
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

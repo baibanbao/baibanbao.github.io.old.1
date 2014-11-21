@@ -7,6 +7,7 @@ slug: '%e6%88%91%e7%94%9f%e6%b4%bb%e5%9c%a8%e5%88%ab%e5%a4%84'
 title: 我生活在别处
 wordpress_id: 2571
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 随感

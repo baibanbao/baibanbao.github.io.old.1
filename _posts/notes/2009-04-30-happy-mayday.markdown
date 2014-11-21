@@ -7,6 +7,7 @@ slug: happy-mayday
 title: 借这位老大爷的粉笔
 wordpress_id: 2065
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

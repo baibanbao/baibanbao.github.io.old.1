@@ -7,6 +7,7 @@ slug: '%e6%96%ad%e6%a1%a5%e7%9a%84%e5%8f%88%e4%b8%80%e6%9c%b5%e8%8e%b2%e8%8a%b1'
 title: 断桥的又一朵莲花
 wordpress_id: 1632
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

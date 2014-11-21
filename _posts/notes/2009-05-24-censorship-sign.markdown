@@ -7,6 +7,7 @@ slug: censorship-sign
 title: 监控像花儿开放
 wordpress_id: 2105
 categories:
+- notes
 - 爱看电影
 tags:
 - 摄影

@@ -7,6 +7,7 @@ slug: '%e4%b8%80%e4%b8%aa%e5%88%9b%e6%84%8f%e7%9a%84%e7%81%ad%e4%ba%a1'
 title: 一个创意的灭亡
 wordpress_id: 1662
 categories:
+- notes
 - 写作练习
 ---
 

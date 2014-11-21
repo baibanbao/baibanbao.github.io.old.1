@@ -7,6 +7,7 @@ slug: factbox-amazons-fire-versus-apples-ipad-2-reuters
 title: 'Factbox: Amazon''s Fire versus Apple''s iPad 2 | Reuters'
 wordpress_id: 6499
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

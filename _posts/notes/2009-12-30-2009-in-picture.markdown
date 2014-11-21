@@ -7,6 +7,7 @@ slug: 2009-in-picture
 title: 2009 眼中所见
 wordpress_id: 2977
 categories:
+- notes
 - 不好归类
 tags:
 - 回顾

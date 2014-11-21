@@ -7,6 +7,7 @@ slug: ano-i-never-love-u-more
 title: 海盗电台原创：阿の弹唱《I never loved you more》
 wordpress_id: 3115
 categories:
+- notes
 - 不好归类
 tags:
 - 海盗电台

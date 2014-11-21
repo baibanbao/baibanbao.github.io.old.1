@@ -7,6 +7,7 @@ slug: '%e6%9d%ad%e5%b7%9e%e8%87%aa%e7%94%b1%e6%92%b0%e7%a8%bf%e4%ba%ba%e7%bd%91%
 title: 杭州自由撰稿人网上卖枣一个月卖了8000多斤·每日商报
 wordpress_id: 6444
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

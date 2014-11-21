@@ -7,6 +7,7 @@ slug: south-park
 title: 假日放送《南方公园》第13季第2集《贞洁戒指》
 wordpress_id: 2009
 categories:
+- notes
 - 爱看电影
 tags:
 - 南方公园

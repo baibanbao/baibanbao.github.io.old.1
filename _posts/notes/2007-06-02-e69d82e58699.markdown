@@ -7,6 +7,7 @@ slug: '%e6%9d%82%e5%86%99'
 title: 杂写
 wordpress_id: 1015
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

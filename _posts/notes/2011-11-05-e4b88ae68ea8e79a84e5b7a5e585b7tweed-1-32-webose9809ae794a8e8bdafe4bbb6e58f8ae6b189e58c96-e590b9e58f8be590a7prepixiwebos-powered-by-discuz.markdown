@@ -7,6 +7,7 @@ slug: '%e4%b8%8a%e6%8e%a8%e7%9a%84%e5%b7%a5%e5%85%b7tweed-1-32-webos%e9%80%9a%e7
 title: 上推的工具Tweed 1.32 - webOS通用软件及汉化 - 吹友吧(Pre,Pixi,webOS) - Powered by Discuz!
 wordpress_id: 6451
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

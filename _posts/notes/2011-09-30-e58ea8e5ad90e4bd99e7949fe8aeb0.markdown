@@ -7,6 +7,7 @@ slug: '%e5%8e%a8%e5%ad%90%e4%bd%99%e7%94%9f%e8%ae%b0'
 title: 厨子余生记
 wordpress_id: 6504
 categories:
+- notes
 - 不好归类
 tags:
 - buy

@@ -7,6 +7,7 @@ slug: great-leap-of-my-career
 title: 职业生涯大跃进：我成了合伙人
 wordpress_id: 396
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

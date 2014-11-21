@@ -7,6 +7,7 @@ slug: '%e9%bb%91%e6%b3%bd%e6%98%8e%e4%b8%8e%e9%a9%ac%e5%b0%94%e5%85%8b%e6%96%af%
 title: 黑泽明与马尔克斯谈编剧
 wordpress_id: 6359
 categories:
+- notes
 - 不好归类
 ---
 

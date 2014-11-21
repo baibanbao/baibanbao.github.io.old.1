@@ -7,6 +7,7 @@ slug: '%e7%99%bd'
 title: 白
 wordpress_id: 6357
 categories:
+- notes
 - 不好归类
 ---
 

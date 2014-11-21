@@ -7,6 +7,7 @@ slug: '%e8%ae%ba%e6%96%87%e9%87%87%e8%ae%bf%e7%9a%84%e4%bc%a6%e7%90%86%e5%a3%b0%
 title: 论文采访的伦理声明
 wordpress_id: 1050
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

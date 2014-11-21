@@ -7,6 +7,7 @@ slug: nowhere-to-reside
 title: 天地之大 无处委身
 wordpress_id: 2048
 categories:
+- notes
 - 爱看电影
 tags:
 - 一声浩叹

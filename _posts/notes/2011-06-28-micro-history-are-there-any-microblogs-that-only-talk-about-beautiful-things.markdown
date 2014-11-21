@@ -7,6 +7,7 @@ slug: micro-history-are-there-any-microblogs-that-only-talk-about-beautiful-thin
 title: 一周微史记（2011-6-28）有没有微博只谈论美好的东西
 wordpress_id: 4364
 categories:
+- notes
 - 非虚构叙事
 ---
 

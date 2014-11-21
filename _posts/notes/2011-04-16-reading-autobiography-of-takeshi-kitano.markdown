@@ -7,6 +7,7 @@ slug: reading-autobiography-of-takeshi-kitano
 title: 北野武《恶口的技术》
 wordpress_id: 4220
 categories:
+- notes
 - 读书笔记
 ---
 

@@ -7,6 +7,7 @@ slug: visiting-my-relatives
 title: 走亲戚
 wordpress_id: 6261
 categories:
+- notes
 - 写作练习
 - 每日千字文
 - 生活不是条件反射

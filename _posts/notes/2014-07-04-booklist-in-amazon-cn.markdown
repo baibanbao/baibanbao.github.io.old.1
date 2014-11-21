@@ -7,6 +7,7 @@ slug: booklist-in-amazon-cn
 title: 亚马逊下了一个大单
 wordpress_id: 6651
 categories:
+- notes
 - 读书笔记
 tags:
 - 书单

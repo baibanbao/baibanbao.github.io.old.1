@@ -7,6 +7,7 @@ slug: think-big-and-do-big
 title: 干一票大的
 wordpress_id: 6185
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 戏剧

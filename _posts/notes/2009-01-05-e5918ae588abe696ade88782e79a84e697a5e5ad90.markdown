@@ -7,6 +7,7 @@ slug: '%e5%91%8a%e5%88%ab%e6%96%ad%e8%87%82%e7%9a%84%e6%97%a5%e5%ad%90'
 title: 告别断臂的日子
 wordpress_id: 1847
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: '%e5%be%b7%e5%9b%bd%e9%98%bf%e5%85%8b%e5%8f%9128mm%e5%b9%bf%e8%a7%92%e8%a2
 title: 德国阿克发28MM广角袖珍胶片相机------------160元包邮。 - 交易大厅 - 中华相机网 相机,摄影,器材,交易
 wordpress_id: 6523
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

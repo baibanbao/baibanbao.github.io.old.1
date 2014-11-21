@@ -7,6 +7,7 @@ slug: tweets-6
 title: 草草絮语20100403
 wordpress_id: 3216
 categories:
+- notes
 - 不好归类
 tags:
 - 草草絮语

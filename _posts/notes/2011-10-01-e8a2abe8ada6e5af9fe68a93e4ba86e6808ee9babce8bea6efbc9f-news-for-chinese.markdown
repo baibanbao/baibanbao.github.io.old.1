@@ -7,6 +7,7 @@ slug: '%e8%a2%ab%e8%ad%a6%e5%af%9f%e6%8a%93%e4%ba%86%e6%80%8e%e9%ba%bc%e8%be%a6%
 title: 被警察抓了怎麼辦？ | News for Chinese
 wordpress_id: 6506
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

@@ -7,6 +7,7 @@ slug: world-cup-on-zaobao
 title: 《联合早报》世界杯专题靠谱
 wordpress_id: 421
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

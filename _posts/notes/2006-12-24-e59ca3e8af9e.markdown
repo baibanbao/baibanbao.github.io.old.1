@@ -7,6 +7,7 @@ slug: '%e5%9c%a3%e8%af%9e'
 title: 圣诞
 wordpress_id: 743
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: superfreakonomics
 title: 鬼吹灯经济学
 wordpress_id: 2718
 categories:
+- notes
 - 不好归类
 ---
 

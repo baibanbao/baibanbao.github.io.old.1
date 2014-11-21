@@ -7,6 +7,7 @@ slug: learning-a-new-word-vindictive
 title: 词语学习：vindictive
 wordpress_id: 4188
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 学习

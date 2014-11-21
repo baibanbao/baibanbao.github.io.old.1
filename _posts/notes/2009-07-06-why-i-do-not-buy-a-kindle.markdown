@@ -7,6 +7,7 @@ slug: why-i-do-not-buy-a-kindle
 title: 风华：说说我不会购买Kindle的Ｎ个理由
 wordpress_id: 2189
 categories:
+- notes
 - 学点技术
 tags:
 - kindle

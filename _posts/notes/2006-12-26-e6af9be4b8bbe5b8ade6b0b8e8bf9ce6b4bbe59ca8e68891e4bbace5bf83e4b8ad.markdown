@@ -7,6 +7,7 @@ slug: '%e6%af%9b%e4%b8%bb%e5%b8%ad%e6%b0%b8%e8%bf%9c%e6%b4%bb%e5%9c%a8%e6%88%91%
 title: 永远活在我们心中
 wordpress_id: 746
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

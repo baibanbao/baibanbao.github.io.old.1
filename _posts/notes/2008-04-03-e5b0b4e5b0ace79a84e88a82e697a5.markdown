@@ -7,6 +7,7 @@ slug: '%e5%b0%b4%e5%b0%ac%e7%9a%84%e8%8a%82%e6%97%a5'
 title: 尴尬的节日
 wordpress_id: 1440
 categories:
+- notes
 - 写作练习
 tags:
 - 清明

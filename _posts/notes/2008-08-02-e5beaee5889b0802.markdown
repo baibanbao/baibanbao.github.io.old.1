@@ -7,6 +7,7 @@ slug: '%e5%be%ae%e5%88%9b0802'
 title: 微创0802
 wordpress_id: 1659
 categories:
+- notes
 - 写作练习
 ---
 

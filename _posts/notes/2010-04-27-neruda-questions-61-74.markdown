@@ -7,6 +7,7 @@ slug: neruda-questions-61-74
 title: 海盗电台、123诗社四月巨献：聂鲁达《疑问集》（61-74）全诗终
 wordpress_id: 3250
 categories:
+- notes
 - 海盗电台
 tags:
 - 123诗社

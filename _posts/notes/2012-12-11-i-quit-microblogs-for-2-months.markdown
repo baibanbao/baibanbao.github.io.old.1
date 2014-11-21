@@ -7,6 +7,7 @@ slug: i-quit-microblogs-for-2-months
 title: 戒微博两个月的感受
 wordpress_id: 5777
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 微博

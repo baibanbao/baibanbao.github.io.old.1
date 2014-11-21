@@ -7,6 +7,7 @@ slug: let-tianjin-shine
 title: 数来宝歌曲：《让天津亮起来》
 wordpress_id: 560
 categories:
+- notes
 - 海盗电台
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: '%e7%bd%91%e4%b8%8a%e5%8d%96%e6%9e%a3%e6%9c%88%e5%94%ae8000%e6%96%a4-%e6%b
 title: 网上卖枣月售8000斤-淘宝公告栏 - 淘宝论坛 - 消费者门户 - 淘宝网
 wordpress_id: 6452
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

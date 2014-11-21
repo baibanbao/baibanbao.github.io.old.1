@@ -7,6 +7,7 @@ slug: '%e6%95%85%e4%b9%a1%e7%9a%84%e6%b2%b3'
 title: 故乡的河
 wordpress_id: 1701
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

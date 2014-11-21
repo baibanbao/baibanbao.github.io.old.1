@@ -7,6 +7,7 @@ slug: embrace-my-first-kindle
 title: 迎接我的第一台Kindle
 wordpress_id: 2186
 categories:
+- notes
 - 学点技术
 tags:
 - kindle

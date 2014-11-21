@@ -7,6 +7,7 @@ slug: berlin-wall-1
 title: 《柏林墙》书摘（1）
 wordpress_id: 2746
 categories:
+- notes
 - 不好归类
 tags:
 - 历史

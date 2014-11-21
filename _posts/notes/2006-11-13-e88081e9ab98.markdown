@@ -7,6 +7,7 @@ slug: '%e8%80%81%e9%ab%98'
 title: 喂，老高
 wordpress_id: 672
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

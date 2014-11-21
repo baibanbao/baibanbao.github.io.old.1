@@ -7,6 +7,7 @@ slug: quotation-of-muxin
 title: 木心的一句话
 wordpress_id: 5857
 categories:
+- notes
 - 读书笔记
 tags:
 - 书摘

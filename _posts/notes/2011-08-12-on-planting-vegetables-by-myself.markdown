@@ -7,6 +7,7 @@ slug: on-planting-vegetables-by-myself
 title: 关于自己种菜的设想
 wordpress_id: 4445
 categories:
+- notes
 - 生活不是条件反射
 ---
 

@@ -7,6 +7,7 @@ slug: criticizing-dating-arts
 title: 《约会必杀技》批判
 wordpress_id: 2018
 categories:
+- notes
 - 不好归类
 - 读书笔记
 tags:

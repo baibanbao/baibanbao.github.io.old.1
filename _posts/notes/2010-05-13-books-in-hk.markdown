@@ -7,6 +7,7 @@ slug: books-in-hk
 title: 在香港看书
 wordpress_id: 3277
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 香港

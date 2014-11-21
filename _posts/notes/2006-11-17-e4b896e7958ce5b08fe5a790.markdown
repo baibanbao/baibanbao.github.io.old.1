@@ -7,6 +7,7 @@ slug: '%e4%b8%96%e7%95%8c%e5%b0%8f%e5%a7%90'
 title: 世界小姐
 wordpress_id: 681
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

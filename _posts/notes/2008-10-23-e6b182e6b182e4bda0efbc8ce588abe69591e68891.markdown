@@ -7,6 +7,7 @@ slug: '%e6%b1%82%e6%b1%82%e4%bd%a0%ef%bc%8c%e5%88%ab%e6%95%91%e6%88%91'
 title: 求求你，别救我
 wordpress_id: 1728
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

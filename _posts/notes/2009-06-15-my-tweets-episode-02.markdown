@@ -7,6 +7,7 @@ slug: my-tweets-episode-02
 title: 俱草草09第2季
 wordpress_id: 2144
 categories:
+- notes
 - 非虚构叙事
 - 鱼眼碎片
 tags:

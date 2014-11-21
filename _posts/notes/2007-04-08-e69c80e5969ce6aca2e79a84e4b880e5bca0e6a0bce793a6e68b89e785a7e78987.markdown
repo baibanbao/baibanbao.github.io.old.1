@@ -7,6 +7,7 @@ slug: '%e6%9c%80%e5%96%9c%e6%ac%a2%e7%9a%84%e4%b8%80%e5%bc%a0%e6%a0%bc%e7%93%a6%
 title: 最喜欢的一张格瓦拉照片
 wordpress_id: 867
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: the-best-column-article-ever-written-nobody-understands-debt-by-paul-krugm
 title: The best column article ever written. Nobody Understands Debt by Paul Krugman.
 wordpress_id: 6482
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

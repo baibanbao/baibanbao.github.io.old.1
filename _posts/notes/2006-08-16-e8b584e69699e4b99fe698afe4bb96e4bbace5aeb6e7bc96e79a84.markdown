@@ -7,6 +7,7 @@ slug: '%e8%b5%84%e6%96%99%e4%b9%9f%e6%98%af%e4%bb%96%e4%bb%ac%e5%ae%b6%e7%bc%96%
 title: 资料也是他们家编的
 wordpress_id: 491
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: '%e9%ad%82%e9%a3%9e%e6%b1%a4%e7%81%ab%e5%91%bd%e5%a6%82%e9%b8%a1'
 title: 魂飞汤火命如鸡
 wordpress_id: 577
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

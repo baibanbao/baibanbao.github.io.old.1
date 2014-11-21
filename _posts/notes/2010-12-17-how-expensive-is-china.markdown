@@ -7,6 +7,7 @@ slug: how-expensive-is-china
 title: 中国有多贵？
 wordpress_id: 3758
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 杭州

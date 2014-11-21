@@ -7,6 +7,7 @@ slug: my-tweets-episode-03
 title: 俱草草09第3辑
 wordpress_id: 2183
 categories:
+- notes
 - 写作练习
 - 鱼眼碎片
 tags:

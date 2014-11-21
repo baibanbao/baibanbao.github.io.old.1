@@ -7,6 +7,7 @@ slug: those-fathers
 title: 那些父亲
 wordpress_id: 3454
 categories:
+- notes
 - 生活不是条件反射
 - 非虚构叙事
 ---

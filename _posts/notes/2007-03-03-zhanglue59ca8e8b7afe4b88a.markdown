@@ -7,6 +7,7 @@ slug: zhanglu%e5%9c%a8%e8%b7%af%e4%b8%8a
 title: zhanglu在路上
 wordpress_id: 828
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

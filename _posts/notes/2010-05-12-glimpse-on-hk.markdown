@@ -7,6 +7,7 @@ slug: glimpse-on-hk
 title: 香港的鳞爪
 wordpress_id: 3275
 categories:
+- notes
 - 生活不是条件反射
 ---
 

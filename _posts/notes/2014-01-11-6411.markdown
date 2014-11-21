@@ -8,6 +8,7 @@ slug: '6411'
 title: No Content Found
 wordpress_id: 6411
 categories:
+- notes
 - 不好归类
 post_format:
 - Image

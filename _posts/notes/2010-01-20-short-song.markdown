@@ -7,6 +7,7 @@ slug: short-song
 title: 海盗电台原创：阿の弹唱《短歌》
 wordpress_id: 3110
 categories:
+- notes
 - 不好归类
 tags:
 - 弹唱

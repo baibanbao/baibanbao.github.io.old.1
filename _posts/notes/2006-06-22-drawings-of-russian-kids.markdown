@@ -7,6 +7,7 @@ slug: drawings-of-russian-kids
 title: 俄罗斯孩子的心声
 wordpress_id: 436
 categories:
+- notes
 - 爱看电影
 tags:
 - 不好归类

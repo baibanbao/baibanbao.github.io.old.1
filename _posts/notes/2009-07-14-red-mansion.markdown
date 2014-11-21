@@ -7,6 +7,7 @@ slug: red-mansion
 title: 应是红楼梦里人
 wordpress_id: 2199
 categories:
+- notes
 - 爱看电影
 tags:
 - 摄影

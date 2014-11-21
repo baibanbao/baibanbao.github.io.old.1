@@ -7,6 +7,7 @@ slug: '%e4%b8%80%e6%ac%a1'
 title: 一次
 wordpress_id: 1477
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

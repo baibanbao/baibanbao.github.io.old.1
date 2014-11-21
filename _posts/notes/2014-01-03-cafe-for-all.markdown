@@ -8,6 +8,7 @@ slug: cafe-for-all
 title: 众生咖啡馆
 wordpress_id: 6218
 categories:
+- notes
 - 不好归类
 ---
 

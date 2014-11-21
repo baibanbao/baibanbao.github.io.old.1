@@ -8,6 +8,7 @@ slug: '%e9%bb%91%e7%a4%be%e4%bc%9a%e8%ae%b2%e8%bf%b0%e8%87%aa%e5%b7%b1%e7%9a%84%
 title: 黑社会讲述自己的故事
 wordpress_id: 6328
 categories:
+- notes
 - 不好归类
 ---
 

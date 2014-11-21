@@ -7,6 +7,7 @@ slug: scent-of-women
 title: 女人香
 wordpress_id: 473
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

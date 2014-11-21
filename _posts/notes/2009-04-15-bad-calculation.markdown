@@ -7,6 +7,7 @@ slug: bad-calculation
 title: 一辈子打酱油要花两亿元
 wordpress_id: 2025
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 新闻

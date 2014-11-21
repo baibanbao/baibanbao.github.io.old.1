@@ -7,6 +7,7 @@ slug: rvp
 title: 胶片让数码羞愧地低下了头
 wordpress_id: 3009
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 摄影

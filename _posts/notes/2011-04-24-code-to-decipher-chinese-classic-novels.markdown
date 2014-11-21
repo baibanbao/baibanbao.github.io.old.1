@@ -7,6 +7,7 @@ slug: code-to-decipher-chinese-classic-novels
 title: 浦安迪：解读中国古典名著的密码
 wordpress_id: 4226
 categories:
+- notes
 - 读书笔记
 ---
 

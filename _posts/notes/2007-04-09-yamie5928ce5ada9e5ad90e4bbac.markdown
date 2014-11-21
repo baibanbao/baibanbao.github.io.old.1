@@ -7,6 +7,7 @@ slug: yami%e5%92%8c%e5%ad%a9%e5%ad%90%e4%bb%ac
 title: Yami和孩子们
 wordpress_id: 872
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

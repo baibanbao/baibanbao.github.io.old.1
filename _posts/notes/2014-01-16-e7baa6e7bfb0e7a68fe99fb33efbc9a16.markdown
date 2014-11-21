@@ -8,6 +8,7 @@ slug: '%e7%ba%a6%e7%bf%b0%e7%a6%8f%e9%9f%b33%ef%bc%9a16'
 title: 约翰福音3：16
 wordpress_id: 6434
 categories:
+- notes
 - 不好归类
 ---
 

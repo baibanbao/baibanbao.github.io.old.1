@@ -7,6 +7,7 @@ slug: now-in-beijing
 title: 在北京
 wordpress_id: 2190
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 北京

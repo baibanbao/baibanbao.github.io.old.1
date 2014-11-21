@@ -7,6 +7,7 @@ slug: blogger%e5%b9%b4%e4%bc%9a%e5%bf%ab%e8%ae%af
 title: BLOGGER年会快讯
 wordpress_id: 1766
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

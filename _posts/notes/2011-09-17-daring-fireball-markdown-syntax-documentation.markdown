@@ -7,6 +7,7 @@ slug: daring-fireball-markdown-syntax-documentation
 title: 'Daring Fireball: Markdown Syntax Documentation'
 wordpress_id: 6566
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

@@ -7,6 +7,7 @@ slug: about-dreams
 title: 我看黑泽明的《梦》
 wordpress_id: 6292
 categories:
+- notes
 - 不好归类
 tags:
 - 电影大师

@@ -7,6 +7,7 @@ slug: youtube%e7%9c%9f%e5%a5%bd
 title: Youtube真好
 wordpress_id: 815
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

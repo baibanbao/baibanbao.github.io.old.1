@@ -7,6 +7,7 @@ slug: g2%e5%a4%a9%e6%b4%a5%e5%8d%b0%e8%b1%a1
 title: G2天津印象
 wordpress_id: 1708
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

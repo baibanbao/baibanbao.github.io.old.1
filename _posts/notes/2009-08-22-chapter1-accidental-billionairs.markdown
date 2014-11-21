@@ -7,6 +7,7 @@ slug: chapter1-accidental-billionairs
 title: 第一乐章：一个关于性、金钱、天才和背叛的创业故事
 wordpress_id: 2311
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 传记

@@ -7,6 +7,7 @@ slug: even-dogs-can-translate-english-to-chinese
 title: 现在连狗都会英译中
 wordpress_id: 481
 categories:
+- notes
 - 语文运动
 tags:
 - 语文不动

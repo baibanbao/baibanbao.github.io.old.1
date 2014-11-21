@@ -7,6 +7,7 @@ slug: install-xp-on-an-eeepc
 title: 上网本XP安装记
 wordpress_id: 2174
 categories:
+- notes
 - 学点技术
 tags:
 - 生活不是条件反射

@@ -7,6 +7,7 @@ slug: '%e5%85%b3%e4%ba%8e%e5%ae%9a%e6%80%a7%e5%88%86%e6%9e%90%e8%bd%af%e4%bb%b6w
 title: 定性分析软件WEFT QDA使用初步
 wordpress_id: 1079
 categories:
+- notes
 - 学点技术
 ---
 

@@ -7,6 +7,7 @@ slug: zt-%e5%8c%96%e5%b7%a5%ef%bc%9a%e6%88%90%e9%83%bd%e7%9a%84%e5%8d%b1%e9%99%a
 title: ZT 化工：成都的危险拐点？
 wordpress_id: 1524
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

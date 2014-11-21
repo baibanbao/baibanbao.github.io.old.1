@@ -7,6 +7,7 @@ slug: '%e6%88%91%ef%bc%8c%e7%ab%a5%e5%b9%b4'
 title: 我，童年
 wordpress_id: 593
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

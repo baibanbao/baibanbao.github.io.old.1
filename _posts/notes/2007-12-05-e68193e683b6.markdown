@@ -7,6 +7,7 @@ slug: '%e6%81%93%e6%83%b6'
 title: 恓惶
 wordpress_id: 1263
 categories:
+- notes
 - 写作练习
 tags:
 - 语文不动

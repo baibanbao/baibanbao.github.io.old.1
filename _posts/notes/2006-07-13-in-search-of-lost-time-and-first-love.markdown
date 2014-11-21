@@ -7,6 +7,7 @@ slug: in-search-of-lost-time-and-first-love
 title: 青色的情窦
 wordpress_id: 465
 categories:
+- notes
 - 非虚构叙事
 ---
 

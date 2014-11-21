@@ -7,6 +7,7 @@ slug: the-voice-controlled-light-system-in-toilets
 title: 厕所装了声控灯后
 wordpress_id: 466
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

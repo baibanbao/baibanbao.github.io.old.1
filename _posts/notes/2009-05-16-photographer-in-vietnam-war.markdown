@@ -7,6 +7,7 @@ slug: photographer-in-vietnam-war
 title: 越战摄影师凡艾斯走了
 wordpress_id: 2094
 categories:
+- notes
 - 爱看电影
 tags:
 - 摄影师

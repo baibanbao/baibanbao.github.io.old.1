@@ -7,6 +7,7 @@ slug: hecaitou-blog
 title: 和菜头海外博客已被屏蔽 史称摘菜行动
 wordpress_id: 2946
 categories:
+- notes
 - 不好归类
 tags:
 - 和菜头

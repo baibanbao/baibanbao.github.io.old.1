@@ -7,6 +7,7 @@ slug: '%e8%af%b7%e5%88%ab%e4%b8%ba%e6%88%91%e5%8a%a0%e6%b2%b9'
 title: 请别为我加油
 wordpress_id: 955
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

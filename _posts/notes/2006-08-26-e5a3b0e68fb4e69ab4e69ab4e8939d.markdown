@@ -7,6 +7,7 @@ slug: '%e5%a3%b0%e6%8f%b4%e6%9a%b4%e6%9a%b4%e8%93%9d'
 title: 声援暴暴蓝
 wordpress_id: 575
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

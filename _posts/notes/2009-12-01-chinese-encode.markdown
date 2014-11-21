@@ -7,6 +7,7 @@ slug: chinese-encode
 title: 汉字编码与中国大历史
 wordpress_id: 2789
 categories:
+- notes
 - 不好归类
 ---
 

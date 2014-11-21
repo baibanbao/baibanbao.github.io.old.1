@@ -7,6 +7,7 @@ slug: '%e8%bd%ac%e7%bb%99%e6%b2%99%e8%80%81%ef%bc%9a%e9%a2%86%e5%af%bc%e5%8d%96%
 title: 转给沙老：领导卖茶叶
 wordpress_id: 6478
 categories:
+- notes
 - 不好归类
 ---
 

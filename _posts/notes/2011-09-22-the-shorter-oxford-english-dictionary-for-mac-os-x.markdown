@@ -7,6 +7,7 @@ slug: the-shorter-oxford-english-dictionary-for-mac-os-x
 title: The Shorter Oxford English Dictionary for Mac OS X
 wordpress_id: 6586
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

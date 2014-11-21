@@ -7,6 +7,7 @@ slug: '%e8%b4%ad%e4%b9%a6%e4%b8%ad%e5%bf%83'
 title: 购书中心
 wordpress_id: 1962
 categories:
+- notes
 - 写作练习
 tags:
 - 诗歌

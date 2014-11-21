@@ -7,6 +7,7 @@ slug: our-pride
 title: 海盗电台和123诗社的骄傲
 wordpress_id: 3259
 categories:
+- notes
 - 海盗电台
 tags:
 - 反馈

@@ -7,6 +7,7 @@ slug: before-boarding
 title: 登机之前，再发一片
 wordpress_id: 2079
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

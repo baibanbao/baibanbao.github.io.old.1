@@ -7,6 +7,7 @@ slug: lesson-4
 title: 听课笔记（4）陶傑杂谈
 wordpress_id: 3286
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 文化

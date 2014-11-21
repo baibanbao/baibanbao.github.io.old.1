@@ -7,6 +7,7 @@ slug: young-forks
 title: Young FoLks
 wordpress_id: 972
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

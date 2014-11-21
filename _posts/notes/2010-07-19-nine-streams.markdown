@@ -7,6 +7,7 @@ slug: nine-streams
 title: 九溪十八涧
 wordpress_id: 3359
 categories:
+- notes
 - 爱看电影
 - 生活不是条件反射
 tags:

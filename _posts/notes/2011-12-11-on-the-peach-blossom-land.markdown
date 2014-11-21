@@ -7,6 +7,7 @@ slug: on-the-peach-blossom-land
 title: 暗恋与桃花源
 wordpress_id: 5051
 categories:
+- notes
 - 文艺批评
 - 爱看电影
 ---

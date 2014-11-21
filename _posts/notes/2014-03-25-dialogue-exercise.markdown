@@ -7,6 +7,7 @@ slug: dialogue-exercise
 title: 潜台词写作范本：小品《警察与小偷》片段
 wordpress_id: 6297
 categories:
+- notes
 - 编剧学习
 tags:
 - 对白

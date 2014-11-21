@@ -7,6 +7,7 @@ slug: finding-the-strayed-cat
 title: 找猫记
 wordpress_id: 4280
 categories:
+- notes
 - 非虚构叙事
 ---
 

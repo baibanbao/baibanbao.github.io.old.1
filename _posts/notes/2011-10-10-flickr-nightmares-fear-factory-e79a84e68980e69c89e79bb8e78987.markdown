@@ -7,6 +7,7 @@ slug: flickr-nightmares-fear-factory-%e7%9a%84%e6%89%80%e6%9c%89%e7%9b%b8%e7%89%
 title: 'Flickr: Nightmares Fear Factory 的所有相片'
 wordpress_id: 6526
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

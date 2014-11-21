@@ -7,6 +7,7 @@ slug: fare-you-well-wangwai-a-story-about-life-death-and-love
 title: 告别王崴：一个关于生与爱与死的故事
 wordpress_id: 563
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 爱情

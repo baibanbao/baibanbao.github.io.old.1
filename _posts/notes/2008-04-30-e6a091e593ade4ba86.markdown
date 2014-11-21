@@ -7,6 +7,7 @@ slug: '%e6%a0%91%e5%93%ad%e4%ba%86'
 title: 树哭了
 wordpress_id: 1510
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

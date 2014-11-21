@@ -7,6 +7,7 @@ slug: chinese-kids
 title: 海盗电台弹唱《中国孩子》
 wordpress_id: 3031
 categories:
+- notes
 - 海盗电台
 tags:
 - 弹唱

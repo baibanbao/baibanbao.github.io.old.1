@@ -7,6 +7,7 @@ slug: hand-shake-noise
 title: 握手声
 wordpress_id: 2022
 categories:
+- notes
 - 不好归类
 tags:
 - 工作

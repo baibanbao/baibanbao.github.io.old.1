@@ -7,6 +7,7 @@ slug: '%e8%bf%99%e4%b8%80%e5%a4%9c%ef%bc%8c%e6%88%91%e5%9c%a8%e5%86%99%e4%bd%9c%
 title: 这一夜，我在写作业
 wordpress_id: 637
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

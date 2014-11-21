@@ -7,6 +7,7 @@ slug: '%e5%b1%b1%e4%b8%9c%e6%b2%be%e5%8c%96%e5%8e%bf%e6%a3%89%e8%8a%b1%e7%a7%8d%
 title: 山东沾化县棉花种植情况
 wordpress_id: 6496
 categories:
+- notes
 - 不好归类
 tags:
 - 农业

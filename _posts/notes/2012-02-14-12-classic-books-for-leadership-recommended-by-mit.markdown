@@ -7,6 +7,7 @@ slug: 12-classic-books-for-leadership-recommended-by-mit
 title: 喜极而泣找回的一个书单《MIT人类智慧事业学科带头人书架上不能缺少的12部经典》
 wordpress_id: 5285
 categories:
+- notes
 - 读书笔记
 ---
 

@@ -7,6 +7,7 @@ slug: micro-history-counting-the-remaining-days-of-this-summer
 title: 一周微史记(2011-8-8)用烤串的竹签来细数还未过完的夏天
 wordpress_id: 4436
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 一周微史记

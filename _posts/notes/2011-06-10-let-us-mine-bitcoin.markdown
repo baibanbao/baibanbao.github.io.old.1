@@ -7,6 +7,7 @@ slug: let-us-mine-bitcoin
 title: 挖矿去，挖矿去！
 wordpress_id: 4327
 categories:
+- notes
 - 非虚构叙事
 ---
 

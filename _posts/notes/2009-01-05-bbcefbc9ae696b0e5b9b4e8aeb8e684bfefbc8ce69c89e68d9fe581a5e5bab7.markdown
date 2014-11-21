@@ -7,6 +7,7 @@ slug: bbc%ef%bc%9a%e6%96%b0%e5%b9%b4%e8%ae%b8%e6%84%bf%ef%bc%8c%e6%9c%89%e6%8d%9
 title: BBC：新年许愿，有损健康
 wordpress_id: 1846
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

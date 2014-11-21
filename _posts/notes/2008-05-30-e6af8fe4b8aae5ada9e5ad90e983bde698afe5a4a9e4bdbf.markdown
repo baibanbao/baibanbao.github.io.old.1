@@ -7,6 +7,7 @@ slug: '%e6%af%8f%e4%b8%aa%e5%ad%a9%e5%ad%90%e9%83%bd%e6%98%af%e5%a4%a9%e4%bd%bf'
 title: 每个孩子都是天使
 wordpress_id: 1575
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: review-on-the-art-of-dramatic-wrting
 title: 【编剧大师班】只此一本的编剧书《编剧的艺术》
 wordpress_id: 6176
 categories:
+- notes
 - 编剧学习
 tags:
 - 编剧

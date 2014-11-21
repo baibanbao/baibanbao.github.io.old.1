@@ -7,6 +7,7 @@ slug: nimenqizhongshuimeiyouzui
 title: 你们其中谁没有罪……
 wordpress_id: 1135
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

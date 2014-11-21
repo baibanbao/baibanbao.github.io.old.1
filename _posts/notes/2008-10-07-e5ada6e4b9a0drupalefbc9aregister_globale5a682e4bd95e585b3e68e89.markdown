@@ -7,6 +7,7 @@ slug: '%e5%ad%a6%e4%b9%a0drupal%ef%bc%9aregister_global%e5%a6%82%e4%bd%95%e5%85%
 title: 学习Drupal：register_global如何关掉
 wordpress_id: 1722
 categories:
+- notes
 - 学点技术
 tags:
 - 技术 drupal

@@ -7,6 +7,7 @@ slug: speech-of-leaders
 title: 领导无话儿
 wordpress_id: 4098
 categories:
+- notes
 - 非虚构叙事
 ---
 

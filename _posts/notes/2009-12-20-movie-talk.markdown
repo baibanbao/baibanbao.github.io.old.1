@@ -7,6 +7,7 @@ slug: movie-talk
 title: 听老卫讲电影
 wordpress_id: 2939
 categories:
+- notes
 - 爱看电影
 ---
 

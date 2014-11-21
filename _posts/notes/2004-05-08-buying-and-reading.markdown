@@ -7,6 +7,7 @@ slug: buying-and-reading
 title: 淘书不必读
 wordpress_id: 530
 categories:
+- notes
 - 读书笔记
 tags:
 - 不好归类

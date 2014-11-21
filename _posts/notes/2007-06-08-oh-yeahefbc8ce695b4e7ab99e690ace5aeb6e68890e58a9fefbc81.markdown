@@ -7,6 +7,7 @@ slug: oh-yeah%ef%bc%8c%e6%95%b4%e7%ab%99%e6%90%ac%e5%ae%b6%e6%88%90%e5%8a%9f%ef%
 title: Oh, Yeah，整站搬家成功！
 wordpress_id: 1039
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

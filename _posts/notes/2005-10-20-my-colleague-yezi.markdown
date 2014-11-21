@@ -7,6 +7,7 @@ slug: my-colleague-yezi
 title: 同事yezi
 wordpress_id: 564
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 朋友

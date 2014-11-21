@@ -7,6 +7,7 @@ slug: photos-under-moonlight
 title: 梦幻的月下摄影
 wordpress_id: 2149
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

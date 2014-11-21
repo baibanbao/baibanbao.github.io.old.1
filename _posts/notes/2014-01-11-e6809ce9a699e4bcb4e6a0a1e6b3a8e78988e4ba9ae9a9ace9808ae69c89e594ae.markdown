@@ -8,6 +8,7 @@ slug: '%e6%80%9c%e9%a6%99%e4%bc%b4%e6%a0%a1%e6%b3%a8%e7%89%88%e4%ba%9a%e9%a9%ac%
 title: 怜香伴校注版亚马逊有售
 wordpress_id: 6422
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

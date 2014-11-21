@@ -7,6 +7,7 @@ slug: discours
 title: 草草絮语：不与任何人划清界限，只跟愚昧偏见保持距离。
 wordpress_id: 2855
 categories:
+- notes
 - 鱼眼碎片
 ---
 

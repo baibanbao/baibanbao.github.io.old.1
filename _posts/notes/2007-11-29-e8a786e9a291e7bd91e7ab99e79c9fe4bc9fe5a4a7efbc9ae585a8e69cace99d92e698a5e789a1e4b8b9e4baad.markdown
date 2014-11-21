@@ -7,6 +7,7 @@ slug: '%e8%a7%86%e9%a2%91%e7%bd%91%e7%ab%99%e7%9c%9f%e4%bc%9f%e5%a4%a7%ef%bc%9a%
 title: 视频网站真伟大：全本青春牡丹亭
 wordpress_id: 1257
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

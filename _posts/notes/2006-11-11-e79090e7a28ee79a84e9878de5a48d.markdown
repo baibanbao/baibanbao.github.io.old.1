@@ -7,6 +7,7 @@ slug: '%e7%90%90%e7%a2%8e%e7%9a%84%e9%87%8d%e5%a4%8d'
 title: 琐碎的重复
 wordpress_id: 669
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

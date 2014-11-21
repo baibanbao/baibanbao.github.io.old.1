@@ -7,6 +7,7 @@ slug: milk-way
 title: 海盗电台之南京朗诵会专场：金泉《银河系》
 wordpress_id: 3000
 categories:
+- notes
 - 不好归类
 ---
 

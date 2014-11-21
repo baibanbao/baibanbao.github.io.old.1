@@ -7,6 +7,7 @@ slug: '%e7%a5%9e%e5%8c%bb%e5%a0%82'
 title: 神医堂
 wordpress_id: 1261
 categories:
+- notes
 - 写作练习
 ---
 

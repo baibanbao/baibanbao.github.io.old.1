@@ -7,6 +7,7 @@ slug: '%e4%b8%ba%e4%bb%80%e4%b9%88%e6%88%91%e6%9c%80%e8%bf%91%e6%b2%a1%e5%86%99%
 title: 为什么我最近没写博客
 wordpress_id: 1826
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

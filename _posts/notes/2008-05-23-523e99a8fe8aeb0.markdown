@@ -7,6 +7,7 @@ slug: 523%e9%9a%8f%e8%ae%b0
 title: 523随记
 wordpress_id: 1564
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

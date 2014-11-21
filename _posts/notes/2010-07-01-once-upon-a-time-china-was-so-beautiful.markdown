@@ -7,6 +7,7 @@ slug: once-upon-a-time-china-was-so-beautiful
 title: 曾经的美丽的中国
 wordpress_id: 3342
 categories:
+- notes
 - 读书笔记
 - 非虚构叙事
 ---

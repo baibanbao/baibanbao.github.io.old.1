@@ -7,6 +7,7 @@ slug: 101-lessons-of-architects
 title: 马修·弗莱德里克《建筑师成长记录—学习建筑的101点体会》读书笔记
 wordpress_id: 6254
 categories:
+- notes
 - 学点技术
 - 建筑
 - 读书笔记

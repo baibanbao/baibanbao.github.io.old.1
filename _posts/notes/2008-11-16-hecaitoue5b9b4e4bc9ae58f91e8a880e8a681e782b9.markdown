@@ -7,6 +7,7 @@ slug: hecaitou%e5%b9%b4%e4%bc%9a%e5%8f%91%e8%a8%80%e8%a6%81%e7%82%b9
 title: HECAITOU年会发言要点
 wordpress_id: 1765
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

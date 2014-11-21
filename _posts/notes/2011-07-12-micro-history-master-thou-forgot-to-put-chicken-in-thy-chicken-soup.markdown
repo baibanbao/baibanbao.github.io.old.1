@@ -7,6 +7,7 @@ slug: micro-history-master-thou-forgot-to-put-chicken-in-thy-chicken-soup
 title: 一周微史记（2011-7-12）你炖出来的心灵鸡汤好像忘了放鸡
 wordpress_id: 4399
 categories:
+- notes
 - 非虚构叙事
 ---
 

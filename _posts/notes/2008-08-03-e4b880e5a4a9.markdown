@@ -7,6 +7,7 @@ slug: '%e4%b8%80%e5%a4%a9'
 title: 一天
 wordpress_id: 1661
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

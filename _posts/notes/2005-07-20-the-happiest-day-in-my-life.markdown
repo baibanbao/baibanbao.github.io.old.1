@@ -7,6 +7,7 @@ slug: the-happiest-day-in-my-life
 title: 今天是最开心的一天
 wordpress_id: 552
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

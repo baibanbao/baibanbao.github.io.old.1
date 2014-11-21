@@ -7,6 +7,7 @@ slug: '%e6%88%91%e7%be%a1%e6%85%95%e7%9a%84%e7%94%9f%e6%b4%bb%ef%bc%9a%e4%b9%a1%
 title: 我羡慕的生活：乡村艺术家
 wordpress_id: 3427
 categories:
+- notes
 - 不好归类
 ---
 

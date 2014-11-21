@@ -7,6 +7,7 @@ slug: fake-news-gadafi-acknowledge-roits-as-official-gov-in-uk
 title: 利比亚卡扎菲承认英国暴动者为合法政权
 wordpress_id: 4438
 categories:
+- notes
 - 写作练习
 tags:
 - 黑通社

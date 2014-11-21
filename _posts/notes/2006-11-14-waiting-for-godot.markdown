@@ -7,6 +7,7 @@ slug: waiting-for-godot
 title: Waiting for godot
 wordpress_id: 673
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

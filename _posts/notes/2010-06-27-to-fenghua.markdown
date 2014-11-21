@@ -7,6 +7,7 @@ slug: to-fenghua
 title: 给风华的信
 wordpress_id: 3314
 categories:
+- notes
 - 写作练习
 - 生活不是条件反射
 tags:

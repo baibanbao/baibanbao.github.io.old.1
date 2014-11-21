@@ -7,6 +7,7 @@ slug: a-moving-anime
 title: 感伤的动画片
 wordpress_id: 397
 categories:
+- notes
 - 爱看电影
 tags:
 - 动画

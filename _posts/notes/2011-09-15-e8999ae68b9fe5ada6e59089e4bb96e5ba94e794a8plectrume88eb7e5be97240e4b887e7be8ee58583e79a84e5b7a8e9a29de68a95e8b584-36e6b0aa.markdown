@@ -7,6 +7,7 @@ slug: '%e8%99%9a%e6%8b%9f%e5%ad%a6%e5%90%89%e4%bb%96%e5%ba%94%e7%94%a8plectrum%e
 title: 虚拟学吉他应用Plectrum获得240万美元的巨额投资 | 36氪
 wordpress_id: 6557
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

@@ -7,6 +7,7 @@ slug: micro-history-to-spend-a-romantic-summer-is-to-take-you-to-watch-the-ocean
 title: 一周微史记（2011-6-21）今年夏天最浪漫的事就是陪你到西湖边看海
 wordpress_id: 4342
 categories:
+- notes
 - 非虚构叙事
 ---
 

@@ -7,6 +7,7 @@ slug: on-the-new-railway-rules
 title: 我看铁路新规
 wordpress_id: 3675
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 垄断

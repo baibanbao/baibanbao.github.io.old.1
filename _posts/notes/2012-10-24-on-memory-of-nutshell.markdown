@@ -7,6 +7,7 @@ slug: on-memory-of-nutshell
 title: 曾经的核桃壳
 wordpress_id: 5620
 categories:
+- notes
 - 生活不是条件反射
 ---
 

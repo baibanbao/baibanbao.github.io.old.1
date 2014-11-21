@@ -7,6 +7,7 @@ slug: picture-of-today
 title: 每日一片
 wordpress_id: 2046
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

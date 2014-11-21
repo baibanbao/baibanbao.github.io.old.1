@@ -7,6 +7,7 @@ slug: muammar-qaddafi-the-economist
 title: Muammar Qaddafi | The Economist
 wordpress_id: 6467
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

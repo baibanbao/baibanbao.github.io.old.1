@@ -7,6 +7,7 @@ slug: viva-la-vida
 title: 海盗电台：14声部无伴奏合唱《Viva la vida》
 wordpress_id: 3093
 categories:
+- notes
 - 不好归类
 tags:
 - 合唱

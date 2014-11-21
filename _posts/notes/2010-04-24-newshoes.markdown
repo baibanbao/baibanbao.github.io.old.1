@@ -7,6 +7,7 @@ slug: newshoes
 title: 海盗电台深夜放送《新鞋子旧鞋子》
 wordpress_id: 3238
 categories:
+- notes
 - 不好归类
 tags:
 - 弹唱

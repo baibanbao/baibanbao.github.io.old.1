@@ -7,6 +7,7 @@ slug: '%e4%bf%b1%e8%8d%89%e8%8d%89'
 title: 俱草草
 wordpress_id: 1377
 categories:
+- notes
 - 写作练习
 tags:
 - 杂记

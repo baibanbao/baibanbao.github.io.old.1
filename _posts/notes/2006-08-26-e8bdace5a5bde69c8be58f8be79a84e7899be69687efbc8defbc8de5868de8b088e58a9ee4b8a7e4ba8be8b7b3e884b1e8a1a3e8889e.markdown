@@ -7,6 +7,7 @@ slug: '%e8%bd%ac%e5%a5%bd%e6%9c%8b%e5%8f%8b%e7%9a%84%e7%89%9b%e6%96%87%ef%bc%8d%
 title: 转好朋友的牛文－－再谈办丧事跳脱衣舞
 wordpress_id: 580
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: on-a-translation-style
 title: 从《理想国》的译本看什么是好翻译
 wordpress_id: 6721
 categories:
+- notes
 - 语文运动
 tags:
 - 翻译

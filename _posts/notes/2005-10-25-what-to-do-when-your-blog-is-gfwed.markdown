@@ -7,6 +7,7 @@ slug: what-to-do-when-your-blog-is-gfwed
 title: 网站被封了怎么办？
 wordpress_id: 566
 categories:
+- notes
 - 学点技术
 tags:
 - GFW

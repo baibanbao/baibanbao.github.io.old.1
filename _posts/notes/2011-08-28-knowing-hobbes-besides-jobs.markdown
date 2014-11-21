@@ -7,6 +7,7 @@ slug: knowing-hobbes-besides-jobs
 title: 读一点霍布斯
 wordpress_id: 4725
 categories:
+- notes
 - 读书笔记
 tags:
 - 彭淮栋

@@ -7,6 +7,7 @@ slug: tweets-4
 title: 草草絮语20100208
 wordpress_id: 3152
 categories:
+- notes
 - 鱼眼碎片
 ---
 

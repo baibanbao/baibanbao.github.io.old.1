@@ -7,6 +7,7 @@ slug: '%e5%9b%9b%e6%9c%88%ef%bc%8c%e5%a7%91%e5%a8%98%e4%bb%ac%e9%83%bd%e5%9c%a8%
 title: 四月，姑娘们都在发芽
 wordpress_id: 875
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

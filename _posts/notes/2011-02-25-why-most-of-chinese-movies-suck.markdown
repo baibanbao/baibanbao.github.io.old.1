@@ -7,6 +7,7 @@ slug: why-most-of-chinese-movies-suck
 title: 国产为何多烂片？
 wordpress_id: 4053
 categories:
+- notes
 - 非虚构叙事
 ---
 

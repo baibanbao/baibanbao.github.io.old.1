@@ -7,6 +7,7 @@ slug: '%e7%a7%91%e5%ad%a6%e8%bf%b7%e6%80%9d%ef%bc%9a%e5%8e%86%e5%8f%b2%e6%80%bb%
 title: 科学迷思：历史总是惊人地相似
 wordpress_id: 824
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

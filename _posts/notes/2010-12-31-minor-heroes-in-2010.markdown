@@ -7,6 +7,7 @@ slug: minor-heroes-in-2010
 title: 2010，微不足道的英雄
 wordpress_id: 3815
 categories:
+- notes
 - 生活不是条件反射
 - 非虚构叙事
 ---

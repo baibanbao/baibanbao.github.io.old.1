@@ -7,6 +7,7 @@ slug: books-bought-in-2012
 title: 2012年买书记
 wordpress_id: 5734
 categories:
+- notes
 - 读书笔记
 - 非虚构叙事
 tags:

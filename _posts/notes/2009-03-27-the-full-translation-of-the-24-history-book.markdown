@@ -7,6 +7,7 @@ slug: the-full-translation-of-the-24-history-book
 title: 二十四史从何处读起
 wordpress_id: 1992
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

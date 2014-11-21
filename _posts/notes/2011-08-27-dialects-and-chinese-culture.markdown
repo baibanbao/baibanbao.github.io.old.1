@@ -7,6 +7,7 @@ slug: dialects-and-chinese-culture
 title: 一天一本书《方言与中国文化》
 wordpress_id: 4494
 categories:
+- notes
 - 读书笔记
 ---
 

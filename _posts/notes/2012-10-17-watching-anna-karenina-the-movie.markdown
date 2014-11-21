@@ -7,6 +7,7 @@ slug: watching-anna-karenina-the-movie
 title: 一个人包场看《安娜－卡列尼娜》
 wordpress_id: 5594
 categories:
+- notes
 - 文艺批评
 tags:
 - 卡列尼娜

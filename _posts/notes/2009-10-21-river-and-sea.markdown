@@ -7,6 +7,7 @@ slug: river-and-sea
 title: 《大江大海 1949》读后感之无序发泄版
 wordpress_id: 2655
 categories:
+- notes
 - 不好归类
 tags:
 - 书评

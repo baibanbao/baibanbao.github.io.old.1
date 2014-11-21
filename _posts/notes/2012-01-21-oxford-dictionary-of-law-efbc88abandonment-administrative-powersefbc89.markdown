@@ -7,6 +7,7 @@ slug: oxford-dictionary-of-law-%ef%bc%88abandonment-administrative-powers%ef%bc%
 title: Oxford Dictionary of Law （Abandonment-Administrative powers）
 wordpress_id: 6489
 categories:
+- notes
 - 不好归类
 ---
 

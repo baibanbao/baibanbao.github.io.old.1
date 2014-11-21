@@ -7,6 +7,7 @@ slug: journalists-lost-ethics
 title: 新闻圈 无道德
 wordpress_id: 547
 categories:
+- notes
 - 文艺批评
 tags:
 - 不好归类

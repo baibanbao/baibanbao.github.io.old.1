@@ -7,6 +7,7 @@ slug: a-history-of-voilence-in-countryside
 title: '乡村暴力史 '
 wordpress_id: 4744
 categories:
+- notes
 - 非虚构叙事
 ---
 

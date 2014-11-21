@@ -7,6 +7,7 @@ slug: '%e5%86%ac%e5%a4%a9%e5%be%88%e4%b8%a5%e8%82%83%e5%9c%b0%e8%b5%b0%e6%9d%a5%
 title: 冬天很严肃地走来了
 wordpress_id: 1760
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

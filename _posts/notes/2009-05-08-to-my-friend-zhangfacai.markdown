@@ -7,6 +7,7 @@ slug: to-my-friend-zhangfacai
 title: 俑：致张发财
 wordpress_id: 2080
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

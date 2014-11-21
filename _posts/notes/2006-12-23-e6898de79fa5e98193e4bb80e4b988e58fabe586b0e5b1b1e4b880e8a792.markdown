@@ -7,6 +7,7 @@ slug: '%e6%89%8d%e7%9f%a5%e9%81%93%e4%bb%80%e4%b9%88%e5%8f%ab%e5%86%b0%e5%b1%b1%
 title: 才知道什么叫冰山一角
 wordpress_id: 741
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: history-reference-is-more-reliable
 title: 还是《文史参考》靠谱一点
 wordpress_id: 5797
 categories:
+- notes
 - 读书笔记
 tags:
 - 历史

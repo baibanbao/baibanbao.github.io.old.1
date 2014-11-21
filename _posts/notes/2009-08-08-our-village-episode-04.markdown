@@ -7,6 +7,7 @@ slug: our-village-episode-04
 title: 我们的村庄（37-49）
 wordpress_id: 2230
 categories:
+- notes
 - 写作练习
 - 非虚构叙事
 - 鱼眼碎片

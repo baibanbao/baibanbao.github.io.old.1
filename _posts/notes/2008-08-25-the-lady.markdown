@@ -7,6 +7,7 @@ slug: the-lady
 title: The Lady
 wordpress_id: 1683
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

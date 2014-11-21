@@ -7,6 +7,7 @@ slug: peach-flower
 title: 胶片里的桃花源
 wordpress_id: 2805
 categories:
+- notes
 - 不好归类
 tags:
 - 摄影

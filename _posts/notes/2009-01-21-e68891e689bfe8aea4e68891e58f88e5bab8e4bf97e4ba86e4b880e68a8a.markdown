@@ -7,6 +7,7 @@ slug: '%e6%88%91%e6%89%bf%e8%ae%a4%e6%88%91%e5%8f%88%e5%ba%b8%e4%bf%97%e4%ba%86%
 title: 我承认我又庸俗了一把
 wordpress_id: 1868
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

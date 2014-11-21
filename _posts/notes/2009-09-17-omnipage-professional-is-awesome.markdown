@@ -7,6 +7,7 @@ slug: omnipage-professional-is-awesome
 title: Omnipage Professional令人赞叹的OCR软件 把手机、DC变成扫描仪
 wordpress_id: 2576
 categories:
+- notes
 - 各种工具
 - 学点技术
 tags:

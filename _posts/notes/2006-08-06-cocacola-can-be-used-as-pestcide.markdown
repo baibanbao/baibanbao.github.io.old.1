@@ -7,6 +7,7 @@ slug: cocacola-can-be-used-as-pestcide
 title: 农民的福音：可乐能做杀虫剂
 wordpress_id: 479
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

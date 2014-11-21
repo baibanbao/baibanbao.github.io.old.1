@@ -7,6 +7,7 @@ slug: daodejing
 title: 周末无事
 wordpress_id: 2961
 categories:
+- notes
 - 不好归类
 ---
 

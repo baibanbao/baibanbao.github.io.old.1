@@ -7,6 +7,7 @@ slug: '%e5%8d%9a%e5%ae%a2%e7%9a%84%e5%94%af%e4%b8%80%e4%bb%b7%e5%80%bc%e5%b0%b1%
 title: 博客的唯一价值就是给朋友看
 wordpress_id: 469
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

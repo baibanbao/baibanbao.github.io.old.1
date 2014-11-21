@@ -7,6 +7,7 @@ slug: zongheng-weekly
 title: 《纵横周刊》－－你要做中国的《经济学人》
 wordpress_id: 420
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 读书笔记

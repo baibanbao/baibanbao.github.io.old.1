@@ -7,6 +7,7 @@ slug: the-reading-plan-impossible
 title: 完不成的读书计划
 wordpress_id: 5245
 categories:
+- notes
 - 读书笔记
 tags:
 - 欲读书

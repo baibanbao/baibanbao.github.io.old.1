@@ -7,6 +7,7 @@ slug: how-to-be-famous
 title: 怎么才能火？
 wordpress_id: 947
 categories:
+- notes
 - 文艺批评
 tags:
 - 不好归类

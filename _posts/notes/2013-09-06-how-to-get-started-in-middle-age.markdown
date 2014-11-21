@@ -7,6 +7,7 @@ slug: how-to-get-started-in-middle-age
 title: 如何在下半生走上正途
 wordpress_id: 6132
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 人生建议

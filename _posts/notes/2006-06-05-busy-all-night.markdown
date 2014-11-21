@@ -7,6 +7,7 @@ slug: busy-all-night
 title: 忙了一夜
 wordpress_id: 427
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

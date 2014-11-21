@@ -7,6 +7,7 @@ slug: '%e6%89%be%e7%8c%ab%e8%ae%b0'
 title: 找猫记
 wordpress_id: 3453
 categories:
+- notes
 - 生活不是条件反射
 ---
 

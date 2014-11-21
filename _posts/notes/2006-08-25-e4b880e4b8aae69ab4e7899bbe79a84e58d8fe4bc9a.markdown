@@ -7,6 +7,7 @@ slug: '%e4%b8%80%e4%b8%aa%e6%9a%b4%e7%89%9bb%e7%9a%84%e5%8d%8f%e4%bc%9a'
 title: 国际阳痿协会
 wordpress_id: 576
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

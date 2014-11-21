@@ -7,6 +7,7 @@ slug: the-journey-of-a-six-year-old-pupil
 title: 阳阳的旅程
 wordpress_id: 5092
 categories:
+- notes
 - 非虚构叙事
 ---
 

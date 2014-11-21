@@ -7,6 +7,7 @@ slug: 2008%ef%bc%8c%e4%b8%aa%e4%ba%ba%e8%af%bb%e4%b9%a6%e6%8a%a5%e5%91%8a
 title: 2008，个人读书报告
 wordpress_id: 1828
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

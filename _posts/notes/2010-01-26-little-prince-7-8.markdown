@@ -7,6 +7,7 @@ slug: little-prince-7-8
 title: 海盗电台：欣燃播讲《小王子》7-8
 wordpress_id: 3124
 categories:
+- notes
 - 海盗电台
 tags:
 - 小王子

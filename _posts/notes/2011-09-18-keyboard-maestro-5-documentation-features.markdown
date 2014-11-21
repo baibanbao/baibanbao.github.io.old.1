@@ -7,6 +7,7 @@ slug: keyboard-maestro-5-documentation-features
 title: 'Keyboard Maestro 5 Documentation: Features'
 wordpress_id: 6569
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

@@ -7,6 +7,7 @@ slug: '%e9%bb%91%e6%9d%bf%e6%8a%a5%e5%be%ae%e5%88%9b%e6%96%87%e5%ad%a6%e7%bd%91%
 title: 黑板报微创文学网诞生
 wordpress_id: 1647
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

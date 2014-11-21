@@ -7,6 +7,7 @@ slug: neruda-questions-31-45
 title: 123诗社四月巨献：聂鲁达《疑问集》（31-45）
 wordpress_id: 3242
 categories:
+- notes
 - 不好归类
 tags:
 - 123诗社

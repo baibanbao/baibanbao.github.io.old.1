@@ -7,6 +7,7 @@ slug: the-birth-of-niubo
 title: 牛博网诞生记
 wordpress_id: 484
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

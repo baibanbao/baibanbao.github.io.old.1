@@ -7,6 +7,7 @@ slug: '%e8%af%ba%e4%b8%81%e6%b1%89%e7%ac%ac%e4%b8%80%e5%a4%a9'
 title: 诺丁汉第一天
 wordpress_id: 625
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

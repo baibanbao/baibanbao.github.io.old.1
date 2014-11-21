@@ -7,6 +7,7 @@ slug: yanhu-wis
 title: 欢迎新海盗yanhu
 wordpress_id: 3019
 categories:
+- notes
 - 不好归类
 ---
 

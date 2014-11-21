@@ -7,6 +7,7 @@ slug: chinese-people-and-food
 title: 刚刚吃饱
 wordpress_id: 4123
 categories:
+- notes
 - 读书笔记
 - 非虚构叙事
 ---

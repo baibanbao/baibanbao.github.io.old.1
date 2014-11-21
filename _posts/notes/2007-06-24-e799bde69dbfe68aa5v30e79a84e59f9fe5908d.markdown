@@ -7,6 +7,7 @@ slug: '%e7%99%bd%e6%9d%bf%e6%8a%a5v30%e7%9a%84%e5%9f%9f%e5%90%8d'
 title: 白板报v3.0的域名
 wordpress_id: 1067
 categories:
+- notes
 - 学点技术
 ---
 

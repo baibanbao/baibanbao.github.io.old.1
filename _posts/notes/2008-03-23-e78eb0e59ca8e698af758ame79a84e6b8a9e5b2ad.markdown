@@ -7,6 +7,7 @@ slug: '%e7%8e%b0%e5%9c%a8%e6%98%af758am%e7%9a%84%e6%b8%a9%e5%b2%ad'
 title: 现在是7:58am的温岭
 wordpress_id: 1418
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

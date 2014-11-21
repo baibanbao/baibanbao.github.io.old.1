@@ -7,6 +7,7 @@ slug: know-the-right-people-read-the-right-book
 title: 识对人 读对书
 wordpress_id: 6229
 categories:
+- notes
 - 文艺批评
 - 非虚构叙事
 tags:

@@ -7,6 +7,7 @@ slug: about-along
 title: 关于阿龙的几点补充
 wordpress_id: 2890
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 社会

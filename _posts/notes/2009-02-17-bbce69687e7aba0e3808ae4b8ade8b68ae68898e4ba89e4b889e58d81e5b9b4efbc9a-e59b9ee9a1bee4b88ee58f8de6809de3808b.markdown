@@ -7,6 +7,7 @@ slug: bbc%e6%96%87%e7%ab%a0%e3%80%8a%e4%b8%ad%e8%b6%8a%e6%88%98%e4%ba%89%e4%b8%8
 title: 转BBC文章《中越战争三十年：回顾与反思》
 wordpress_id: 1911
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

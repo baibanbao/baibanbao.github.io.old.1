@@ -7,6 +7,7 @@ slug: '%e4%bb%8a%e5%a4%9c%ef%bc%8c%e4%bd%a0%e4%b9%9f%e5%8f%af%e4%bb%a5%e6%88%90%
 title: 今夜，你也可以成为奥巴马
 wordpress_id: 1784
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

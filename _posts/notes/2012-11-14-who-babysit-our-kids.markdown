@@ -7,6 +7,7 @@ slug: who-babysit-our-kids
 title: 在肯德基避难的孩子
 wordpress_id: 5682
 categories:
+- notes
 - 非虚构叙事
 ---
 

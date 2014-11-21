@@ -7,6 +7,7 @@ slug: '%e9%80%89%e9%a2%98'
 title: 选题
 wordpress_id: 796
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

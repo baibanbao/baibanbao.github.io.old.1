@@ -7,6 +7,7 @@ slug: tiananmen-square
 title: 天安门
 wordpress_id: 2193
 categories:
+- notes
 - 爱看电影
 tags:
 - 北京

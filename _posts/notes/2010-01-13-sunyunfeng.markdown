@@ -7,6 +7,7 @@ slug: sunyunfeng
 title: 转：百度首席产品设计师孙云丰《关于谷歌退出中国》
 wordpress_id: 3043
 categories:
+- notes
 - 不好归类
 tags:
 - 孙云丰

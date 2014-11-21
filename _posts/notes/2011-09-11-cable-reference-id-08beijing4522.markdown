@@ -7,6 +7,7 @@ slug: cable-reference-id-08beijing4522
 title: 'Cable reference id: #08BEIJING4522'
 wordpress_id: 6542
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

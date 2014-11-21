@@ -7,6 +7,7 @@ slug: '%e7%94%b5%e5%bd%b1%e8%b4%ab%e9%81%93'
 title: 电影贫道
 wordpress_id: 1321
 categories:
+- notes
 - 不好归类
 tags:
 - CCTV

@@ -7,6 +7,7 @@ slug: the-season-of-hooligans
 title: 坏蛋的季节
 wordpress_id: 3749
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 年关

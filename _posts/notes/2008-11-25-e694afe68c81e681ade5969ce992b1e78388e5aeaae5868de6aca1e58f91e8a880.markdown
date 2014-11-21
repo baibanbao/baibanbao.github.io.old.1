@@ -7,6 +7,7 @@ slug: '%e6%94%af%e6%8c%81%e6%81%ad%e5%96%9c%e9%92%b1%e7%83%88%e5%ae%aa%e5%86%8d%
 title: 支持恭喜钱烈宪再次发言
 wordpress_id: 1781
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

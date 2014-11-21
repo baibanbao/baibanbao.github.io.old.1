@@ -7,6 +7,7 @@ slug: my-public-weichat
 title: 后知后觉，开通微信公共号
 wordpress_id: 6162
 categories:
+- notes
 - 不好归类
 tags:
 - 微信

@@ -7,6 +7,7 @@ slug: '%e7%ba%a2%e8%89%b2%e9%ab%98%e6%a3%89%e5%9e%ae%e5%8f%b030%e5%91%a8%e5%b9%b
 title: 红色高棉垮台30周年
 wordpress_id: 1853
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

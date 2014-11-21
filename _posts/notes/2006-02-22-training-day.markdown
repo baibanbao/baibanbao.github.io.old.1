@@ -7,6 +7,7 @@ slug: training-day
 title: 培训记
 wordpress_id: 520
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 媒体

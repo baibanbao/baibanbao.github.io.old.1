@@ -7,6 +7,7 @@ slug: '%e6%b5%8b%e8%af%95%e6%8f%92%e4%bb%b6%e4%b8%93%e7%94%a8%e8%b4%b4'
 title: 测试插件兼打击和菜头
 wordpress_id: 932
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

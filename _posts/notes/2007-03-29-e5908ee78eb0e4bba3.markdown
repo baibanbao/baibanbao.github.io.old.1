@@ -7,6 +7,7 @@ slug: '%e5%90%8e%e7%8e%b0%e4%bb%a3'
 title: 后现代
 wordpress_id: 848
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -8,6 +8,7 @@ slug: '%e5%85%bb%e5%8f%aa%e7%8c%ab%e8%a6%81%e8%8a%b1%e5%a4%9a%e5%b0%91%e9%92%b1'
 title: 养只猫要花多少钱
 wordpress_id: 6396
 categories:
+- notes
 - 不好归类
 tags:
 - 猫

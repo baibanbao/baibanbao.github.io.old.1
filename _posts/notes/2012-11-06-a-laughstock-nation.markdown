@@ -7,6 +7,7 @@ slug: a-laughstock-nation
 title: 冈田武史说
 wordpress_id: 5646
 categories:
+- notes
 - 读书笔记
 tags:
 - 丢人

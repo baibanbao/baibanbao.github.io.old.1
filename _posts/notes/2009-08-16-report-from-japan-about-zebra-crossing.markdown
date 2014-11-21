@@ -7,6 +7,7 @@ slug: report-from-japan-about-zebra-crossing
 title: 网友Reinhard：从日本的一篇新闻报道看“爱心斑马线”
 wordpress_id: 2272
 categories:
+- notes
 - 不好归类
 ---
 

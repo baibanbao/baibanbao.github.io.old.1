@@ -7,6 +7,7 @@ slug: '%e5%85%b3%e4%ba%8e%e9%80%a0%e8%b0%a3%e7%9a%84%e5%86%b0%e5%86%b7%e6%8f%90%
 title: 关于造谣的冰冷提示
 wordpress_id: 3858
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 安全常识

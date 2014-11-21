@@ -7,6 +7,7 @@ slug: '%e4%b8%ba%e4%bb%80%e4%b9%88%e6%90%9c%e7%b4%a2%e5%ba%94%e5%bd%93%e7%94%a8%
 title: 为什么搜索应当用英文一例
 wordpress_id: 6598
 categories:
+- notes
 - 不好归类
 ---
 

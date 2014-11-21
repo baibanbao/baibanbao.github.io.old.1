@@ -7,6 +7,7 @@ slug: '%e6%97%b6%e9%97%b4%e7%ae%80%e5%8f%b2'
 title: 时间简史
 wordpress_id: 907
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

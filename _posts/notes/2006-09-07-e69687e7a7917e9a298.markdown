@@ -7,6 +7,7 @@ slug: '%e6%96%87%e7%a7%917%e9%a2%98'
 title: 文科7题
 wordpress_id: 600
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

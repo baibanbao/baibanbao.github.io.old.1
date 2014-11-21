@@ -7,6 +7,7 @@ slug: '%e7%bb%88%e4%ba%8elinux%ef%bc%81'
 title: 终于Linux！
 wordpress_id: 1620
 categories:
+- notes
 - 学点技术
 tags:
 - linux

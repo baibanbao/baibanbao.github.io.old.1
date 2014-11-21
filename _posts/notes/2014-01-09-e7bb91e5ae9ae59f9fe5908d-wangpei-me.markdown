@@ -8,6 +8,7 @@ slug: '%e7%bb%91%e5%ae%9a%e5%9f%9f%e5%90%8d-wangpei-me'
 title: 绑定域名 wangpei.me
 wordpress_id: 6401
 categories:
+- notes
 - 不好归类
 ---
 

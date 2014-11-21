@@ -7,6 +7,7 @@ slug: '%e6%af%8f%e5%a4%a9%e9%83%bd%e6%98%af%e9%a3%8e%e4%ba%91%e7%aa%81%e5%8f%98'
 title: 每天都是风云突变
 wordpress_id: 3424
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: neruda-questions-46-60
 title: 海盗电台、123诗社四月巨献：聂鲁达《疑问集》（46-60）
 wordpress_id: 3244
 categories:
+- notes
 - 不好归类
 tags:
 - 123诗社

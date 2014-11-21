@@ -7,6 +7,7 @@ slug: hecaitounet%e5%a4%84%e4%ba%8e%e5%bc%82%e5%b8%b8%e7%8a%b6%e6%80%81%e4%b8%ad
 title: hecaitou.net处于异常状态中 at 《槽边往事》—比特海日志
 wordpress_id: 651
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

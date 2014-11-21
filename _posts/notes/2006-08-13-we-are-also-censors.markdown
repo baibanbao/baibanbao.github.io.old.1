@@ -7,6 +7,7 @@ slug: we-are-also-censors
 title: 有时候，我们也是广电总局
 wordpress_id: 486
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

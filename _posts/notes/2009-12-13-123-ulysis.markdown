@@ -7,6 +7,7 @@ slug: 123-ulysis
 title: 123诗社：《尤利西斯》结尾
 wordpress_id: 2906
 categories:
+- notes
 - 不好归类
 tags:
 - 朗诵

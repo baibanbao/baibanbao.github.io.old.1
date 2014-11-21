@@ -7,6 +7,7 @@ slug: '%e5%8f%b2%e4%b8%8a%e6%9c%80%e5%bc%ba%e7%9a%84%e8%8c%b6%e5%b9%bf%e5%91%8a'
 title: 史上最强的茶广告
 wordpress_id: 510
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

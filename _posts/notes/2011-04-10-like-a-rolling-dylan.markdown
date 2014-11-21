@@ -7,6 +7,7 @@ slug: like-a-rolling-dylan
 title: Like a rolling Dylan
 wordpress_id: 4213
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 游泳

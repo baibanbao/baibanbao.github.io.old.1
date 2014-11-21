@@ -7,6 +7,7 @@ slug: why-serve-them
 title: 为什么七个仙女一起为一个地主服务
 wordpress_id: 2106
 categories:
+- notes
 - 不好归类
 tags:
 - 生活不是条件反射

@@ -7,6 +7,7 @@ slug: berlin-wall
 title: 《柏林墙》书摘（2）
 wordpress_id: 2754
 categories:
+- notes
 - 不好归类
 tags:
 - 冷战

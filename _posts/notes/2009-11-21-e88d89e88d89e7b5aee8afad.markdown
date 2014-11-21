@@ -7,6 +7,7 @@ slug: '%e8%8d%89%e8%8d%89%e7%b5%ae%e8%af%ad'
 title: 草草絮语
 wordpress_id: 2756
 categories:
+- notes
 - 不好归类
 ---
 

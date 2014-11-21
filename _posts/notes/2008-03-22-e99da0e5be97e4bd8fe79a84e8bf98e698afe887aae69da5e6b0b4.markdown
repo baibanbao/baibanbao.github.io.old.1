@@ -7,6 +7,7 @@ slug: '%e9%9d%a0%e5%be%97%e4%bd%8f%e7%9a%84%e8%bf%98%e6%98%af%e8%87%aa%e6%9d%a5%
 title: 靠得住的还是自来水
 wordpress_id: 1415
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

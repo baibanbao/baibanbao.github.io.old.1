@@ -7,6 +7,7 @@ slug: '%e8%8b%b1%e4%bc%a6%e4%b8%80%e5%91%a8%ef%bc%88416%ef%bc%89'
 title: 榴莲周刊前传：英伦一周（4.16）
 wordpress_id: 881
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: '%e6%9c%9f%e5%be%85%e5%b0%8f%e5%a8%9f%e6%96%b0%e4%b8%93%e8%be%91%e3%80%8a%
 title: 期待小娟新专辑《红布绿花朵》
 wordpress_id: 1757
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

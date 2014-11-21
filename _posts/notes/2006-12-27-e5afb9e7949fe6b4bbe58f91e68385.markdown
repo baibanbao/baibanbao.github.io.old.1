@@ -7,6 +7,7 @@ slug: '%e5%af%b9%e7%94%9f%e6%b4%bb%e5%8f%91%e6%83%85'
 title: 对生活发情
 wordpress_id: 753
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

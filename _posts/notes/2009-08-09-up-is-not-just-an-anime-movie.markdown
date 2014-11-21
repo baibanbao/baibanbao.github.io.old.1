@@ -7,6 +7,7 @@ slug: up-is-not-just-an-anime-movie
 title: UP不是一部动画片
 wordpress_id: 2233
 categories:
+- notes
 - 爱看电影
 tags:
 - pixar

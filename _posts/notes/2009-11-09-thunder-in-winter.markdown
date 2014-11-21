@@ -7,6 +7,7 @@ slug: thunder-in-winter
 title: 冬雷
 wordpress_id: 2734
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 杭州

@@ -7,6 +7,7 @@ slug: '%e4%ba%b2%e7%88%b1%e7%9a%84%e6%9c%8b%e5%8f%8b%e4%bb%ac'
 title: 亲爱的朋友们
 wordpress_id: 759
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: coming-back-2
 title: 西湖海盗电台：123诗社《归》
 wordpress_id: 2812
 categories:
+- notes
 - 海盗电台
 tags:
 - 123诗社

@@ -7,6 +7,7 @@ slug: '%e7%ba%a2%e8%a2%9c%e5%ad%90%e8%80%81%e6%9d%bf%e7%9a%84%e4%b8%80%e6%ae%b5%
 title: 红袜子老板的一段话
 wordpress_id: 6371
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: '%e6%b2%b9%e4%bb%b7%e4%b8%8a%e6%b6%a8%e6%98%af%e7%bb%99%e5%9c%b0%e7%90%83%
 title: 油价上涨是给地球的最后一次机会
 wordpress_id: 1251
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

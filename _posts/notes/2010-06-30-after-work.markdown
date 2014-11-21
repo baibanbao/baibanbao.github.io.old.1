@@ -7,6 +7,7 @@ slug: after-work
 title: 译诗：劳作之后
 wordpress_id: 3333
 categories:
+- notes
 - 写作练习
 ---
 

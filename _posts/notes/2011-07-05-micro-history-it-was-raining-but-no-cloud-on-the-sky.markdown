@@ -7,6 +7,7 @@ slug: micro-history-it-was-raining-but-no-cloud-on-the-sky
 title: 一周微史记（2011-7-5）当时下着细雨天上却没有云
 wordpress_id: 4388
 categories:
+- notes
 - 非虚构叙事
 ---
 

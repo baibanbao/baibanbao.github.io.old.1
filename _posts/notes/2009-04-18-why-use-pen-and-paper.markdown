@@ -7,6 +7,7 @@ slug: why-use-pen-and-paper
 title: 为什么要回归纸和笔
 wordpress_id: 2031
 categories:
+- notes
 - 写作练习
 tags:
 - 写字

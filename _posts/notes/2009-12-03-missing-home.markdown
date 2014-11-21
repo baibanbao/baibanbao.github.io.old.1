@@ -7,6 +7,7 @@ slug: missing-home
 title: 西湖海盗电台《留在时间岸上的歌2：思故乡》
 wordpress_id: 2828
 categories:
+- notes
 - 海盗电台
 tags:
 - 海盗电台

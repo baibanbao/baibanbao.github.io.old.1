@@ -7,6 +7,7 @@ slug: '%e7%ac%ac%e4%b8%80%e5%ad%a6%e6%9c%9f%e8%af%be%e7%a8%8b%e8%a6%81%e6%b1%82%
 title: 第一学期课程要求的书单及部分中文版 - 别闹了！
 wordpress_id: 6464
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

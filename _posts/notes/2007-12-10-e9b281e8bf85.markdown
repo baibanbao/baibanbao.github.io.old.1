@@ -7,6 +7,7 @@ slug: '%e9%b2%81%e8%bf%85'
 title: 鲁迅啊
 wordpress_id: 1268
 categories:
+- notes
 - 写作练习
 tags:
 - 语文不动

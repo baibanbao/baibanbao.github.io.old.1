@@ -7,6 +7,7 @@ slug: saladhands30-guardian-soulmates
 title: SaladHands30 - Guardian Soulmates
 wordpress_id: 6507
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

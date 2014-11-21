@@ -7,6 +7,7 @@ slug: on-the-bite-of-china
 title: 舌尖，刀尖，心尖
 wordpress_id: 5463
 categories:
+- notes
 - 文艺批评
 ---
 

@@ -7,6 +7,7 @@ slug: '%e7%be%8e%e6%a2%ad%e7%bd%97%ef%bc%9a%e3%80%8a%e8%ae%ba%e5%85%ac%e6%b0%91%
 title: '[美]梭罗：《论公民的不服从》_百度文库'
 wordpress_id: 6462
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

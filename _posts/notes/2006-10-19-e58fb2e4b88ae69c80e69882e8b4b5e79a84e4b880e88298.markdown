@@ -7,6 +7,7 @@ slug: '%e5%8f%b2%e4%b8%8a%e6%9c%80%e6%98%82%e8%b4%b5%e7%9a%84%e4%b8%80%e8%82%98'
 title: 史上最昂贵的一肘
 wordpress_id: 636
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

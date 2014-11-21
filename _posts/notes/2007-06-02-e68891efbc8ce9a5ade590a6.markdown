@@ -7,6 +7,7 @@ slug: '%e6%88%91%ef%bc%8c%e9%a5%ad%e5%90%a6'
 title: 我，饭否
 wordpress_id: 1017
 categories:
+- notes
 - 学点技术
 ---
 

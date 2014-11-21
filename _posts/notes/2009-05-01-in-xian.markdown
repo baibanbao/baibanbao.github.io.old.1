@@ -7,6 +7,7 @@ slug: in-xian
 title: 到达西安
 wordpress_id: 2069
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

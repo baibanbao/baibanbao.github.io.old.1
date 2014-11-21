@@ -7,6 +7,7 @@ slug: the-return-of-mac-mini
 title: Mac Mini王者归来记
 wordpress_id: 4804
 categories:
+- notes
 - 各种工具
 ---
 

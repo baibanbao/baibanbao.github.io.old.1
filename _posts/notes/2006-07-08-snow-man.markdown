@@ -7,6 +7,7 @@ slug: snow-man
 title: 雪人
 wordpress_id: 461
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

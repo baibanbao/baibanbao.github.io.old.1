@@ -7,6 +7,7 @@ slug: francis-coppola-on-screenwriting
 title: 《教父》导演科波拉论电影编剧
 wordpress_id: 6182
 categories:
+- notes
 - 编剧学习
 tags:
 - 大师

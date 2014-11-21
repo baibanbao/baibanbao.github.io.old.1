@@ -7,6 +7,7 @@ slug: anti-says-%e3%80%8a%e8%87%b4%e6%ac%a7%e7%9b%9f%e3%80%8b-%e6%b3%a2%e5%85%b0
 title: 'Anti Says: 《致欧盟》——波兰诗人托马斯·皮昂泰克'
 wordpress_id: 6490
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

@@ -7,6 +7,7 @@ slug: '%e5%8d%81%e5%88%86%e5%a5%bd%e6%9c%88-%e9%95%bf%e7%85%a7%e4%ba%ba%e5%9c%86
 title: 十分好月 长照人圆
 wordpress_id: 1205
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

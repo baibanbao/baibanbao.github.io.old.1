@@ -7,6 +7,7 @@ slug: history-books-born-for-mobile-phone
 title: 为手机而生的PDF版《二十四史全译》
 wordpress_id: 2482
 categories:
+- notes
 - 学点技术
 - 读书笔记
 tags:

@@ -7,6 +7,7 @@ slug: aesop
 title: 海盗电台【飞翔的尾巴】朗诵话剧《伊索》
 wordpress_id: 3034
 categories:
+- notes
 - 不好归类
 tags:
 - 朗诵

@@ -7,6 +7,7 @@ slug: '%ef%bc%bb%e6%8e%a8%e8%b0%83%e6%9f%a5%ef%bc%bd%e5%a6%82%e6%9e%9c%e7%99%bd%
 title: ［推调查］如果白送你一套书，不考虑价钱，但必须读完，你希望是什么？
 wordpress_id: 6565
 categories:
+- notes
 - 不好归类
 tags:
 - book

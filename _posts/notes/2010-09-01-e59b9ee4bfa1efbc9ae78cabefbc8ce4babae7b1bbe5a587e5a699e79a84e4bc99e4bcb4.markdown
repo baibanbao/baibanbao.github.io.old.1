@@ -7,6 +7,7 @@ slug: '%e5%9b%9e%e4%bf%a1%ef%bc%9a%e7%8c%ab%ef%bc%8c%e4%ba%ba%e7%b1%bb%e5%a5%87%
 title: 回信：猫，人类奇妙的伙伴
 wordpress_id: 3439
 categories:
+- notes
 - 不好归类
 ---
 

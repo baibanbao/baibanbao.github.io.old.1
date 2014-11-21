@@ -7,6 +7,7 @@ slug: a-general-like-this
 title: 这一群猛将哪个有？
 wordpress_id: 470
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

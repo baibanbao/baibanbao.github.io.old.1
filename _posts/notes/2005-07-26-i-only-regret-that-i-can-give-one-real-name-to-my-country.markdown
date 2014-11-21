@@ -7,6 +7,7 @@ slug: i-only-regret-that-i-can-give-one-real-name-to-my-country
 title: 我们唯一的遗憾是只有一个实名献给祖国
 wordpress_id: 551
 categories:
+- notes
 - 学点技术
 tags:
 - 不好归类

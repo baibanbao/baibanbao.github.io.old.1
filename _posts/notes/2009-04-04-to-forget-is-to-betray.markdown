@@ -7,6 +7,7 @@ slug: to-forget-is-to-betray
 title: 遗忘，意味着背叛
 wordpress_id: 2007
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 口述历史

@@ -7,6 +7,7 @@ slug: 123-crave
 title: 123诗社：《渴求》的独白
 wordpress_id: 2896
 categories:
+- notes
 - 不好归类
 tags:
 - 戏剧

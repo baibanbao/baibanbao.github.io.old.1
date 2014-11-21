@@ -7,6 +7,7 @@ slug: interesting-time
 title: 12点34分56秒写一篇博客
 wordpress_id: 2228
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: '%e5%87%ad%e4%bb%80%e4%b9%88%e2%99%a5%e8%a1%a8%e7%a4%ba%e7%88%b1%ef%bc%8c%
 title: 凭什么♥表示爱，而不是恨
 wordpress_id: 6596
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: tv-is-such-a-thing
 title: 电视这东西
 wordpress_id: 450
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

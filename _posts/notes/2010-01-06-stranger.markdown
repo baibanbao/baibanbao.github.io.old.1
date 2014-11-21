@@ -7,6 +7,7 @@ slug: stranger
 title: 海盗电台Babynana友情朗诵《陌生人日记》
 wordpress_id: 3002
 categories:
+- notes
 - 不好归类
 ---
 

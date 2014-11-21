@@ -7,6 +7,7 @@ slug: zt%e4%b8%ad%e5%9b%bd%e7%ba%a2%e5%8d%81%e5%ad%97%e4%bc%9a%e6%80%bb%e4%bc%9a
 title: ZT中国红十字会总会发言人答记者问
 wordpress_id: 1562
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

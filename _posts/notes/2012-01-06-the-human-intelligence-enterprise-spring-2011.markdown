@@ -7,6 +7,7 @@ slug: the-human-intelligence-enterprise-spring-2011
 title: 'The Human Intelligence Enterprise: Spring 2011'
 wordpress_id: 6485
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

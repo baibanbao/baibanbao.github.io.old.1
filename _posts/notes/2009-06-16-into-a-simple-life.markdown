@@ -7,6 +7,7 @@ slug: into-a-simple-life
 title: 手写博617：迈向质朴生活
 wordpress_id: 2147
 categories:
+- notes
 - 爱看电影
 - 生活不是条件反射
 tags:

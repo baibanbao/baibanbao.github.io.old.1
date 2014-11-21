@@ -7,6 +7,7 @@ slug: a-failed-bidding
 title: 投标记
 wordpress_id: 6239
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 不忘

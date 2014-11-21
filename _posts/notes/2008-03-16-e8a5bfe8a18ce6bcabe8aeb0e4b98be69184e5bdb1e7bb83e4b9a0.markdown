@@ -7,6 +7,7 @@ slug: '%e8%a5%bf%e8%a1%8c%e6%bc%ab%e8%ae%b0%e4%b9%8b%e6%91%84%e5%bd%b1%e7%bb%83%
 title: 西行漫记之摄影练习
 wordpress_id: 1402
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

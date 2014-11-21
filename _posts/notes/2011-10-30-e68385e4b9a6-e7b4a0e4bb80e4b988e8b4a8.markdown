@@ -7,6 +7,7 @@ slug: '%e6%83%85%e4%b9%a6-%e7%b4%a0%e4%bb%80%e4%b9%88%e8%b4%a8'
 title: 情书 » 素什么质
 wordpress_id: 6541
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

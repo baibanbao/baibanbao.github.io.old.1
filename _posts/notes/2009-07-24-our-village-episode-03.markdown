@@ -7,6 +7,7 @@ slug: our-village-episode-03
 title: 我们的村庄（24-36）
 wordpress_id: 2219
 categories:
+- notes
 - 非虚构叙事
 - 鱼眼碎片
 tags:

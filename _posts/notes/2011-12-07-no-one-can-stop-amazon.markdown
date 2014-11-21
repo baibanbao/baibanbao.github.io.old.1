@@ -7,6 +7,7 @@ slug: no-one-can-stop-amazon
 title: 从猫买书看美国亚马逊的服务
 wordpress_id: 5032
 categories:
+- notes
 - 学点技术
 - 读书笔记
 ---

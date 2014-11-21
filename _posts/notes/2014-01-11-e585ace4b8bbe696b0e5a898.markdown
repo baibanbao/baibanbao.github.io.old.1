@@ -7,6 +7,7 @@ slug: '%e5%85%ac%e4%b8%bb%e6%96%b0%e5%a8%98'
 title: 公主新娘
 wordpress_id: 6410
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: anecdote-of-adou-01
 title: 阿豆奇事（1）
 wordpress_id: 2222
 categories:
+- notes
 - 写作练习
 tags:
 - 写字练习

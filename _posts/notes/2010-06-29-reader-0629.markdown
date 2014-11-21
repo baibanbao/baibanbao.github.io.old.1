@@ -7,6 +7,7 @@ slug: reader-0629
 title: 电读笔记：3D危险，别相信散养鸡蛋，香港看世界杯难
 wordpress_id: 3327
 categories:
+- notes
 - 不好归类
 ---
 

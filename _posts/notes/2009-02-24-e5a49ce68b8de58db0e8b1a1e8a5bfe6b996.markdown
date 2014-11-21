@@ -7,6 +7,7 @@ slug: '%e5%a4%9c%e6%8b%8d%e5%8d%b0%e8%b1%a1%e8%a5%bf%e6%b9%96'
 title: 无题之夜
 wordpress_id: 1939
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

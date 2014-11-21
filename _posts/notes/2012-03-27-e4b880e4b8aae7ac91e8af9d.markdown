@@ -7,6 +7,7 @@ slug: '%e4%b8%80%e4%b8%aa%e7%ac%91%e8%af%9d'
 title: 一个笑话
 wordpress_id: 6385
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: youth-in-siping-and-self-censorship-in-china
 title: 《四平青年》突破自我审查的魔咒
 wordpress_id: 6267
 categories:
+- notes
 - 爱看电影
 tags:
 - 审查

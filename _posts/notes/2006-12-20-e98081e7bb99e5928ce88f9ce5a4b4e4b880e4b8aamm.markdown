@@ -7,6 +7,7 @@ slug: '%e9%80%81%e7%bb%99%e5%92%8c%e8%8f%9c%e5%a4%b4%e4%b8%80%e4%b8%aamm'
 title: 送给和菜头一个MM
 wordpress_id: 734
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

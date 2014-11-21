@@ -7,6 +7,7 @@ slug: if-you-meet-a-young-fellow
 title: 如果你遇到一个年轻人
 wordpress_id: 5728
 categories:
+- notes
 - 写作练习
 tags:
 - 写作练习

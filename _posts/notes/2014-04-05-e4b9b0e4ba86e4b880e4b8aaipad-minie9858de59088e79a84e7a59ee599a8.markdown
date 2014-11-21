@@ -7,6 +7,7 @@ slug: '%e4%b9%b0%e4%ba%86%e4%b8%80%e4%b8%aaipad-mini%e9%85%8d%e5%90%88%e7%9a%84%
 title: 买了一个iPad mini配合的神器
 wordpress_id: 6365
 categories:
+- notes
 - 不好归类
 ---
 

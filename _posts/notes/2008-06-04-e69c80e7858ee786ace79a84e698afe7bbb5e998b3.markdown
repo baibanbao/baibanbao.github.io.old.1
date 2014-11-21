@@ -7,6 +7,7 @@ slug: '%e6%9c%80%e7%85%8e%e7%86%ac%e7%9a%84%e6%98%af%e7%bb%b5%e9%98%b3'
 title: 最煎熬的是绵阳
 wordpress_id: 1584
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

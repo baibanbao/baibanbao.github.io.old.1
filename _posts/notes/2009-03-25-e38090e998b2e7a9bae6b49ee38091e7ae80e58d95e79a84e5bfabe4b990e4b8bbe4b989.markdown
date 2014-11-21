@@ -7,6 +7,7 @@ slug: '%e3%80%90%e9%98%b2%e7%a9%ba%e6%b4%9e%e3%80%91%e7%ae%80%e5%8d%95%e7%9a%84%
 title: 【防空洞】简单的快乐主义
 wordpress_id: 1989
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

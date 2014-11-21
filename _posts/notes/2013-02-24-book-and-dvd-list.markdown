@@ -7,6 +7,7 @@ slug: book-and-dvd-list
 title: 书单碟报
 wordpress_id: 5914
 categories:
+- notes
 - 读书笔记
 ---
 

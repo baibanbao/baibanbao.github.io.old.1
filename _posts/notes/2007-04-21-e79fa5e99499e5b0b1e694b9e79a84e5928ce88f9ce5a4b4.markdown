@@ -7,6 +7,7 @@ slug: '%e7%9f%a5%e9%94%99%e5%b0%b1%e6%94%b9%e7%9a%84%e5%92%8c%e8%8f%9c%e5%a4%b4'
 title: 知错就改的理科生
 wordpress_id: 905
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: germen-are-not-human-being
 title: 德国人不是人
 wordpress_id: 451
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

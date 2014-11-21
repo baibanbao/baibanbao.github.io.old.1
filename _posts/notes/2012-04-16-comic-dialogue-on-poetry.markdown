@@ -7,6 +7,7 @@ slug: comic-dialogue-on-poetry
 title: 【文艺相声】谈诗歌
 wordpress_id: 5398
 categories:
+- notes
 - 写作练习
 ---
 

@@ -7,6 +7,7 @@ slug: reading-kindle-materials
 title: Kindle阅读志--7.19周末
 wordpress_id: 2207
 categories:
+- notes
 - 不好归类
 tags:
 - kindle

@@ -7,6 +7,7 @@ slug: overeating
 title: kindle书影--贪吃者请进
 wordpress_id: 2205
 categories:
+- notes
 - 不好归类
 tags:
 - 读书笔记

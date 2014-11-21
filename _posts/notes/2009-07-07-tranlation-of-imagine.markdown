@@ -7,6 +7,7 @@ slug: tranlation-of-imagine
 title: 这首歌献给我不分种族的同胞们
 wordpress_id: 2191
 categories:
+- notes
 - 不好归类
 tags:
 - 歌

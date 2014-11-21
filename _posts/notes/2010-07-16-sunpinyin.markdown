@@ -7,6 +7,7 @@ slug: sunpinyin
 title: Mac上强大的sunpinyin
 wordpress_id: 3357
 categories:
+- notes
 - 学点技术
 tags:
 - mac

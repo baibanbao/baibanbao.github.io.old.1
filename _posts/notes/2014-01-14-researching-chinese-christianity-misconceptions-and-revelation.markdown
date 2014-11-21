@@ -8,6 +8,7 @@ slug: researching-chinese-christianity-misconceptions-and-revelation
 title: 'Researching Chinese Christianity: (Mis)conceptions and revelation'
 wordpress_id: 6430
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

@@ -7,6 +7,7 @@ slug: book-as-a-gift
 title: 赠书
 wordpress_id: 3240
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 朋友

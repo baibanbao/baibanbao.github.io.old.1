@@ -7,6 +7,7 @@ slug: buying-books-on-amazon-cn
 title: 买书应去亚马逊
 wordpress_id: 4892
 categories:
+- notes
 - 生活不是条件反射
 - 读书笔记
 tags:

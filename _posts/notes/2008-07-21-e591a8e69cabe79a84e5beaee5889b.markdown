@@ -7,6 +7,7 @@ slug: '%e5%91%a8%e6%9c%ab%e7%9a%84%e5%be%ae%e5%88%9b'
 title: 周末的微创
 wordpress_id: 1648
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

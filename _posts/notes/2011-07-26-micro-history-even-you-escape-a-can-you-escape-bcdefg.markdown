@@ -7,6 +7,7 @@ slug: micro-history-even-you-escape-a-can-you-escape-bcdefg
 title: 一周微史记（2011-7-26）这样子可以躲过A，可是能躲得过BCDEFG吗？
 wordpress_id: 4421
 categories:
+- notes
 - 非虚构叙事
 ---
 

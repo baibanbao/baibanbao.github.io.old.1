@@ -7,6 +7,7 @@ slug: '%e8%bd%ac%ef%bc%9a%e4%b8%ad%e5%9b%bd%e7%9a%84%e9%ab%98%e6%a0%a1%e9%83%bd%
 title: 转：中国的高校都教出一群什么垃圾？
 wordpress_id: 742
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

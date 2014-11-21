@@ -7,6 +7,7 @@ slug: my-2012-in-picture
 title: 镜头中的一年
 wordpress_id: 5817
 categories:
+- notes
 - 爱看电影
 - 生活不是条件反射
 tags:

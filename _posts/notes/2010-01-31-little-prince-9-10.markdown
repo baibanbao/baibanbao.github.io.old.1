@@ -7,6 +7,7 @@ slug: little-prince-9-10
 title: 海盗电台：欣燃播讲《小王子》（9-10集）
 wordpress_id: 3143
 categories:
+- notes
 - 不好归类
 tags:
 - 小王子

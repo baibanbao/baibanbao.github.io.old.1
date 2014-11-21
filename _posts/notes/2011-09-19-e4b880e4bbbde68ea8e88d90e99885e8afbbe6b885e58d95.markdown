@@ -7,6 +7,7 @@ slug: '%e4%b8%80%e4%bb%bd%e6%8e%a8%e8%8d%90%e9%98%85%e8%af%bb%e6%b8%85%e5%8d%95'
 title: '**一份推荐阅读清单**'
 wordpress_id: 6574
 categories:
+- notes
 - 不好归类
 ---
 

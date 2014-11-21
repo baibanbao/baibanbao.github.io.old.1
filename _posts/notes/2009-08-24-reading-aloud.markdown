@@ -7,6 +7,7 @@ slug: reading-aloud
 title: 回到诵读
 wordpress_id: 2321
 categories:
+- notes
 - 读书笔记
 tags:
 - 古文

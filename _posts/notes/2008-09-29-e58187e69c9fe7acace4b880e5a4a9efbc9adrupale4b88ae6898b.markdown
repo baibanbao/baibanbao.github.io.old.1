@@ -7,6 +7,7 @@ slug: '%e5%81%87%e6%9c%9f%e7%ac%ac%e4%b8%80%e5%a4%a9%ef%bc%9adrupal%e4%b8%8a%e6%
 title: 假期第一天：Drupal上手
 wordpress_id: 1712
 categories:
+- notes
 - 学点技术
 ---
 

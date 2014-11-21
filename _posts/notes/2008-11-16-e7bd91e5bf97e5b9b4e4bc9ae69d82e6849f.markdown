@@ -7,6 +7,7 @@ slug: '%e7%bd%91%e5%bf%97%e5%b9%b4%e4%bc%9a%e6%9d%82%e6%84%9f'
 title: 网志年会杂感
 wordpress_id: 1767
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

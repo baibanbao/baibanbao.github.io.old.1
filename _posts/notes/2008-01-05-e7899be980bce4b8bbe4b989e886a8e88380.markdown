@@ -7,6 +7,7 @@ slug: '%e7%89%9b%e9%80%bc%e4%b8%bb%e4%b9%89%e8%86%a8%e8%83%80'
 title: 牛逼主义膨胀
 wordpress_id: 1292
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

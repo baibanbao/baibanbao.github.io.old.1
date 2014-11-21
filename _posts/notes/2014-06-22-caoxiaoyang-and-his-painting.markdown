@@ -7,6 +7,7 @@ slug: caoxiaoyang-and-his-painting
 title: 渊默雷声，秘想旁通--曹晓阳和他的山水帝国
 wordpress_id: 6324
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 艺术家

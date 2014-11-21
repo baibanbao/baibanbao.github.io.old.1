@@ -7,6 +7,7 @@ slug: caocan-a-memoir
 title: 又闻曹灿
 wordpress_id: 2026
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 小时候

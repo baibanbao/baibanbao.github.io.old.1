@@ -7,6 +7,7 @@ slug: wordpress-markdown-quicktags-wordpress-plugins
 title: WordPress › Markdown QuickTags « WordPress Plugins
 wordpress_id: 6563
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

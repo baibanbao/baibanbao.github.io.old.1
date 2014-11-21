@@ -7,6 +7,7 @@ slug: a-story
 title: 微小的第一推动力
 wordpress_id: 2924
 categories:
+- notes
 - 非虚构叙事
 - 鱼眼碎片
 tags:

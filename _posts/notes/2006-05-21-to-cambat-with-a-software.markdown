@@ -7,6 +7,7 @@ slug: to-cambat-with-a-software
 title: 你们不知道我有多么坚韧
 wordpress_id: 6
 categories:
+- notes
 - 学点技术
 tags:
 - 不好归类

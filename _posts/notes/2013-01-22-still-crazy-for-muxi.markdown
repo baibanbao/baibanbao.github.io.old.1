@@ -7,6 +7,7 @@ slug: still-crazy-for-muxi
 title: 继续读木心
 wordpress_id: 5875
 categories:
+- notes
 - 读书笔记
 tags:
 - 木心

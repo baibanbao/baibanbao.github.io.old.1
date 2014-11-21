@@ -7,6 +7,7 @@ slug: we-salute-when-we-drive
 title: 海盗电台：阿の原创《We Salute When We Drive》
 wordpress_id: 3121
 categories:
+- notes
 - 不好归类
 tags:
 - 原创音乐

@@ -7,6 +7,7 @@ slug: '%e9%a2%84%e8%a8%80%e5%ae%b6%e5%90%b4%e6%98%8c%e7%a1%95'
 title: 预言家吴昌硕
 wordpress_id: 1993
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

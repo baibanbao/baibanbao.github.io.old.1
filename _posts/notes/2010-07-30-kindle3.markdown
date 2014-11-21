@@ -7,6 +7,7 @@ slug: kindle3
 title: 全民电子阅读时代来临：Kindle3超低价发布
 wordpress_id: 3389
 categories:
+- notes
 - 各种工具
 ---
 

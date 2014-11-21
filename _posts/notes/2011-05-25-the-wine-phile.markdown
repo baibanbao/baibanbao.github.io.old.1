@@ -7,6 +7,7 @@ slug: the-wine-phile
 title: 红酒客
 wordpress_id: 4305
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 专栏

@@ -7,6 +7,7 @@ slug: '%e7%9b%98%e7%82%b9%e6%95%b0%e5%ad%a6%e9%87%8c%e5%8d%81%e5%a4%a7%e4%b8%8d%
 title: 盘点数学里十大不需要语言的证明 - 死理性派 - 果壳网 guokr.com
 wordpress_id: 6508
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

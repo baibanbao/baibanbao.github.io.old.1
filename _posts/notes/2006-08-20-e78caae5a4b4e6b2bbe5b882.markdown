@@ -7,6 +7,7 @@ slug: '%e7%8c%aa%e5%a4%b4%e6%b2%bb%e5%b8%82'
 title: 猪头治市
 wordpress_id: 499
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

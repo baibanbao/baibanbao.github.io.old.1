@@ -7,6 +7,7 @@ slug: cailan-japanese-movies
 title: 读蔡澜《日本电影》
 wordpress_id: 2899
 categories:
+- notes
 - 爱看电影
 - 读书笔记
 tags:

@@ -7,6 +7,7 @@ slug: '%e5%85%b3%e6%b3%a8%e5%87%a0%e4%b8%aa%e5%9c%b0%e9%9c%87%e7%81%be%e6%83%85%
 title: 关注几个地震灾情信息源
 wordpress_id: 1531
 categories:
+- notes
 - 学点技术
 tags:
 - 地震

@@ -7,6 +7,7 @@ slug: tweets
 title: 草草絮语20091216
 wordpress_id: 2918
 categories:
+- notes
 - 非虚构叙事
 - 鱼眼碎片
 tags:

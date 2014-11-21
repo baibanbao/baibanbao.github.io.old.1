@@ -7,6 +7,7 @@ slug: zt-%e5%9b%9b%e5%b7%9d391%e5%ba%a7%e6%b0%b4%e5%ba%93%e5%87%ba%e7%8e%b0%e9%9
 title: ZT 四川391座水库出现险情 铜钟水库成功排险
 wordpress_id: 1549
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: on-voices-carry
 title: 有些书，仅读中译本是不够的--英若诚一生的传奇与谜团
 wordpress_id: 3738
 categories:
+- notes
 - 读书笔记
 tags:
 - kindle

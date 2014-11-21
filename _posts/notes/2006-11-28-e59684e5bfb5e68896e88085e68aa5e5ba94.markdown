@@ -7,6 +7,7 @@ slug: '%e5%96%84%e5%bf%b5%e6%88%96%e8%80%85%e6%8a%a5%e5%ba%94'
 title: 善念或者报应
 wordpress_id: 698
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: the-penalty-kick-of-italy
 title: 意大利的点球
 wordpress_id: 441
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

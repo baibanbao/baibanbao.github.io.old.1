@@ -7,6 +7,7 @@ slug: me-in-my-office-alone
 title: 坐在一个人的办公室里
 wordpress_id: 708
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

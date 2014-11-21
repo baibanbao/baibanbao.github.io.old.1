@@ -7,6 +7,7 @@ slug: fast-too-fast
 title: 忽忽，太忽忽
 wordpress_id: 2192
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 生活

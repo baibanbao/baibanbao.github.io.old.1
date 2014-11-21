@@ -7,6 +7,7 @@ slug: '%e5%bd%95%e9%9f%b3%ef%bc%9a%e4%b8%ad%e5%a4%ae%e5%a7%94%e5%91%98%e4%bc%9a%
 title: 录音：中央委员会关于无产阶级文化大革命的决定
 wordpress_id: 642
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

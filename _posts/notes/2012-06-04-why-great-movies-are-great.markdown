@@ -7,6 +7,7 @@ slug: why-great-movies-are-great
 title: 伟大的电影凭什么伟大
 wordpress_id: 5481
 categories:
+- notes
 - 文艺批评
 tags:
 - 感悟

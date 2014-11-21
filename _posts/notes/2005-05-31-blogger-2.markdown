@@ -7,6 +7,7 @@ slug: blogger-2
 title: Blogger
 wordpress_id: 1141
 categories:
+- notes
 - 学点技术
 ---
 

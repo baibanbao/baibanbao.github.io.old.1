@@ -7,6 +7,7 @@ slug: the-non-existed-wife
 title: 不存在的妻子
 wordpress_id: 2118
 categories:
+- notes
 - 写作练习
 - 生活不是条件反射
 tags:

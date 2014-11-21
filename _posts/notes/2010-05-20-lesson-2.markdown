@@ -7,6 +7,7 @@ slug: lesson-2
 title: 听课笔记（２）凤凰卫视分析师谈国内外经济形势
 wordpress_id: 3282
 categories:
+- notes
 - 不好归类
 tags:
 - 经济

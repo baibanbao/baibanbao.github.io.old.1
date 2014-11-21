@@ -7,6 +7,7 @@ slug: a-problemic-article-in-the-5th-volume-of-the-selected-works-of-maozedong
 title: 转：《毛选》五卷中一篇有问题的文章
 wordpress_id: 4349
 categories:
+- notes
 - 读书笔记
 ---
 

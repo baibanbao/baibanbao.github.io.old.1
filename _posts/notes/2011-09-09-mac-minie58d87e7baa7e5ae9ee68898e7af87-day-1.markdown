@@ -7,6 +7,7 @@ slug: mac-mini%e5%8d%87%e7%ba%a7%e5%ae%9e%e6%88%98%e7%af%87-day-1
 title: mac mini升级实战篇 day 1
 wordpress_id: 6623
 categories:
+- notes
 - 不好归类
 tags:
 - Mac mini

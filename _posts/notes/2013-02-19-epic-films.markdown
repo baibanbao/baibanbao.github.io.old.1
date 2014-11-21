@@ -7,6 +7,7 @@ slug: epic-films
 title: 我看大卫-里恩的史诗电影
 wordpress_id: 5898
 categories:
+- notes
 - 文艺批评
 - 爱看电影
 tags:

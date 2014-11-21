@@ -7,6 +7,7 @@ slug: '%e5%8f%aa%e4%b8%8a%e6%bc%94%e8%bf%87%e4%b8%80%e6%ac%a1%e7%9a%84%e5%89%a7%
 title: 只上演过一次的剧本片断
 wordpress_id: 609
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: alibaba-big-show
 title: 阿里巴巴十年庆典亲历记
 wordpress_id: 2555
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 阿里巴巴

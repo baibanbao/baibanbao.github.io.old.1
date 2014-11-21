@@ -7,6 +7,7 @@ slug: analysing-the-dog-day-afternoon
 title: 《热天午后》影片分析
 wordpress_id: 6275
 categories:
+- notes
 - 爱看电影
 - 编剧学习
 tags:

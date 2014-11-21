@@ -7,6 +7,7 @@ slug: presidential-election-of-roc
 title: 台湾总统选举辩论
 wordpress_id: 5022
 categories:
+- notes
 - 非虚构叙事
 ---
 

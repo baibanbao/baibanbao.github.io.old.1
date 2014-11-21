@@ -7,6 +7,7 @@ slug: being-a-loser-in-qiangdao
 title: 青岛往事
 wordpress_id: 4896
 categories:
+- notes
 - 生活不是条件反射
 - 非虚构叙事
 tags:

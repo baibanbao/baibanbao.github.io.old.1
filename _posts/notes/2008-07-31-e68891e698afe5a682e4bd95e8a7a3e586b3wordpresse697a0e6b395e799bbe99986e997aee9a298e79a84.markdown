@@ -7,6 +7,7 @@ slug: '%e6%88%91%e6%98%af%e5%a6%82%e4%bd%95%e8%a7%a3%e5%86%b3wordpress%e6%97%a0%
 title: 我是如何解决Wordpress无法登陆问题的
 wordpress_id: 1655
 categories:
+- notes
 - 不好归类
 tags:
 - warning

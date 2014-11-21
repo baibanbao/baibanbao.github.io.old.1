@@ -7,6 +7,7 @@ slug: on-1942
 title: 不喜欢《1942》，喜欢《Life of π》
 wordpress_id: 5712
 categories:
+- notes
 - 文艺批评
 tags:
 - 信仰

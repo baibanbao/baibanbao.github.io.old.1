@@ -7,6 +7,7 @@ slug: luxun-on-writing
 title: 鲁迅论文艺与写作
 wordpress_id: 5405
 categories:
+- notes
 - 写作练习
 - 读书笔记
 tags:

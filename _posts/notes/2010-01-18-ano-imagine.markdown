@@ -7,6 +7,7 @@ slug: ano-imagine
 title: 海盗电台：阿の弹唱《Imagine》
 wordpress_id: 3096
 categories:
+- notes
 - 不好归类
 tags:
 - 海盗电台

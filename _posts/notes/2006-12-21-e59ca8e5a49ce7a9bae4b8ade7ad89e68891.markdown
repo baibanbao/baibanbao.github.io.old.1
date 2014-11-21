@@ -7,6 +7,7 @@ slug: '%e5%9c%a8%e5%a4%9c%e7%a9%ba%e4%b8%ad%e7%ad%89%e6%88%91'
 title: 在夜空中等我
 wordpress_id: 735
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

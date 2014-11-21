@@ -7,6 +7,7 @@ slug: a-happy-removal
 title: 乔迁记
 wordpress_id: 2224
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 搬家

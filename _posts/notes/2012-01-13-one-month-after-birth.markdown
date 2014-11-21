@@ -7,6 +7,7 @@ slug: one-month-after-birth
 title: 满月
 wordpress_id: 5191
 categories:
+- notes
 - 生活不是条件反射
 ---
 

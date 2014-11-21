@@ -7,6 +7,7 @@ slug: how-to-save-iphone-home-key
 title: iPhone的Home按钮不好用了，怎么办？答案是用软件代替
 wordpress_id: 4788
 categories:
+- notes
 - 各种工具
 ---
 

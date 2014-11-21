@@ -7,6 +7,7 @@ slug: opera-unite
 title: Opera Unite：激动人心的下一代网络技术
 wordpress_id: 2152
 categories:
+- notes
 - 学点技术
 tags:
 - 技术

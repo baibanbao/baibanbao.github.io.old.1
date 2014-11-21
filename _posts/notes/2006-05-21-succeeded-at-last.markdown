@@ -7,6 +7,7 @@ slug: succeeded-at-last
 title: 胜利测试成功！
 wordpress_id: 5
 categories:
+- notes
 - 学点技术
 tags:
 - 不好归类

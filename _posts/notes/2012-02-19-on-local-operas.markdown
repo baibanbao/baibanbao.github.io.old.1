@@ -7,6 +7,7 @@ slug: on-local-operas
 title: 地方戏，还能唱多久？
 wordpress_id: 5301
 categories:
+- notes
 - 文艺批评
 ---
 

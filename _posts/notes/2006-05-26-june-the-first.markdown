@@ -7,6 +7,7 @@ slug: june-the-first
 title: 我们的六一儿童节！
 wordpress_id: 398
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

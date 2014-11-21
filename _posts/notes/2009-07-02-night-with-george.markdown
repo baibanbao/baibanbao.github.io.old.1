@@ -7,6 +7,7 @@ slug: night-with-george
 title: 乔治之夜
 wordpress_id: 2179
 categories:
+- notes
 - 爱看电影
 tags:
 - 纪实摄影

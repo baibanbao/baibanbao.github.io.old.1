@@ -7,6 +7,7 @@ slug: '%e6%9d%ad%e5%b7%9e%e6%97%85%e6%b8%b8%e9%9d%9e%e5%ae%98%e6%96%b9%e6%8c%87%
 title: 杭州旅游非官方指南V1.9beta2
 wordpress_id: 3366
 categories:
+- notes
 - 不好归类
 tags:
 - 旅游

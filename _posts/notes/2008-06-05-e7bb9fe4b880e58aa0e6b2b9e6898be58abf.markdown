@@ -7,6 +7,7 @@ slug: '%e7%bb%9f%e4%b8%80%e5%8a%a0%e6%b2%b9%e6%89%8b%e5%8a%bf'
 title: ZT 统一加油的回帖
 wordpress_id: 1586
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

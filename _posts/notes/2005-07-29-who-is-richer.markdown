@@ -7,6 +7,7 @@ slug: who-is-richer
 title: 斗富，又见斗富
 wordpress_id: 555
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

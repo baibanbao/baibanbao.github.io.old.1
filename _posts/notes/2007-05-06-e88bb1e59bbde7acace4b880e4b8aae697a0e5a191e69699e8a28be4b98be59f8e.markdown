@@ -7,6 +7,7 @@ slug: '%e8%8b%b1%e5%9b%bd%e7%ac%ac%e4%b8%80%e4%b8%aa%e6%97%a0%e5%a1%91%e6%96%99%
 title: 英国第一个无塑料袋之城
 wordpress_id: 933
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

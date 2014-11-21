@@ -7,6 +7,7 @@ slug: micro-history-your-city-and-my-village
 title: 一周微史记（2011-8-24）你们的城市 我们的村庄
 wordpress_id: 4469
 categories:
+- notes
 - 非虚构叙事
 ---
 

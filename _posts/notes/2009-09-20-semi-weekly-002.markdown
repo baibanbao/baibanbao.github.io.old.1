@@ -7,6 +7,7 @@ slug: semi-weekly-002
 title: 新闻半周报002期
 wordpress_id: 2582
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 双日报

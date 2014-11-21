@@ -7,6 +7,7 @@ slug: my-weekend
 title: 我的周末
 wordpress_id: 2541
 categories:
+- notes
 - 不好归类
 tags:
 - iphone

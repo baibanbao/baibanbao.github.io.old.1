@@ -7,6 +7,7 @@ slug: a-spy-story
 title: 白板报故事会之《小潜伏》
 wordpress_id: 2061
 categories:
+- notes
 - 不好归类
 - 写作练习
 tags:

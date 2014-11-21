@@ -7,6 +7,7 @@ slug: butterfly-miracle
 title: 蝴蝶奇缘
 wordpress_id: 416
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

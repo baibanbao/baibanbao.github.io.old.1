@@ -7,6 +7,7 @@ slug: '%e5%a4%aa%e5%88%9d%e6%9c%89%e9%81%93%ef%bc%8c%e8%89%b2%e5%8d%b3%e6%98%af%
 title: 太初有道，色即是空
 wordpress_id: 928
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: i-was-not-on-the-express-train
 title: 我不在那列D3115动车上⋯⋯
 wordpress_id: 4414
 categories:
+- notes
 - 生活不是条件反射
 ---
 

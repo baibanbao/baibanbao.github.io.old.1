@@ -7,6 +7,7 @@ slug: purity-of-language
 title: 语言洁癖
 wordpress_id: 2784
 categories:
+- notes
 - 生活不是条件反射
 - 语文运动
 tags:

@@ -7,6 +7,7 @@ slug: peach-flowe
 title: 人人暗恋桃花源
 wordpress_id: 2994
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 摄影

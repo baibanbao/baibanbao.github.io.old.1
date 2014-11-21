@@ -7,6 +7,7 @@ slug: catching-new-soldiers
 title: 独一无二的黑色喜剧《抓壮丁》
 wordpress_id: 6187
 categories:
+- notes
 - 编剧学习
 tags:
 - 喜剧

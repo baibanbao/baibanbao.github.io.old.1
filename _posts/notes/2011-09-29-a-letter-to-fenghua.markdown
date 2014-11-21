@@ -7,6 +7,7 @@ slug: a-letter-to-fenghua
 title: 风华如晤
 wordpress_id: 4824
 categories:
+- notes
 - 生活不是条件反射
 ---
 

@@ -7,6 +7,7 @@ slug: threshold
 title: 屠格涅夫《门槛》
 wordpress_id: 3962
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 转载

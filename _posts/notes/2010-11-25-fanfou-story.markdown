@@ -7,6 +7,7 @@ slug: fanfou-story
 title: 饭否惊魂
 wordpress_id: 3598
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - sns

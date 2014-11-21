@@ -8,6 +8,7 @@ slug: '%e5%bc%80%e5%a7%8b%e6%96%b0%e5%be%81%e7%a8%8b'
 title: 开始新征程
 wordpress_id: 6435
 categories:
+- notes
 - 不好归类
 tags:
 - CA

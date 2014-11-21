@@ -7,6 +7,7 @@ slug: the-kunqu-night
 title: 昆曲的沉醉
 wordpress_id: 2085
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

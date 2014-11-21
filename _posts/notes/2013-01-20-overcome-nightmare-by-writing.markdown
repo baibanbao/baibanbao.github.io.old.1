@@ -7,6 +7,7 @@ slug: overcome-nightmare-by-writing
 title: 消解噩梦
 wordpress_id: 5871
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 写作

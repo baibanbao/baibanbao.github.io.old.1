@@ -7,6 +7,7 @@ slug: avatar
 title: 《阿凡达》火爆的背后（绝无半点剧透）
 wordpress_id: 3011
 categories:
+- notes
 - 爱看电影
 tags:
 - 影评

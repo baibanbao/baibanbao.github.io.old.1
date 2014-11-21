@@ -7,6 +7,7 @@ slug: '%e6%9c%80%e6%84%89%e5%bf%ab%e7%9a%84%e4%b8%8b%e5%8d%88'
 title: 最愉快的下午
 wordpress_id: 843
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

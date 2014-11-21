@@ -7,6 +7,7 @@ slug: micro-history-i-left-a-ferreli-behind-on-my-bike-near-the-west-lake
 title: 一周微史记（2011年5月31日）哥骑车轻松超过一辆法拉利
 wordpress_id: 4313
 categories:
+- notes
 - 非虚构叙事
 ---
 

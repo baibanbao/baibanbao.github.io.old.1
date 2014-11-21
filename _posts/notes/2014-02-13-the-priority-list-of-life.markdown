@@ -7,6 +7,7 @@ slug: the-priority-list-of-life
 title: 生命的轻重缓急
 wordpress_id: 6278
 categories:
+- notes
 - 生活不是条件反射
 - 非虚构叙事
 tags:

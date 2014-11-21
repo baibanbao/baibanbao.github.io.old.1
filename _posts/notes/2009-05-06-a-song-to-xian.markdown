@@ -7,6 +7,7 @@ slug: a-song-to-xian
 title: 唱一首XI'AN的歌
 wordpress_id: 2078
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

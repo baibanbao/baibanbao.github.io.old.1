@@ -7,6 +7,7 @@ slug: to-wtb-2
 title: 难写的鲁迅传
 wordpress_id: 1270
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

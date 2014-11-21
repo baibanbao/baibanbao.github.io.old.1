@@ -7,6 +7,7 @@ slug: '%e9%97%aa%e7%94%b5-2'
 title: 闪电
 wordpress_id: 1269
 categories:
+- notes
 - 写作练习
 tags:
 - 生活不是条件反射

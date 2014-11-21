@@ -7,6 +7,7 @@ slug: miss-you-in-dark-night
 title: 到黑夜想你
 wordpress_id: 2107
 categories:
+- notes
 - 写作练习
 tags:
 - 旧作

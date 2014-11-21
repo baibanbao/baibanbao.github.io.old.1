@@ -7,6 +7,7 @@ slug: '%e8%8f%9c%e5%a4%b4%ef%bc%8c%e4%bd%a0%e9%ab%98%e5%85%b4%e6%97%a9%e4%ba%86%
 title: 菜头，你高兴早了！
 wordpress_id: 732
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

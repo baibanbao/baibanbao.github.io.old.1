@@ -7,6 +7,7 @@ slug: '%e5%8e%86%e5%8f%b2%e7%9a%84%e5%b7%a7%e5%90%88'
 title: 历史的巧合
 wordpress_id: 1507
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

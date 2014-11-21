@@ -7,6 +7,7 @@ slug: '%e8%af%b4%e8%bf%99%e8%af%9d%e5%b0%b1%e5%a4%aa%e6%b2%a1%e8%89%af%e5%bf%83%
 title: 说这话就太没良心了吧
 wordpress_id: 823
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

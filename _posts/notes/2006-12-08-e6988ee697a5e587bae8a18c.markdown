@@ -7,6 +7,7 @@ slug: '%e6%98%8e%e6%97%a5%e5%87%ba%e8%a1%8c'
 title: 出门了
 wordpress_id: 721
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

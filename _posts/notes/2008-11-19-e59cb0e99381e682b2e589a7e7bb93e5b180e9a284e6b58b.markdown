@@ -7,6 +7,7 @@ slug: '%e5%9c%b0%e9%93%81%e6%82%b2%e5%89%a7%e7%bb%93%e5%b1%80%e9%a2%84%e6%b5%8b'
 title: 地铁悲剧结局预测
 wordpress_id: 1770
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

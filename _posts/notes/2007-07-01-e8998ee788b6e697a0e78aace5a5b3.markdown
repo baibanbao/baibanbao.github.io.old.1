@@ -7,6 +7,7 @@ slug: '%e8%99%8e%e7%88%b6%e6%97%a0%e7%8a%ac%e5%a5%b3'
 title: 虎父无犬女
 wordpress_id: 1096
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

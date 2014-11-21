@@ -7,6 +7,7 @@ slug: '%e6%83%b3%e8%b1%a1%e4%b8%ad%e7%9a%84%e8%8e%8e%e5%a3%ab%e6%af%94%e4%ba%9a'
 title: 想象中的莎士比亚
 wordpress_id: 1126
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

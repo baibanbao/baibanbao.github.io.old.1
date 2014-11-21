@@ -7,6 +7,7 @@ slug: recommended-books
 title: 近期美女过眼录
 wordpress_id: 2177
 categories:
+- notes
 - 读书笔记
 tags:
 - 白板报报道

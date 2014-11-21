@@ -7,6 +7,7 @@ slug: using-google-plus
 title: 初步体验Google+
 wordpress_id: 4391
 categories:
+- notes
 - 学点技术
 tags:
 - google

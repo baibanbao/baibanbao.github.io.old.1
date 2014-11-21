@@ -7,6 +7,7 @@ slug: traditional-chinese-writing-style
 title: 张中行《文言津逮》6小时后读书笔记
 wordpress_id: 6785
 categories:
+- notes
 - 不好归类
 ---
 

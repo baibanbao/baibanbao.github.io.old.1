@@ -7,6 +7,7 @@ slug: an-unsent-letter-to-a-whisky-sales-woman
 title: 给威士忌推销员的一封发不出去的信
 wordpress_id: 4761
 categories:
+- notes
 - 非虚构叙事
 ---
 

@@ -7,6 +7,7 @@ slug: i-will-miss-xian
 title: 西安，我会想念
 wordpress_id: 2077
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

@@ -7,6 +7,7 @@ slug: '%e6%94%b9%e8%bf%9b%e4%ba%86%e7%95%99%e8%a8%80%e7%b3%bb%e7%bb%9f'
 title: 改进了留言系统
 wordpress_id: 1009
 categories:
+- notes
 - 学点技术
 ---
 

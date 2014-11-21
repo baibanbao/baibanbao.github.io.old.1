@@ -8,6 +8,7 @@ slug: '%e8%b8%8f%e4%b8%8a%e5%9b%9e%e4%b9%a1%e7%9a%84%e6%97%85%e7%a8%8b'
 title: 踏上回乡的旅程
 wordpress_id: 6424
 categories:
+- notes
 - 不好归类
 ---
 

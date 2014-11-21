@@ -7,6 +7,7 @@ slug: backup-of-my-weibo
 title: 草草絮语之微博备份
 wordpress_id: 5452
 categories:
+- notes
 - 写作练习
 ---
 

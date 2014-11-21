@@ -7,6 +7,7 @@ slug: i-quit
 title: 【NB时刻】辞职
 wordpress_id: 557
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 不好归类

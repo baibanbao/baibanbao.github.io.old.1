@@ -7,6 +7,7 @@ slug: the-flame-of-kindle
 title: Kindle之火焰
 wordpress_id: 2184
 categories:
+- notes
 - 学点技术
 tags:
 - kindle

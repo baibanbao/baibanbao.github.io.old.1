@@ -7,6 +7,7 @@ slug: '%e5%bc%a0%e9%94%90%e6%88%98%e9%98%9fvs%e6%96%b0%e6%b5%aa%e4%b9%b1%e7%82%9
 title: 张锐战队vs新浪乱炖
 wordpress_id: 838
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

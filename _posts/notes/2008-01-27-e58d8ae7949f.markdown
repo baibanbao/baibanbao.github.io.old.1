@@ -7,6 +7,7 @@ slug: '%e5%8d%8a%e7%94%9f'
 title: 半生
 wordpress_id: 1344
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

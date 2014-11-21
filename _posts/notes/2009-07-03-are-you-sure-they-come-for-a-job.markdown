@@ -7,6 +7,7 @@ slug: are-you-sure-they-come-for-a-job
 title: 你确信他们是来找工作的吗？
 wordpress_id: 2180
 categories:
+- notes
 - 不好归类
 tags:
 - 大学生

@@ -7,6 +7,7 @@ slug: shanghai-hangzhou-express
 title: 体验沪杭高铁
 wordpress_id: 3532
 categories:
+- notes
 - 非虚构叙事
 ---
 

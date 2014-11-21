@@ -7,6 +7,7 @@ slug: the-dark-side-of-alibaba
 title: 阿里巴巴的背面
 wordpress_id: 2558
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 评论

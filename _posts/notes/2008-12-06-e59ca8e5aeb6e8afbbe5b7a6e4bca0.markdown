@@ -7,6 +7,7 @@ slug: '%e5%9c%a8%e5%ae%b6%e8%af%bb%e5%b7%a6%e4%bc%a0'
 title: 在家读左传
 wordpress_id: 1804
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

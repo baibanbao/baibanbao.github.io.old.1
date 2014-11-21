@@ -7,6 +7,7 @@ slug: biblegateway-com-a-searchable-online-bible-in-over-100-versions-and-50-lan
 title: 'BibleGateway.com: A searchable online Bible in over 100 versions and 50 languages.'
 wordpress_id: 6572
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

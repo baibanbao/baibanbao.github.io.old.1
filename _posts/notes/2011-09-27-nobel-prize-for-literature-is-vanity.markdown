@@ -7,6 +7,7 @@ slug: nobel-prize-for-literature-is-vanity
 title: 从排行榜看诺贝尔文学奖的虚妄
 wordpress_id: 4820
 categories:
+- notes
 - 非虚构叙事
 ---
 

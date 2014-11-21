@@ -7,6 +7,7 @@ slug: '%e6%88%91%e7%9a%84google%e4%b8%aa%e6%80%a7%e5%8c%96%e4%b8%bb%e9%a1%b5'
 title: 我的Google个性化主页
 wordpress_id: 719
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

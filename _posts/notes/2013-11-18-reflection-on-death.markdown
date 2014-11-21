@@ -7,6 +7,7 @@ slug: reflection-on-death
 title: 一个中年人对死亡的思考
 wordpress_id: 6180
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 健康

@@ -7,6 +7,7 @@ slug: what-to-do-when-i-can-not-express-myselft
 title: 致某同学：心里有话写不出，怎么办？
 wordpress_id: 4191
 categories:
+- notes
 - 写作练习
 ---
 

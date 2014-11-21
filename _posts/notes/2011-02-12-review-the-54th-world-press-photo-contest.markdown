@@ -7,6 +7,7 @@ slug: review-the-54th-world-press-photo-contest
 title: 外行眼里的第54届世界新闻摄影奖
 wordpress_id: 3955
 categories:
+- notes
 - 爱看电影
 tags:
 - 摄影

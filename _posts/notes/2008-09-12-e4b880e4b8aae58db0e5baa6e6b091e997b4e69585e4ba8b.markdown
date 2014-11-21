@@ -7,6 +7,7 @@ slug: '%e4%b8%80%e4%b8%aa%e5%8d%b0%e5%ba%a6%e6%b0%91%e9%97%b4%e6%95%85%e4%ba%8b'
 title: 一个印度民间故事
 wordpress_id: 1699
 categories:
+- notes
 - 写作练习
 tags:
 - 故事

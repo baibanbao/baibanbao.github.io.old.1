@@ -7,6 +7,7 @@ slug: '%e6%b3%95%e5%9b%bd%e3%80%8a%e4%b8%96%e7%95%8c%e5%a4%96%e4%ba%a4%e8%ae%ba%
 title: 法国《世界外交论衡》
 wordpress_id: 820
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

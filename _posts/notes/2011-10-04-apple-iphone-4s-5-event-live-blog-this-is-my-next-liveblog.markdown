@@ -7,6 +7,7 @@ slug: apple-iphone-4s-5-event-live-blog-this-is-my-next-liveblog
 title: Apple iPhone 4S / 5 event live blog | This is my next liveblog
 wordpress_id: 6515
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

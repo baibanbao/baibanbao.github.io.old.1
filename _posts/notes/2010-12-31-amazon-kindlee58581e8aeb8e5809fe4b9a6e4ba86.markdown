@@ -7,6 +7,7 @@ slug: amazon-kindle%e5%85%81%e8%ae%b8%e5%80%9f%e4%b9%a6%e4%ba%86
 title: Amazon Kindle允许借书了
 wordpress_id: 3809
 categories:
+- notes
 - 不好归类
 tags:
 - amazon

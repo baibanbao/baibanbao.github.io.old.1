@@ -7,6 +7,7 @@ slug: '%e5%86%99%e8%ae%ba%e6%96%87%e6%83%b3%e8%b5%b7%e8%80%81%e5%8e%bf%e9%95%bf'
 title: 写论文想起老县长
 wordpress_id: 1049
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

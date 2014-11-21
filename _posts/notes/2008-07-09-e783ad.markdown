@@ -7,6 +7,7 @@ slug: '%e7%83%ad'
 title: 热
 wordpress_id: 1631
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

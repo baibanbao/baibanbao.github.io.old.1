@@ -7,6 +7,7 @@ slug: night-will-never-end
 title: 夜未央
 wordpress_id: 2040
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

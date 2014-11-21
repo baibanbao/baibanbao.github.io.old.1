@@ -7,6 +7,7 @@ slug: 12%e6%9c%883%e6%97%a5%e4%b9%b0%e4%b9%a6
 title: 12月3日买书单
 wordpress_id: 1802
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

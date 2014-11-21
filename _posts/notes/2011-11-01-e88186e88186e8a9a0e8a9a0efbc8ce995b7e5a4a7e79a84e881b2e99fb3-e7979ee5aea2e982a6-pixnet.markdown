@@ -7,6 +7,7 @@ slug: '%e8%81%86%e8%81%86%e8%a9%a0%e8%a9%a0%ef%bc%8c%e9%95%b7%e5%a4%a7%e7%9a%84%
 title: '聆聆詠詠，長大的聲音 :: 痞客邦 PIXNET ::'
 wordpress_id: 6441
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

@@ -7,6 +7,7 @@ slug: how-to-weave-a-good-story
 title: 怎样编一个好故事
 wordpress_id: 5998
 categories:
+- notes
 - 编剧学习
 tags:
 - 编剧

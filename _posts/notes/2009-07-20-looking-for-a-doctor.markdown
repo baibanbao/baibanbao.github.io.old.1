@@ -7,6 +7,7 @@ slug: looking-for-a-doctor
 title: 寻找一位浙大09年毕业的男博士
 wordpress_id: 2210
 categories:
+- notes
 - 爱看电影
 tags:
 - 摄影

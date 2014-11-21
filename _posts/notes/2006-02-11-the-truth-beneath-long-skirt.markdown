@@ -7,6 +7,7 @@ slug: the-truth-beneath-long-skirt
 title: 长裙下的真相
 wordpress_id: 511
 categories:
+- notes
 - 写作练习
 - 非虚构叙事
 tags:

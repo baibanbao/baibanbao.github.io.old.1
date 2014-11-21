@@ -7,6 +7,7 @@ slug: sharks
 title: 鲨鱼兄弟开饭了
 wordpress_id: 2949
 categories:
+- notes
 - 不好归类
 tags:
 - 封杀

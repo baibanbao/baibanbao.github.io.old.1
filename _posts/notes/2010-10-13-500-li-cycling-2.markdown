@@ -7,6 +7,7 @@ slug: 500-li-cycling-2
 title: 五百里骑车回家记（2）
 wordpress_id: 3525
 categories:
+- notes
 - 生活不是条件反射
 ---
 

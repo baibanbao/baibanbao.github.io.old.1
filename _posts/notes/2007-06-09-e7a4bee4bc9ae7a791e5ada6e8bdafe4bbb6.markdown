@@ -7,6 +7,7 @@ slug: '%e7%a4%be%e4%bc%9a%e7%a7%91%e5%ad%a6%e8%bd%af%e4%bb%b6'
 title: 社会科学软件
 wordpress_id: 1045
 categories:
+- notes
 - 学点技术
 ---
 

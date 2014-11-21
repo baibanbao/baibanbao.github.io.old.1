@@ -7,6 +7,7 @@ slug: '%e8%bf%9b%e4%b8%80%e6%ad%a5%e8%a3%85%e4%bf%aetumblr'
 title: 进一步装修Tumblr
 wordpress_id: 6610
 categories:
+- notes
 - 不好归类
 tags:
 - tumblr

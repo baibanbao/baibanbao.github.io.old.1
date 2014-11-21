@@ -7,6 +7,7 @@ slug: how-to-subscribe-and-unsubscribe-nytimes-on-kindle
 title: 如何在Kindle上订阅/取消订阅《纽约时报》
 wordpress_id: 5383
 categories:
+- notes
 - 各种工具
 tags:
 - 技术

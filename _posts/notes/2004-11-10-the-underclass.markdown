@@ -7,6 +7,7 @@ slug: the-underclass
 title: 穷人阶级
 wordpress_id: 1146
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: meet-fenghua-again
 title: 又见风华
 wordpress_id: 3944
 categories:
+- notes
 - 生活不是条件反射
 ---
 

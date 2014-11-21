@@ -7,6 +7,7 @@ slug: on-battery
 title: 电池与安全感
 wordpress_id: 2641
 categories:
+- notes
 - 不好归类
 tags:
 - 感悟

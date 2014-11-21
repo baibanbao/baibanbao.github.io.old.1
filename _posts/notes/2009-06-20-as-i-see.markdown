@@ -7,6 +7,7 @@ slug: as-i-see
 title: 寻常所见
 wordpress_id: 2158
 categories:
+- notes
 - 爱看电影
 tags:
 - 走走拍拍

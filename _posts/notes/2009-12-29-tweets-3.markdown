@@ -7,6 +7,7 @@ slug: tweets-3
 title: 草草絮语20091229
 wordpress_id: 2967
 categories:
+- notes
 - 不好归类
 ---
 

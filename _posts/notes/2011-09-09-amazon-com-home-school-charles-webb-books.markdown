@@ -7,6 +7,7 @@ slug: amazon-com-home-school-charles-webb-books
 title: 'Amazon.com: Home School : Charles Webb: Books'
 wordpress_id: 6611
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

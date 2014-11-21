@@ -7,6 +7,7 @@ slug: '%e5%9c%a8%e8%bf%99%e4%b8%aa%e6%b7%b7%e4%b9%b1%e6%ae%8b%e9%85%b7%e7%9a%84%
 title: 在这个混乱残酷的四月
 wordpress_id: 1505
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: about-power-balance
 title: 学背后一枪，也说说“制衡”
 wordpress_id: 946
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

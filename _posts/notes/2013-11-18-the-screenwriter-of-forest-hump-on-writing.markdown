@@ -7,6 +7,7 @@ slug: the-screenwriter-of-forest-hump-on-writing
 title: 【编剧大师班】《阿甘正传》编剧经验谈
 wordpress_id: 6174
 categories:
+- notes
 - 编剧学习
 tags:
 - 编剧

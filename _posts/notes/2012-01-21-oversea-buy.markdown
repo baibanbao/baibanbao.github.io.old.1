@@ -7,6 +7,7 @@ slug: oversea-buy
 title: 海淘记
 wordpress_id: 5218
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 亚马逊

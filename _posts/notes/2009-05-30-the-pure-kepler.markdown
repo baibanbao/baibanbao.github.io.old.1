@@ -7,6 +7,7 @@ slug: the-pure-kepler
 title: 纯粹的开普勒
 wordpress_id: 2116
 categories:
+- notes
 - 学点技术
 tags:
 - 科学

@@ -7,6 +7,7 @@ slug: jailbreakme
 title: Jailbreakme负责一切越狱
 wordpress_id: 3398
 categories:
+- notes
 - 不好归类
 ---
 

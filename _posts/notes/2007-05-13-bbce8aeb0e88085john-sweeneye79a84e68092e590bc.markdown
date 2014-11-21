@@ -7,6 +7,7 @@ slug: bbc%e8%ae%b0%e8%80%85john-sweeney%e7%9a%84%e6%80%92%e5%90%bc
 title: BBC记者的怒吼
 wordpress_id: 962
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

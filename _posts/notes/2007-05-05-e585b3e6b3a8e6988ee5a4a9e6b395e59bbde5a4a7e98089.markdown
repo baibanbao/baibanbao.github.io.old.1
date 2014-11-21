@@ -7,6 +7,7 @@ slug: '%e5%85%b3%e6%b3%a8%e6%98%8e%e5%a4%a9%e6%b3%95%e5%9b%bd%e5%a4%a7%e9%80%89'
 title: 关注明天法国大选
 wordpress_id: 931
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: china-is-not-only-more-expensive-than-america
 title: 中国不仅仅比美国贵
 wordpress_id: 3764
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 民生

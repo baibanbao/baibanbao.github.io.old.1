@@ -7,6 +7,7 @@ slug: '%e7%94%a8%e5%9b%9ethings'
 title: 用回Things
 wordpress_id: 6530
 categories:
+- notes
 - 不好归类
 ---
 

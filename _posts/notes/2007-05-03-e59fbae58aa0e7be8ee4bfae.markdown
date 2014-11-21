@@ -7,6 +7,7 @@ slug: '%e5%9f%ba%e5%8a%a0%e7%be%8e%e4%bf%ae'
 title: 基加美修
 wordpress_id: 927
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

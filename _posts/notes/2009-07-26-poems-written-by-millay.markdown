@@ -7,6 +7,7 @@ slug: poems-written-by-millay
 title: 米蕾诗二首
 wordpress_id: 2221
 categories:
+- notes
 - 不好归类
 tags:
 - 诗

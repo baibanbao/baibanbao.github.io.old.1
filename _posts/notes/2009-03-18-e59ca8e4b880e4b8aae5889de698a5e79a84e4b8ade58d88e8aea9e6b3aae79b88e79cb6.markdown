@@ -7,6 +7,7 @@ slug: '%e5%9c%a8%e4%b8%80%e4%b8%aa%e5%88%9d%e6%98%a5%e7%9a%84%e4%b8%ad%e5%8d%88%
 title: 在一个初春的中午让泪盈眶
 wordpress_id: 1981
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

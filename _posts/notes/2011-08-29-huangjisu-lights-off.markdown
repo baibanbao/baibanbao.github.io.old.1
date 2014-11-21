@@ -7,6 +7,7 @@ slug: huangjisu-lights-off
 title: 转：黄纪苏《灯都灭了》
 wordpress_id: 4728
 categories:
+- notes
 - 非虚构叙事
 ---
 

@@ -7,6 +7,7 @@ slug: the-ielts-method
 title: 办一切事都要用雅思的思路
 wordpress_id: 408
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 英语

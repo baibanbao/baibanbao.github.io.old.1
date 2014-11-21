@@ -7,6 +7,7 @@ slug: textexpander%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0%ef%bc%881%ef%bc%89%e5%bd%
 title: TextExpander学习笔记（1）当TE遇到HTML和Markdown
 wordpress_id: 6559
 categories:
+- notes
 - 不好归类
 ---
 

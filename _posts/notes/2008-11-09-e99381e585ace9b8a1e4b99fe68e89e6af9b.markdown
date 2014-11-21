@@ -7,6 +7,7 @@ slug: '%e9%93%81%e5%85%ac%e9%b8%a1%e4%b9%9f%e6%8e%89%e6%af%9b'
 title: 铁公鸡也掉毛
 wordpress_id: 1748
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

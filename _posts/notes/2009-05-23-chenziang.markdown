@@ -7,6 +7,7 @@ slug: chenziang
 title: 摆脱异化的陈子昂
 wordpress_id: 2104
 categories:
+- notes
 - 读书笔记
 - 非虚构叙事
 tags:

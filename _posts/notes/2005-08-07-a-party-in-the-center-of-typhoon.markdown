@@ -7,6 +7,7 @@ slug: a-party-in-the-center-of-typhoon
 title: 8.5台风夜FB2.0聚会
 wordpress_id: 558
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

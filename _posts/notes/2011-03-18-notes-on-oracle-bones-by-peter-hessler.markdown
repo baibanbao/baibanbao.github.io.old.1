@@ -7,6 +7,7 @@ slug: notes-on-oracle-bones-by-peter-hessler
 title: 何伟“中国三部曲”之《甲骨文》读书笔记
 wordpress_id: 4145
 categories:
+- notes
 - 读书笔记
 tags:
 - 中国

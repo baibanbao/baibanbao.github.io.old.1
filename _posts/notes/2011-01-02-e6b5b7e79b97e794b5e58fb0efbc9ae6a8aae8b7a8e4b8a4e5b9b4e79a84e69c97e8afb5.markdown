@@ -7,6 +7,7 @@ slug: '%e6%b5%b7%e7%9b%97%e7%94%b5%e5%8f%b0%ef%bc%9a%e6%a8%aa%e8%b7%a8%e4%b8%a4%
 title: 海盗电台：横跨两年的朗诵
 wordpress_id: 3827
 categories:
+- notes
 - 海盗电台
 tags:
 - 朗诵

@@ -7,6 +7,7 @@ slug: film-review-on-the-39-steps
 title: 我看希区柯克之《三十九级台阶》
 wordpress_id: 6264
 categories:
+- notes
 - 爱看电影
 tags:
 - 买碟

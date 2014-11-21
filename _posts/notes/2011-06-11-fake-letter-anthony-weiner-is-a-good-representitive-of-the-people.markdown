@@ -7,6 +7,7 @@ slug: fake-letter-anthony-weiner-is-a-good-representitive-of-the-people
 title: 群众来信：艳照议员安东尼－维纳是人民的好代表
 wordpress_id: 4325
 categories:
+- notes
 - 写作练习
 ---
 

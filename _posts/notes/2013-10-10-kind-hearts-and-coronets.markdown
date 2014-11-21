@@ -7,6 +7,7 @@ slug: kind-hearts-and-coronets
 title: 看了电影《仁心与冠冕》
 wordpress_id: 6144
 categories:
+- notes
 - 爱看电影
 tags:
 - 喜剧

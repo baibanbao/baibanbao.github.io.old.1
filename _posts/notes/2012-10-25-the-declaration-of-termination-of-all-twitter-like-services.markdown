@@ -7,6 +7,7 @@ slug: the-declaration-of-termination-of-all-twitter-like-services
 title: 戒微博通知
 wordpress_id: 5624
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 戒微博

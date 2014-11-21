@@ -7,6 +7,7 @@ slug: death-on-v-day
 title: 情人节之殇
 wordpress_id: 5317
 categories:
+- notes
 - 非虚构叙事
 ---
 

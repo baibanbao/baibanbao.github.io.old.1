@@ -7,6 +7,7 @@ slug: '%e5%8f%9b%e5%be%92'
 title: 叛徒
 wordpress_id: 1266
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

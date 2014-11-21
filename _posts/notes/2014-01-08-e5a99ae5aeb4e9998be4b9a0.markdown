@@ -8,6 +8,7 @@ slug: '%e5%a9%9a%e5%ae%b4%e9%99%8b%e4%b9%a0'
 title: 婚宴陋习
 wordpress_id: 6389
 categories:
+- notes
 - 不好归类
 ---
 

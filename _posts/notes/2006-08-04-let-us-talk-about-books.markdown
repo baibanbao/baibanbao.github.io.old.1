@@ -7,6 +7,7 @@ slug: let-us-talk-about-books
 title: 今晚咱们骂骂书
 wordpress_id: 478
 categories:
+- notes
 - 读书笔记
 tags:
 - 不好归类

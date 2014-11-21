@@ -7,6 +7,7 @@ slug: '%e6%9c%a8%e6%a8%a8%e6%96%8b%e8%af%97%e8%af%8d%e9%89%b4%e8%b5%8f'
 title: '木樨斋诗词鉴赏 '
 wordpress_id: 584
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

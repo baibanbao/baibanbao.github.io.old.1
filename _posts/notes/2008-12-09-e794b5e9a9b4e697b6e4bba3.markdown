@@ -7,6 +7,7 @@ slug: '%e7%94%b5%e9%a9%b4%e6%97%b6%e4%bb%a3'
 title: 电驴时代的贝多芬
 wordpress_id: 1809
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -8,6 +8,7 @@ slug: '%e5%a0%82%e4%bc%9a%e8%83%8c%e5%90%8e%e7%9a%84%e6%82%b2%e5%89%a7'
 title: 堂会背后的悲剧
 wordpress_id: 6394
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

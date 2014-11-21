@@ -7,6 +7,7 @@ slug: hand-made-history-who-is-the-most-tedious-in-shanghai
 title: 手工历史：谁是上海最累的人
 wordpress_id: 2181
 categories:
+- notes
 - 写作练习
 - 非虚构叙事
 tags:

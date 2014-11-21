@@ -7,6 +7,7 @@ slug: cello-and-guitar
 title: 一个音乐世家的诞生
 wordpress_id: 3744
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 练习

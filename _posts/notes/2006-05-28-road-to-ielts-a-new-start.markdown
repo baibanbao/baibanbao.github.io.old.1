@@ -7,6 +7,7 @@ slug: road-to-ielts-a-new-start
 title: 烤鸭之路－－开学
 wordpress_id: 401
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 呸英语教程

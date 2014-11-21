@@ -7,6 +7,7 @@ slug: '%e6%8e%a8%e8%8d%90%e4%b8%80%e4%b8%aa%e8%b6%85%e5%a5%bd%e7%8e%a9%e7%9a%84%
 title: 推荐一个超好玩的小游戏－－Line Rider
 wordpress_id: 661
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

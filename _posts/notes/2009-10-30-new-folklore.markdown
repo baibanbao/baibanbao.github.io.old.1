@@ -7,6 +7,7 @@ slug: new-folklore
 title: 新民歌：车震四韵
 wordpress_id: 2697
 categories:
+- notes
 - 写作练习
 tags:
 - 民歌

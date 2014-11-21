@@ -7,6 +7,7 @@ slug: hello-world
 title: Hello world!
 wordpress_id: 1
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

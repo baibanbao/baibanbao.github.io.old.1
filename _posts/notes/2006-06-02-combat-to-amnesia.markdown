@@ -7,6 +7,7 @@ slug: combat-to-amnesia
 title: 与健忘症作战
 wordpress_id: 419
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 生活

@@ -7,6 +7,7 @@ slug: our-village
 title: 我们的村庄（49-58）阴亲
 wordpress_id: 3164
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 丁家村

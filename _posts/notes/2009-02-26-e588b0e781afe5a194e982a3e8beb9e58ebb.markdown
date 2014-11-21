@@ -7,6 +7,7 @@ slug: '%e5%88%b0%e7%81%af%e5%a1%94%e9%82%a3%e8%be%b9%e5%8e%bb'
 title: 到灯塔那边去
 wordpress_id: 1941
 categories:
+- notes
 - 写作练习
 tags:
 - 生活不是条件反射

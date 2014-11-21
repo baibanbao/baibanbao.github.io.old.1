@@ -7,6 +7,7 @@ slug: '%e6%88%91%e7%bf%bb%e8%af%91%e7%9a%84%e4%b8%80%e9%a6%96%e6%ad%8c%e8%af%8d-
 title: '我翻译的一首歌词 约翰·列农《想象》 '
 wordpress_id: 697
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

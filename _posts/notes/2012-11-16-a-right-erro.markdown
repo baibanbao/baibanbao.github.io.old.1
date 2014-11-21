@@ -7,6 +7,7 @@ slug: a-right-erro
 title: 正确的错误
 wordpress_id: 5688
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 开车

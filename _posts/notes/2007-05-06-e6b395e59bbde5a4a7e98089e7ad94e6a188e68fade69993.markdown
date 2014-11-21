@@ -7,6 +7,7 @@ slug: '%e6%b3%95%e5%9b%bd%e5%a4%a7%e9%80%89%e7%ad%94%e6%a1%88%e6%8f%ad%e6%99%93'
 title: 法国大选落幕
 wordpress_id: 936
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

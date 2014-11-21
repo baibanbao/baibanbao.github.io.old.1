@@ -7,6 +7,7 @@ slug: '%ef%bc%bb%e9%bb%91%e9%80%9a%e7%a4%be%e6%9d%a5%e4%bf%a1%ef%bc%bd%e5%85%b3%
 title: ［黑通社来信］关于伦敦创建文明城市的建议
 wordpress_id: 6564
 categories:
+- notes
 - 不好归类
 tags:
 - london

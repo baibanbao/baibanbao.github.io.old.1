@@ -7,6 +7,7 @@ slug: metaphor
 title: 隐喻
 wordpress_id: 3596
 categories:
+- notes
 - 语文运动
 tags:
 - 语文运动

@@ -7,6 +7,7 @@ slug: '%e7%99%bd%e6%9d%bf%e6%8a%a5wap%e7%89%88%e5%bc%80%e9%80%9a'
 title: 白板报WAP版开通
 wordpress_id: 1780
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

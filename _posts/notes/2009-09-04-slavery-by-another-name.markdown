@@ -7,6 +7,7 @@ slug: slavery-by-another-name
 title: 第一乐章：理所应当的回忆
 wordpress_id: 2543
 categories:
+- notes
 - 不好归类
 tags:
 - 历史

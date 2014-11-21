@@ -7,6 +7,7 @@ slug: new-language
 title: 新语言
 wordpress_id: 1282
 categories:
+- notes
 - 学点技术
 tags:
 - 呸英语教程

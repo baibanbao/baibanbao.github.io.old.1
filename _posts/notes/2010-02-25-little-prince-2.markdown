@@ -7,6 +7,7 @@ slug: little-prince-2
 title: 欣燃播讲《小王子》（1-16集）
 wordpress_id: 3172
 categories:
+- notes
 - 海盗电台
 tags:
 - 小王子

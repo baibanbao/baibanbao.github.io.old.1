@@ -7,6 +7,7 @@ slug: lishangyins-poems
 title: 凌晨4：30的李商隐
 wordpress_id: 2088
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

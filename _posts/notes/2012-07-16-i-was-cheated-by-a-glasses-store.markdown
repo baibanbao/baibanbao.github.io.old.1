@@ -7,6 +7,7 @@ slug: i-was-cheated-by-a-glasses-store
 title: 配眼镜被忽悠记
 wordpress_id: 5522
 categories:
+- notes
 - 生活不是条件反射
 ---
 

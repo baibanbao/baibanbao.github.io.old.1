@@ -7,6 +7,7 @@ slug: a-cat-named-banban
 title: 来信：一只叫斑斑的淘气猫
 wordpress_id: 3437
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: '%e5%a4%a7%e8%b7%83%e9%80%80'
 title: 大跃退
 wordpress_id: 1202
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

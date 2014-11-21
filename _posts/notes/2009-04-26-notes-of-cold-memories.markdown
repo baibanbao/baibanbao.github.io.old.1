@@ -7,6 +7,7 @@ slug: notes-of-cold-memories
 title: 读摘《冷记忆1》（上）
 wordpress_id: 2047
 categories:
+- notes
 - 不好归类
 - 读书笔记
 tags:

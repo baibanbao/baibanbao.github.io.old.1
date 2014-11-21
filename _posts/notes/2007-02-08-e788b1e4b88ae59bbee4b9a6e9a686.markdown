@@ -7,6 +7,7 @@ slug: '%e7%88%b1%e4%b8%8a%e5%9b%be%e4%b9%a6%e9%a6%86'
 title: 爱上图书馆
 wordpress_id: 799
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

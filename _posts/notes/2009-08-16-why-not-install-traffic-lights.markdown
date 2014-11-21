@@ -7,6 +7,7 @@ slug: why-not-install-traffic-lights
 title: 为什么不装个红绿灯
 wordpress_id: 2263
 categories:
+- notes
 - 不好归类
 tags:
 - iphone

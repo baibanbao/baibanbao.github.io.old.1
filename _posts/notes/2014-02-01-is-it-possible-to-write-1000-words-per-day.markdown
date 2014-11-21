@@ -7,6 +7,7 @@ slug: is-it-possible-to-write-1000-words-per-day
 title: 每天写一篇千字文靠谱吗？
 wordpress_id: 6256
 categories:
+- notes
 - 写作练习
 tags:
 - 写作

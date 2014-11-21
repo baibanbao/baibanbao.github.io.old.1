@@ -7,6 +7,7 @@ slug: a-reunion-party
 title: 一次聚会
 wordpress_id: 5699
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 同学

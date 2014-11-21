@@ -7,6 +7,7 @@ slug: '%e7%a6%81%e6%ad%a2%e6%89%bf%e8%ae%a4-%e7%a6%81%e6%ad%a2%e5%90%a6%e8%ae%a4
 title: 禁止承认 禁止否认
 wordpress_id: 633
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

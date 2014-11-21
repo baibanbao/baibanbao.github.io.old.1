@@ -7,6 +7,7 @@ slug: resist-the-desire-of-comsuming
 title: 对抗消费欲
 wordpress_id: 6014
 categories:
+- notes
 - 文艺批评
 - 生活不是条件反射
 tags:

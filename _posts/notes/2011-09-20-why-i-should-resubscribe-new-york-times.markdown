@@ -7,6 +7,7 @@ slug: why-i-should-resubscribe-new-york-times
 title: '我为什么要重新订阅《纽约时报》？ '
 wordpress_id: 4808
 categories:
+- notes
 - 读书笔记
 ---
 

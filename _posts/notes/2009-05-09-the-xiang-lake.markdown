@@ -7,6 +7,7 @@ slug: the-xiang-lake
 title: 湘湖水深
 wordpress_id: 2082
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

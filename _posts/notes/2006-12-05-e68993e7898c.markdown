@@ -7,6 +7,7 @@ slug: '%e6%89%93%e7%89%8c'
 title: 打牌
 wordpress_id: 706
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

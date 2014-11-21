@@ -7,6 +7,7 @@ slug: '%e8%bf%99%e8%b4%a6%e7%ae%97%e5%be%97%e7%9c%9f%e6%98%8e%e7%99%bd'
 title: 这账算得真明白
 wordpress_id: 2678
 categories:
+- notes
 - 不好归类
 tags:
 - 婚姻

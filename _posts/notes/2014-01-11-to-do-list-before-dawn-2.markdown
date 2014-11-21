@@ -8,6 +8,7 @@ slug: to-do-list-before-dawn-2
 title: To do list before dawn
 wordpress_id: 6423
 categories:
+- notes
 - 不好归类
 ---
 

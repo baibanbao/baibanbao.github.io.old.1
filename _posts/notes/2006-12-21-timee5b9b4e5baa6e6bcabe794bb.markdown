@@ -7,6 +7,7 @@ slug: time%e5%b9%b4%e5%ba%a6%e6%bc%ab%e7%94%bb
 title: TIME年度漫画
 wordpress_id: 736
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

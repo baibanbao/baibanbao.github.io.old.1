@@ -7,6 +7,7 @@ slug: refuse-to-change
 title: 山乡拒变
 wordpress_id: 2123
 categories:
+- notes
 - 不好归类
 tags:
 - 走走拍拍

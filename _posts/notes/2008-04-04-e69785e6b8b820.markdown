@@ -7,6 +7,7 @@ slug: '%e6%97%85%e6%b8%b820'
 title: 旅游2.0
 wordpress_id: 1444
 categories:
+- notes
 - 学点技术
 tags:
 - 旅行

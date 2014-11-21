@@ -7,6 +7,7 @@ slug: '%e4%bb%8e%e5%b9%bf%e5%91%8a%e8%90%a5%e9%94%80%e5%ad%a6%e7%9c%8b%e2%80%9c%
 title: 从广告营销学看“办丧事跳脱衣舞”
 wordpress_id: 572
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

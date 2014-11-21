@@ -7,6 +7,7 @@ slug: how-to-slip-away-from-work
 title: 偷奸耍滑
 wordpress_id: 553
 categories:
+- notes
 - 读书笔记
 tags:
 - 不好归类

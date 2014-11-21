@@ -7,6 +7,7 @@ slug: where-art-thou-huang-jin-gang
 title: 黄金刚，你在哪里？
 wordpress_id: 4926
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 工人

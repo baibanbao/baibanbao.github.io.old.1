@@ -7,6 +7,7 @@ slug: '%e8%bf%99%e5%b9%b4%e5%a4%b4%e5%8d%96%e5%95%a5%e7%9a%84%e9%83%bd%e6%9c%89'
 title: 这年头卖啥的都有
 wordpress_id: 851
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

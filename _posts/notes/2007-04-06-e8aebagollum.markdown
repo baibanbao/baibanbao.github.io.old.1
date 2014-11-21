@@ -7,6 +7,7 @@ slug: '%e8%ae%bagollum'
 title: 论Gollum
 wordpress_id: 860
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

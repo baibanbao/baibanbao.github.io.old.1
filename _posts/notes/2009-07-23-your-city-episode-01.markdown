@@ -7,6 +7,7 @@ slug: your-city-episode-01
 title: 你们的城市（1-16）
 wordpress_id: 2217
 categories:
+- notes
 - 非虚构叙事
 - 鱼眼碎片
 tags:

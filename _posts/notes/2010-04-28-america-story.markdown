@@ -7,6 +7,7 @@ slug: america-story
 title: 史诗纪录片：美国-我们的故事
 wordpress_id: 3254
 categories:
+- notes
 - 不好归类
 ---
 

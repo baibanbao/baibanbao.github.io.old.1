@@ -7,6 +7,7 @@ slug: '%e4%bd%a0%e8%a7%81%e8%bf%87tumbr%e5%ae%95%e6%9c%ba%e5%90%97%ef%bc%9f'
 title: 你见过Tumbr宕机吗？
 wordpress_id: 6531
 categories:
+- notes
 - 不好归类
 ---
 

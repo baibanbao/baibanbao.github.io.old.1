@@ -7,6 +7,7 @@ slug: '%e5%a6%82%e4%bd%95%e5%9c%a8godaddy%e6%9b%b4%e6%8d%a2%e4%b8%80%e4%b8%aaip%
 title: 如何在Godaddy更换一个IP地址？
 wordpress_id: 1053
 categories:
+- notes
 - 学点技术
 ---
 

@@ -7,6 +7,7 @@ slug: iphone-keyboard
 title: 我的新春发明：iPhone实体键盘
 wordpress_id: 3170
 categories:
+- notes
 - 各种工具
 tags:
 - iphone

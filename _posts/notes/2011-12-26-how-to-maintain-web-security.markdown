@@ -7,6 +7,7 @@ slug: how-to-maintain-web-security
 title: 怎样上网才安全？
 wordpress_id: 5130
 categories:
+- notes
 - 学点技术
 tags:
 - 安全

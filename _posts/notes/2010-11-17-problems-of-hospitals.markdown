@@ -7,6 +7,7 @@ slug: problems-of-hospitals
 title: 我看医院U盘门
 wordpress_id: 3557
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 医疗

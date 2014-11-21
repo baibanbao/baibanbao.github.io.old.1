@@ -7,6 +7,7 @@ slug: micro-history-the-chemical-stimulating-peach-flowers-are-blooming
 title: 一周微史记（2011年5月23日）：一朵朵打了膨大剂的胖桃花
 wordpress_id: 4297
 categories:
+- notes
 - 非虚构叙事
 ---
 

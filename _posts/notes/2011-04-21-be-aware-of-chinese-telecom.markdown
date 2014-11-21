@@ -7,6 +7,7 @@ slug: be-aware-of-chinese-telecom
 title: 警惕电信陷阱
 wordpress_id: 4224
 categories:
+- notes
 - 生活不是条件反射
 ---
 

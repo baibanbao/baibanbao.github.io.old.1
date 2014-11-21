@@ -7,6 +7,7 @@ slug: 4-8-15-16-23-42
 title: 4 8 15 16 23 42
 wordpress_id: 405
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

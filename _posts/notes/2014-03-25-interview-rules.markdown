@@ -7,6 +7,7 @@ slug: interview-rules
 title: 罗宾·戴爵士的访谈守则
 wordpress_id: 6295
 categories:
+- notes
 - 不好归类
 ---
 

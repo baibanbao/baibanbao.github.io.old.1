@@ -7,6 +7,7 @@ slug: neruda-poem
 title: 海盗电台、123诗社聂鲁达《诗歌》
 wordpress_id: 2992
 categories:
+- notes
 - 不好归类
 tags:
 - 朗诵

@@ -7,6 +7,7 @@ slug: learn-writing-from-ancient-chinese-articles
 title: 读古文 学作文
 wordpress_id: 4732
 categories:
+- notes
 - 写作练习
 tags:
 - 写作

@@ -7,6 +7,7 @@ slug: finding-friends
 title: 找朋友
 wordpress_id: 540
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

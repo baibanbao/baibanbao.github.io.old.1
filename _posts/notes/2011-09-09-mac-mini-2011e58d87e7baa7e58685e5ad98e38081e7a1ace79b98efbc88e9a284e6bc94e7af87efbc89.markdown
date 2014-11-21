@@ -7,6 +7,7 @@ slug: mac-mini-2011%e5%8d%87%e7%ba%a7%e5%86%85%e5%ad%98%e3%80%81%e7%a1%ac%e7%9b%
 title: Mac Mini 2011升级内存、硬盘（预演篇）
 wordpress_id: 6622
 categories:
+- notes
 - 不好归类
 tags:
 - Mac mini

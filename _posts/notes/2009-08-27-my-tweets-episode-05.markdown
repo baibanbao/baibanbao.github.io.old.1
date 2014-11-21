@@ -7,6 +7,7 @@ slug: my-tweets-episode-05
 title: 俱草草09第5辑
 wordpress_id: 2535
 categories:
+- notes
 - 鱼眼碎片
 tags:
 - twitter

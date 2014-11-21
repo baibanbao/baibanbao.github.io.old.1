@@ -7,6 +7,7 @@ slug: '%e5%87%a0%e4%bb%b6%e5%a5%bd%e4%ba%8b'
 title: 几件好事
 wordpress_id: 876
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: '%e3%80%8a%e6%ad%bb%e6%b5%b7%e5%8f%a4%e5%8d%b7%e3%80%8b%e5%80%9f%e5%8a%a9%
 title: 《死海古卷》借助互联网重见天日
 wordpress_id: 6493
 categories:
+- notes
 - 不好归类
 tags:
 - The Digital Dead Sea Scrolls

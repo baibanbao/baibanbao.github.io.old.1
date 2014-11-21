@@ -7,6 +7,7 @@ slug: farewell-landlords
 title: 永别了，房东
 wordpress_id: 3886
 categories:
+- notes
 - 生活不是条件反射
 - 非虚构叙事
 tags:

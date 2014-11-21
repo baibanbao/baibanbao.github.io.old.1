@@ -7,6 +7,7 @@ slug: nanjing-nanjing
 title: 南京南京
 wordpress_id: 2051
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

@@ -7,6 +7,7 @@ slug: '%e8%99%9a%e7%a9%ba%ef%bc%88%e4%bb%bf%e6%b3%b0%e6%88%88%e5%b0%94%e3%80%81%
 title: 虚空（仿泰戈尔、纪伯伦风）
 wordpress_id: 1924
 categories:
+- notes
 - 写作练习
 tags:
 - 写字练习

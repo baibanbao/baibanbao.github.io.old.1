@@ -7,6 +7,7 @@ slug: little-prince-5-6
 title: 海盗电台：欣燃播讲《小王子》5-6
 wordpress_id: 3112
 categories:
+- notes
 - 不好归类
 tags:
 - 小王子

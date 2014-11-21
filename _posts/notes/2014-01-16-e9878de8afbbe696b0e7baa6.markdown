@@ -8,6 +8,7 @@ slug: '%e9%87%8d%e8%af%bb%e6%96%b0%e7%ba%a6'
 title: 重读新约
 wordpress_id: 6432
 categories:
+- notes
 - 不好归类
 ---
 

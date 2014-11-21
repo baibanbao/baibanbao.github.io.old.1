@@ -7,6 +7,7 @@ slug: '%e8%87%b4%e5%91%bd%e7%9a%84%e6%95%b0%e6%8d%ae'
 title: 致命的数据
 wordpress_id: 638
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

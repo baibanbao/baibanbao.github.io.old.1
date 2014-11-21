@@ -7,6 +7,7 @@ slug: nanluogu-street
 title: 南锣鼓巷
 wordpress_id: 2194
 categories:
+- notes
 - 爱看电影
 tags:
 - 北京

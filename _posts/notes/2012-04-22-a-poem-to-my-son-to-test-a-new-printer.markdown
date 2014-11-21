@@ -7,6 +7,7 @@ slug: a-poem-to-my-son-to-test-a-new-printer
 title: 为测试新买的打印机而写给儿子的诗
 wordpress_id: 5428
 categories:
+- notes
 - 写作练习
 ---
 

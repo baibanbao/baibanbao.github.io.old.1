@@ -7,6 +7,7 @@ slug: '%e6%89%98%e5%b0%94%e9%87%91%e6%96%b0%e4%bd%9c%ef%bc%9a%e2%80%9c%e9%ad%94%
 title: 托尔金新作：“魔戒前传”《胡林的子女》全球出版
 wordpress_id: 906
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

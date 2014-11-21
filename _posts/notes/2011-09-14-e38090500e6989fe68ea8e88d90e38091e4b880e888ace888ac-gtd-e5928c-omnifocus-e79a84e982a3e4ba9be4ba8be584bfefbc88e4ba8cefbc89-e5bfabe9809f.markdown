@@ -7,6 +7,7 @@ slug: '%e3%80%90500%e6%98%9f%e6%8e%a8%e8%8d%90%e3%80%91%e4%b8%80%e8%88%ac%e8%88%
 title: '【500星推荐】一般般: GTD 和 Omnifocus 的那些事儿（二）---快速上手'
 wordpress_id: 6552
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

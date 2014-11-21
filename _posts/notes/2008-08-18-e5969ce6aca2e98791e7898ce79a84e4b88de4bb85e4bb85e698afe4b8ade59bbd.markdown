@@ -7,6 +7,7 @@ slug: '%e5%96%9c%e6%ac%a2%e9%87%91%e7%89%8c%e7%9a%84%e4%b8%8d%e4%bb%85%e4%bb%85%
 title: 喜欢金牌的不仅仅是中国
 wordpress_id: 1675
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

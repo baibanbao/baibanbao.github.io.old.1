@@ -7,6 +7,7 @@ slug: selling-red-date-v1-0
 title: 卖枣记v1.0
 wordpress_id: 4915
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 农业

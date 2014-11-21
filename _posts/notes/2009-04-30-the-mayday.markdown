@@ -7,6 +7,7 @@ slug: the-mayday
 title: 五一快乐
 wordpress_id: 2055
 categories:
+- notes
 - 读书笔记
 tags:
 - 15/4.5

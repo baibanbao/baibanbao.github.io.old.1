@@ -7,6 +7,7 @@ slug: topix-your-town-your-news-your-take
 title: 'Topix: Your town. Your news. Your take.'
 wordpress_id: 6582
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

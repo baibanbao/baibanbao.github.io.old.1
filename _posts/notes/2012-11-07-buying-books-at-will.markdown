@@ -7,6 +7,7 @@ slug: buying-books-at-will
 title: 果然不是善类
 wordpress_id: 5651
 categories:
+- notes
 - 文艺批评
 - 读书笔记
 tags:

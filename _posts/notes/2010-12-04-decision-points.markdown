@@ -7,6 +7,7 @@ slug: decision-points
 title: 布什回忆录引爆《决策点》
 wordpress_id: 3688
 categories:
+- notes
 - 读书笔记
 tags:
 - 布什

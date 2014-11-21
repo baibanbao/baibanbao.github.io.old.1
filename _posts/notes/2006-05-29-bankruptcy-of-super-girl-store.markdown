@@ -7,6 +7,7 @@ slug: bankruptcy-of-super-girl-store
 title: 超女歇业
 wordpress_id: 404
 categories:
+- notes
 - 爱看电影
 tags:
 - 不好归类

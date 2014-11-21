@@ -7,6 +7,7 @@ slug: my-first-taobao-shop
 title: 开店
 wordpress_id: 4841
 categories:
+- notes
 - 生活不是条件反射
 ---
 

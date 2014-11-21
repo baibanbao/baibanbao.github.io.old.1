@@ -7,6 +7,7 @@ slug: '%e4%b8%ba%e6%9c%89%e7%89%ba%e7%89%b2%e5%a4%9a%e5%a3%ae%e5%bf%97'
 title: 为有牺牲多壮志
 wordpress_id: 676
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

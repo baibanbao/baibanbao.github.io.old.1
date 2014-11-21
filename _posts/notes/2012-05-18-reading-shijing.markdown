@@ -7,6 +7,7 @@ slug: reading-shijing
 title: 读一点诗经
 wordpress_id: 5460
 categories:
+- notes
 - 读书笔记
 ---
 

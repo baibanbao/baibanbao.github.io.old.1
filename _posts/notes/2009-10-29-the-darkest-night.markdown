@@ -7,6 +7,7 @@ slug: the-darkest-night
 title: 最黑的夜
 wordpress_id: 2690
 categories:
+- notes
 - 不好归类
 tags:
 - 友谊

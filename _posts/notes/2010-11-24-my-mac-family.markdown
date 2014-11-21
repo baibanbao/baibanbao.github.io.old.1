@@ -7,6 +7,7 @@ slug: my-mac-family
 title: 我的山寨Mac家族
 wordpress_id: 3587
 categories:
+- notes
 - 学点技术
 tags:
 - mac

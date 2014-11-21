@@ -7,6 +7,7 @@ slug: '%e6%9d%a5%e8%8b%b1%e5%9b%bd%e5%85%ad%e4%b8%aa%e6%9c%88%e6%95%b4'
 title: 来英国六个月整
 wordpress_id: 845
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

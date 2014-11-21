@@ -7,6 +7,7 @@ slug: '%e4%bb%8a%e6%99%9a22%ef%bc%9a40%e7%9c%8bcctv-1%e3%80%8a%e6%a3%ae%e6%9e%97
 title: 今晚22：40看CCTV-1《森林之歌》
 wordpress_id: 1260
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

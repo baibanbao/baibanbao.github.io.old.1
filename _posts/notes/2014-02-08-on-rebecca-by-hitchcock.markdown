@@ -7,6 +7,7 @@ slug: on-rebecca-by-hitchcock
 title: 我看希区柯克之《蝴蝶梦》
 wordpress_id: 6273
 categories:
+- notes
 - 每日千字文
 - 爱看电影
 - 编剧学习

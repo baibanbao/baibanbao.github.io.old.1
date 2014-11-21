@@ -7,6 +7,7 @@ slug: '%e5%90%9b%e5%ad%90%e4%b9%8b%e4%ba%a4%e6%98%93'
 title: 君子之交易
 wordpress_id: 6536
 categories:
+- notes
 - 不好归类
 ---
 

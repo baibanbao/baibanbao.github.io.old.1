@@ -7,6 +7,7 @@ slug: the-birth-of-a-piece-of-news
 title: 一条新闻的诞生
 wordpress_id: 2232
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 新闻

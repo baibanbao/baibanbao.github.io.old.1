@@ -7,6 +7,7 @@ slug: semi-weekly-003
 title: 新闻半周报003期
 wordpress_id: 2589
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 双日报

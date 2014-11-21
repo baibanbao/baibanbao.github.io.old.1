@@ -7,6 +7,7 @@ slug: '%e5%86%8d%e4%bb%8b%e7%bb%8d%e5%87%a0%e4%b8%aa%e6%9c%89%e8%b6%a3%e7%9a%84%
 title: 再介绍几个有趣的停格动画
 wordpress_id: 1886
 categories:
+- notes
 - 学点技术
 tags:
 - youtube

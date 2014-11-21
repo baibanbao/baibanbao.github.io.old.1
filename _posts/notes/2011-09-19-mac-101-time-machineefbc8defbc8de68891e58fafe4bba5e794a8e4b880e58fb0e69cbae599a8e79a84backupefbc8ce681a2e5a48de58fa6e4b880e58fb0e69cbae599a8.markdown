@@ -7,6 +7,7 @@ slug: mac-101-time-machine%ef%bc%8d%ef%bc%8d%e6%88%91%e5%8f%af%e4%bb%a5%e7%94%a8
 title: 'Mac 101: Time Machine－－我可以用一台机器的backup，恢复另一台机器吗？'
 wordpress_id: 6575
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

@@ -7,6 +7,7 @@ slug: dipping-into-analects-of-confucius
 title: 读《论语》入迷
 wordpress_id: 524
 categories:
+- notes
 - 读书笔记
 tags:
 - 不好归类

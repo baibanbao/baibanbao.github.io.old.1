@@ -7,6 +7,7 @@ slug: '%e4%b8%8a%e5%b8%9d%e7%ad%89%e5%be%85%e6%88%91%e4%bb%ac%e5%9c%a8%e6%99%ba%
 title: 上帝等待我们在智慧中重获童年
 wordpress_id: 1012
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

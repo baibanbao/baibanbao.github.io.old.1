@@ -7,6 +7,7 @@ slug: tweets-5
 title: 草草絮语20100222
 wordpress_id: 3167
 categories:
+- notes
 - 鱼眼碎片
 tags:
 - 草草絮语

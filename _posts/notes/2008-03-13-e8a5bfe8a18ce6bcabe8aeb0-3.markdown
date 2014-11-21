@@ -7,6 +7,7 @@ slug: '%e8%a5%bf%e8%a1%8c%e6%bc%ab%e8%ae%b0-3'
 title: 西行漫记-3
 wordpress_id: 1401
 categories:
+- notes
 - 写作练习
 tags:
 - 都江堰

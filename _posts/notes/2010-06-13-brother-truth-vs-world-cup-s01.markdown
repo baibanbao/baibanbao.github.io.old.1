@@ -7,6 +7,7 @@ slug: brother-truth-vs-world-cup-s01
 title: 真理哥大战世界杯第一季
 wordpress_id: 3303
 categories:
+- notes
 - 写作练习
 ---
 

@@ -7,6 +7,7 @@ slug: '%e2%80%9c%e6%b8%85%e9%a3%8e%e4%b8%8d%e8%af%86%e5%ad%97%e4%bd%95%e5%bf%85%
 title: “清风不识字何必乱翻书”之重庆现代版
 wordpress_id: 635
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: a-vague-policy-on-language
 title: 一道不规范的语言规范令
 wordpress_id: 3766
 categories:
+- notes
 - 语文运动
 tags:
 - 版署

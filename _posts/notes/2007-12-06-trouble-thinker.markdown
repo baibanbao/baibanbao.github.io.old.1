@@ -7,6 +7,7 @@ slug: trouble-thinker
 title: 遭小儿
 wordpress_id: 1264
 categories:
+- notes
 - 写作练习
 tags:
 - 语文不动

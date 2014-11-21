@@ -8,6 +8,7 @@ title: 'Letter from Berlin: Who Are the Pirates from Berlin? - SPIEGEL ONLINE - 
   - International'
 wordpress_id: 6580
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

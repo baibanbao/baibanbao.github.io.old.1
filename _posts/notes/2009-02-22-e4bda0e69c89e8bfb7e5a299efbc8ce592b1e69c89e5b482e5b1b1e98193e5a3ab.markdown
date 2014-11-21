@@ -7,6 +7,7 @@ slug: '%e4%bd%a0%e6%9c%89%e8%bf%b7%e5%a2%99%ef%bc%8c%e5%92%b1%e6%9c%89%e5%b4%82%
 title: 崂山道士 vs 墙
 wordpress_id: 1930
 categories:
+- notes
 - 学点技术
 tags:
 - GFW

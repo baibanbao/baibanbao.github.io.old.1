@@ -7,6 +7,7 @@ slug: snow-in-westlake
 title: 风雪中的一条船
 wordpress_id: 2965
 categories:
+- notes
 - 不好归类
 tags:
 - 摄影

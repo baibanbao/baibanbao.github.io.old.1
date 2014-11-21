@@ -7,6 +7,7 @@ slug: why-i-still-put-my-faith-on-bitcoin
 title: 我为什么依然相信Bitcoin？
 wordpress_id: 4362
 categories:
+- notes
 - 学点技术
 tags:
 - bitcoin

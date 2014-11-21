@@ -7,6 +7,7 @@ slug: '%e9%a3%8e%e5%8d%8e%e7%9a%84%e5%a5%bd%e8%af%97'
 title: 风华的好诗
 wordpress_id: 691
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

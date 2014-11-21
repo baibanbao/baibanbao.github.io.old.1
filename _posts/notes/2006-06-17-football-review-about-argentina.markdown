@@ -7,6 +7,7 @@ slug: football-review-about-argentina
 title: 本届世界杯写得最用心的球评
 wordpress_id: 435
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

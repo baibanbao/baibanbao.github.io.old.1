@@ -7,6 +7,7 @@ slug: good-night-party
 title: 良宵会
 wordpress_id: 3228
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: install-scim-pinyin-input-in-ubuntu
 title: Install scim pinyin input in ubuntu
 wordpress_id: 1773
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

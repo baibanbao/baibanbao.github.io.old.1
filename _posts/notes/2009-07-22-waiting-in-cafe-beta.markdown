@@ -7,6 +7,7 @@ slug: waiting-in-cafe-beta
 title: 在贝塔咖啡等
 wordpress_id: 2213
 categories:
+- notes
 - 爱看电影
 tags:
 - 摄影

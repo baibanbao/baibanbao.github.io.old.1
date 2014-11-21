@@ -7,6 +7,7 @@ slug: amazon-reveals-79-kindle-engadget
 title: Amazon reveals $79 Kindle -- Engadget
 wordpress_id: 6495
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

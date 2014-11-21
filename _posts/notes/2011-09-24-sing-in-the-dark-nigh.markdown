@@ -7,6 +7,7 @@ slug: sing-in-the-dark-nigh
 title: 黑夜里歌唱
 wordpress_id: 4811
 categories:
+- notes
 - 非虚构叙事
 ---
 

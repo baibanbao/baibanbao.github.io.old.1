@@ -7,6 +7,7 @@ slug: write-for-what-write-for-whom-and-how
 title: 真想跟汉语非虚构写作说再见
 wordpress_id: 4954
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 写作

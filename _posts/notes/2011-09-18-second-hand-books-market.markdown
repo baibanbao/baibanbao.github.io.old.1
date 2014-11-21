@@ -7,6 +7,7 @@ slug: second-hand-books-market
 title: 假日书市
 wordpress_id: 4794
 categories:
+- notes
 - 生活不是条件反射
 - 读书笔记
 tags:

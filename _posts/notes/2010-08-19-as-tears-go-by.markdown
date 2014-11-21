@@ -7,6 +7,7 @@ slug: as-tears-go-by
 title: 海盗电台《留在时间岸上的歌3：As Tears Go By》昨日重现版
 wordpress_id: 2870
 categories:
+- notes
 - 海盗电台
 ---
 

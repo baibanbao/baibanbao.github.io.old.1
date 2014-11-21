@@ -7,6 +7,7 @@ slug: '%e8%8d%89%e6%9c%a8%e6%97%a0%e5%90%8d'
 title: 草木无名
 wordpress_id: 787
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

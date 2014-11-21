@@ -7,6 +7,7 @@ slug: '%e5%bc%80%e5%ba%97'
 title: '开店 '
 wordpress_id: 6524
 categories:
+- notes
 - 不好归类
 tags:
 - taobao

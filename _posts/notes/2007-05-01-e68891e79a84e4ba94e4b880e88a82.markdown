@@ -7,6 +7,7 @@ slug: '%e6%88%91%e7%9a%84%e4%ba%94%e4%b8%80%e8%8a%82'
 title: 我的五一节
 wordpress_id: 924
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: recommending-fenghua-blog-entry-memoir-on-the-air
 title: 推荐：风华的新博文《坐飞机》
 wordpress_id: 4735
 categories:
+- notes
 - 非虚构叙事
 ---
 

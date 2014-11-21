@@ -7,6 +7,7 @@ slug: sing-the-death-of-fantine
 title: 两个人的音乐剧
 wordpress_id: 4263
 categories:
+- notes
 - 海盗电台
 ---
 

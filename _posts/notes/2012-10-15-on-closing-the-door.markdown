@@ -7,6 +7,7 @@ slug: on-closing-the-door
 title: 再说闭关
 wordpress_id: 5589
 categories:
+- notes
 - 生活不是条件反射
 ---
 

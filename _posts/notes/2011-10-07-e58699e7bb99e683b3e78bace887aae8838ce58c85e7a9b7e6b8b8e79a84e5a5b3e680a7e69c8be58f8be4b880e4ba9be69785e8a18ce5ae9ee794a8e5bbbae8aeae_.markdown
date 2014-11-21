@@ -7,6 +7,7 @@ slug: '%e5%86%99%e7%bb%99%e6%83%b3%e7%8b%ac%e8%87%aa%e8%83%8c%e5%8c%85%e7%a9%b7%
 title: 写给想独自背包穷游的女性朋友一些旅行实用建议_栙魂_新浪博客
 wordpress_id: 6516
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

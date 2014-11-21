@@ -7,6 +7,7 @@ slug: '%e5%b0%8f%e8%99%9a%e6%83%8a%e5%bc%95%e5%8f%91%e7%9a%84%e6%80%9d%e8%80%83'
 title: 小虚惊引发的思考
 wordpress_id: 822
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

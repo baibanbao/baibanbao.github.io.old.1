@@ -7,6 +7,7 @@ slug: shooting-and-writing
 title: 杂拍与杂写
 wordpress_id: 2169
 categories:
+- notes
 - 爱看电影
 tags:
 - 白板报报道

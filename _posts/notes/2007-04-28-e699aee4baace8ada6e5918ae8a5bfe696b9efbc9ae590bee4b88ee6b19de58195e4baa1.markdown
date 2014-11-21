@@ -7,6 +7,7 @@ slug: '%e6%99%ae%e4%ba%ac%e8%ad%a6%e5%91%8a%e8%a5%bf%e6%96%b9%ef%bc%9a%e5%90%be%
 title: 普京警告西方：吾与汝偕亡
 wordpress_id: 916
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

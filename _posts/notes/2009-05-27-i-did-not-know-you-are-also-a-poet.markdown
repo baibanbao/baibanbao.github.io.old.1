@@ -7,6 +7,7 @@ slug: i-did-not-know-you-are-also-a-poet
 title: 原来你也是诗人
 wordpress_id: 2108
 categories:
+- notes
 - 写作练习
 tags:
 - 诗

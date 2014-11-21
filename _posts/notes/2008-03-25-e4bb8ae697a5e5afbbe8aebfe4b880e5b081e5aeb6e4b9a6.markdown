@@ -7,6 +7,7 @@ slug: '%e4%bb%8a%e6%97%a5%e5%af%bb%e8%ae%bf%e4%b8%80%e5%b0%81%e5%ae%b6%e4%b9%a6'
 title: 今日寻访一封家书
 wordpress_id: 1420
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

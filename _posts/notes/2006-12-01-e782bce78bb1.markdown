@@ -7,6 +7,7 @@ slug: '%e7%82%bc%e7%8b%b1'
 title: 神曲
 wordpress_id: 700
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

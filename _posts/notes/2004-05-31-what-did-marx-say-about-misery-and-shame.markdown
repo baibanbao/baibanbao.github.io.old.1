@@ -7,6 +7,7 @@ slug: what-did-marx-say-about-misery-and-shame
 title: 让苦难更加苦难
 wordpress_id: 534
 categories:
+- notes
 - 读书笔记
 tags:
 - 不好归类

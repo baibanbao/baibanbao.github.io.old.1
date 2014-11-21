@@ -7,6 +7,7 @@ slug: '6625'
 title: No Content Found
 wordpress_id: 6625
 categories:
+- notes
 - 不好归类
 post_format:
 - Image

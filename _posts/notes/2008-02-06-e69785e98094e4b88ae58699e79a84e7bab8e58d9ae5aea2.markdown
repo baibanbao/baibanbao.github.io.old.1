@@ -7,6 +7,7 @@ slug: '%e6%97%85%e9%80%94%e4%b8%8a%e5%86%99%e7%9a%84%e7%ba%b8%e5%8d%9a%e5%ae%a2'
 title: 旅途上写的纸博客
 wordpress_id: 1358
 categories:
+- notes
 - 写作练习
 tags:
 - 语文不动

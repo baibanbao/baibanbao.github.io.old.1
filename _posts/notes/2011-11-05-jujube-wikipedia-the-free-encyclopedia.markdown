@@ -7,6 +7,7 @@ slug: jujube-wikipedia-the-free-encyclopedia
 title: Jujube - Wikipedia, the free encyclopedia
 wordpress_id: 6449
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

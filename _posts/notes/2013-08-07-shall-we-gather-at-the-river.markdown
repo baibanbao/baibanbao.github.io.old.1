@@ -7,6 +7,7 @@ slug: shall-we-gather-at-the-river
 title: Shall we gather at the river?
 wordpress_id: 6123
 categories:
+- notes
 - 海盗电台
 tags:
 - 圣歌

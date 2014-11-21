@@ -7,6 +7,7 @@ slug: reading-blogs
 title: 读博记0807
 wordpress_id: 480
 categories:
+- notes
 - 读书笔记
 tags:
 - 读书笔记

@@ -7,6 +7,7 @@ slug: the-adaption-of-to-live
 title: 我为什么更喜欢电影版《活着》
 wordpress_id: 5887
 categories:
+- notes
 - 文艺批评
 tags:
 - 孟京辉

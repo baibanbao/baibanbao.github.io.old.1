@@ -7,6 +7,7 @@ slug: '%e6%88%91%e8%a6%81%e5%bd%93%e4%b8%80%e5%9b%9e%e9%92%9f%e9%a6%97'
 title: 愤怒的钟馗
 wordpress_id: 643
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

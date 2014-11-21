@@ -7,6 +7,7 @@ slug: do-you-really-need-a-kindle
 title: 泼向准备买kindle者的七盆冷水
 wordpress_id: 2196
 categories:
+- notes
 - 学点技术
 tags:
 - kindle

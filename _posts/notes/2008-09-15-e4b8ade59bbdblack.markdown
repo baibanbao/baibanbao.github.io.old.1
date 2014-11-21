@@ -7,6 +7,7 @@ slug: '%e4%b8%ad%e5%9b%bdblack'
 title: 中国Black
 wordpress_id: 1700
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

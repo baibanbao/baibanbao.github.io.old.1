@@ -7,6 +7,7 @@ slug: on-demolishment
 title: 与拆迁有关
 wordpress_id: 3481
 categories:
+- notes
 - 非虚构叙事
 ---
 

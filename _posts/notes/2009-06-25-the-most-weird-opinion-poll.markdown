@@ -7,6 +7,7 @@ slug: the-most-weird-opinion-poll
 title: 史上最诡异调查及其后续
 wordpress_id: 2168
 categories:
+- notes
 - 不好归类
 tags:
 - 媒体

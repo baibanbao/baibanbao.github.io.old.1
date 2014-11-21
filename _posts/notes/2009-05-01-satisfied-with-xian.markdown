@@ -7,6 +7,7 @@ slug: satisfied-with-xian
 title: 西行记：西安初印象--满分
 wordpress_id: 2070
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

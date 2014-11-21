@@ -7,6 +7,7 @@ slug: poems
 title: 杂咏
 wordpress_id: 2858
 categories:
+- notes
 - 不好归类
 tags:
 - 诗歌

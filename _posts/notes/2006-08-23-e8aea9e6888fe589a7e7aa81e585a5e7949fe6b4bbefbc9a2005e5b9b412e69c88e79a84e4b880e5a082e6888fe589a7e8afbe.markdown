@@ -7,6 +7,7 @@ slug: '%e8%ae%a9%e6%88%8f%e5%89%a7%e7%aa%81%e5%85%a5%e7%94%9f%e6%b4%bb%ef%bc%9a2
 title: 让戏剧突入生活：2005年的一堂戏剧课
 wordpress_id: 519
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

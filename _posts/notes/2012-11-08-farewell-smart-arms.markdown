@@ -7,6 +7,7 @@ slug: farewell-smart-arms
 title: 我为什么弃用智能手机
 wordpress_id: 5656
 categories:
+- notes
 - 学点技术
 - 生活不是条件反射
 tags:

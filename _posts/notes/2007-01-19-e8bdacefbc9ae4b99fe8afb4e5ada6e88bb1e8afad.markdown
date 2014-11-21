@@ -7,6 +7,7 @@ slug: '%e8%bd%ac%ef%bc%9a%e4%b9%9f%e8%af%b4%e5%ad%a6%e8%8b%b1%e8%af%ad'
 title: 转：也说学英语
 wordpress_id: 772
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

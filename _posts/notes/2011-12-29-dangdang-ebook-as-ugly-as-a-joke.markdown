@@ -7,6 +7,7 @@ slug: dangdang-ebook-as-ugly-as-a-joke
 title: 当当电子书：丑得像个笑话
 wordpress_id: 5140
 categories:
+- notes
 - 读书笔记
 tags:
 - 数字化

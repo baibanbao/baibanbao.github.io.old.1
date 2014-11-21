@@ -7,6 +7,7 @@ slug: encounter-with-a-short-history-of-affair
 title: 邂逅一篇奇文：《外遇简史》
 wordpress_id: 5280
 categories:
+- notes
 - 读书笔记
 ---
 

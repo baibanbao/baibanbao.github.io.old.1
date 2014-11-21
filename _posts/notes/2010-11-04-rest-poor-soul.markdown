@@ -7,6 +7,7 @@ slug: rest-poor-soul
 title: 安息吧，可怜的灵魂
 wordpress_id: 3538
 categories:
+- notes
 - 非虚构叙事
 ---
 

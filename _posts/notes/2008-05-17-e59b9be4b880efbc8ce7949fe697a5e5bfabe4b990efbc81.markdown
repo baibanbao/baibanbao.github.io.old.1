@@ -7,6 +7,7 @@ slug: '%e5%9b%9b%e4%b8%80%ef%bc%8c%e7%94%9f%e6%97%a5%e5%bf%ab%e4%b9%90%ef%bc%81'
 title: 四一，生日快乐！
 wordpress_id: 1553
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

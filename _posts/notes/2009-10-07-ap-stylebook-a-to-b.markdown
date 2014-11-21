@@ -7,6 +7,7 @@ slug: ap-stylebook-a-to-b
 title: 《美联社写作风格书》阅读笔记（a-b）
 wordpress_id: 2626
 categories:
+- notes
 - 不好归类
 tags:
 - stylebook

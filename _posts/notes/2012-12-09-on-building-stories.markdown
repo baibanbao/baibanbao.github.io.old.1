@@ -8,6 +8,7 @@ slug: on-building-stories
 title: Building Stories--这也是小说？这才是小说！
 wordpress_id: 5765
 categories:
+- notes
 - 读书笔记
 - 非虚构叙事
 tags:

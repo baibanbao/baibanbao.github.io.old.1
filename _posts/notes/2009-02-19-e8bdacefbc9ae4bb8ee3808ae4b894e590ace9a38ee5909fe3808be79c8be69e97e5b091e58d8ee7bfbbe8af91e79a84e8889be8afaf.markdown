@@ -7,6 +7,7 @@ slug: '%e8%bd%ac%ef%bc%9a%e4%bb%8e%e3%80%8a%e4%b8%94%e5%90%ac%e9%a3%8e%e5%90%9f%
 title: 转：从《且听风吟》看林少华翻译的舛误
 wordpress_id: 1921
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

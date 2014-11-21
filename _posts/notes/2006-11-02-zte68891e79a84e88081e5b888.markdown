@@ -7,6 +7,7 @@ slug: zt%e6%88%91%e7%9a%84%e8%80%81%e5%b8%88
 title: zt我的老师
 wordpress_id: 653
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

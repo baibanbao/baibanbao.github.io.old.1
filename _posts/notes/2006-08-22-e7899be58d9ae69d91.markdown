@@ -7,6 +7,7 @@ slug: '%e7%89%9b%e5%8d%9a%e6%9d%91'
 title: 牛博村
 wordpress_id: 507
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

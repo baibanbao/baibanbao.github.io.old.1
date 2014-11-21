@@ -7,6 +7,7 @@ slug: cheer-for-hecaitou
 title: 为和菜头干杯
 wordpress_id: 2062
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 和菜头

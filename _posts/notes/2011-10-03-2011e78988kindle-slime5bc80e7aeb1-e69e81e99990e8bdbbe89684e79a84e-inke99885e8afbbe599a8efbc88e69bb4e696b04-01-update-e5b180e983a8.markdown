@@ -8,6 +8,7 @@ title: 2011版Kindle slim开箱——极限轻薄的E-ink阅读器（更新4.01 
   - Geek社区，真实的分享 - Powered by Discuz!
 wordpress_id: 6512
 categories:
+- notes
 - 不好归类
 post_format:
 - Link

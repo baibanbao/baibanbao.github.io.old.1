@@ -7,6 +7,7 @@ slug: '%e4%b8%ad%e5%9b%bd%e5%9c%a8%e5%88%b6%e9%80%a0'
 title: 中国在制造
 wordpress_id: 2675
 categories:
+- notes
 - 写作练习
 tags:
 - 诗

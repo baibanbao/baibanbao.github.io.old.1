@@ -7,6 +7,7 @@ slug: chinese-literature-awards-joke-of-jokes-clown-of-clowns
 title: 丑角中的丑角，笑话中的笑话－－关于中国文学的大吐槽
 wordpress_id: 4254
 categories:
+- notes
 - 写作练习
 ---
 

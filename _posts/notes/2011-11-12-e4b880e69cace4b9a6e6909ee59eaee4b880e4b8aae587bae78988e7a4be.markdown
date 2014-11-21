@@ -7,6 +7,7 @@ slug: '%e4%b8%80%e6%9c%ac%e4%b9%a6%e6%90%9e%e5%9e%ae%e4%b8%80%e4%b8%aa%e5%87%ba%
 title: 一本书搞垮一个出版社
 wordpress_id: 6459
 categories:
+- notes
 - 不好归类
 ---
 

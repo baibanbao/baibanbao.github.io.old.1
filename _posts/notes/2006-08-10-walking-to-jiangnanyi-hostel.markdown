@@ -7,6 +7,7 @@ slug: walking-to-jiangnanyi-hostel
 title: 江南驿暴走记
 wordpress_id: 483
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

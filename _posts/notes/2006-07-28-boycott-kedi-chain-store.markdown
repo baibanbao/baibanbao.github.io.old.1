@@ -7,6 +7,7 @@ slug: boycott-kedi-chain-store
 title: 今后坚决抵制“可的超市”
 wordpress_id: 471
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 不好归类

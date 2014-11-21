@@ -8,6 +8,7 @@ slug: '%e6%9d%82%e8%ae%b0-2'
 title: 杂记
 wordpress_id: 6407
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: '%e6%8d%ae%e8%af%b4%e8%bf%99%e6%98%af%e5%9b%bd%e5%86%85%e7%94%b5%e8%a7%86%
 title: 据说这是国内电视台们最热播的广告
 wordpress_id: 861
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

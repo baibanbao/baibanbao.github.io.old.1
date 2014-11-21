@@ -7,6 +7,7 @@ slug: bonus-tragedy
 title: 年终奖悲喜剧
 wordpress_id: 3162
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 悲剧

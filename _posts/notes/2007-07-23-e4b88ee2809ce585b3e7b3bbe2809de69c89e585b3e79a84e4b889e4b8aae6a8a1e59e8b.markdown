@@ -7,6 +7,7 @@ slug: '%e4%b8%8e%e2%80%9c%e5%85%b3%e7%b3%bb%e2%80%9d%e6%9c%89%e5%85%b3%e7%9a%84%
 title: 与“关系”有关的三个模型
 wordpress_id: 1111
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

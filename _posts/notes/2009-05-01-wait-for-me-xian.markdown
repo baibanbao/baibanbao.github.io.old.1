@@ -7,6 +7,7 @@ slug: wait-for-me-xian
 title: 等着我 羊肉泡
 wordpress_id: 2068
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

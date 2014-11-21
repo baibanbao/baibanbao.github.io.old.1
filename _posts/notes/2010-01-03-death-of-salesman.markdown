@@ -7,6 +7,7 @@ slug: death-of-salesman
 title: 《阿凡达》之夜看《推销员之死》
 wordpress_id: 2988
 categories:
+- notes
 - 爱看电影
 tags:
 - 戏剧

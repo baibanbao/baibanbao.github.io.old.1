@@ -7,6 +7,7 @@ slug: '%e5%bc%97%e9%87%8c%e5%be%b7%e6%9b%bc%e5%8e%bb%e4%ba%86'
 title: 弗里德曼去了
 wordpress_id: 682
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

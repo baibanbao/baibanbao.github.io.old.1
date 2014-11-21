@@ -7,6 +7,7 @@ slug: idol-hecaitou
 title: 和偶那个菜头
 wordpress_id: 409
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 朋友

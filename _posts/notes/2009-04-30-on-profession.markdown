@@ -7,6 +7,7 @@ slug: on-profession
 title: 专业解
 wordpress_id: 2060
 categories:
+- notes
 - 语文运动
 tags:
 - 词源

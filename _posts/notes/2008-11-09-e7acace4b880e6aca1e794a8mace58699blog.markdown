@@ -7,6 +7,7 @@ slug: '%e7%ac%ac%e4%b8%80%e6%ac%a1%e7%94%a8mac%e5%86%99blog'
 title: 第一次用mac写blog
 wordpress_id: 1753
 categories:
+- notes
 - 学点技术
 tags:
 - livid

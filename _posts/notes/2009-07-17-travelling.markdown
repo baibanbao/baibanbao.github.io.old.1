@@ -7,6 +7,7 @@ slug: travelling
 title: 逍遥游
 wordpress_id: 2201
 categories:
+- notes
 - 爱看电影
 tags:
 - 读书笔记

@@ -7,6 +7,7 @@ slug: the-70-kmh-case
 title: 很多活着的人渣应当死去
 wordpress_id: 2081
 categories:
+- notes
 - 不好归类
 - 爱看电影
 tags:

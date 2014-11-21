@@ -7,6 +7,7 @@ slug: pretending-to-understand-art-movies
 title: 看碟记（1）装孙子
 wordpress_id: 715
 categories:
+- notes
 - 文艺批评
 tags:
 - 不好归类

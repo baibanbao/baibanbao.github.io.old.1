@@ -7,6 +7,7 @@ slug: '%e8%bf%9e%e5%b2%b3%e5%8d%9a%e5%ae%a2%e6%90%ac%e5%ae%b6'
 title: 连岳博客搬家
 wordpress_id: 688
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: '%e7%bb%99%e5%9b%bd%e5%ae%b6%e6%80%bb%e7%bb%8f%e4%b8%8a%e4%b8%80%e8%af%be'
 title: 给国家总经上一课
 wordpress_id: 1244
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

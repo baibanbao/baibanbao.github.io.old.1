@@ -7,6 +7,7 @@ slug: u-turn-you-want-to
 title: 你们有种你们上
 wordpress_id: 2148
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 思想者

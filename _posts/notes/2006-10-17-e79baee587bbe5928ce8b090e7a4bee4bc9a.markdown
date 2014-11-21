@@ -7,6 +7,7 @@ slug: '%e7%9b%ae%e5%87%bb%e5%92%8c%e8%b0%90%e7%a4%be%e4%bc%9a'
 title: 目击和谐社会
 wordpress_id: 634
 categories:
+- notes
 - 不好归类
 tags:
 - 不好归类

@@ -7,6 +7,7 @@ slug: a-boy-is-born
 title: 一元复始，天地澄明
 wordpress_id: 5081
 categories:
+- notes
 - 非虚构叙事
 ---
 

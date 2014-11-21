@@ -7,6 +7,7 @@ slug: good-bye-google-cn
 title: 海盗电台小合唱：送别谷歌中国
 wordpress_id: 3037
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: '%e5%8f%ab%e4%ba%ba%e5%a4%b1%e6%9c%9b%e7%9a%84%e8%81%94%e9%80%9a'
 title: 叫人失望的联通
 wordpress_id: 6505
 categories:
+- notes
 - 不好归类
 ---
 

@@ -7,6 +7,7 @@ slug: interviewing-pisan-the-2012-bob-video-blog-winner
 title: 采访德国之声2012年最佳视频博客获得者皮三
 wordpress_id: 5436
 categories:
+- notes
 - 非虚构叙事
 tags:
 - 动漫

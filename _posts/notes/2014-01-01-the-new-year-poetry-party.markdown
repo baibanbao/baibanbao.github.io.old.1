@@ -7,6 +7,7 @@ slug: the-new-year-poetry-party
 title: 2014年元旦诗乐会
 wordpress_id: 6199
 categories:
+- notes
 - 海盗电台
 - 生活不是条件反射
 tags:

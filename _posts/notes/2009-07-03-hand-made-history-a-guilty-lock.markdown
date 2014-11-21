@@ -7,6 +7,7 @@ slug: hand-made-history-a-guilty-lock
 title: 手工历史：我是一把有罪的锁
 wordpress_id: 2182
 categories:
+- notes
 - 写作练习
 - 非虚构叙事
 tags:

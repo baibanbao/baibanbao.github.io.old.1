@@ -7,6 +7,7 @@ slug: '%e3%80%8a%e4%b8%8a%e8%bd%a6%ef%bc%8c%e8%b5%b0%e5%90%a7%e3%80%8b%e4%b8%80%
 title: 《上车，走吧》一部鲜为人知的好电影
 wordpress_id: 1439
 categories:
+- notes
 - 写作练习
 tags:
 - 国产片

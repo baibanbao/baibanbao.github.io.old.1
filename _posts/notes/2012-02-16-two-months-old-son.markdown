@@ -7,6 +7,7 @@ slug: two-months-old-son
 title: 双满月
 wordpress_id: 5293
 categories:
+- notes
 - 生活不是条件反射
 tags:
 - 育儿
